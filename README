@@ -1,0 +1,6 @@
+David van Erkelens	10264019
+Sharon Gieske		6167667
+Elise Koster		5982448
+
+Install NLTK module for python
+-sudo pip install -U nltk
