@@ -4,3 +4,7 @@ Elise Koster		5982448
 
 Install NLTK module for python
 -sudo pip install -U nltk
+
+Lyric databases:
+- http://lyrics.wikia.com/
+
