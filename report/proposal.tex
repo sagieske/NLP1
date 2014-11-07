@@ -30,9 +30,10 @@
 \maketitle
 
 \section{Introduction}
-we like music\\
-do u lik musick\\
-ivan pls
+
+Musical genre classification based on lyrics is a useful tool for the many digital music services available nowadays. If they have no genre information they can estimate it using this tool. \\
+Most musical genre classification research was based on audio signals, which is more computationally expensive, requires more storage and is less noise-sensitive. \\
+
 
 \section{Objectives}
 The goal of this project is modeling the topic distributions for multiple music genres using lyrics. 
@@ -46,7 +47,7 @@ Research questions:
 \end{itemize}
 
 \section{Approach}
-Collecting dataset, processing dataset (cleaning and normalizing) , implementing LDA, extracting topic models per genre, testing as feature using SVM, adding rhyme scheme library, testing as feature using SVM, evaluate and write report and awesome presentation
+To answer the research questions, the following steps will be used: first, a data set will be collected (possibly using a crawler, and online music websites) and processed (to clean it of noise and common words like `the'). Then, LDA (topic model) will be implemented and used to create a distribution of topics per music genre. These distributions will then be used as a feature in training a multi-class SVM. If there is time after these results are obtained, a rhyme scheme library will be added and the rhyme schemes will be used as a feature in training another multi-class SVM. These results will be compared to the topic model classification and evaluated in a report. Also, a presentation will be prepared to concisely summarize the project and its results.
 
 \section{Deliverables}
 A program that classifies a lyrics-document into a (sub-) genre, a report documenting the results of the project and outlining possible future areas of research and a presentation full of funny jokes and cool pictures (there are no cats on the pictures, only word clouds, filled with high-level concepts and dreams).
