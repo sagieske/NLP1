@@ -31,8 +31,10 @@
 
 \section{Introduction}
 This proposal describes the outline of a project researching the application of LDA and rhyme schemes to music (sub-) genre classification.\\
-Nowadays, many online music services exist, where users want music classified by genre. However, if such a service misses this information, they could easily retrieve an estimated genre using lyrics-based genre classification. 
-Most musical genre classification research was based on audio signals, which is more computationally expensive, requires more storage and is less noise-sensitive. \\
+Nowadays, many online music services exist, where users want music classified by genre. Manual genre classification is very time-consuming, especially with the large quantities of music available. However, if such a service misses this information, they could easily retrieve an estimated genre using lyrics-based classification. 
+Most earlier musical genre classification research is based on audio signals \cite{audio_classification}, which requires more storage and is more noise-sensitive. Earlier research classifying music using lyrics \cite{fell lyrics} looked at a multitude of features, but not topic models. LDA can be performed on song lyrics \cite{lukiccomparison}, however it has not yet been used for genre classification. \\
+Also, using the LDA approach users may search for songs with similar lyrical themes, whose genres would not be very close otherwise. This will be an added service for users that feel strongly about certain topics.\\ 
+Another interesting topic of research would be to model the correlation between different genres based on their lyrical content.\\
 
 
 \section{Objectives}
@@ -50,7 +52,7 @@ Research questions:
 To answer the research questions, the following steps will be used: first, a data set will be collected (possibly using a crawler, and online music websites) and processed (to clean it of noise and common words like `the'). Then, LDA (topic model) will be implemented and used to create a distribution of topics per music genre. These distributions will then be used as a feature in training a multi-class SVM. If there is time after these results are obtained, a rhyme scheme library will be added and the rhyme schemes will be used as a feature in training another multi-class SVM. These results will be compared to the topic model classification and evaluated in a report. Also, a presentation will be prepared to concisely summarize the project and its results.
 
 \section{Deliverables}
-The components delivered upon completing this project will be a program that classifies a lyrics-document into a (sub-) genre, a report documenting the results of the project, the answers to the research questions and outlining possible future areas of research and a presentation reporting the work of the project, possibly featuring a live demonstration of the program.
+The components delivered upon completing this project will be a program that classifies a lyrics-document into a (sub-) genre as well as a report documenting the results of the project, the answers to the research questions and outlining possible future areas of research. Finally, a  presentation reporting the work of the project, possibly featuring a live demonstration of the program, will be delivered.
 \section{Planning}
 
 \definecolor{dark-gray}{gray}{0.25}
