@@ -31,31 +31,32 @@
 
 \section{Introduction}
 This proposal describes the outline of a project researching the application of LDA and rhyme schemes to music (sub-) genre classification.\\
-Nowadays, many online music services exist, where users want music classified by genre. Manual genre classification is very time-consuming, especially with the large quantities of music available. However, if such a service misses this information, they could easily retrieve an estimated genre using lyrics-based classification. 
+Nowadays, many online services offer a wide range of music, that users may want to sort by genre. However, genre information is not always available, and manual genre classification is very time-consuming, especially with the large quantities of music available. Thus, a tool that can accurately classify music into a genre would be an economically efficient way to enhance the user experience.
 \\\\
-Most earlier musical genre classification research is based on audio signals \cite{audio_classification}, which requires more storage and is more noise-sensitive. Earlier research classifying music using lyrics \cite{fell lyrics} looked at a multitude of features, but not topic models. LDA can be performed on song lyrics \cite{lukiccomparison}, however it has not yet been used for genre classification. \\
-Also, using the LDA approach users may search for songs with similar lyrical themes, whose genres would not be very close otherwise. This will be an added service for users that feel strongly about certain topics.\\ 
-Another interesting topic of research would be to model the correlation between different genres based on their lyrical content.\\
+Most earlier musical genre classification research is based on audio signals \cite{audio_classification}, which requires a lot of storage compared to text documents and is more noise-sensitive. Earlier research classifying music using lyrics \cite{fell lyrics} looked at a multitude of features, and performed quite well, but did not use topic models nor classify (sub-) genres. LDA has been performed on song lyrics \cite{lukiccomparison}, but not in the context of genre classification.\\
+An interesting application of the LDA approach is finding songs with similar lyrical themes, whose genres would not be very close otherwise. This will be an added service for users that feel strongly about certain topics.\\ 
+Another interesting topic of research would be modeling the correlation between different genres based on their lyrical content (topic distribution).\\
 
 
 \section{Objectives}
-The goal of this project is modeling the topic distributions for multiple music genres using lyrics. \\\\
+The goal of this project is modeling topic distributions for multiple music genres using lyrics. \\\\
 Research questions:
 \begin{itemize}
-\item What are the most unique words and topics per musical genre?
+\item What are unique words and topics per musical genre?
 \item Are topic models a suitable feature for music genre classification using SVMs?
 \item Are topic models a suitable feature for subgenre classification using SVMs?
 \item Are rhyme schemes discriminative features of music genres?
 \item Which music genres correlate most and least?
+\item Can songs be correlated with regard to their lyrical similarity using topic models?
 \end{itemize}
 
 \section{Approach}
-To answer the research questions, the following steps will be used: first, a data set will be collected (possibly using a crawler, and online music websites) and processed (to clean it of noise and common words like `the'). Then, LDA (topic model) will be implemented and used to create a distribution of topics per music genre. These distributions will then be used as a feature in training a multi-class SVM. If there is time after these results are obtained, a rhyme scheme library will be added and the rhyme schemes will be used as a feature in training another multi-class SVM. These results will be compared to the topic model classification and evaluated in a report. Also, a presentation will be prepared to concisely summarize the project and its results.
+The project will progress as follows: first, a data set will be collected (possibly using a crawler, and online music websites) and processed (to remove noise and common words like `the'). Then, LDA (topic model) will be implemented and used to create a distribution of topics per music genre. These distributions will then be used as a feature in training a multi-class SVM. If there is time left after these results are obtained, a rhyme scheme library will be added and the rhyme schemes will be used as a feature in training another multi-class SVM. These results will be compared to the topic model classification, evaluated in a report and presented.
 
 \section{Deliverables}
-The components delivered upon completing this project will be a program that classifies a lyrics-document into a (sub-) genre as well as a report documenting the results of the project, the answers to the research questions and outlining possible future areas of research. Finally, a  presentation reporting the work of the project, possibly featuring a live demonstration of the program, will be delivered.
+The components delivered upon completion of the project will be \textbf{a)} a program that classifies a document with lyrics into a (sub-) genre, \textbf{b)} a report documenting the results of the project, the answers to the research questions and outlining possible future areas of research and \textbf{c)} a presentation reporting the work of the project, possibly featuring a live demonstration of the program.
 \section{Planning}
-
+The project takes places over the course of 7 weeks, scheduled according to the table below.
 \begin{center}
 \definecolor{dark-gray}{gray}{0.25}
 \begin{tabular}{ |c | c |}
