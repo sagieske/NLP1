@@ -9,8 +9,8 @@
 \usepackage{natbib}
 \usepackage{colortbl}
 \usepackage[usenames,dvipsnames]{xcolor}
-\title{Project Proposal Machine Morality}
-\author{Elise Koster}
+\title{Proposal NLP Mini-project}
+\author{David van Erkelens, Sharon Gieske, Elise Koster}
 
 \usepackage{fancyhdr}
 \usepackage{booktabs}
@@ -21,7 +21,7 @@
 
 % Set header for every page (except for first page)
 \pagestyle{fancy}
-\rhead[\small\textsc{Elise Koster}]{\small\textsc{Project Proposal Machine Morality }}
+\rhead[\small\textsc{David van Erkelens, Sharon Gieske, Elise Koster}]{\small\textsc{Proposal NLP Mini-project}}
 \lhead{\thepage.}
 \cfoot{}
 \date{}
@@ -30,26 +30,47 @@
 \maketitle
 
 \section{Introduction}
+we like music\\
+do u lik musick\\
+ivan pls
 
 \section{Objectives}
+The goal of this project is modeling the topic distributions for multiple music genres using lyrics. 
+Research questions:
+\begin{itemize}
+\item What are the most unique words and topics per musical genre?
+\item Are topic models a suitable feature for music genre classification using SVMs?
+\item Are topic models a suitable feature for subgenre classification using SVMs?
+\item Are rhyme schemes discriminative features of music genres?
+\item Which music genres correlate most and least?
+\end{itemize}
+
+\section{Approach}
+Collecting dataset, processing dataset (cleaning and normalizing) , implementing LDA, extracting topic models per genre, testing as feature using SVM, adding rhyme scheme library, testing as feature using SVM, evaluate and write report and awesome presentation
 
 \section{Deliverables}
-
+A program that classifies a lyrics-document into a (sub-) genre, a report documenting the results of the project and outlining possible future areas of research and a presentation full of funny jokes and cool pictures (there are no cats on the pictures, only word clouds, filled with high-level concepts and dreams).
 \section{Planning}
 
 \definecolor{dark-gray}{gray}{0.25}
-\begin{tabular}{ |c | c | c|}
+\begin{tabular}{ |c | c |}
 \rowcolor{dark-gray}
 \hline
-\textcolor{white}{\textbf{Subject}} & \textcolor{white}{\textbf{Start}} & \textcolor{white}{\textbf{End}}\\
+\textcolor{white}{\textbf{Subject}} & \textcolor{white}{\textbf{Week}}\\
 	\hline
-	Finding literature & week 47 & week 50 \\
+	Gathering dataset and literature & week 1  \\
 	\hline
-	Writing literature study & week 51 & week  5\\
+	Clean and visualize dataset & week 2 \\
 	\hline
-	Writing proposal & week 6 & week 8 \\
+	Implement LDA & week 3 \\
 	\hline
-	Evaluation and improvement & week 9 & week 14 \\
+	Implement LDA with SVM & week 4 \\
+	\hline
+	Add rhyme scheme feature & week 5 \\
+	\hline
+	Start report and presentation & week 6 \\
+	\hline
+	Finish report and presentation & week 7\\
 	\hline
 \end{tabular}\\
 
