@@ -1,106 +1,110 @@
 import re, urllib
 from bs4 import BeautifulSoup
+import string
+import argparse
 
-def get_top_songs(artist):
+def get_top_songs(artist_url):
 	''' Get the urls of the top 5 most popular songs of the given artist. '''
 	lyrics_url_list = []
-	url_divs = BeautifulSoup(urllib.urlopen('http://www.lyricsmode.com/lyrics/' + artist[0] + '/' + artist).read()).findAll('div', attrs={'class', 'top-lyrics-number'})
-	for link in url_divs:
-		lyrics_url_list.append('http://www.lyricsmode.com' + link.findNext('a', href=True)['href'])
+	print artist_url
+	print "Retrieving top 5 songs for ", artist_url.split('/')
+	song_soup = BeautifulSoup(urllib.urlopen('http://www.lyricsmode.com/' + artist_url).read())
+	if(song_soup is not None):
+		url_divs = song_soup.findAll('div', attrs={'class', 'top-lyrics-number'})
+		for link in url_divs:
+			lyrics_url_list.append('http://www.lyricsmode.com' + link.findNext('a', href=True)['href'])
 	return lyrics_url_list
 
 def get_lyrics_document(url):
-	print 'url is: ', url, '\n\n\n'
-	artist_name = url.split('/')[5]
+	''' Parse a lyricsmode document into a text document. Also, retrieve artist genre information. Write everything to a document named artist_song.txt '''
+	#Get artist name from url
 	song_name = url.split('/')[6].split('.')[0]
-	print artist_name
-	print song_name
-	text = BeautifulSoup(urllib.urlopen(url).read()).find('p', id="lyrics_text")
-	enters = text.findAll('br')
-	for enter in enters:
-		enter.replace_with('')
-	cleaned_text = text.get_text()
+	artist_name = url.split('/')[5]
+	print "Current artist: ", artist_name
+	#Get url for artist information from allmusic
+	artist_info_url = BeautifulSoup(urllib.urlopen('http://allmusic.com/search/artists/' + artist_name).read()).findAll('div', attrs={'class':'name'})[0].findNext('a')['href']
+	#Get the Soup for the artist info
+	artist_info = BeautifulSoup(urllib.urlopen(artist_info_url).read())
+	print "Retrieved artist data.."
+	#Open writable file
 	f = open('lyrics/'+artist_name+"_"+song_name+'.txt', 'w')
-	f.write(cleaned_text.encode("utf-8"))
+	#Retrieve genre info
+	if(artist_info is not None):
+		genre_info = artist_info.find('div', attrs={'class':'genre'}).find('a', href=True).get_text()
+		print "Retrieved genre: ", genre_info
+		#Retrieve subgenre info
+		subgenre_info = artist_info.findAll('div', attrs={'class':'styles'})
+		styles_list = []
+		#Get html-free text for all subgenres
+		for div in subgenre_info:
+			styles = div.findAll('a', href=True)
+			for style in styles:
+				styles_list.append(style.get_text())
+		print "Retrieved subgenres: ", str(styles_list)
+		print "Writing artist info to file '", artist_name + '_' + song_name + '.txt...'
+		f.write('Artist: ' + artist_name)
+		f.write('\nSong: ' + song_name)
+		f.write('\nGenre: ' + genre_info)
+		f.write('\nSubgenres: ' + str(styles_list))
+	print "Getting cleaned lyrics.."
+	text = BeautifulSoup(urllib.urlopen(url).read()).find('p', attrs={'id':"lyrics_text"})
+	print "Writing lyrics to file ", artist_name + '_' + song_name + '.txt...'
+	if(text is not None):
+		text = text.get_text()
+		f.write('\n\nSong:\n\n' + text.encode("utf-8"))
+	#close file
 	f.close()
+	"\n\nNext song.."
+
+def get_artists(n=99):
+	''' Get top n artists for each symbol '''
+	alphabet = string.lowercase
+	artist_url_list = []
+	for letter in alphabet:
+		print "Retrieving ", n, " artists with start symbol ", letter, "..."
+		artist_counter = 0
+		"Retrieving symbol information..."
+		soup = BeautifulSoup(urllib.urlopen('http://www.lyricsmode.com/lyrics/' + letter))
+		if(soup is not None):
+			"Retrieving artists..."
+			rows = soup.findAll('td', attrs={'class':None})
+			for cell in rows:
+				if(artist_counter == n):
+					break
+				artist_counter+=1
+				a = cell.find('a', href=True)
+				if(a is not None):
+					artist_url_list.append(a['href'])
+	print "Retrieving ", n, " artists with start symbol ", letter, "..."
+	soup = BeautifulSoup(urllib.urlopen('http://www.lyricsmode.com/lyrics/0-9').read())
+	if(soup is not None):
+		"Retrieving artists..."
+		rows = soup.findAll('td', attrs={'class':None})
+		artist_counter = 0
+		for cell in rows:
+			if(artist_counter == n):
+				break
+			artist_counter+=1	
+			a = cell.find('a', href=True)
+			if(a is not None):
+				artist_url_list.append(a['href'])
+	return artist_url_list
 
 
 if __name__ == "__main__":
-	#artist list, pink is written as p!nk which is written as pnk in lyricsmode
-	artists = ['metallica', 'rihanna', 'pnk', 'basshunter']
+	parser = argparse.ArgumentParser(description="Run crawler")
+	parser.add_argument('-n', metavar='How many artists should be retrieved per letter?', type=int)
+	args = parser.parse_args()
+
+	n = 99
+	if(vars(args)['n'] is not None):
+		n = vars(args)['n']
+	#Retrieve artist urls, can specify a number n to get less than 100 (not more)
+	artists = get_artists(n)
 	url_list = []
+	#Get urls of song lyrics
 	for artist in artists:
 		url_list += (get_top_songs(artist))
+	#Create lyrics documents
 	for url in url_list:
 		get_lyrics_document(url)
-	
-'''
-class MABand:
-	def __init__(self, name):
-		self.soup = BeautifulSoup(urllib.urlopen('http://www.metal-archives.com/bands/' + name).read())
-		self.multiple = self.soup.findAll('h1', attrs={'class':'page_title'})
-		self.genre = "none"
-		self.country ="none"
-		self.themes = "none"
-		self.location = "none"
-		self.status = "none"
-		self.name = "none"
-		self.logo = "none"
-		self.photo = "none"
-		self.starting_year = "none"
-		self.years_active = "none"
-
-	def get_multiple(self):
-		return self.multiple
-
-	def get_genre(self):
-		if(self.genre == "none"):
-			self.genre = self.soup(text="Genre:")[0].parent.findNext('dd').contents[0]
-		return self.genre
-
-	def get_country(self):
-		if(self.country == "none"):
-			self.country = self.soup(text="Country of origin:")[0].parent.findNext('dd').contents[0].contents[0]
-		return self.country
-
-	def get_themes(self):
-		if(self.themes == "none"):
-			self.themes = self.soup(text="Lyrical themes:")[0].parent.findNext('dd').contents[0]
-		return self.themes
-
-	def get_location(self):
-		if(self.location == "none"):
-			self.location = self.soup(text="Location:")[0].parent.findNext('dd').contents[0]
-		return self.location
-
-	def get_status(self):
-		if(self.status == "none"):
-			self.status = self.soup(text="Status:")[0].parent.findNext('dd').contents[0]
-		return self.status
-
-	def get_starting_year(self):
-		if(self.starting_year == "none"):
-			self.starting_year = self.soup(text="Formed in:")[0].parent.findNext('dd').contents[0]
-		return self.starting_year
-
-	def get_years_active(self):
-		if(self.years_active == "none"):
-			self.years_active = self.soup(text="Years active:")[0].parent.findNext('dd').contents[0]
-		return self.years_active
-
-	def get_name(self):
-		if(self.name == "none"):
-			self.name = self.soup.findAll('h1', attrs={'class':'band_name'})[0].contents[0].contents[0]	
-		return self.name
-
-	def get_logo(self):
-		if(self.logo == "none"):
-			self.logo = self.soup.find('a', attrs={'id':'logo'}).contents[0]['src']
-		return self.logo
-
-	def get_photo(self):
-		if(self.photo == "none"):
-			self.photo = self.soup.find('a', attrs={'id':'photo'}).contents[0]['src']
-		return self.photo
-'''
-	
