@@ -6,11 +6,11 @@
 \usepackage{amssymb}
 \usepackage{url}
 \usepackage{cite}
-\usepackage{natbib}
+%\usepackage{natbib}
 \usepackage{colortbl}
 \usepackage[usenames,dvipsnames]{xcolor}
-\title{Proposal NLP Mini-project}
-\author{David van Erkelens, Sharon Gieske, Elise Koster}
+\title{Proposal NLP Mini-project:\\ Lyric-based genre classification}
+\author{David van Erkelens (10264019)\\ Sharon Gieske (6167667)\\ Elise Koster (5982448)}
 
 \usepackage{fancyhdr}
 \usepackage{booktabs}
@@ -32,13 +32,14 @@
 \section{Introduction}
 This proposal describes the outline of a project researching the application of LDA and rhyme schemes to music (sub-) genre classification.\\
 Nowadays, many online music services exist, where users want music classified by genre. Manual genre classification is very time-consuming, especially with the large quantities of music available. However, if such a service misses this information, they could easily retrieve an estimated genre using lyrics-based classification. 
+\\\\
 Most earlier musical genre classification research is based on audio signals \cite{audio_classification}, which requires more storage and is more noise-sensitive. Earlier research classifying music using lyrics \cite{fell lyrics} looked at a multitude of features, but not topic models. LDA can be performed on song lyrics \cite{lukiccomparison}, however it has not yet been used for genre classification. \\
 Also, using the LDA approach users may search for songs with similar lyrical themes, whose genres would not be very close otherwise. This will be an added service for users that feel strongly about certain topics.\\ 
 Another interesting topic of research would be to model the correlation between different genres based on their lyrical content.\\
 
 
 \section{Objectives}
-The goal of this project is modeling the topic distributions for multiple music genres using lyrics. 
+The goal of this project is modeling the topic distributions for multiple music genres using lyrics. \\\\
 Research questions:
 \begin{itemize}
 \item What are the most unique words and topics per musical genre?
@@ -55,6 +56,7 @@ To answer the research questions, the following steps will be used: first, a dat
 The components delivered upon completing this project will be a program that classifies a lyrics-document into a (sub-) genre as well as a report documenting the results of the project, the answers to the research questions and outlining possible future areas of research. Finally, a  presentation reporting the work of the project, possibly featuring a live demonstration of the program, will be delivered.
 \section{Planning}
 
+\begin{center}
 \definecolor{dark-gray}{gray}{0.25}
 \begin{tabular}{ |c | c |}
 \rowcolor{dark-gray}
@@ -76,8 +78,8 @@ The components delivered upon completing this project will be a program that cla
 	Finish report and presentation & week 7\\
 	\hline
 \end{tabular}\\
-
-\bibliography{../report/bibliography}
+\end{center}
+\bibliography{../papers/bibliography}
 \bibliographystyle{plain}
 
 \end{document}
