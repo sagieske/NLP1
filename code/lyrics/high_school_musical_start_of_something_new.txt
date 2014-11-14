@@ -1,0 +1,87 @@
+Artist: high_school_musical
+Title: start_of_something_new
+Genre: Stage & Screen
+Subgenres: [u'Cast Recordings', u'Soundtracks', u'TV Soundtracks']
+
+Song:
+
+[*{VERSE}*]
+
+[TROY] Livin' in my own world
+Didn't understand
+That anything can happen
+When you take a chance
+
+[GABRIELLA] I never believed in
+What I couldn't see
+I never opened my heart
+[TROY] Ohhhhh
+[GABRIELLA] Too all the possibilities, Ohh
+
+[Both] I know...
+[GABRIELLA] That something has changed
+[Both] Never felt this way
+[GABRIELLA] And right here tonight
+[Both] this could be the...
+
+[*{CHORUS}*]
+
+[Both] Start of somethin' new
+[GABRIELLA] It feels so right
+[Both] To be here with you, ooh
+And now lookin' in your eyes
+[GABRIELLA] I feel in my heart
+[TROY] Feel in my heart
+[Both] The start of somethin' new
+[TROY] Ohhhh, yeahh
+
+[*{VERSE}*]
+
+[TROY] Now who'd of ever thought that... oh
+[Both] We'd both be here tonight... yeah
+[GABRIELLA] Oh yeah, the world looks so much
+brighter
+[TROY] Brighter, brighter
+[GABRIELLA] Oh, with you by my side
+[TROY] By my side
+[BOTH] I know... that somethin' has changed
+Never felt this way
+[GABRIELLA] oh I know it for real
+[Both} This could be the...
+
+[*{CHORUS}*]
+
+[BOTH] start of somethin' new
+It feels so right to be here with you... oh
+And now... lookin' in your eyes
+I feel in my heart
+The start of somethin' new
+
+[*{BRIDGE}*]
+
+[TROY] I never knew that it could happen
+'Til it happened to me
+Ohhhh, yeah
+[Both] I didn't know it before
+[GABRIELLA] But now it's easy to see
+[Both] Ohhhhh
+
+[*{CHORUS}*]
+
+[Both] It's the start of something new
+It feels so right to be here with you... oh
+And now... lookin' in your eyes
+I feel in my heart
+That it's the start of somethin' new
+It feels so right
+[TROY] So right... oh
+[GABRIELLA] To be here with you... oh
+[Both] And now...
+[GABRIELLA} Lookin' in your eyes
+[TROY] Lookin' in your eyes
+[GABRIELLA] I feel in my heart
+[TROY] Feel in my heart
+[GABRIELLA] The start of somethin' new
+[TROY] The start of somethin' new
+[GABRIELLA] The start of somethin' new
+[TROY] Somethin' new

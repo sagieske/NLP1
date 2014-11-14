@@ -1,0 +1,40 @@
+Artist: charice
+Title: yakap
+Genre: Pop/Rock
+Subgenres: [u'Adult Contemporary', u'Pop Idol', u'Dance-Pop', u'Pop']
+
+Song:
+
+Ako ay nagbalik, sa init ng iyong yakap
+Parang ibong sabik sa isang pugad
+
+Nadanas kong lungkot, nang kita'y aking iwan
+Na di pa dinanas ng sinuman
+
+Ako ay nagbalik, at muli kang nasilayan
+Hindi na 'ko muli pang lilisan
+Dahil kung ikaw ang yakap ko, 
+Parang yakap ko ang langit
+At yakap ko pati ang 'yong ngiti.
+
+Init ng 'yong halik, wala ng kasing init
+Yakap pa rin nito yaring init
+
+Ako ay nagbalik, at muli kang nasilayan
+Hindi na 'ko muli pang lilisan
+Dahil kung ikaw ang yakap ko, 
+Parang yakap ko ang langit
+At yakap ko pati ang 'yong ngiti.
+
+Ooohhh... 
+
+At muli kang nasilayan
+Hindi na 'ko muli pang lilisan
+Dahil kung ikaw ang yakap ko, 
+Parang yakap ko ang langit
+At yakap ko pati ang 'yong ngiti
+Ang 'yong ngiti
+
+Ooohhh... 
+
+Yakap ko...

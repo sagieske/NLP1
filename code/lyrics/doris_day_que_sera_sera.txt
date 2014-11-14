@@ -1,0 +1,39 @@
+Artist: doris_day
+Title: que_sera_sera
+Genre: Vocal
+Subgenres: [u'Traditional Pop', u'Vocal Pop', u'Swing']
+
+Song:
+
+When I was just a little girl
+I asked my mother, what will I be
+Will I be pretty, will I be rich
+Here's what she said to me.
+
+Que Sera, Sera,
+Whatever will be, will be
+The future's not ours, to see
+Que Sera, Sera
+What will be, will be.
+
+When I was young, I fell in love
+I asked my sweetheart what lies ahead
+Will we have rainbows, day after day
+Here's what my sweetheart said.
+
+Que Sera, Sera,
+Whatever will be, will be
+The future's not ours, to see
+Que Sera, Sera
+What will be, will be.
+
+Now I have children of my own
+They ask their mother, what will I be
+Will I be handsome, will I be rich
+I tell them tenderly.
+
+Que Sera, Sera,
+Whatever will be, will be
+The future's not ours, to see
+Que Sera, Sera
+What will be, will be.

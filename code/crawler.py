@@ -2,6 +2,9 @@ import re, urllib
 from bs4 import BeautifulSoup
 import string
 import argparse
+import time
+
+artists_information = {}
 
 def get_top_songs(artist_url):
 	''' Get the urls of the top 5 most popular songs of the given artist. '''
@@ -21,16 +24,25 @@ def get_lyrics_document(url):
 	song_name = url.split('/')[6].split('.')[0]
 	artist_name = url.split('/')[5]
 	print "Current artist: ", artist_name
-	#Get url for artist information from allmusic
-	artist_info_url = BeautifulSoup(urllib.urlopen('http://allmusic.com/search/artists/' + artist_name).read()).findAll('div', attrs={'class':'name'})[0].findNext('a')['href']
-	#Get the Soup for the artist info
-	artist_info = BeautifulSoup(urllib.urlopen(artist_info_url).read())
+	if(not artists_information.has_key(artist_name)):
+		#Get url for artist information from allmusic
+		artist_info_url = BeautifulSoup(urllib.urlopen('http://allmusic.com/search/artists/' + artist_name).read()).findAll('div', attrs={'class':'name'})[0].findNext('a')['href']
+		#Get the Soup for the artist info
+		artist_info = BeautifulSoup(urllib.urlopen(artist_info_url).read())
+		artists_information[artist_name] = artist_info
+	
 	print "Retrieved artist data.."
-	#Open writable file
-	f = open('lyrics/'+artist_name+"_"+song_name+'.txt', 'w')
+	artist_info = artists_information[artist_name]
+	
+	
 	#Retrieve genre info
 	if(artist_info is not None):
-		genre_info = artist_info.find('div', attrs={'class':'genre'}).find('a', href=True).get_text()
+		#Open writable file
+		f = open('lyrics/'+artist_name+"_"+song_name+'.txt', 'w')
+		genre_info_tmp = artist_info.find('div', attrs={'class':'genre'})
+		genre_info = 'unknown'
+		if(genre_info_tmp is not None):
+			genre_info = genre_info_tmp.find('a', href=True).get_text()
 		print "Retrieved genre: ", genre_info
 		#Retrieve subgenre info
 		subgenre_info = artist_info.findAll('div', attrs={'class':'styles'})
@@ -43,24 +55,29 @@ def get_lyrics_document(url):
 		print "Retrieved subgenres: ", str(styles_list)
 		print "Writing artist info to file '", artist_name + '_' + song_name + '.txt...'
 		f.write('Artist: ' + artist_name)
-		f.write('\nSong: ' + song_name)
+		f.write('\nTitle: ' + song_name)
 		f.write('\nGenre: ' + genre_info)
 		f.write('\nSubgenres: ' + str(styles_list))
-	print "Getting cleaned lyrics.."
-	text = BeautifulSoup(urllib.urlopen(url).read()).find('p', attrs={'id':"lyrics_text"})
-	print "Writing lyrics to file ", artist_name + '_' + song_name + '.txt...'
-	if(text is not None):
-		text = text.get_text()
-		f.write('\n\nSong:\n\n' + text.encode("utf-8"))
-	#close file
-	f.close()
+		print "Getting cleaned lyrics.."
+		text = BeautifulSoup(urllib.urlopen(url).read()).find('p', attrs={'id':"lyrics_text"})
+		print "Writing lyrics to file ", artist_name + '_' + song_name + '.txt...'
+		if(text is not None):
+			text = text.get_text()
+			f.write('\n\nSong:\n\n' + text.encode("utf-8"))
+		#close file
+		f.close()
 	"\n\nNext song.."
 
 def get_artists(n=99):
 	''' Get top n artists for each symbol '''
 	alphabet = string.lowercase
 	artist_url_list = []
+	requests = 0
 	for letter in alphabet:
+		requests += 1
+		if(requests % 10 == 0):
+			print "Sleeping to prevent too many requests in too little time..."
+			time.sleep(2)
 		print "Retrieving ", n, " artists with start symbol ", letter, "..."
 		artist_counter = 0
 		"Retrieving symbol information..."
@@ -92,6 +109,9 @@ def get_artists(n=99):
 
 
 if __name__ == "__main__":
+	# get_lyrics_document('http://www.lyricsmode.com/lyrics/a/apo_hiking_society/panalangin.html')
+	# return 0
+
 	parser = argparse.ArgumentParser(description="Run crawler")
 	parser.add_argument('-n', metavar='How many artists should be retrieved per letter?', type=int)
 	args = parser.parse_args()
@@ -102,9 +122,18 @@ if __name__ == "__main__":
 	#Retrieve artist urls, can specify a number n to get less than 100 (not more)
 	artists = get_artists(n)
 	url_list = []
+	requests = 0
 	#Get urls of song lyrics
 	for artist in artists:
+		requests += 1
+		if(requests % 10 == 0):
+			print "Sleeping to prevent too many requests in too little time..."
+			time.sleep(1)
 		url_list += (get_top_songs(artist))
 	#Create lyrics documents
 	for url in url_list:
+		requests += 1
+		if(requests % 10 == 0):
+			print "Sleeping to prevent too many requests in too little time..."
+			time.sleep(1)
 		get_lyrics_document(url)

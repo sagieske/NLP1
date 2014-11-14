@@ -1,0 +1,18 @@
+Artist: abhijeet
+Title: yeh_teri_aankhen_jhuki_jhuki
+Genre: International
+Subgenres: [u'Bollywood', u'Indian Pop', u'Indian Subcontinent Traditions']
+
+Song:
+
+Yeh Teri Aankhen Jhuki Jhuki, Yeh Tera Chehra Khila Khila
+Badi Kismatwala Hai Woh, Pyar Tera Jise Mila
+Yeh Teri Aankhen Jhuki Jhuki... 
+
+Chhalakti Gaalon Se Laali, Badi Tu Sharm-O-Haya Waali
+Honth Tere Pooja Ke Phool, Phool Ki Naazuk Tu Daali 
+Yeh Teri Aankhen Jhuki Jhuki... 
+
+Kisi Ke Pyaare Pyaare Baal, Kisi Ki Pyaari Pyaari Chaal
+Tu Sar Se Paaon Talak Sundar, Tu Hai Kudrat Ka Koi Kamaal
+Yeh Teri Aankhen Jhuki Jhuki...

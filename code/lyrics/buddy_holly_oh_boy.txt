@@ -1,0 +1,74 @@
+Artist: buddy_holly
+Title: oh_boy
+Genre: Pop/Rock
+Subgenres: [u'Early Pop/Rock', u'Rock & Roll', u'Rockabilly']
+
+Song:
+
+All of my love
+All of my kissin'
+You don't know
+What you been a missin'
+Oh boy, when you're with me
+Oh boy, the world can see
+That you were meant for me
+
+All of my life
+I been a - waitin'
+Tonight there'll be
+No hesitatin'
+Oh boy, when you're with me
+Oh boy, the world can see
+That you were meant for me
+
+Stars appear
+And the shadows are fallin'
+You can hear
+My heart callin'
+A little bit of lovin'
+Makes everything right
+And I'm gonna see
+My baby tonight
+
+All of my love
+All of my kissin'
+You don't know
+What you been a missin'
+Oh boy, when you're with me
+Oh boy, the world can see
+That you were meant for me
+
+(solo)
+
+All of my love
+All of my kissin'
+You don't know
+What you been a missin'
+Oh boy, when you're with me
+Oh boy, the world can see
+That you were meant for me
+
+All of my life
+I been a - waitin'
+Tonight there'll be
+No hesitatin'
+Oh boy, when you're with me
+Oh boy, the world can see
+That you were meant for me
+
+Stars appear
+And the shadows are fallin'
+You can hear
+My heart callin'
+A little bit of lovin'
+Makes everything right
+And I'm gonna see
+My baby tonight
+
+All of my love
+All of my kissin'
+You don't know
+What you been a missin'
+Oh boy, when you're with me
+Oh boy, the world can see
+That you were meant for me

@@ -1,0 +1,67 @@
+Artist: a_pink
+Title: mr_chu
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Art Rock', u'British Psychedelia', u'Prog-Rock', u'Psychedelic/Garage', u'Mixed Media', u'Hard Rock']
+
+Song:
+
+[Hayoung] Hanbeon bomyeon du beon deo bogo sipeo
+Dubeon sebeon bomyeon neoreul deo ango sipeo
+[Naeun] Neowa keopeulling keopeulling sone kkigoseo
+Hamkke i gireul geotgo sipeo nan
+
+[Chorong] Maeil maeil bwado nan deo johajyeo
+Dubeon sebeon naui boreul kkojibeo bwado
+[Namjoo] Machi dreaming dreaming kkumeul kkuneun deut
+Saenggangman haedo nan misoga
+
+[Bomi/All] Mr. Chu~ ipsul wie
+Chu~ dalkomhage
+Chu~ onmome nan himi pullyeo
+[Eunji] Nae mam heundeul heundeureo
+Nal heundeureonwayo
+[All] I’m falling falling for your love
+
+[Bomi/All] Hey you~ ipsul wie
+Chu~ everyday with you
+Neol bomyeon nae nuni gamgyeo
+[Eunji] Mollae saljjak dagawa tto kiseuhaejullae
+[Bomi] Nae kkumgyeol gateun neon namanui
+Mr. Chu~
+
+[Naeun] Budeureoun gamchok ijeul su eobseo
+Hwakkeungeorineun nae eolgul ppalgaejineun geol
+[Chorong] It’s so lovely lovely sarangseureowo
+[Hayoung] Nan nega jakkuman johajyeo
+
+[Bomi/All] Mr. Chu~ ipsul wie
+Chu~ dalkomhage
+Chu~ onmome nan himi pullyeo
+[Eunji] Nae mam heundeul heundeureo
+Nal heundeureonwayo
+[All] I’m falling falling for your love
+
+[Bomi/All] Hey you~ ipsul wie
+Chu~ everyday with you
+Neol bomyeon nae nuni gamgyeo
+[Eunji] Mollae saljjak dagawa tto kiseuhaejullae
+[Bomi] Nae kkumgyeol gateun neon namanui
+
+[Chorong] Nae sowoneul deureojwoyo
+Yeongwonhan sarang irwojugil
+[Namjoo] Jjaritjjaritan neukkim jeoldae mam byeonhaji anki
+Pyeongsaeng naman barabwajwo baby
+
+[All] Mr. Chu~ ipsul wie
+Chu~ dalkomhage
+Chu~ onmome nan himi pullyeo
+Nae mam heundeul heundeureo
+Nal heundeureonwayo
+I’m falling falling for your love
+
+[All] Hey you~ ipsul wie
+Chu~ everyday with you
+Neol bomyeon nae nuni gamgyeo
+Mollae saljjak dagawa tto kiseuhaejullae
+Nae kkumgyeol gateun neon namanui
+Mr. Chu~

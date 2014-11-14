@@ -1,0 +1,86 @@
+Artist: bb_king
+Title: you_are_my_sunshine
+Genre: Blues
+Subgenres: [u'Modern Electric Blues', u'Soul-Blues', u'Early R&B', u'Memphis Blues', u'Regional Blues']
+
+Song:
+
+My only sunshine.
+You make me happy
+When skies are grey.
+You'll never know, dear,
+How much I love you.
+Please don't take my sunshine away
+
+The other nite, dear,
+As I lay sleeping
+I dreamed I held you in my arms.
+When I awoke, dear,
+I was mistaken
+And I hung my head and cried.
+
+You are my sunshine,
+My only sunshine.
+You make me happy
+When skies are grey.
+You'll never know, dear,
+How much I love you.
+Please don't take my sunshine away.
+
+I'll always love you
+And make you happy
+If you will only say the same
+But if you leave me
+To love another
+You'll regret it all some day;
+
+You are my sunshine,
+My only sunshine.
+You make me happy
+When skies are grey.
+You'll never know, dear,
+How much I love you.
+Please don't take my sunshine away.
+
+You told me once, dear
+You really loved me
+And no one else could come between
+But now you've left me
+And love another
+You have shattered all my dreams;
+
+You are my sunshine,
+My only sunshine.
+You make me happy
+When skies are grey.
+You'll never know, dear,
+How much I love you.
+Please don't take my sunshine away.
+
+Louisiana my Louisiana
+The place where I was borne.
+White fields of cotton
+-- green fields clover,
+The best fishing
+And long tall corn;
+
+You are my sunshine,
+My only sunshine.
+You make me happy
+When skies are grey.
+You'll never know, dear,
+How much I love you.
+Please don't take my sunshine away.
+Crawfish gumbo and jambalaya
+The biggest shrimp and sugar cane,
+The finest oysters
+And sweet strawberries
+From Toledo Bend to New Orleans;
+
+You are my sunshine,
+My only sunshine.
+You make me happy
+When skies are grey.
+You'll never know, dear,
+How much I love you.
+Please don't take my sunshine away.

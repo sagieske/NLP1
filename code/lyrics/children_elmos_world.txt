@@ -1,0 +1,16 @@
+Artist: children
+Title: elmos_world
+Genre: Pop/Rock
+Subgenres: [u'Heavy Metal', u'Scandinavian Metal', u'Death Metal', u'Power Metal', u'Speed/Thrash Metal']
+
+Song:
+
+Lalalala lalalala
+Elmo's world (elmo's world)
+Lalalala lalalala
+Elmo's world (elmo's world
+Elmo loves his goldfish
+His crayons too
+Dadada
+That's elmo's WORLD
+YEAH

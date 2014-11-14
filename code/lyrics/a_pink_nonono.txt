@@ -1,0 +1,52 @@
+Artist: a_pink
+Title: nonono
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Art Rock', u'British Psychedelia', u'Prog-Rock', u'Psychedelic/Garage', u'Mixed Media', u'Hard Rock']
+
+Song:
+
+[Bomi] Seulpeohaji ma No No No honjaga anya No no no
+Eonjenanana naege hangsang bichi dwae jun geudae
+[Eunji] Nae soneul jabayo ije jigeum dagawa gidae
+Eonjena himi dwae julge
+
+[Chorong] Naega himi deul ddae naege dagaon geudae
+Salmyeosi naegero wa ib matchwo jun geudae
+[Hayeong] Machi mabeobcheoreom nal gamssajun
+Jeongmal ireon gibun cheoeumiya
+
+[Bomi] Gakkeumsikeun geudaedo himdeungayo
+Geureohge honja seulpeohamyeon eotteokhae
+[Namju] Hanadulssik buli kkeojyeoganeun gonggan soke
+Naega neol bichwojulge oh
+
+[Bomi] Seulpeohaji ma No No No honjaga anya No no no
+Eonjenanana naege hangsang bichi dwae jun geudae
+[Eunji] Nae soneul jabayo ije jigeum dagawa gidae
+Eonjena himi dwae julge
+
+[Naeun] Kkumi manhdeon geudaen neomu ddeollideon geudaee
+Sumanheun siryeon soke gijeokeul baratgo
+[Hayeong] Galsurok buleooneun barame heundeullineun moseub cheoeumiya
+
+[Eunji] Oraetdongan manhido chamatnayo
+Amu mal anhgo gogae ddeolgumyeon eotteokhae
+[Namju] Hanadulssik gyeoteul ddeonaganeun sesang soke
+Naega neol bichwo julge
+
+[Bomi] Seulpeohaji ma No No No honjaga anya No no no
+Eonjenanana naege hangsang bichi dwae jun geudae
+[Eunji] Nae soneul jabayo ije jigeum dagawa gidae
+Eonjena himi dwae julge
+
+[Naeun] Gajang naege himi dwae jueotdeon
+Nareul eonjena mideojudeon geudae
+[Hayeong] Dadeul geumanhae rago malhal ddae
+[Namju] Majimak niga barabol sarang
+[Eunji] Ijen naega dwae julge Oh~
+
+[Chorong] Seulpeohaji ma No No No honjaga anya No no no
+([Eunji] Oh ~Oh Yeah)
+Eonjenanana naege hangsang bichi dwae jun geudae
+[Eunji] Nae soneul jabayo ije jigeum dagawa gidae
+Eonjena himi dwae julge

@@ -1,0 +1,23 @@
+Artist: barney
+Title: i_love_you
+Genre: Jazz
+Subgenres: [u'Bop', u'Cool', u'West Coast Jazz']
+
+Song:
+
+I love you You love me
+We're a happy family
+With a great big hug and a kiss from me to you.
+Won't you say you love me too
+I love you You love me
+We're best friends like friends should be
+With a great big hug and a kiss from me to you.
+Won't you say you love me too
+I love you You love me
+We're a happy family
+With a great big hug and a kiss from me to you.
+Won't you say you love me too
+I love you You love me
+We're best friends like friends should be
+With a great big hug and a kiss from me to you.
+Won't you say you love me too

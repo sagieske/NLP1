@@ -1,0 +1,56 @@
+Artist: bill_withers
+Title: lovely_day
+Genre: R&B
+Subgenres: [u'Soul', u'Smooth Soul', u'Urban']
+
+Song:
+
+When I wake up in the morning
+Love
+And the sun light hurts my eyes
+
+And something without worning
+Love
+Bears heavy on my mind.
+Then I look at you and the world's alright with me
+
+Just one look at you and I know it's gonna be -
+
+A lovely day - lovely day
+Lovely day
+Lovely day
+Lovely day
+
+Lovely day
+Lovely day
+Lovely day
+Lovely day.
+A lovely day - lovely day
+Lovely day
+Lovely day
+Lovely day
+
+Lovely day
+Lovely day
+Lovely day
+Lovely day.
+
+When the day that lies ahead of me seems impossible to face
+
+And someone else instead of me always seems to know the way
+Then I look at you and the world's alright with me
+
+Just one look at you and I know it's gonna be -
+
+A lovely day - lovely day
+Lovely day
+Lovely day
+Lovely day
+...
+When the day that lies ahead of me seems impossible to face
+...
+A lovely day - lovely day
+Lovely day
+Lovely day
+Lovely day
+...

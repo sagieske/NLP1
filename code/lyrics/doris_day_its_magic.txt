@@ -1,0 +1,35 @@
+Artist: doris_day
+Title: its_magic
+Genre: Vocal
+Subgenres: [u'Traditional Pop', u'Vocal Pop', u'Swing']
+
+Song:
+
+You sigh, the song begins;
+You speak, and I hear violins --
+It's magic.
+The stars desert the skies,
+And rush to nestle in your eyes --
+It's magic.
+Without a golden wand
+Or mystic charms,
+Fantastic things begin
+When I am in your arms.
+When we walk hand-in-hand,
+The world becomes a wonderland --
+It's magic.
+How else can I explain
+Those raindrops when there is no rain?
+It's magic.
+Why do I tell myself
+These things that happen are all really true?
+When, in my heart, I know the magic is
+My love for you.
+It's magic...
+It's magic...
+Why do I tell myself
+These things that happen are all really true?
+When, in my heart I know, the magic is
+My love for you.
+-----------
+Note: From the 1948 film, "Romance on the High Seas

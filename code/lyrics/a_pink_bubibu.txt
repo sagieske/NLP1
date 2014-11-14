@@ -1,0 +1,89 @@
+Artist: a_pink
+Title: bubibu
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Art Rock', u'British Psychedelia', u'Prog-Rock', u'Psychedelic/Garage', u'Mixed Media', u'Hard Rock']
+
+Song:
+
+[Yookyung] Dear boy, You're my angel
+Let me show you a better day
+
+[Namjoo] Oneul eotteongayo nae moseup
+Yojeum deureo naega yeppeoboindae
+[Bomi] Jakku jakku geoulman boneyo
+Nan oneul jom gwaenchanheun yeoja
+
+[Yookyung] Dugeun dugeun dugeun tteollyeowa
+Ni saenggangman hamyeon tteollyeowa
+[Hayoung] Ireon nal eotteokhaeyo oh oh
+Naega babogatjiman
+[Eunji] Ireon naega bukkeureopjiman
+Yongginae malhallaeyo
+
+[All] Cheoncheonhi neoui du bore BuBiBu
+Ni son kkok japgo BuBiBu
+Neoman bomyeon naneun ganjireo
+Geudael bomyeon naneun rulluralla
+
+[Bomi] Ireumman deureodo joha
+Moksoriman deureodo joha
+[Eunji] Niga neomu joha
+Niga neomu joha eotteokhae
+
+[All] Jogeumssik neoui ipsure BuBiBu
+Neoneun nae jeonbu BuBiBu
+[Eunji] Neoman bomyeon nan gibun da johayo
+Ireumman deureodo joha
+Moksoril deureodo joha
+Joha joha joha neomu joha joha
+Eotteokhae nan joha
+
+[Yookyung] Jogeum muttukttuk haeboyeodo
+Nae nunen ttatteutan geureon namjajyo
+[Chorong] Jakku ni eolgulman boneyo
+Hanappunin nae namjachingujyo
+
+[Naeun] Jakku jakku jakku jakkuman
+Ni saenggagi nayo jakkuman
+[Namjoo] Ireon nal eotteokhaeyo oh oh
+Sanchaekdo gallaeyo
+[Eunji] Sopungdo gagosipjyo
+Hal iri neomu manchyo
+
+[All] Cheoncheonhi neoui du bore BuBiBu
+Ni son kkok japgo BuBiBu
+Neoman bomyeon naneun ganjireo
+Geudael bomyeon naneun rulluralla
+
+[Bomi] Ireumman deureodo joha
+Moksoriman deureodo joha
+[Eunji] Niga neomu joha
+Niga neomu joha eotteokhae
+
+[All] Jogeumssik neoui ipsure BuBiBu
+Neoneun nae jeonbu BuBiBu
+[Eunji] Neoman bomyeon nan gibun da johayo
+Ireumman deureodo joha
+Moksoril deureodo joha
+Joha joha joha neomu joha joha
+Eotteokhae nan joha
+[Naeun/Yookyung] Nan joha nan joha
+[Hayoung/Namjoo] Nan joha nan joha
+
+[All] Cheoncheonhi neoui du bore BuBiBu
+Ni son kkok japgo BuBiBu
+Neoman bomyeon naneun ganjireo
+Geudael bomyeon naneun rulluralla
+
+[Bomi] Ireumman deureodo joha
+Moksoriman deureodo joha
+[Eunji] Niga neomu joha
+Niga neomu joha eotteokhae
+
+[All] Jogeumssik neoui ipsure BuBiBu
+Neoneun nae jeonbu BuBiBu
+[Eunji] Neoman bomyeon nan gibun da johayo
+Ireumman deureodo joha
+Moksoril deureodo joha
+Joha joha joha neomu joha joha
+Eotteokhae nan joha

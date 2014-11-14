@@ -1,0 +1,41 @@
+Artist: david_pomeranz
+Title: king_and_queen_of_hearts
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Alternative/Indie Rock', u'Art Rock', u'Contemporary Pop/Rock', u'Experimental Rock', u'Glam Rock', u'Hard Rock', u'Proto-Punk', u'Blue-Eyed Soul', u'Dance-Rock', u'Soul']
+
+Song:
+
+We're the king and queen of hearts
+Hold me when the music starts
+All my dreams come true
+When I dance with you
+
+Promise me you're mine tonight
+I've been waitin' lyin' tonight
+While the lights are low
+I'll never let you go
+
+(Hoh) Did I dream that we danced forever
+In a wish that we made together
+On a night that I prayed would never end? (end)
+
+You know it's not my imagination
+Or a part of the orchestration
+Love was here at the culmination
+I'm the king and you're the queen of hearts
+
+Time will pass and tears will fall
+But someday we'll both recall
+Moments made of this
+Golden memories
+
+(Hoh) Did I dream that we danced forever
+In a wish that we made together
+On a night that I prayed would never end? (end)
+
+In a once and future dream
+Where the dances never seem to start
+
+(Hoh) Did I dream that we danced forever
+In a wish that we made together
+On a night that I prayed would never end? (end)

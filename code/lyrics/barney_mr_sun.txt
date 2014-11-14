@@ -1,0 +1,17 @@
+Artist: barney
+Title: mr_sun
+Genre: Jazz
+Subgenres: [u'Bop', u'Cool', u'West Coast Jazz']
+
+Song:
+
+Oh Mr. Sun. Sun. Mr. golden sun. Please shine down on me.
+Oh Mr. Sun. Sun. Mr. golden sun. Hiding behind a tree.
+These little children are asking you. To please come out so we can play with you.
+Oh Mr. Sun. Sun. Mr. golden sun. Please shine down on me.
+
+Oh Mr. Sun. Sun. Mr. golden sun. Please shine down on me.
+Oh Mr. Sun. Sun. Mr. golden sun. Hiding behind a tree.
+These little children are asking you. To please come out so we can play with you.
+Oh Mr. Sun. Sun. Mr. golden sun. Please shine down on, please shine down on,
+Please shine down on me!

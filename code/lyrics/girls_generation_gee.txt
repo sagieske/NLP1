@@ -1,0 +1,75 @@
+Artist: girls_generation
+Title: gee
+Genre: Pop/Rock
+Subgenres: [u'Korean Pop', u'Pop', u'Teen Pop', u'Asian Pop', u'Club/Dance']
+
+Song:
+
+[Tiffany] Aha! 
+[Tiffany] Listen boy
+[Tiffany] My first love story
+[Jessica] My angel
+[Jessica] And my girls
+[Jessica] My sunshine
+[Jessica] Uh! Uh! Let's go! 
+
+[Seohyun] Neomu neomu meotjyeo nuni nuni busyeo
+[Seohyun] Sumeul mot swigesseo tteollineun girl
+[All] Gee Gee Gee Gee Baby Baby Baby
+[All] Gee Gee Gee Gee Baby Baby Baby
+
+[Tiffany] Oh, neomu bukkeureowo chyeodabolsu eopseo
+[Tiffany] Saranghae ppajyeosseo sujubeun girl
+[All] Gee Gee Gee Gee Baby Baby Baby
+[All] Gee Gee Gee Gee Bab Bab Bab Bab Bab Bab
+
+([Sunny] Eotteoke hajyo) [Yoona] Eotteo etteokhajyo
+([Sunny] Tteollineun maeum) [Yoona] Tteollineun mameunyo
+([Sunny] Dugeun dugeun dugeun dugeun) [Yoona] Dugeun dugeungeoryeo bamen jamdo mot irujyo
+
+[Jessica] Naneun naneun babongabwayo
+[Jessica] Geudae geudaebakke moreuneun babo geuraeyo geudael boneun nan
+
+[All] Neomu banjjak banjjak nunibusyeo No No No No No
+[All] Neomu kkamjjak kkamjjak nollan naneun Oh Oh Oh Oh Oh
+[All] Neomu jjaritjjarit momi tteollyeo Gee Gee Gee Gee Gee
+[All] Jeojeun nunbit Oh Yeah joheun hyanggi Oh Yeah Yeah Yeah
+
+[Sunny] Oh, neomu neomu yeppeo mami neomu yeppeo
+[Sunny] Cheotnune banhaesseo kkok jjibeun girl
+[All] Gee Gee Gee Gee Baby Baby Baby
+[All] Gee Gee Gee Gee Baby Baby Baby
+
+[Sooyoung] Neomuna tteugeowo manjil suga eobseo
+[Sooyoung] Saranghae tabeoryeo hukkeunhan girl
+[All] Gee Gee Gee Gee Baby Baby Baby
+[All] Gee Gee Gee Gee Ba Ba Ba Ba Ba Ba
+
+([Seohyun] Eojjeomyeon joha) [Hyoyeon] Eojjeomyeon johayo
+([Seohyun] Sujubeun naneun) [Hyoyeon] Sujubeun naneunyo
+([Seohyun] Molla molla molla molla) Molla mollahamyeon maeil geudaeman geurijyo
+
+[Taeyeon] Chinhan chingudeureun malhajyo
+[Taeyeon] Jeongmal neoneun jeongmal motmallyeo
+[Taeyeon] Babo hajiman geudael boneun nan
+
+[All] Neomu banjjak banjjak nunibusyeo No No No No No
+[All] Neomu kkamjjak kkamjjak nollan naneun Oh Oh Oh Oh Oh
+[All] Neomu jjaritjjarit momi tteollyeo Gee Gee Gee Gee Gee
+[All] Jeojeun nunbit Oh Yeah joheun hyanggi Oh Yeah Yeah Yeah
+
+[Yuri] Maldo motaenneun geol
+[Yuri] Neomu bukkeureowo haneun nal
+[Taeyeon] Yonggiga eomneungeolkka
+[Taeyeon] Eotteokhaeya joheungeolkka
+[Taeyeon (Jessica)] Dugeundugeun mam jorimyeo barabogo inneun na
+
+[All] Neomu banjjak banjjak nunibusyeo No No No No No
+[All] Neomu kkamjjak kkamjjak nollan naneun Oh Oh Oh Oh Oh
+[All] Neomu jjaritjjarit momi tteollyeo Gee Gee Gee Gee Gee
+[All] Jeojeun nunbit Oh Yeah joheun hyanggi Oh Yeah Yeah Yeah
+
+[All] Neomu banjjak banjjak nunibusyeo No No No No No
+[All] Neomu kkamjjak kkamjjak nollan naneun Oh Oh Oh Oh Oh
+[All] Neomu jjarit jjarit momi tteollyeo Gee Gee Gee Gee Gee
+[All] Jeojeun nunbit Oh Yeah joheun hyanggi Oh Yeah Yeah Yeah

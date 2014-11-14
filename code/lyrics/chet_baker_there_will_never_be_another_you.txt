@@ -1,0 +1,63 @@
+Artist: chet_baker
+Title: there_will_never_be_another_you
+Genre: Jazz
+Subgenres: [u'Cool', u'West Coast Jazz', u'Vocal Jazz', u'Jazz Instrument', u'Trumpet Jazz', u'Film Score']
+
+Song:
+
+There will be
+Many other nights
+Like this
+And I'll be
+Standing here
+With someone new
+There will be
+Other songs to sing
+Another fall
+Another spring
+But there
+Will never be
+Another you
+
+There will be
+Other lips
+That I may kiss
+But they
+Won't thrill me
+Like yours used to do
+Yes
+I may dream
+A million dreams
+But how
+Can they come true
+If there
+Will never ever
+Be another you?
+
+There will be
+Many other
+Nigths like this
+And I'll be
+Standing here
+With someone new
+There will be
+Other songs to sing
+Another fall
+Another spring
+But there
+Will never be
+Another you
+
+There will be
+Other lips
+That I may kiss
+But they
+Won't thrill me
+Like yours used to do
+Yes
+I may dream
+A million dreams
+But how
+Can they come true
+If there will never
+Ever be another you?

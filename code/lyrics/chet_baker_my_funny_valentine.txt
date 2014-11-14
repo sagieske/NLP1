@@ -1,0 +1,21 @@
+Artist: chet_baker
+Title: my_funny_valentine
+Genre: Jazz
+Subgenres: [u'Cool', u'West Coast Jazz', u'Vocal Jazz', u'Jazz Instrument', u'Trumpet Jazz', u'Film Score']
+
+Song:
+
+My Funny Valentine
+Sweet Comic Valentine
+You Make Me Smile With My Heart
+You're Looks Are Laughable,
+Unphotographable
+Yet You're My Favorite Work Of Art
+Is Your FigureLess Than Greek
+Is Your Mouth A Little Weak
+When You Open It To Speak
+Are You Smart
+Don't Change A Hair For Me
+Not If You Care For Me
+Stay Little Valentine Stay
+Each Day Is Valentine's Day

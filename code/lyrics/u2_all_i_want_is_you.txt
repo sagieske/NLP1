@@ -1,0 +1,41 @@
+Artist: u2
+Title: all_i_want_is_you
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'College Rock', u'Contemporary Pop/Rock', u'Post-Punk', u'Dance-Rock']
+
+Song:
+
+You say you want diamonds on a ring of gold
+You say you want your story to remain untold
+
+But all the promises we made
+From the cradle to the grave
+When all I want is you
+
+You say you'll give me a highway with no one on it
+A treasure just to look upon it
+All the riches in the night
+
+You say you'll give me eyes in a world of blindness
+A river in a time of dryness
+A harbour in the tempest
+
+But all the promises we make
+From the cradle to the grave
+When all I want is you
+
+You say you want your love to work out right
+To last with me through the night
+
+You say you want diamonds on a ring of gold
+Your story to remain untold
+Your love not to grow cold
+
+All the promises we break
+From the cradle to the grave
+When all I want is you
+
+You
+All I want is... You
+All I want is... You
+All I want is... You

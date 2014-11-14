@@ -1,0 +1,22 @@
+Artist: barney
+Title: barney_theme_song
+Genre: Jazz
+Subgenres: [u'Bop', u'Cool', u'West Coast Jazz']
+
+Song:
+
+Barney is a dinosaur from our imagination
+And when he's tall
+He's what we call a dinosaur sensation
+Barney's friends are big and small
+They come from lots of places
+After school they meet to play
+And sing with happy faces
+Barney shows us lots of things
+Like how to play pretend
+ABC's, and 123's
+And how to be a friend
+Barney comes to play with us
+Whenever we may need him
+Barney can be your friend too
+If you just make-believe him!

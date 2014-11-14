@@ -1,0 +1,37 @@
+Artist: buddy_holly
+Title: everyday
+Genre: Pop/Rock
+Subgenres: [u'Early Pop/Rock', u'Rock & Roll', u'Rockabilly']
+
+Song:
+
+Everyday, it's a gettin' closer,
+Goin' faster than a roller coaster,
+Love like yours will surely come my way, (hey, hey, hey)
+
+Everyone says go ahead and ask her,
+Everyday, it's a gettin' faster,
+Love like yours will surely come my way, (hey, hey, hey)
+
+Every way, love's a little stronger,
+
+Everyday seems a little longer,
+True love from me?
+Come what may, do you ever long for
+Everyday, it's a gettin' closer,
+Goin' faster than a roller coaster,
+Everyday, it's a gettin' faster,
+Love like yours will surely come my way, (hey, hey, hey)
+
+Love like yours will surely c]ome my way, (hey, hey, hey)
+Everyone says go ahead and ask her,
+Everyday seems a little longer,
+
+Every way, love's a little stronger,
+Come what may, do you ever long for
+Everyday, it's a gettin' closer,
+True love from me?
+
+Love like yours will surely come my way, (hey, hey, hey)
+Goin' faster than a roller coaster,
+Love like yours will surely come my way

@@ -1,0 +1,26 @@
+Artist: barney
+Title: if_youre_happy_and_you_know_it
+Genre: Jazz
+Subgenres: [u'Bop', u'Cool', u'West Coast Jazz']
+
+Song:
+
+If you're happy and you know it clap your hands.
+If you're happy and you know it clap your hands.
+If you're happy and you know it and you really want to show it,
+If you're happy and you know it clap your hands.
+
+If you're happy and you know it stomp your feet.
+If you're happy and you know it stop your feet.
+If you're happy and you know it and you really want to show it,
+If you're happy and you know it stop your feet.
+
+If you're happy and you know it shout "Horray!"
+If you're happy and you know it shout "Horray!"
+If you're happy and you know it and you really want to show it,
+If you're happy and you know it shout "Horray!"
+
+If you're happy and you know it do all three.
+If you're happy and you know it do all three.
+If you're happy and you know it and you really want to show it,
+If you're happy and you know it do all three!

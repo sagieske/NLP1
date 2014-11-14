@@ -1,0 +1,40 @@
+Artist: cn_blue
+Title: because_i_miss_you
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Pop/Rock', u'Adult Contemporary', u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Dream Pop']
+
+Song:
+
+Ttokgateun haneure neul gateun haru
+Geudaega eomneun geot malgoneun
+Dallajin ge eomneunde
+Nan bonaen jul aratjyo da namgim eobsi
+Anijyo anijyo nan ajik geudaereul mot bonaetjyo
+Geuriwo geuriwoseo geudaega geuriwoseo
+Maeil nan honjaseoman
+Geudaereul bureugo bulleobwayo
+Bogopa bogopaseo geudaega bogopaseo
+Ije nan seupgwancheoreom
+Geudae ireumman bureuneyo oneuldo
+
+Nan bonaen jul aratjyo da namgim eobsi
+Anijyo anijyo nan ajik geudaereul mot bonaetjyo
+
+Geuriwo geuriwoseo geudaega geuriwoseo
+Maeil nan honjaseoman
+Geudaereul bureugo bulleobwayo
+Bogopa bogopaseo geudaega bogopaseo
+Ije nan seupgwancheoreom
+Geudae ireumman bureuneyo oneuldo
+
+Haruharuga jugeul geotman gateunde
+Eotteoke haeya haeyo
+
+Saranghae saranghaeyo
+Geudaereul saranghaeyo
+Maljocha motagoseo
+Geudaereul geureoke bonaenneyo
+Mianhae mianhaeyo nae mari deullinayo
+Dwineujeun nae gobaegeul
+Geudaen deureul su isseulkkayo
+Saranghaeyo

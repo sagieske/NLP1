@@ -1,0 +1,23 @@
+Artist: christmas_songs
+Title: feliz_navidad
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Indie Rock', u'Alternative Singer/Songwriter', u'Lo-Fi']
+
+Song:
+
+Feliz Navidad
+Feliz Navidad
+Feliz Navidad
+Prospero aсo y felicidad.
+
+Feliz Navidad
+Feliz Navidad
+Feliz Navidad
+Prospero aсo y felicidad.
+
+I wanna wish you a Merry Christmas
+I wanna wish you a Merry Christmas
+I wanna wish you a Merry Christmas
+From the bottom of my heart.
+
+[Repeats]

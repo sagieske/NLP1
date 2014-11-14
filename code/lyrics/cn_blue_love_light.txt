@@ -1,0 +1,57 @@
+Artist: cn_blue
+Title: love_light
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Pop/Rock', u'Adult Contemporary', u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Dream Pop']
+
+Song:
+
+[Jonghyun] Geudael bomyeon eolguri bbalgaejigo
+Geudael bomyeon gaseumi dugeun dugeun
+Aicheoreom sujubge malhago
+Geudael bomyeon gwaenshiri useumi na
+Babo cheoreom jakku man geurae
+Ama naege sarangi on geot gata
+
+[YongHwa] Geudae neun nae maeum sogeui president
+Nae gaseumeui byeol sunohji
+I'm genie for you girl
+Nae sumeul meot ge haji
+Geudaega wonhaneun geonda
+Neoreul saranghanikka
+Nae sarange iyuneun eobjanha you know
+
+[YongHwa] Gedaeneun darling
+Bam haneul byeol bit boda areumdaweoyo
+Nae mamsok gipeun goseseo banjjak georineun
+Na maneui sarang bit
+
+[YongHwa] Geudaereul saranghaeyo darling
+Eonjena nae gyeoteseo bicheul naejweoyo
+Maeil bam bara bogo
+Bara bwado areumdaweoyo
+Geudaen naeui sarang bit
+
+[Jonghyun] Geudael bomyeon gureumeul naneun gibun
+Yuchihaedo jakkuman geurae ama naege sarangi on geon gabwa
+
+[YongHwa] Gedaeneun darling
+Bam haneul byeol bit boda areumdaweoyo
+Nae mamsok gipeun goseseo banjjak georineun
+Na maneui sarang bit
+
+Geudaereul saranghaeyo darling
+Eonjena nae gyeoteseo bicheul naejweoyo
+Maeil bam bara bogo
+Bara bwado areumdaweoyo
+Geudaen naeui sarang bit
+
+[YongHwa] Geudaeneun lovely
+Jeo haneul haetsal boda nuni busyeoyo
+Nae mamsok eodun got kkaji balkke bichuneun
+Na maneui sarang bit
+
+[YongHwa] Geudaereul saranghaeyo lovely (lovely)
+Du nuneul gamabwado geudae boyeoyo
+Ireokhae bara bogo
+Bara bwado nuni busyeoyo
+Geudaen naeui sarang bit

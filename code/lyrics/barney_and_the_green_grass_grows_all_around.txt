@@ -1,0 +1,64 @@
+Artist: barney
+Title: and_the_green_grass_grows_all_around
+Genre: Jazz
+Subgenres: [u'Bop', u'Cool', u'West Coast Jazz']
+
+Song:
+
+there was a hole
+in the middle of the ground
+the prettiest hole
+that you ever did see
+and the hole in the ground
+and the green grass grows all around all around
+and the green grass grows all around
+and in this hole
+there was a tree
+the prettiest tree
+that you ever did see
+and the tree in the hole
+and the hole in the ground
+and the green grass grows all around all around
+and the green grass grows all around
+and on this tree
+there was a branch
+the prettiest branch
+that you ever did see
+and the branch on the tre
+and the tree in the hole
+and the hole in the ground
+and the green grass grows all around all around
+and the green grass grows all around
+and on this branch
+there was a nest
+the prettiest nest
+that you ever did see
+and the nest on the branch
+and the branch on the tree
+and the tree in the hole
+and the hole in the ground
+and the green grass grows all around all around
+and the green grrass grows all around
+and in this nest
+there was an egg
+the prettiest egg
+that you ever did see
+and the egg in the nest
+and the nest on the branch
+and the branch on the tree
+and the tree in the hole
+and the hole in the ground
+and the green grass grows all around all around
+and the green grrass grows all around
+and in this egg
+there was a bird
+the prettiest bird
+that you ever did see
+and the bird in the egg
+and the egg in the nest
+and the nest on the branch
+and the branch on the tree
+and the tree in the hole
+and the hole in the ground
+and the green grass grows all around all around
+and the green grrass grows all around

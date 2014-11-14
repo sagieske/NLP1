@@ -1,0 +1,46 @@
+Artist: bill_withers
+Title: lean_on_me
+Genre: R&B
+Subgenres: [u'Soul', u'Smooth Soul', u'Urban']
+
+Song:
+
+Sometimes in our lives
+We all have pain
+We all have sorrow
+But if we are wise
+We know that there's always tomorrow
+
+Lean on me, when you're not strong
+And I'll be your friend
+I'll help you carry on
+For it won't be long
+'Til I'm gonna need
+Somebody to lean on
+
+Please swallow your pride
+If I have things you need to borrow
+For no one can fill those of your needs
+That you won't let show
+
+You just call on me brother, when you need a hand (Chorus)
+We all need somebody to lean on
+I just might have a problem that you'd understand
+We all need somebody to lean on
+
+Second Verse
+(Chorus)
+
+If there is a load you have to bear
+That you can't carry
+I'm right up the road
+I'll share your load
+If you just call me
+(Chorus)
+Call me (if you need a friend)
+Call me (call me)
+Call me (if you need a friend)
+Call me (if you ever need a friend)
+Call me (call me)
+Call me
+Call me (if you need A friend)

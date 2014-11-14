@@ -1,0 +1,50 @@
+Artist: annie
+Title: tomorrow
+Genre: Pop/Rock
+Subgenres: [u'Adult Contemporary', u'Contemporary Pop/Rock', u'Adult Alternative Pop/Rock', u'Alternative/Indie Rock']
+
+Song:
+
+The sun'll come out
+Tomorrow
+Bet your bottom dollar
+That tomorrow
+There'll be sun!
+
+Just thinkin' about
+Tomorrow
+Clears away the cobwebs,
+And the sorrow
+'Til there's none!
+
+When I'm stuck in a day
+That's gray,
+And lonely,
+I just stick out my chin
+And Grin,
+And Say,
+Oh
+
+The sun'll come out
+Tomorrow
+So ya gotta hang on
+'Til tomorrow
+Come what may
+
+Tomorrow!
+Tomorrow!
+I love ya
+Tomorrow!
+
+You're always
+A day
+A way!
+
+Tomorrow!
+Tomorrow!
+I love ya
+Tomorrow!
+
+You're always
+A day
+A way!

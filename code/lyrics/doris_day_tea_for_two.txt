@@ -1,0 +1,43 @@
+Artist: doris_day
+Title: tea_for_two
+Genre: Vocal
+Subgenres: [u'Traditional Pop', u'Vocal Pop', u'Swing']
+
+Song:
+
+Oh, honey
+Picture me upon your knee
+With tea for two and two for tea
+Just me for you and you for me alone
+
+Nobody near us to see us or hear us
+No friends or relations on weekend vacations
+We won't have it known, dear
+That we own a telephone, dear
+
+Day will break and I'll awake
+And start to bake a sugar cake
+For you to take, for all the boys to see
+(Oh, darling)
+
+We will raise a family
+A boy for you and a girl for me
+Can't you see how happy we will be?
+
+Picture you upon my knee
+Tea for two and two for tea
+Me for you and you for me alone
+
+Nobody near us to see us or hear us
+No friends or relations on weekend vacations
+We won't have it known, dear
+That we own a telephone, dear
+
+Day will break and I'm gonna wake
+And start to bake a sugar cake
+For you to take, for all the boys to see
+
+We will raise a family
+A boy for you and a girl for me
+Oh, can't you see how happy we will be?
+(How happy we will be?)

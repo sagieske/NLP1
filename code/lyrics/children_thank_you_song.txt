@@ -1,0 +1,13 @@
+Artist: children
+Title: thank_you_song
+Genre: Pop/Rock
+Subgenres: [u'Heavy Metal', u'Scandinavian Metal', u'Death Metal', u'Power Metal', u'Speed/Thrash Metal']
+
+Song:
+
+Thank you for all that you do.
+You make us feel so special, and very lucky.
+We're glad that you are here,
+We couldn't do without you that's the truth!
+And so we say that we appreciate you,
+Yes we really, really really really do!

@@ -1,0 +1,18 @@
+Artist: buddy_holly
+Title: raining_in_my_heart
+Genre: Pop/Rock
+Subgenres: [u'Early Pop/Rock', u'Rock & Roll', u'Rockabilly']
+
+Song:
+
+The sun is out, the sky is blue, there's not a cloud to spoil the view but it's raining, raining in my heart
+The weather man says clear today, he doesn't know you've gone away and it's raining, raining in my heart
+Oh, misery, misery, what's gonna become of me?
+I tell my blues they mustn't show but soon these tears are bound to flow, 'cause it's raining, raining in my heart
+
+But it's raining, raining in my heart
+
+And it's raining, raining in my heart
+Oh, misery, misery, what's gonna become of me?
+I tell my blues they mustn't show but soon these tears are bound to flow, 'cause it's raining, raining in my heart
+Raining in my heart, raining in my heart

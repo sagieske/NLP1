@@ -1,0 +1,25 @@
+Artist: ariel_rivera
+Title: simple_lang
+Genre: Pop/Rock
+Subgenres: []
+
+Song:
+
+Simple lang naman ang nais
+Sa damdamin at sa isip
+Hindi ba't kay sarap ng buhay
+Kung simple ang dating
+Simple lamang sa pag-ibig
+Nang 'di laking gulo sa isip
+Kailangan mong maging tapat
+Ganyan kung umiibig
+Chorus:
+Simpleng buhay ay kay ganda
+Mayroong ngiti
+Mayroong saya
+Walang hindi magagawa
+Lalo na't simple ka
+Sama-sama magkaisa
+Kahit maging sino ka pa
+Lahat ay 'di ba't kay dali
+Ganyan ka lang sana

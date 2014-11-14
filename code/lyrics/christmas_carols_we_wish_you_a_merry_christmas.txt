@@ -1,0 +1,44 @@
+Artist: christmas_carols
+Title: we_wish_you_a_merry_christmas
+Genre: Holiday
+Subgenres: []
+
+Song:
+
+We wish you a Merry Christmas
+We wish you a Merry Christmas
+We wish you a Merry Christmas
+And a Happy New Year.
+
+We wish you a Merry Christmas
+We wish you a Merry Christmas
+We wish you a Merry Christmas
+And a Happy New Year.
+
+Good tidings we bring
+To you and your kin
+Good tidings for Christmas
+And a happy new year.
+
+We wish you a Merry Christmas
+We wish you a Merry Christmas
+We wish you a Merry Christmas
+And a Happy New Year.
+
+Good tidings we bring.
+To you and your king
+Good tidings for Christmas
+And a happy new year.
+
+We wish you a Merry Christmas
+We wish you a Merry Christmas
+We wish you a Merry Christmas
+And a Happy New Year.
+
+We wish you a Merry Christmas
+We wish you a Merry Christmas
+We wish you a Merry Christmas
+And a Happy New Year.
+
+We wish you a merry Christmas
+And a happy new year.

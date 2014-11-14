@@ -1,0 +1,48 @@
+Artist: ac_dc
+Title: play_ball
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Aussie Rock', u'Hard Rock', u'Heavy Metal', u'Arena Rock']
+
+Song:
+
+Listen!
+
+Pick me up
+Fill my cup
+Pour me another round
+
+Come on man, mix in the sin
+Come in and join the crowd
+I said! 
+it's party time
+When I'm on the loose
+Make it feel alright
+Listen, drinks all around I'm in the mood
+Because the night is mine
+
+Let's play ball
+Shoot down the walls, yeah!
+Let's play ball, baby
+Battin' down the stalls
+Play, play, play ball
+
+Listen Sid, light me up
+I'm in love
+I'm off the leash and unbound
+Dive on in and swim in the gin
+Come on, shout it out loud
+
+Let's play ball
+Shooting down the wall, yeah
+Let's play ball
+Battin' down the stalls, yeah
+Play, play, play ball
+
+Let's play ball
+Shooting at a wall
+Let's play ball
+And never stall
+Let's play ball
+Let's play ball
+Let's play ball
+Play, play, play ball
