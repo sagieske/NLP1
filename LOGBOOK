@@ -7,3 +7,6 @@ S: Sharon
 A- Created proposal
 S- Contacted authors of Lyrics-based Analysis and Classification of Music for dataset. Can't use their dataset.
 E- Built crawler: Retrieves cleaned-up text from lyricsmode.com (their top n < 100 artists for every letter) and matches each artist with a genre and some subgenres, then writes the song lyrics + artist name + song name + genre info + subgenre info to a file 'artistname_songname.txt'
+
+14-11:
+D- Improved crawler by adding pause after a few requests, fixing a few errors and speeding it up seriously by requesting artist data only once instead of for every song. Dataset build.
