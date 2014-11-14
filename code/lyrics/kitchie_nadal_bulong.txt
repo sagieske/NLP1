@@ -1,0 +1,42 @@
+Artist: kitchie_nadal
+Title: bulong
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Singer/Songwriter']
+
+Song:
+
+Ikaw ba'y nalulungkot?
+Nababalut pa ng poot,
+Maraming hinanakit sa mundo.
+Di alam anong gagawin kundi ubusin ang oras sa gin.
+Akala mo'y iya'y may mararating.
+
+Hoy kaibigan ko!
+Pakinggan mo ang mga bulong sa 'yo.
+Ito'y di galing sa mundo.
+Patungo sa pangakong paraiso.
+
+Nasaan ang talino mo?
+Diskarte kamo ng kano!
+Apakan ang lahat kahit pa kapwa mo!
+Minsan ang kagitingan ay wala sa bigat ng pinapasan.
+Sa pagsuko't pagharap ng kabiguan.
+
+Hoy kaibigan ko!
+Pakinggan mo ang mga bulong sa 'yo.
+Ito'y di galing sa mundo.
+Patungo sa pangakong paraiso.
+
+Tumatakbo ang oras.
+Gumising ka't bumangun na.
+Pagka't hindi na ikaw ang biktima.
+
+Hoy kaibigan ko!
+Pakinggan mo ang mga bulong sa 'yo.
+Ito'y di galing sa mundo.
+Patungo sa pangakong paraiso.
+
+Hoy kaibigan ko!
+Pakinggan mo ang mga bulong sa 'yo.
+Ito'y di galing sa mundo.
+Patungo sa pangakong paraiso.

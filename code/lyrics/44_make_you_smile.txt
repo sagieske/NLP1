@@ -1,0 +1,47 @@
+Artist: 44
+Title: make_you_smile
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Punk-Pop']
+
+Song:
+
+The last time I saw you, you turned away
+I couldn't see you with the Sun shining in my eyes
+I said "Hello" but you kept on walking
+Iґm Going deaf from the sound of the freeway
+
+The Last time I saw you, you turned away
+I couldn't hear you with your voice ringing in my ears
+Do you remember where we used to sleep at night
+I couldn't feel you, your always so far away
+
+The first time I saw you, you turned away
+I couldn't see you with the smoke getting in my eyes
+I said "Hello" but you kept on walking
+Iґm Going deaf from the sound of the dj
+
+The first time I saw you, you turned away
+I couldn't hear with the noise ringing in my ears
+Do you remember where we used to sleep at night
+I couldn't feel you, your always so far away
+
+I don't, don't wanna take you home
+Please don't, don't make me sleep alone
+If I could, I'd only want to make you smile
+If you were to stay with me a while
+
+The next time I see you, you'll turn away
+I'll say "Hello" but you'll keep on walking
+The next time you see me, I'll turn away
+Do you remember where we used to sleep at night,
+I couldn't feel you, you're always so far away
+
+I don't, don't wanna take you home
+Please don't, don't make me sleep alone
+If I could, I'd only want to make you smile
+If you were to stay with me a while
+
+I don't, don't wanna take you home
+Please don't, don't make me sleep alone
+If I could, I'd only want to make you smile
+If you were to stay with me a while

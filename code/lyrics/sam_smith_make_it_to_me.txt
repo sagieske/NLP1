@@ -1,0 +1,54 @@
+Artist: sam_smith
+Title: make_it_to_me
+Genre: Pop/Rock
+Subgenres: [u'Pop', u'Contemporary R&B']
+
+Song:
+
+(Verse)
+My mind runs away to you
+With a thought I hope you'll see
+Can't see where it's wandered to
+But I know where it wants to be
+
+(Pre-Chorus)
+I'm waiting patiently
+Though time is moving slow
+I have one vacancy
+And I wanted you to know
+
+(Chorus)
+That you're the one
+Designed for me
+A distant stranger
+That I will complete
+I know you're out there
+We're meant to be
+So keep your head down
+And make it to me
+Make it to me
+
+(Verse)
+So sick of this loneliness
+It seems such a waste of breath
+So much that I need to say
+So much to get off my chest
+
+(Pre-Chorus)
+I'm waiting patiently
+Though time is moving slow
+I have one vacancy
+And I wanted you to know
+
+(Chorus)
+That you're the one
+Designed for me
+A distant stranger
+That I will complete
+I know you're out there
+We're meant to be
+So keep your head down
+And make it to me
+Make it to me
+And make it to me
+Make it to me

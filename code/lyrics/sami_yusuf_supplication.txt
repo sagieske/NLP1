@@ -1,0 +1,32 @@
+Artist: sami_yusuf
+Title: supplication
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Pop/Rock', u'Psychedelic/Garage', u'Singer/Songwriter', u'Soft Rock', u'AM Pop', u'Album Rock', u'Psychedelic Pop']
+
+Song:
+
+[x4]
+Allahumma salli 'ala,
+Sayyidina,
+Muhammadin an-Nabiyyi al-ummiyyi,
+Wa 'ala alihi wa sahbihi wa sallim.
+(Translation: O Allah, send your peace and blessings upon our Master Muhammad, the Unlettered Prophet, and upon his family and companions.)
+
+O My Lord,
+My sins are like
+The highest mountain;
+My good deeds
+Are very few
+They're like a small pebble.
+I turn to You
+My heart full of shame,
+My eyes full of tears.
+Bestow Your
+Forgiveness and Mercy
+Upon me.
+Ya Allah,
+Send your peace and blessings
+On the Final Prophet,
+And his family,
+And companions,
+And those who follow him.

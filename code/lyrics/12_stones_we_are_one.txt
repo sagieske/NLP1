@@ -1,0 +1,82 @@
+Artist: 12_stones
+Title: we_are_one
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'British Invasion', u'Contemporary Pop/Rock', u'Hard Rock', u'Regional Blues', u'Rock & Roll', u'British Psychedelia', u'Psychedelic/Garage', u'Blues-Rock', u'British Blues', u'Dance-Rock', u'Early Pop/Rock', u'AM Pop']
+
+Song:
+
+We walk alone
+In the unknown
+We live to win another victory
+We are the young
+Dying sons
+We live to change the face of history so be afraid
+It's the price we pay
+The only easy day was yesterday
+So hear our voice, 
+We have a choice, 
+It's time to face it
+
+We are one
+We are one
+We are one
+We will stand together
+Number one
+Number one
+The chosen ones
+We are one
+We are one
+We will fight forever
+We are one and we won't die young
+
+We are the bold
+United souls
+We live to win another victory
+Our sacred scars
+Show who we are
+And tell the story of our memories
+
+Don't be afraid
+It's the price we pay
+The only easy day was yesterday
+So hear our voice
+We have a choice
+It's time to face it
+
+We are one
+We are one
+We are one
+We will stand together
+Number one
+Number one
+The chosen ones
+We are one
+We are one
+We will fight forever
+We are one and we won't die young
+
+We walk alone
+In the unknown
+We live to win another victory
+Our sacred scars
+Show who we are
+It's time to face it
+
+So be afraid
+It's the price we pay
+The only easy day was yesterday
+So hear our voice
+We have a choice
+It's time to face it
+
+We are one
+We are one
+We are one
+We will stand together
+Number one
+Number one
+The chosen ones
+We are one
+We are one
+We will fight forever
+We are one and we won't die young

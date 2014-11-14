@@ -1,0 +1,41 @@
+Artist: john_mayer
+Title: say
+Genre: Pop/Rock
+Subgenres: [u'Adult Alternative Pop/Rock', u'Alternative/Indie Rock', u'Contemporary Pop/Rock', u'Contemporary Singer/Songwriter', u'Alternative Pop/Rock']
+
+Song:
+
+Take all of your wasted honor
+Every little past frustration
+Take all your so called problems
+Better put 'em in quotations
+
+Say what you need to say (x7)
+Say what you need to saaaay...
+
+Walking like a one man army
+Fighting with the shadows in your head
+Living out the same old moment
+Knowing you'd be better off instead
+
+If you could only
+Say what you need to say (x7)
+Say what you need to saaay...
+
+Have no fear
+For giving in
+Have no fear
+For giving over
+You better know that in the end
+It's better to say too much
+Then never to say what you need to say again
+
+Even if your hands are shaking
+And your faith is broken
+Even as the eyes are closing
+Do it with a heart wide open... Wide...
+
+Say what you need to say (x7)
+Say what you need to
+Say what you need to
+Say what you need to say...

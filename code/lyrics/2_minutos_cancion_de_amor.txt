@@ -1,0 +1,54 @@
+Artist: 2_minutos
+Title: cancion_de_amor
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'College Rock', u'Contemporary Pop/Rock', u'Post-Punk', u'Dance-Rock']
+
+Song:
+
+Yo estoy enamorado de vos
+
+Desde hace mucho tiempo
+
+Me gusta tu cuerpo esbelto,
+
+Pero mas me gusta lo de adentro.
+
+Muchas veces me di vuelta por vos
+
+Y muchas dadas vueltas mas yo tendr?.
+
+Siempre te he sido fiel
+
+Pero voz conmigo no lo sos
+
+Cerveza, yo te quiero
+
+Cerveza, yo te adoro
+
+Cerveza, yo te quiero
+
+Sustancia, yo te adoro.
+
+Yo estoy enamorado de vos
+
+Desde hace mucho tiempo
+
+Me gusta tu cuerpo esbelto,
+
+Pero mas me gusta lo de adentro.
+
+Muchas veces me di vuelta por vos
+
+Y muchas dadas vueltas mas yo tendr?.
+
+Siempre te he sido fiel
+
+Pero voz conmigo no lo sos
+
+Cerveza, yo te quiero
+
+Cerveza, yo te adoro
+
+Cerveza, yo te quiero
+
+Mi negra, yo te adoro.

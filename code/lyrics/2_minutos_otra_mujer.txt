@@ -1,0 +1,36 @@
+Artist: 2_minutos
+Title: otra_mujer
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'College Rock', u'Contemporary Pop/Rock', u'Post-Punk', u'Dance-Rock']
+
+Song:
+
+No te tortures mas
+Ella te abandon
+Y ya no hay solucin.
+El verano que pasaron
+Pudo ser el mejor
+Pero ella igual
+Te abandon.
+Y el invierno se qued
+Y su fantasma tambin
+Y la herida que no deja
+De sangrar.
+Es de noche en la ciudad
+Y hace fro en las calles
+Y en la televisin
+No hay nada para ver.
+Tu vaso esta vaco
+Y la botella tambien
+Son las 6 de la maana
+Y no hay nada para hacer.
+No te tortures mas
+Ella te abandon,
+Pero otra mujer
+A tu vida llegar
+Otra mujer llegar
+Otra mujer a tu vida llegar
+Otra mujer llegar
+Otra mujer a tu vida llegar
+Otra mujer llegar
+Otra mujer a tu vida llegar

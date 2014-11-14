@@ -1,0 +1,33 @@
+Artist: 4him
+Title: it_is_well
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Goth Rock', u'Neo-Glam', u'Goth Metal', u'Heavy Metal']
+
+Song:
+
+When peace, like a river, attendeth my way,
+When sorrows like sea billows roll;
+Whatever my lot, thou hast taught me to say,
+It is well, it is well with my soul.
+Though Satan should buffet, though trials should come,
+Let this blest assurance control,
+That Christ has regarded my helpless estate,
+And hath shed his own blood for my soul.
+CHORUS
+It is well
+With my soul
+It is well
+it is well
+With my soul
+My sin--oh, the bliss of this glorious thought:
+My sin not in part, but the whole
+Is nailed to the cross and I bear it no more,
+Praise the Lord, praise the Lord, O my soul!
+And, Lord, haste the day when the faith shall be sight,
+The clouds be rolled back as a scroll,
+The trump shall re-sound and the Lord shall descend,
+"Even, so," it is well with my soul.
+REPEAT CHORUS
+Words: Horatio G. Spafford, Music: Philip P. Bliss
+Arranged by: Michael Omartian, Mark Harris, Andy Chrisman,
+Marty Magehee, Kirk Sullivan

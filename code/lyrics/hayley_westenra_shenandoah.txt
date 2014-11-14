@@ -1,0 +1,23 @@
+Artist: hayley_westenra
+Title: shenandoah
+Genre: Classical
+Subgenres: [u'Classical Crossover', u'Classical Pop', u'Orchestral/Easy Listening', u'Traditional Pop', u'Vocal Music', u'Choral']
+
+Song:
+
+Oh, Shenandoah, I long to hear you
+Away, you rollin' river
+O Shenandoah, I long to hear you.
+Away I'm bound to go
+'Cross the wide Missouri.
+'Tis seven long years since I last saw you
+Away, you rollin' river
+'Tis seven long years since I last saw you
+Away I'm bound to go
+'Cross the wide Missouri.
+
+Oh Shenandoah, I'm bound to leave you
+Away, you rollin' river.
+O Shenandoah, I'll not deceive you,
+Away I'm bound to go
+'Cross the wide Missouri.

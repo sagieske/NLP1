@@ -1,0 +1,42 @@
+Artist: do_as_infinity
+Title: fukai_mori
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Pop/Rock', u'J-Pop']
+
+Song:
+
+Fukai fukai mori no oku ni ima mo kitto
+Okizari ni shita kokoro kakushiteru yo
+Sagasu hodo no chikara mo naku tsukarehateta
+Hitobito wa eien no yami ni kieru
+Chisai mama nara kitto ima demo mieta ka na
+
+Bokutachi wa ikiru hodo ni
+Nakushiteku sukoshi zutsu
+Itsuwari ya uso o matoni
+Tachisukumu koe mo naku
+
+Aoi aoi sora no iro mo kizukanai mama
+Sugiteyuku mainichi ga kawatteyuku
+Tsukurareta wakugumi o koe ima o ikite
+Sabitsuita kokoro mata ugokidasu yo
+
+Toki no rizumu o shireba mo ichido toberu darou
+
+Bokutachi wa samayoi nagara
+Ikite yuku doko made mo
+Shinjiteru hikari motome
+Arukidasu kimi to ima
+
+Bokutachi wa ikiru hodo ni
+Nakushiteku sukoshi zutsu
+Itsuwari ya uso o matoni
+Tachisukumu koe mo naku
+
+Bokutachi wa samayoi nagara
+Ikite yuku doko made mo
+Furikaeru
+Michi wo tozashi
+Aruiteku eien ni
+Tachisukumu koe mo naku
+Ikite yuku eien ni

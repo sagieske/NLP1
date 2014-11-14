@@ -1,0 +1,47 @@
+Artist: hale
+Title: bahay_kubo
+Genre: Pop/Rock
+Subgenres: [u'Pop Idol', u'Contemporary Country', u'Country-Pop']
+
+Song:
+
+Alam Mo Ba
+Kung Saan Tayo
+Tutungo
+Ilang Gabi
+Na Tayong
+Nawawala
+Halika Na... 
+Bakas Sa Labi Mo
+Pagod
+At Uhaw
+Hanggang Kailan
+Tayo
+Maglalakbay
+
+Halika Na
+Doon Tayo Matulog Sa Gabi
+Hindi Kita Iiwan
+Yakapin Mo Ako
+Sa Bahay Kubo
+
+Sa Dilim
+Huwag Kang Matakot
+Matulog Nang Mahimbing
+Malapit Na
+Bukas
+Mamumula Ang Langit
+
+Halika Na
+Doon Tayo Matulog Sa Gabi
+Hindi Kita Iiwan
+Yakapin Mo Ako
+Sa Bahay Kubo
+
+(Instrumental)
+
+Halika Na
+Doon Tayo Matulog Sa Gabi
+Hindi Kita Iiwan
+Yakapin Mo Ako
+Sa Bahay Kubo

@@ -1,0 +1,43 @@
+Artist: imagine_dragons
+Title: warriors
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'New Wave/Post-Punk Revival']
+
+Song:
+
+As a child, you would wait
+And watch from far away.
+But you always knew that you'd be the one
+To work while they all play.
+
+And you, you lay, awake at night and scheme
+Of all the things that you would change, 
+But it was just a dream! 
+
+Here we are, don't turn away now, 
+We are the warriors that built this town.
+
+Here we are, don't turn away now, 
+We are the warriors that built this town. 
+From Dust.
+
+The time will come, when you'll have to rise
+Above the best, and prove yourself, 
+Your spirit never dies! 
+Farewell, I've gone, to take my throne
+Above, don't weep for me 
+Cause this will be the labor of my love
+
+Here we are, don't turn away now, 
+We are the warriors that built this town.
+
+Here we are, don't turn away now, 
+We are the warriors that built this town. 
+From Dust.
+
+Here we are, don't turn away now, 
+We are the warriors that built this town.
+
+Here we are, don't turn away now, 
+We are the warriors that built this town. 
+From Dust.

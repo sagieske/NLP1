@@ -1,0 +1,40 @@
+Artist: sarah_geronimo
+Title: sana_ngayong_pasko
+Genre: Pop/Rock
+Subgenres: [u'Adult Alternative Pop/Rock', u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Contemporary Singer/Songwriter', u'Contemporary Pop/Rock']
+
+Song:
+
+Pasko na naman
+Ngunit wala ka pa
+Hanggang kailan kaya
+Ako'y maghihintay sa iyo
+
+Bakit ba naman
+Kailangang lumisan pa
+Ang tanging hangad ko lang
+Ay makapiling ka
+
+[Chorus]
+Sana ngayong Pasko
+Ay maalala mo pa rin ako
+Hinahanap-hanap pag-ibig mo
+At kahit wala ka na
+Nangangarap at umaasa pa rin ako
+Muling makita ka
+At makasama ka
+Sa araw ng Pasko
+
+Pasko na naman
+Ngunit wala ka pa
+Hanggang kailan kaya
+Ako'y maghihintay sa iyo
+
+Bakit ba naman
+Kailangang lumisan pa
+Ang tanging hangad ko lang
+Ay makapiling ka
+
+[Repeat chorus 2x]
+
+Sana ngayong Pasko...

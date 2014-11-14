@@ -1,0 +1,50 @@
+Artist: seekers
+Title: morningtown_ride
+Genre: Pop/Rock
+Subgenres: [u'AM Pop', u'Folk-Rock', u'Psychedelic/Garage', u'Early Pop/Rock', u'Folk-Pop']
+
+Song:
+
+Train whistle blowin',
+Makes a sleepy noise;
+Underneath their blankets
+Go all the girls and boys.
+Rockin', rollin', ridin',
+Out along the bay,
+All bound for Morningtown,
+Many miles away.
+
+Driver at the engine,
+Fireman rings the bell,
+Sandman swings the lantern
+To show that all is well.
+
+Rockin', rollin', ridin',
+Out along the bay,
+All bound for Morningtown,
+Many miles away.
+
+Maybe it is raining
+Where our train will ride;
+All the little travellers
+Are warm and snug inside.
+
+Rockin', rollin', ridin',
+Out along the bay,
+All bound for Morningtown,
+Many miles away.
+
+Somewhere there is sunshine,
+Somewhere there is day,
+Somewhere there is Morningtown,
+Many miles away.
+
+Rockin', rollin', ridin',
+Out along the bay,
+All bound for Morningtown,
+Many miles away.
+
+Rockin', rollin', ridin',
+Out along the bay,
+All bound for Morningtown,
+Many miles away.

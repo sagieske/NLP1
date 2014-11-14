@@ -1,0 +1,31 @@
+Artist: 2_minutos
+Title: amor_suicida
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'College Rock', u'Contemporary Pop/Rock', u'Post-Punk', u'Dance-Rock']
+
+Song:
+
+Me encontr una chica en la plaza
+Estaba llorando, yo no se por que
+Tenia una petaca, de ginebra Bols
+Y yo entonces, me acerque.... uh oohh
+Hey hey hey
+Hey hey hey
+Yo le pregunt que le pasaba
+Y ella me conto todo su rollo personal.
+Tenia un novio que se llamaba Antonio
+Que habia muerto en la guerra de Malvinas... uh oohh
+Hey hey hey
+Hey hey hey
+El tiempo corria y la petaca bajaba.
+Ella me dio un beso y se despidio.
+Camino unos pasos y un arma saco
+Yo le pregunte: "nena que vas a hacer?"
+No me respondio
+Y el gatillo ella apret.
+Hey hey hey
+Hey hey hey
+Ella se vol la cabeza por su viejo amor
+Ella se vol la cabeza por su muerto amor
+Ella se vol la cabeza por su viejo amor
+Ella se vol la cabeza por su muerto amor

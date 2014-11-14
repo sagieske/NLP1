@@ -1,0 +1,18 @@
+Artist: sarah_brightman
+Title: pie_jesu_english
+Genre: Vocal
+Subgenres: [u'Adult Contemporary']
+
+Song:
+
+Merciful Jesus, Merciful Jesus, Merciful Jesus, Merciful Jesus
+You who take away the sins of the world
+Grant them peace
+Grant them everlasting peace
+
+Lamb of god, lamb of god, lamb of god, lamb of god
+You who take away the sins of the world
+Grant them peace
+Grant them everlasting peace
+
+Everlasting, peace everlasting

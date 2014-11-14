@@ -1,0 +1,40 @@
+Artist: 10000_maniacs
+Title: like_the_weather
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'College Rock', u'Jangle Pop', u'Adult Alternative Pop/Rock']
+
+Song:
+
+The color of the sky as far as I can see is coal grey.
+Lift my head from the pillow and then fall again.
+With a shiver in my bones just thinking about the weather.
+A quiver in my lips as if I might cry.
+
+Well by the force of will my lungs are filled and so I breathe.
+Lately it seems this big bed is where I never leave.
+Shiver in my bones just thinking about the weather.
+Quiver in my voice as I cry,
+
+"What a cold and rainy day. Where on earth is the sun hid away."
+
+I hear the sound of a noon bell chime.
+Now I'm far behind.
+You've put in 'bout half a day
+while here I lie
+with a shiver in my bones just thinking about the weather.
+A quiver in my lip as if I might cry,
+
+"What a cold and rainy day. Where on earth is the sun hid away?"
+
+Do I need someone here to scold me
+or do I need someone who'll grab and pull me out of this four poster dull torpor pulling downward.
+For it is such a long time since my better days.
+I say my prayers nightly this will pass away.
+
+The color of the sky is grey as I can see through the blinds.
+Lift my head from the pillow and then fall again
+with a shiver in my bones just thinking about the weather.
+A quiver in my voice as I cry,
+
+"What a cold and rainy day. Where on earth is the sun hid away?"
+I shiver, quiver, and try to wake.

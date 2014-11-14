@@ -1,0 +1,26 @@
+Artist: randy_newman
+Title: i_think_its_going_to_rain_today
+Genre: Pop/Rock
+Subgenres: [u'Film Music', u'Original Score', u'Singer/Songwriter', u'Soundtracks', u'Brill Building Pop', u'Contemporary Pop/Rock', u'AM Pop', u'Film Score', u'Album Rock']
+
+Song:
+
+Broken windows and empty hallways
+A pale dead moon in the sky streaked with gray
+Human kindness is overflowing
+And I think it's going to rain today
+
+Scarecrows dressed in the latest styles
+With frozen smiles to chase love away
+Human kindness is overflowing
+And I think it's going to rain today
+
+Lonely, lonely
+Tin can at my feet
+Think I'll kick it down the street
+That's the way to treat a friend
+
+Bright before me the signs implore me
+To help the needy and show them the way
+Human kindness is overflowing
+And I think it's going to rain today

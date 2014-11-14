@@ -1,0 +1,32 @@
+Artist: seekers
+Title: this_little_light_of_mine
+Genre: Pop/Rock
+Subgenres: [u'AM Pop', u'Folk-Rock', u'Psychedelic/Garage', u'Early Pop/Rock', u'Folk-Pop']
+
+Song:
+
+Chorus:
+This little light of mine, I'm gonna let it shine.
+This little light of mine, I'm gonna let it shine.
+This little light of mine, I'm gonna let it shine.
+Every day, every day, every day, every way,
+Gonna let my little light shine.
+Light that shines is the light of love,
+Hides the darkness from above,
+Shines on me and it shines on you,
+Shows you what the power of love can do.
+Shine my light both bright and clear,
+Shine my light both far and near,
+In every dark corner that I find,
+Let my little light shine.
+[Chorus:]
+Sunday gave me the gift of love,
+Monday peace came from above,
+Tuesday told me to have more faith,
+Wednesday gave me a little more grace,
+Thursday told me to watch and pray,
+Friday told me just what to say and
+Saturday gave me the power divine
+Just to let my little light shine.
+(Chorus twice)
+Shine, shine, shine, shine, shine.

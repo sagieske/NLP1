@@ -1,0 +1,42 @@
+Artist: sarah_geronimo
+Title: how_could_you_say_you_love_me
+Genre: Pop/Rock
+Subgenres: [u'Adult Alternative Pop/Rock', u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Contemporary Singer/Songwriter', u'Contemporary Pop/Rock']
+
+Song:
+
+You say, that you've always been true
+Lookin' in your eyes, I see you lie
+You're trying hard to hide that
+There someone new you found and,
+You want me to believe that you still care
+
+[Refrain]
+How can you hurt me this way
+Everything I knew was lovin' you
+How could you try pretending
+Your love was never ending
+Now you can't even say that you will stay
+
+[Chorus]
+How, how could you say you love me
+When you would go and leave me
+How could you make me hurt so bad
+When I have loved you more than anyone can do
+Can't believe the pain
+That I'm feeling now because of loving you
+
+[Refrain]
+
+[Chorus]
+
+[Bridge]
+I can't seem to understand
+How can love me so unkind
+Still you broke my heart
+Despite what I've done
+Still my love was not enough
+Though I given you my all
+I can't take it anymore
+
+[Chorus]

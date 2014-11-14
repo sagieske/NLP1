@@ -1,0 +1,37 @@
+Artist: yoko_ono
+Title: who_has_seen_the_wind
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Experimental', u'Experimental Rock', u'Contemporary Pop/Rock']
+
+Song:
+
+Original lyrics by christina rossetti (1830 - 1894)
+
+Who has seen the wind?
+Neither you nor i.
+But when the trees bow down their heads
+The wind is passing by.
+
+Who has seen the wind?
+Neither you nor i.
+But when the trees bow down their heads
+The wind is passing by.
+
+Oh, wind, wind,
+Wind, wind, wind.
+
+Who has seen enough?
+Only me and john.
+But when a smile goes round the world
+Our love is catching on.
+
+Oh, smile, smile,
+Smile, smile, smile.
+
+Who has seen your dream?
+Only you and him.
+But when the world gets bright and clear
+You know that we were there.
+
+Oh, world, world,
+World, world, world.

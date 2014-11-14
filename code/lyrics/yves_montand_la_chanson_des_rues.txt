@@ -1,0 +1,38 @@
+Artist: yves_montand
+Title: la_chanson_des_rues
+Genre: Vocal
+Subgenres: [u'French Pop', u'Traditional Pop', u'French', u'French Chanson', u'Vocal Pop', u'Western European Traditions', u'Film Score']
+
+Song:
+
+Bien des gens s'arr?tent
+Et la voix ?mue
+Sans fa?on r?p?tent
+La chanson des rues
+
+Dans la rue chaque soir
+Un accord?on pr?lude
+Dans la rue chaque soir
+Au beau milieu du trottoir
+Les passants s'arr?tent
+Et reprennent en ch?ur
+Le refrain que tout le monde sait par c?ur
+
+Bien des gens s'arr?tent
+Et la voix ?mue
+Sans fa?on r?p?tent
+La vieille chanson des rues
+
+Modeste musique
+Po?sie d'un sou
+Mais cet air m?lancolique
+Vous poursuit partout
+On y parle de tristesse
+De r?ves et d'amours d??us
+Et du regret que vous laisse
+Les ann?es qui ne sont plus
+
+Bien des gens s'arr?tent
+Et la voix ?mue
+Sans fa?on r?p?tent
+La triste chanson des rues

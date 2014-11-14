@@ -1,0 +1,47 @@
+Artist: 2_minutos
+Title: lejos_estoy
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'College Rock', u'Contemporary Pop/Rock', u'Post-Punk', u'Dance-Rock']
+
+Song:
+
+1)
+Miro por la ventana
+Es un dia gris
+La lluvia que cae en el cemento gris
+Una carta mas
+Y una postal
+Y el telefono no para de sonar
+(2)
+Otra noche mas y hace frio aca
+La botella esta vacia y el bar ya cerro
+Un poco cansado
+Un poco aburrido
+Un poco borracho con ganas de pelear
+Otro dia mas y ya van como mil
+Mi angel no me acompaa nose donde andara
+Se que esta perdido por algun lugar
+Y si lo encontras mandalo para aca
+(Coro)
+Lejos estoy
+Lejos de vos
+Lejos
+Estoy (estoy)
+Lejos
+De vos (Repeat)
+Miro por la ventana
+Es un dia gris
+La lluvia que cae en el cemento gris
+Una carta mas
+Y una postal
+Y el telefono no para de sonar
+Otra noche mas y hace frio aca
+La botella esta vacia y el bar ya cerro
+Un poco cansado
+Un poco aburrido
+Un poco borracho con ganas de pelear
+Otro dia mas y ya van como mil
+La verdad que estoy aburrido de este lugar
+Pero pronto nena yo regresare
+Y celebraremos estar juntos otra vez
+Repetir coro

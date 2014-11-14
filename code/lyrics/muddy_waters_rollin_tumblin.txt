@@ -1,0 +1,35 @@
+Artist: muddy_waters
+Title: rollin_tumblin
+Genre: Blues
+Subgenres: [u'Blues Revival', u'Chicago Blues', u'Delta Blues', u'Electric Blues', u'Electric Chicago Blues', u'Regional Blues', u'Slide Guitar Blues']
+
+Song:
+
+Well, I rolled and I tumbled,
+Cried the whole night long.
+Well, I rolled and I tumbled,
+Cried the whole night long.
+Well, I woke up this mornin,
+Didn't know right from wrong.
+Well, I told my baby,
+Before I left that town.
+Well, I told my baby,
+Before I left that town.
+Well, don't you let nobody,
+Tear my barrelhouse down.
+Well, ahh, mmm-hmmm,
+Owww, oww ooo, aww, oww, oh.
+Aaa, mmm-hmmm, oww, oh oh oh
+Owww, oww ooo, aww, oww, oh.
+Well, if the river was whiskey,
+And I was a divin duck.
+Well, if the river was whiskey,
+And I was a divin duck.
+Well, I would dive to the bottom,
+Never would I come up.
+Well, I could a had a religion,
+This bad old thing instead.
+Well, I could a had a religion,
+This bad old thing instead.
+Well, all whiskey and women,
+Would not let me pray.

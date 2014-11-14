@@ -1,0 +1,41 @@
+Artist: yoko_ono
+Title: kiss_kiss_kiss
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Experimental', u'Experimental Rock', u'Contemporary Pop/Rock']
+
+Song:
+
+Kiss, kiss, kiss, kiss me, love,
+Just one kiss, kiss will do.
+Kiss, kiss, kiss, kiss me, love,
+Just one kiss, kiss will do.
+
+Why death?
+Why life?
+Warm hearts?
+Cold darts?
+
+Kiss, kiss, kiss, kiss me, love,
+I'm bleeding inside.
+
+Its a long, long story to tell
+And I can only show you my hell.
+
+Touch, touch, touch, touch me, love,
+Just one touch, touch will do.
+Touch, touch, touch, touch me, love,
+Just one touch, touch will do.
+
+Why me?
+Why you?
+Broken mirror?
+White terror?
+
+Touch, touch, touch, touch me, love,
+I'm shaking inside.
+
+Its that faint, faint sound of the childhood bell
+Ringing in my soul.
+
+Kiss, kiss, kiss, kiss me, love,
+Just one kiss, kiss will do.

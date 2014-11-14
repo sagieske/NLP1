@@ -1,0 +1,35 @@
+Artist: xuxa
+Title: abecedrio_da_xuxa
+Genre: Latin
+Subgenres: [u'Latin Pop']
+
+Song:
+
+A de amor
+B de baixinho
+C de cora??o
+D de docinho
+E de escola
+F de feij?o
+G de gente
+H de humano
+I de igualdade
+J juventude
+L liberdade
+M molecagem
+N natureza
+O obrigado
+P prote??o
+Q de quero quero
+R de riacho
+S saudade
+T de Terra
+U de universo
+V de vitoria
+X O que que ?? - ? Xuxa!
+E Z ? zum, zum, zum, zum
+
+Vamos cantar
+Vamos brincar
+Alegria pra valer
+O abeced?rio da xuxa, vamos aprender

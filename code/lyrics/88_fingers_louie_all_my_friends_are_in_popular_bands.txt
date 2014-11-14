@@ -1,0 +1,13 @@
+Artist: 88_fingers_louie
+Title: all_my_friends_are_in_popular_bands
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Post-Grunge', u'Punk Revival']
+
+Song:
+
+If you insult me in a book
+And I don't know whom I'm friends of
+I drop a name 'bout every hour
+And when I lie about everything
+I don't think anyone's listening
+I bite my hand and fall to sleep

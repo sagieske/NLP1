@@ -1,0 +1,71 @@
+Artist: independence_day
+Title: battle_hymn_of_the_republic
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Post-Grunge', u'Punk Revival', u'Punk-Pop']
+
+Song:
+
+Mine eyes have seen the glory of the coming of the Lord; 
+He is trampling out the vintage where the grapes of
+Wrath are stored; 
+He hath loosed the fateful lightning of His terrible
+Swift sword; 
+His truth is marching on.
+
+CHORUS
+Glory, glory! Hallelujah! 
+Glory, glory! Hallelujah! 
+Glory, glory! Hallelujah! 
+His truth is marching on.
+
+I have seen Him in the watchfires of a hundred circling
+Camps; 
+They have building Him an altar in the evening dews and
+Damps; 
+I can read His righteous sentence by the dim and flaring
+Lamps; 
+His day is marching on.
+
+CHORUS
+Glory, glory! Hallelujah! 
+Glory, glory! Hallelujah! 
+Glory, glory! Hallelujah! 
+His day is marching on.
+
+I have read a fiery gospel, writ in burnished rows of steel; 
+"As ye deal with my contemners, so with you my grace shall
+Deal; 
+Let the hero, born of woman, crush the serpent with his heel, 
+Since God is marching on."
+
+CHORUS
+Glory, glory! Hallelujah! 
+Glory, glory! Hallelujah! 
+Glory, glory! Hallelujah! 
+Since God is marching on.
+
+He has sounded forth the trumpet that shall never call
+Retreat; 
+He is sifting out the hearts of men before His judgement
+Seat; 
+Oh, be swift, my soul, to answer Him! be jubliant, 
+My feet! 
+Our God is marching on.
+
+CHORUS
+Glory, glory! Hallelujah! 
+Glory, glory! Hallelujah! 
+Glory, glory! Hallelujah! 
+Since God is marching on.
+
+In the beauty of the lilies, Christ was born across the
+Sea, 
+With a glory in His bosom that transfigures you and me; 
+As He died to make men holy, let us die to make men free, 
+While God is marching on.
+
+CHORUS
+Glory, glory! Hallelujah! 
+Glory, glory! Hallelujah! 
+Glory, glory! Hallelujah! 
+While God is marching on.

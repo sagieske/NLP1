@@ -1,0 +1,53 @@
+Artist: jason_mraz
+Title: winter_wonderland
+Genre: Pop/Rock
+Subgenres: [u'Adult Alternative Pop/Rock', u'Alternative/Indie Rock', u'Alternative Singer/Songwriter', u'Contemporary Singer/Songwriter', u'Contemporary Pop/Rock']
+
+Song:
+
+Sleigh bells ring, are you listening
+In the lane, snow is glistening
+A beautiful sight,
+We're happy tonight,
+We're walking in a winter wonderland.
+
+And gone away (gone away) is the bluebird (is the bluebird),
+But here to stay stay stay is a new bird.
+He sings a love song,
+As we go along,
+We're walking in a winter wonderland.
+
+In the meadow we can build a snowman
+And pretend that he is Parson Brown
+He'll say: Are you married?
+We'll say: No man,
+But you can do the job
+When you're in town.
+
+Later on (later on! ), we'll conspire,
+As we dream by the fire, babe
+We'll face unafraid
+All the plans that we've made,
+We're walking in a winter wonderland.
+
+In the meadow we can build a snowman,
+And pretend that he's Parson Brown
+He'll say: Are you married?
+We'll say: No man,
+But you can do the job
+When you're in town.
+
+And later on (later on! ), we'll conspire,
+As we dream by the fire
+We'll face unafraid,
+All the plans that we've made.
+We're walking in a winter wonderland.
+
+We'll face unafraid,
+All the plans that we've made.
+We're walking in a winter wonderland.
+
+We'll face unafraid,
+All the plans that we've made,
+We're walking in a winter wonderland.
+(Walking in a winter wonderland.)

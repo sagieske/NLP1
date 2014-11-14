@@ -1,0 +1,59 @@
+Artist: joan_baez
+Title: we_shall_overcome
+Genre: Folk
+Subgenres: [u'Folk Revival', u'Political Folk', u'Singer/Songwriter', u'Traditional Folk', u'Contemporary Folk', u'Folk-Rock', u'Protest Songs', u'Psychedelic/Garage']
+
+Song:
+
+We shall overcome Words and Music by Zilphia Hart., Frank Hamilton, Guy Carawan
+And Pete Seeger
+
+(La melodia sembra sia stata tratta da un canto di pescatori siciliani del 17'
+Secolo, trasportata in Germania dove è diventata un inno protestante, e da qui
+Alle congregazioni "bianche" protestanti degli Stati Uniti del sud. E' stata
+Pubblicata per la prima volta come Inno negro in una versione modificata, nei
+Primi anni dello scorso secolo. Usata, nella forma attuale, negli anni '40 come
+Inno "sindacale" dai lavoratori degli Alimentari e del Tabacco del
+Sud-Carolina, e successivamente dai lavoratori delle scuole popolari del
+Tennessee. E' usata tradizionalmente per chiudere tutti I congressi
+Integrazionisti).
+
+We shall overcome,
+We shall overcome,
+We shall overcome, some day.
+
+Oh, deep in my heart,
+I do believe
+We shall overcome, some day.
+
+We'll walk hand in hand,
+We'll walk hand in hand,
+We'll walk hand in hand, some day.
+
+Oh, deep in my heart,
+
+We shall live in peace,
+We shall live in peace,
+We shall live in peace, some day.
+
+Oh, deep in my heart,
+
+We shall all be free,
+We shall all be free,
+We shall all be free, some day.
+
+Oh, deep in my heart,
+
+We are not afraid,
+We are not afraid,
+We are not afraid, today
+
+Oh, deep in my heart,
+
+We shall overcome,
+We shall overcome,
+We shall overcome, some day.
+
+Oh, deep in my heart,
+I do believe
+We shall overcome, some day.

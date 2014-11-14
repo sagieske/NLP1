@@ -1,0 +1,39 @@
+Artist: 54_40
+Title: one_gun
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Jangle Pop', u'Roots Rock', u'College Rock']
+
+Song:
+
+Hey there pretty girl can I kiss you?
+With all you've said to me I think I'll miss you
+And she said, "No one can kiss me while people scream
+They're screaming for me"
+
+Chorus:
+
+One gun added on to the one gun
+One gun added on on on
+One gun added on to the one gun
+One gun added on on on
+
+Hey there pretty girl what is with you?
+Don't you know the love that wants to kiss you?
+And she said, "You may dream believe I see
+All the people who are in need"
+
+Chorus
+
+Hey there pretty girl I will let you
+Do just what you want until I can get you
+And she said, "One more gun set free makes people scream
+They're screaming for me"
+
+Chorus
+
+Hey there pretty girl please take me with you
+With all you've said to me I think I'll miss you
+And she said, "Come on man with me and see
+We will kiss all the people free"
+
+Chorus

@@ -1,0 +1,28 @@
+Artist: joan_baez
+Title: la_llorona
+Genre: Folk
+Subgenres: [u'Folk Revival', u'Political Folk', u'Singer/Songwriter', u'Traditional Folk', u'Contemporary Folk', u'Folk-Rock', u'Protest Songs', u'Psychedelic/Garage']
+
+Song:
+
+La Llorona
+
+Todos me dicen el negro, llorona
+Negro pero cariñoso
+Yo soy como el chile verde, llorona
+Picante pero sabroso.
+
+Ay! De mi, llorona
+Llorona de ayer y hoy
+Ayer maravilla fui, llorona
+Y ahora ni sombra soy
+
+Dicen que no tengo duelo, llorona
+Porque no me ven llorar
+Hay muertos que no hacen ruido, llorona
+Y es mas grande su penar
+
+Ay! De mi, llorona
+Llorona de azul celeste
+Y aunque la vida me cuesta, llorona
+No dejare de quererte

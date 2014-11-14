@@ -1,0 +1,16 @@
+Artist: ocean_colour_scene
+Title: the_circle
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'British Trad Rock', u'Britpop', u'Alternative Pop/Rock']
+
+Song:
+
+Saturday afternoon the sunshine pours like wine through your window
+But I know golden June can turn an empty gray against your window
+And I feel like I'm on the outside of a circle -
+If I walk by the trees I'll catch the falling leaves if the wind blows
+But I know all this means is whiling on the hours watching side-shows
+Will I turn my coat to the rain I don't know
+But I'm going somewhere I can warm my bones
+Fare you well I'll carry me away
+And sing for those I know upon their birthdays.

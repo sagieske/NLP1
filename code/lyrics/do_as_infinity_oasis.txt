@@ -1,0 +1,37 @@
+Artist: do_as_infinity
+Title: oasis
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Pop/Rock', u'J-Pop']
+
+Song:
+
+Kasaneau koe mo yubi mo
+Michi afureru yume mo
+Ima wa tada kono shunkan
+Mitsumesasete
+Sure chigau tabi ni sora wo nagamete maiochiru
+Kinou no yuki nara ima goro omoi e to tsumoru
+Kaki atsumeta kioku ni wa nani mo utsuranai
+Dakishimeteru kotoba dake wo kono kaze ni nosete
+Doko made mo hibiki kienai nara
+Semete kyou wa setsunai mama
+Aa kore ijou kizutsuku yuuki mo nai
+Kuchibiru ga tsutaetakute hikari yori mo hayaku
+Kirameita kotoba ga ima
+Hane hirogeru
+Oikakete tsuyogatte mo nani mo umarenai
+Atatameteru omoi dake ga kono fuyu wo tokasu
+Itsu made mo yurete yamanai kara
+Semete kyou wa setsunai mama
+Aa kore ijou kizutsuku yuuki mo nai
+Kasaneau koe mo yubi mo
+Michi afureru yume mo
+Ima wa tada kono shunkan
+Mitsumesasete
+Kogoeru sekai datte
+Mabushii kurai no kirameki ga
+Ima no futari wo kitto
+Terashitekureru hazu yo
+Sukigotta kokoro ga ima watashi wo komu kara
+Sazayaka ni iro zuiteku
+Umarekawaru

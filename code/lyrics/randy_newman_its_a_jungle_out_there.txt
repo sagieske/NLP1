@@ -1,0 +1,23 @@
+Artist: randy_newman
+Title: its_a_jungle_out_there
+Genre: Pop/Rock
+Subgenres: [u'Film Music', u'Original Score', u'Singer/Songwriter', u'Soundtracks', u'Brill Building Pop', u'Contemporary Pop/Rock', u'AM Pop', u'Film Score', u'Album Rock']
+
+Song:
+
+It's a jungle out there
+Disorder and confusion everywhere
+No one seems to care
+Well I do
+Hey, who's in charge here?
+It's a jungle out there
+Poison in the very air we breathe
+Do you know what's in the water that you drink?
+Well I do, and it's amazing
+People think I'm crazy, 'cause I worry all the time
+If you paid attention, you'd be worried too
+You better pay attention
+Or this world we love so much might just kill you
+I could be wrong now, but I don't think so!
+'Cause there's a jungle out there.
+It's a jungle out there.

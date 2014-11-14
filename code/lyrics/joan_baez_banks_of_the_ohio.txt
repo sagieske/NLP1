@@ -1,0 +1,36 @@
+Artist: joan_baez
+Title: banks_of_the_ohio
+Genre: Folk
+Subgenres: [u'Folk Revival', u'Political Folk', u'Singer/Songwriter', u'Traditional Folk', u'Contemporary Folk', u'Folk-Rock', u'Protest Songs', u'Psychedelic/Garage']
+
+Song:
+
+I asked my love to take A walk,
+To take A walk, just A little walk,
+Down beside where the waters flow,
+Down by the banks of the old ohio.
+
+And only say that you'Ll be mine
+In no others arms entwine,
+Down beside where the waters flow,
+Down by the banks of the old ohio.
+
+I held A knife against her brest
+As ino my arms she pressed,
+She cried, "oh, willie, don'T murder me,
+I'M not prepeared for eternity. "
+
+And only say that you'Ll be mine
+In no others arms entwine
+Down beside where the waters flow
+Down by the banks of the old ohio
+
+I started home 'Tween twelve and one,
+I cried, "my god, what have I done?
+Killed the only woman I loved,
+Because she would not be my bride. "
+
+And only say that you'Ll be mine
+In no others arms entwine,
+Down beside where the waters flow,
+Down by the banks of the old ohio.

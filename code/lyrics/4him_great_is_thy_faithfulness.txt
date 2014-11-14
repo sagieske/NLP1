@@ -1,0 +1,38 @@
+Artist: 4him
+Title: great_is_thy_faithfulness
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Goth Rock', u'Neo-Glam', u'Goth Metal', u'Heavy Metal']
+
+Song:
+
+Great is thy faithfulness, O God my father
+There is no shadow of turning with Thee
+Thou changest not, Thy compassions, they fail not
+As Thou hast been, Thou for ever will be
+Great is thy faithfulness
+Great is thy faithfulness
+Morning by morning new mercies I see
+All I have needed thy hand hath provided
+Great is thy faithfulness, Lord unto me
+
+Summer and winter, and springtime and harvest
+Sun, moon and stars in their courses above
+Join with all nature in manifold witness
+To thy great faithfulness, mercy and love
+
+Great is thy faithfulness
+Great is thy faithfulness
+Morning by morning new mercies I see
+All I have needed thy hand hath provided
+Great is thy faithfulness, Lord unto me
+Great is thy faithfulness
+
+Pardon for sin and a peace that endureth
+Thine own dear presence to cheer and to guide
+Strength for today and bright hope for tomorrow
+Blessings all mine, with ten thousand beside
+
+Great is thy faithfulness
+Great is thy faithfulness
+All I have needed thy hand hath provided
+Great is thy faithfulness, Lord unto me

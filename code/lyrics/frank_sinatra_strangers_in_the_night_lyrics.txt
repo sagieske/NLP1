@@ -1,0 +1,34 @@
+Artist: frank_sinatra
+Title: strangers_in_the_night_lyrics
+Genre: Vocal
+Subgenres: [u'Standards', u'Swing', u'Traditional Pop', u'Vocal Pop', u'Big Band', u'Vocal Jazz', u'Show Tunes', u'AM Pop', u'Vocal Music']
+
+Song:
+
+Strangers in the night exchanging glances
+Wond'ring in the night what were the chances
+We'd be sharing love before the night was through
+
+Something in your eyes was so inviting
+Something in you smile was so exciting
+Something in my heart told me I must have you
+
+Strangers in the night
+Two lonely people, we were strangers in the night
+Up to the moment when we said our first hello little did we know
+Love was just a glance away, a warm embracing dance away
+
+And
+
+Ever since that night we've been together
+Lovers at first sight, in love forever
+It turned out so right for strangers in the night
+
+[instrumental-first three lines of chorus]
+Love was just a glance away, a warm embracing dance away
+
+Ever since that night we've been together
+Lovers at first sight, in love forever
+It turned out so right for strangers in the night
+
+[Dooby-doooby-doo and other scat to end]

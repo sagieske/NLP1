@@ -1,0 +1,81 @@
+Artist: 883
+Title: una_canzone_damore
+Genre: Pop/Rock
+Subgenres: [u'Italian Pop']
+
+Song:
+
+Una canzone D'amore
+
+Se solo avessi le parole
+Te lo direi
+Anche se mi farebbe male
+Se io sapessi cosa dire
+Io lo farei
+Lo farei lo sai
+Se lo potessi immaginare
+Dipingerei
+Il sogno di poterti amare
+Se io sapessi come fare
+Ti scriverei, ti scriverei
+Una canzone d'amore
+Per farmi ricordare
+Una canzone d'amore
+Per farti addormentare
+Che faccia uscire calore
+Che non ti so spiegare
+Una canzone d'amore
+Solo per te
+Solo per te
+Solo per te
+Solo per te
+Solo per te
+Se un giorno
+Io riuscissi a entrare
+Nei sogni tuoi
+Mi piacerebbe disegnare
+Sulla lavagna del tuo cuore
+I sogni miei
+I sogni miei lo sai
+Se si potessero suonare
+Li inciderei
+E poi te li farei ascoltare
+Se io sapessi come fare
+Ti scriverei
+Ti scriverei
+Una canzone d'amore
+Per farmi ricordare
+Una canzone d'amore
+Per farti addormentare
+Che faccia uscire calore
+Che non ti so spiegare
+Una canzone d'amore
+Solo per te
+Solo per te
+Solo per te
+Solo per te
+Solo per te
+Se io avessi le parole
+Le potessi immaginare
+Fosse facile spiegare
+Si riuscissero a suonare
+Se potessi raccontare
+Se sapessi come fare
+Se sapessi cosa dire
+Allora ti scriverei
+Una canzone d'amore
+Per farmi ricordare
+Una canzone d'amore
+Per farti addormentare
+Che faccia uscire calore
+Che non ti so spiegare
+Una canzone d'amore
+Solo per te
+Una canzone d'amore
+Per farmi ricordare
+Una canzone d'amore
+Per farti addormentare
+Che faccia uscire calore
+Che non ti so spiegare
+Una canzone d'amore
+Solo per te...

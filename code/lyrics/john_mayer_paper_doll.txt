@@ -1,0 +1,40 @@
+Artist: john_mayer
+Title: paper_doll
+Genre: Pop/Rock
+Subgenres: [u'Adult Alternative Pop/Rock', u'Alternative/Indie Rock', u'Contemporary Pop/Rock', u'Contemporary Singer/Songwriter', u'Alternative Pop/Rock']
+
+Song:
+
+Paper doll, come try it on
+Step out of that black chiffon
+Here’s a dress of gold and blue
+Sure was fun being good to you
+
+This one we made just for Fall
+And Winter runs a bit too small
+This mint green is new for Spring
+My love didn’t cost a thing
+
+You’re like twenty-two girls in one
+And none of them know what they’re runnin’ from
+Was it just too far to fall?
+For a little paper doll
+
+Fold a scarf, Moroccan red
+And tie your hair behind your head
+Strap into some heels that hurt
+You should’ve kept my undershirt
+
+You’re like twenty-two girls in one
+And none of them know what they’re runnin’ from
+Was it just too far to fall?
+For a little paper doll
+
+Cut the cord and pull some strings
+And make yourself some angel wings
+And if those angel wings don’t fly
+Someone’s gonna paint you another sky
+
+‘Cause you’re like twenty-two girls in one
+And none of them know what they’re runnin’ from
+Was it just too far to fall? (x2)

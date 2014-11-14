@@ -1,0 +1,23 @@
+Artist: independence_day
+Title: yankee_doodle
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Post-Grunge', u'Punk Revival', u'Punk-Pop']
+
+Song:
+
+Yankee Doodle went to town, a-riding on a pony; 
+Stuck a feather in his cap and called it macaroni.
+
+Chorus
+
+Yankee Doodle keep it up, Yankee Doodle dandy, 
+Mind the music and the step and with the girls be handy.
+
+Father and I went down to camp along with Captain Gooding
+And there we saw the men and boys, as thick as hasty pudding.
+
+There was Colonel Washington, upon a strapping stallion, 
+A-giving orders to his men, I guess there was a million.
+
+And there I saw a cannon barrel as big as mother's basin, 
+And every time they touched it off they scampered like the nation.

@@ -1,0 +1,29 @@
+Artist: james_taylor
+Title: steamroller
+Genre: Pop/Rock
+Subgenres: [u'Adult Contemporary', u'Singer/Songwriter', u'Soft Rock', u'Contemporary Pop/Rock', u'AM Pop']
+
+Song:
+
+Well, I'm a steamroller, baby
+I'm bound to roll all over you
+Yes, I'm a steamroller now, baby
+I'm bound to roll all over you
+I'm gonna inject your soul with some sweet rock 'n roll
+And shoot you full of rhythm and blues
+
+Well, I'm a cement mixer
+A churning urn of burning funk
+Yes, I'm a cement mixer for you, baby
+A churning urn of burning funk
+Well, I'm a demolition derby (yeah)
+A hefty hunk of steaming junk
+
+Now, I'm a napalm bomb, baby
+Just guaranteed to blow your mind
+Yeah, I'm a napalm bomb for you, baby
+Oh, guaranteed, just guaranteed to blow your mind
+And if I can't have your love for my own (now)
+Sweet child, won't be nothing left behind
+It seems how lately, baby
+Got a bad case steamroller blues

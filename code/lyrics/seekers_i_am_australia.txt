@@ -1,0 +1,64 @@
+Artist: seekers
+Title: i_am_australia
+Genre: Pop/Rock
+Subgenres: [u'AM Pop', u'Folk-Rock', u'Psychedelic/Garage', u'Early Pop/Rock', u'Folk-Pop']
+
+Song:
+
+I came from the dreamtime
+From the dusty red-soil plains
+I am the ancient heart
+The keeper of the flames
+I Stood upon the rocky shore
+I watched the tall ships come
+For fourty thousand years I've been the first australian
+
+I came upon the prison ships
+Bound down by iron chains
+I cured the land
+Endured the lash
+And waited for the rains
+I'm a settler
+I'm a farmers wife
+On a dry and barron run
+A convict and a free man
+I became Australian
+
+I'm a daughter of a digger
+Who sought the mother load
+The girl became a women
+On the long and dusty road
+I'm a child of the depression
+I saw the good time come
+I'm a bushy I'm a battler
+I am australian
+
+Chourus:
+
+We are one
+But we are many
+And from all the lands on earth we come
+We'll share a dream
+And sing with one voice
+I am, you are we are australian
+
+I'm a teller of stories
+I'm a singer of songs
+I am Albert namajera
+And I paint the ghostly gums
+I'm clancy on his horse
+I'm ned kelly on the run
+I'm the one who waltzed matilda
+I am australian
+
+I'm the hot wind from the desert
+I'm the black soil of the plain
+I'm the mountains and the valleys
+I'm the drowned and flooding rains
+I am the rock
+I am the sky
+The rivers when they run
+The spirit of this great land
+I am australian
+
+Chorus x2

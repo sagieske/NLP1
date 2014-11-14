@@ -1,0 +1,33 @@
+Artist: emmylou_harris
+Title: christmas_times_a_coming_lyrics
+Genre: Country
+Subgenres: [u'Country-Rock', u'Progressive Country', u'Traditional Country', u'Contemporary Country', u'Alt-Country', u'Alternative/Indie Rock']
+
+Song:
+
+(Tex Logan)
+
+Holly's in the window,
+Home is where the wind blows.
+I can't walk for runnin'! --
+Christmas Time's A-Comin'.
+
+Can't you hear them bells ringin', ringin'
+Joy, joy! Hear them singin'!
+When it's snowin', I'll be goin'
+Back to my country home.
+
+Christmas Time's A-Comin',
+Christmas Time's A-Comin'.
+Christmas Time's A-Comin'.
+And I know I'm goin' home.
+
+Bright candles burnin',
+My old heart's a-yearnin'
+For the folks at home when
+Christmas Time's A-Comin'.
+
+Snow flakes a-fallin'
+My old heart's a-callin'
+Tall pine's a-hummin'
+Christmas Time's A-Comin'.

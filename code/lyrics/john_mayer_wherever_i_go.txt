@@ -1,0 +1,20 @@
+Artist: john_mayer
+Title: wherever_i_go
+Genre: Pop/Rock
+Subgenres: [u'Adult Alternative Pop/Rock', u'Alternative/Indie Rock', u'Contemporary Pop/Rock', u'Contemporary Singer/Songwriter', u'Alternative Pop/Rock']
+
+Song:
+
+Wherever I go,
+Whatever I do,
+I wonder where I am in my relationship to you.
+Wherever you go,
+Wherever you are,
+I watch your life play out in pictures from afar.
+
+Wherever I go,
+Whatever I do,
+I wonder where I am in my relationship to you.
+Wherever you go,
+Wherever you are,
+I watch that pretty life play out in pictures from afar.

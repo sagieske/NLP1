@@ -1,0 +1,31 @@
+Artist: tony_bennett
+Title: once_upon_a_time
+Genre: Vocal
+Subgenres: [u'Traditional Pop', u'Vocal Jazz', u'Vocal Pop', u'Cast Recordings', u'Show Tunes']
+
+Song:
+
+Once Upon A Time
+Tony Bennett
+Words by Lee Adams and Music by Charles Strouse
+
+Did not chart, although it was recorded by such artists as Frank Sinatra, Robert
+Goulet, Al Martino, Jim Reeves, Diahann Carroll, Vic Damone, and Bobby Darin
+Sung in the Broadway musical "All American" by Ray Bolger and Eileen Herlie
+
+Once upon a time a girl with moonlight in her eyes
+Put her hand in mine and said she loved me so
+But that was once upon a time, very long ago
+
+Once upon a time we sat beneath a willow tree
+Counting all the stars and waiting for the dawn
+But that was once upon a time, now the tree is gone
+
+How the breeze ruffled up her hair
+How we always laughed as though tomorrow wasn't there
+We were young and didn't have a care
+Where did it go?
+
+Once upon a time the world was sweeter than we knew
+Everything was ours, how happy we were then
+But somehow once upon a time never comes again

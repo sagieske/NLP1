@@ -1,0 +1,48 @@
+Artist: tony_bennett
+Title: boulevard_of_broken_dreams
+Genre: Vocal
+Subgenres: [u'Traditional Pop', u'Vocal Jazz', u'Vocal Pop', u'Cast Recordings', u'Show Tunes']
+
+Song:
+
+Boulevard Of Broken Dreams
+Tony Bennett
+
+This version did not chart but
+In 1934, it was a # 6 hit for Jan Garber
+Sung in the film "Moulin Rouge" by Constance (no relation) Bennett
+Words by Al Dubin and Music by Harry Warren
+
+I walk along the street of sorrow
+The boulevard of broken dreams
+Where gigolo and gigolette
+Can take a kiss without regret
+So they forget their broken dreams
+
+You laugh tonight and cry tomorrow
+When you behold your shattered schemes
+Gigolo and gigolette
+Wake up to find their eyes are wet
+With tears that tell of broken dreams
+
+Here is where you'll always find me
+Always walking up and down
+But I left my soul behind me
+In an old cathedral town
+
+The joy that you find here you borrow
+You cannot keep it long it seems
+Gigolo and gigolette
+Still sing a song and dance along
+The boulevard of broken dreams
+
+Here is where you'll always find me
+Always walking up and down
+For I left my soul behind me
+In an old cathedral town
+
+The joy that you find here you borrow
+You cannot keep it long it seems
+But gigolo and gigolette
+Still sing a song and dance along
+The boulevard of broken dreams

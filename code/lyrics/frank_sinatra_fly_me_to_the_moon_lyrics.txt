@@ -1,0 +1,22 @@
+Artist: frank_sinatra
+Title: fly_me_to_the_moon_lyrics
+Genre: Vocal
+Subgenres: [u'Standards', u'Swing', u'Traditional Pop', u'Vocal Pop', u'Big Band', u'Vocal Jazz', u'Show Tunes', u'AM Pop', u'Vocal Music']
+
+Song:
+
+Fly me to the moon and
+Let me play among those stars
+Let me see what spring is like on
+Jupiter and Mars
+In other words,
+Hold my handin other words,
+Darlin kiss me
+Fill my heart with song and
+Dlet me sing for ever more
+You are all I long for all I
+Worship and adore
+In other words,
+Please be true
+In other words,
+I love you

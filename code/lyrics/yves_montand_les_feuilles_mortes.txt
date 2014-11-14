@@ -1,0 +1,56 @@
+Artist: yves_montand
+Title: les_feuilles_mortes
+Genre: Vocal
+Subgenres: [u'French Pop', u'Traditional Pop', u'French', u'French Chanson', u'Vocal Pop', u'Western European Traditions', u'Film Score']
+
+Song:
+
+Oh, je voudais tant que tu te souviennes
+Des jours heureux o? Nous? Tions amis
+En ce temps-l? La vie? Tait plus belle
+Et le soleil plus br? Lant qu'aujourd'hui.
+
+Les feuilles mortes se ramassent? La pelle
+Tu vois, je n'ai pas oubli?
+Les feuilles mortes se ramassent? La pelle
+Les souvenirs et les regrets aussi.
+
+Et le vent du Nord les emporte,
+Dans la nuit froide de l'oubli.
+Tu vois je n'ai pas oubli?,
+La chanson que tu me chantais...
+
+Les feuilles mortes se ramassent? La pelle
+Les souvenirs et les regrets aussi,
+Mais mon amour silencieux et fid? Le
+Sourit toujours et remercie la vie.
+
+Je t'aimais tant, tu? Tais si jolie,
+Comment veux-tu que je t'oublie?
+En ce temps-l? La vie? Tait plus belle
+Et le soleil plus br? Lant qu'aujourd'hui.
+
+Tu? Tais ma plus douce amie
+Mais je n'ai que faire des regrets.
+Et la chanson que tu chantais,
+Toujours, toujours je l'entendrai.
+
+C'est une chanson qui nous ressemble,
+Toi tu m'aimais, moi je t'aimais
+Et nous vivions, tous deux ensemble,
+Toi qui m'aimais, moi qui t'aimais.
+
+Mais la vie s? Pare ceux qui s'aiment,
+Tout doucement, sans faire de bruit
+Et la mer efface sur le sable
+Les pas des amants d? Sunis.
+
+C'est une chanson qui nous ressemble,
+Toi tu m'aimais et je t'aimais
+Et nous vivions tous deux ensemble,
+Toi qui m'aimais, moi qui t'aimais.
+
+Mais la vie s? Pare ceux qui s'aiment,
+Tout doucement, sans faire de bruit
+Et la mer efface sur le sable
+Les pas des amants d? Sunis

@@ -1,0 +1,31 @@
+Artist: kina_grannis
+Title: my_time_with_you
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Singer/Songwriter']
+
+Song:
+
+We're going to the beach today
+We're gonna laugh and sing our cares away
+The sun is shining on our face
+We can take it in and let it out and say...
+
+Chorus
+La, la, la, la-la, la, la
+La, la, la, la, la-la, la, la
+X2
+
+I do enjoy my time with you
+Making the best of everything we do
+We're gonna try on something new
+And we'll make it ours before the day is through
+
+Chorus
+La, la, la, la-la, la, la
+La, la, la, la, la-la, la, la
+X2
+
+And now the sun has said goodnight
+Just want to say I had a real good time
+I think I really feel alright (alright)
+And I don't ever ever wanna say goodbye

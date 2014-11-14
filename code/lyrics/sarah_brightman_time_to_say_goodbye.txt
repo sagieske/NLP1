@@ -1,0 +1,60 @@
+Artist: sarah_brightman
+Title: time_to_say_goodbye
+Genre: Vocal
+Subgenres: [u'Adult Contemporary']
+
+Song:
+
+[Sarah:]
+Quando sono sola
+Sogno all'orizzonte
+E mancan le parole,
+Si lo so che non c'и luce
+In una stanza quando manca il sole,
+Se non ci sei tu con me, con me.
+Su le finestre
+Mostra a tutti il mio cuore
+Che hai accesso,
+Chiudi dentro me
+La luce che
+Hai incontrato per strada.
+
+Time to say goodbye.
+Paesi che non ho mai
+Veduto e vissuto con te,
+Adesso si li vivrт.
+Con te partirт
+Su navi per mari
+Che, io lo so,
+No, no, non esistono piщ,
+It's time to say goodbye.
+
+[Andrea:]
+Quando sei lontana
+Sogno all'orizzonte
+E mancan le parole,
+E io si lo so
+Che sei con me con me,
+Tu mia luna tu sei qui con me,
+Mio sole tu sei qui, con me,
+Con me, con me, con me.
+
+Time to say goodbye.
+Paesi che non ho mai
+Veduto e vissuto con te,
+Adesso sм li vivrт.
+Con te partirт
+Su navi per mari
+Che, io lo so,
+No, no, non esistono piщ,
+
+[Both:]
+Con te io li rivivrт.
+Con te partirт
+Su navi per mari
+Che, io lo so,
+No, no, non esistono piщ,
+Con te io li rivivrт.
+Con te partirт.
+
+Io con te

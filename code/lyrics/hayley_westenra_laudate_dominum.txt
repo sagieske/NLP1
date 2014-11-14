@@ -1,0 +1,16 @@
+Artist: hayley_westenra
+Title: laudate_dominum
+Genre: Classical
+Subgenres: [u'Classical Crossover', u'Classical Pop', u'Orchestral/Easy Listening', u'Traditional Pop', u'Vocal Music', u'Choral']
+
+Song:
+
+Laudate dominum
+Omnes gentes
+Laudate eum
+Omnes, omnes populi
+Quoninam confirmata est
+Super nos misere cordia ejus
+Et veritus, veritus Domini
+Manet, manet in aeternum
+Amen, amen

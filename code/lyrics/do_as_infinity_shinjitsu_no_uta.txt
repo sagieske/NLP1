@@ -1,0 +1,33 @@
+Artist: do_as_infinity
+Title: shinjitsu_no_uta
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Pop/Rock', u'J-Pop']
+
+Song:
+
+"the crimson-stained sun
+Has illuminated everything; now and the past
+Is what I have imagined within this twilight
+More than my own hands can accomplish?
+Please teach me how to live
+A little more vulnerably than I do now
+Won't you taint me just a little?
+That way, even if I get hurt
+And lose everything around me
+This song of truth will flow through my heart
+This dispute will probably go on
+About that which is most precious
+I've become a rebel, I've overlooked things
+Even the gentle smiles of strangers
+If eternity knows what manner of darkness
+And when pain will vanish,
+Then that way, you shall taint me
+I looked always to yesterday, to the castles in the sky
+When will I be able to follow them?
+This song of truth shall be my guide
+If eternity knows what manner of darkness
+And when pain will vanish,
+This song of truth will flow through my heart
+Now, please, taint me just a little
+Please, just taint me, only a little
+This song of truth shall be my guide"

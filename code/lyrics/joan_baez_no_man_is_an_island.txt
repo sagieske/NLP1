@@ -1,0 +1,32 @@
+Artist: joan_baez
+Title: no_man_is_an_island
+Genre: Folk
+Subgenres: [u'Folk Revival', u'Political Folk', u'Singer/Songwriter', u'Traditional Folk', u'Contemporary Folk', u'Folk-Rock', u'Protest Songs', u'Psychedelic/Garage']
+
+Song:
+
+No man is an island,
+No man stands alone,
+Each man's joy is joy to me,
+Each man's grief is my own.
+
+We need one another,
+So I will defend,
+Each man as my brother,
+Each man as my friend.
+
+I saw the people gather,
+I heard the music start,
+The song that they were singing,
+Is ringing in my heart.
+
+No man is an island,
+Way out in the blue,
+We all look to the one above,
+For our strength to renew.
+
+When I help my brother,
+Then I know that I,
+Plant the seed of friendship,
+That will never die.
+©

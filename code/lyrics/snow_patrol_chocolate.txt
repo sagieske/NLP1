@@ -1,0 +1,32 @@
+Artist: snow_patrol
+Title: chocolate
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Adult Alternative Pop/Rock']
+
+Song:
+
+This could be the very minute
+I'm aware I'm alive
+All these places feel like home.
+
+With a name I'd never chosen
+I can make my first steps
+As a child of 25.
+
+This is the straw, final straw in the
+Roof of my mouth as I lie to you
+Just because I'm sorry doesn't mean
+I didn't enjoy it at the time.
+
+You're the only thing that I love
+It scares me more every day
+On my knees I think clearer.
+
+Goodness knows I saw it coming
+Or at least I'll claim I did
+But in truth I'm lost for words.
+
+What have I done it's too late for that
+What have I become truth is nothing yet
+A simple mistake starts the hardest time
+I promise I'll do anything you ask... This time.

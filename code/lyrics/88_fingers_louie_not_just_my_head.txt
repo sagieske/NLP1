@@ -1,0 +1,17 @@
+Artist: 88_fingers_louie
+Title: not_just_my_head
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Post-Grunge', u'Punk Revival']
+
+Song:
+
+You don't listen to a single word
+We say things get rougher
+Everyday fu***n' arrogance drivin' me crazy
+Get back in the mold
+And do just what we're told
+We cry for change you think
+We're crazy it's not just my head [x4]
+We're all dead when there's nothing left to live for
+We'll all be better off dead
+Cuz there's nothing left to live for

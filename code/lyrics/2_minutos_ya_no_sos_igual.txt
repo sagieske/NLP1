@@ -1,0 +1,38 @@
+Artist: 2_minutos
+Title: ya_no_sos_igual
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'College Rock', u'Contemporary Pop/Rock', u'Post-Punk', u'Dance-Rock']
+
+Song:
+
+Carlos se vendio al barrio de Lanus,
+El barrio que lo vio crecer.
+Ya no vino nunca mas por el bar de Fabian
+Y se olvido de pelearse los domingos en la cancha.
+Por la noche patrulla la ciudad
+Molestando y levantando a los demas
+Ya no sos igual,
+Ya no sos igual,
+Sos un vigilante de la federal
+Sos buchon,
+Sos buchon
+Carlos se dejo crecer el vigote y una nueve para el.
+Ya no vino nunca mas por el bar de Fabian
+Y se olvido de pelearse los domingos en la cancha.
+El sabe muy bien que una bala en la noche en la calle espera por el.
+
+Ya no sos igual,
+Ya no sos igual,
+Sos un vigilante de la federal
+Sos buchon,
+Sos buchon
+Sos buchon,
+Sos buchon.
+Sos sos buchon de la policia federal.
+Ya no sos igual,
+Ya no sos igual,
+Sos un vigilante de la federal
+Sos buchon,
+Sos buchon
+Sos buchon,
+Sos buchon

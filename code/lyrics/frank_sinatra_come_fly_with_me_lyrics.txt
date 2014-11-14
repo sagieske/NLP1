@@ -1,0 +1,42 @@
+Artist: frank_sinatra
+Title: come_fly_with_me_lyrics
+Genre: Vocal
+Subgenres: [u'Standards', u'Swing', u'Traditional Pop', u'Vocal Pop', u'Big Band', u'Vocal Jazz', u'Show Tunes', u'AM Pop', u'Vocal Music']
+
+Song:
+
+Come fly with me, let's fly, let's fly away
+If you can use some exotic booze
+There's a bar in far Bombay
+Come on and fly with me, let's fly, let's fly away
+
+Come fly with me, let's float down to Peru
+In llama land there's a one-man band
+And he'll toot his flute for you
+Come on fly with me, let's take off in the blue
+
+Once I get you up there where the air is rarified
+We'll just glide, starry-eyed
+Once I get you up there I'll be holding you so near
+You may hear all the angels cheer 'cause we're together
+
+Weather-wise it's such a lovely day
+Just say the words and we'll beat the birds
+Down to Ac apulco Bay
+It's perfect for a flying honeymoon, they say
+Come fly with me, let's fly, let's fly away
+
+[Instrumental]
+
+Once I get you up there where the air is rarified
+We'll just glide, starry-eyed
+Once I get you up there I'll be holding you so very near
+You may even hear a whole gang cheer 'cause we're together
+
+Weather-wise it's such a cool cool day
+You just say those words and we'll beat the birds
+Down to Ac apulco Bay
+It's so perfect for a flying honeymoon, oh babe
+Come fly with me, let's fly, let's fly
+Pack up, let's fly away!!
+And donґt tell your mamma!!

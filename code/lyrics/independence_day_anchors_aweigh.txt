@@ -1,0 +1,19 @@
+Artist: independence_day
+Title: anchors_aweigh
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Post-Grunge', u'Punk Revival', u'Punk-Pop']
+
+Song:
+
+Stand, Navy, out to sea, Fight our battle cry;
+We'll never change our course, So vicious foe
+Steer shy-y-y-y.
+Roll out the tnt, Anchors Aweigh.
+Sail on to victory
+And sink their bones to Davy Jones, hooray!
+
+Anchors Aweigh, my boys, Anchors Aweigh.
+Farewell to college joys, we sail at break of day-ay-ay-ay.
+Through our last night on shore, drink to the foam,
+Until we meet once more,
+Here's wishing you a happy voyage home.
