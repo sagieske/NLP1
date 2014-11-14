@@ -6,16 +6,23 @@ import time
 
 artists_information = {}
 
-def get_top_songs(artist_url):
+def get_top_songs(artist_url, n=5):
 	''' Get the urls of the top 5 most popular songs of the given artist. '''
 	lyrics_url_list = []
 	print artist_url
-	print "Retrieving top 5 songs for ", artist_url.split('/')
-	song_soup = BeautifulSoup(urllib.urlopen('http://www.lyricsmode.com/' + artist_url).read())
+	print "Retrieving top ", n, " songs for ", artist_url.split('/')
+	song_soup = BeautifulSoup(urllib.urlopen('http://www.lyricsmode.com' + artist_url).read())
 	if(song_soup is not None):
-		url_divs = song_soup.findAll('div', attrs={'class', 'top-lyrics-number'})
+		url_divs = song_soup.findAll('a', attrs={'class', 'ui-song-title'})
+		counter = 0
 		for link in url_divs:
-			lyrics_url_list.append('http://www.lyricsmode.com' + link.findNext('a', href=True)['href'])
+			if(counter is n):
+				break
+			url = link.findNext('a', href=True)['href']
+			if('http://www.lyricsmode.com' + url not in lyrics_url_list):
+				if(artist_url in url):
+					lyrics_url_list.append('http://www.lyricsmode.com' + url)
+					counter += 1
 	return lyrics_url_list
 
 def get_lyrics_document(url):
@@ -38,7 +45,7 @@ def get_lyrics_document(url):
 	#Retrieve genre info
 	if(artist_info is not None):
 		#Open writable file
-		f = open('lyrics/'+artist_name+"_"+song_name+'.txt', 'w')
+		f = open('lyrics_test/'+artist_name+"_"+song_name+'.txt', 'w')
 		genre_info_tmp = artist_info.find('div', attrs={'class':'genre'})
 		genre_info = 'unknown'
 		if(genre_info_tmp is not None):
@@ -84,27 +91,26 @@ def get_artists(n=99):
 		soup = BeautifulSoup(urllib.urlopen('http://www.lyricsmode.com/lyrics/' + letter))
 		if(soup is not None):
 			"Retrieving artists..."
-			rows = soup.findAll('td', attrs={'class':None})
+			rows = soup.find('body').findAll('td')
 			for cell in rows:
 				if(artist_counter == n):
 					break
-				artist_counter+=1
-				a = cell.find('a', href=True)
-				if(a is not None):
+				a = cell.find('a')
+				if(a is not None and a['href'] is not '/'):
 					artist_url_list.append(a['href'])
-	print "Retrieving ", n, " artists with start symbol ", letter, "..."
+					artist_counter += 1
+	artist_counter = 0
 	soup = BeautifulSoup(urllib.urlopen('http://www.lyricsmode.com/lyrics/0-9').read())
 	if(soup is not None):
 		"Retrieving artists..."
-		rows = soup.findAll('td', attrs={'class':None})
-		artist_counter = 0
+		rows = soup.find('body').findAll('td')
 		for cell in rows:
 			if(artist_counter == n):
 				break
-			artist_counter+=1	
-			a = cell.find('a', href=True)
-			if(a is not None):
+			a = cell.find('a')
+			if(a is not None and a['href'] is not '/'):
 				artist_url_list.append(a['href'])
+				artist_counter += 1
 	return artist_url_list
 
 
