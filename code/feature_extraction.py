@@ -2,18 +2,36 @@ import re
 import sys
 import glob
 import os
-
-
+import pickle
 
 class feature_extraction:
 	
 	FOLDER = 'lyrics/'
+	DUMPFILE = 'file_dump'
 
-	def __init__(self):
-		os.chdir(self.FOLDER)
-		for filename in glob.glob("*.txt"):
-			(information_song, lyrics) = self.load_file(filename)
-			print information_song
+	def __init__(self, dump=True, load=False):
+		""" Get all file information. Possible to dump to a specific file or load from a specific file"""
+
+		if load:
+			try:
+				print "Load information from dumpfile: ", (self.DUMPFILE)
+				with open(self.DUMPFILE,'r') as f:
+					loaded_files = pickle.load(f)
+			except:
+				print "File possibly corrupted"
+		else:
+			os.chdir(self.FOLDER)
+			loaded_files = []
+			for filename in glob.glob("*.txt"):
+				(information_song, lyrics) = self.load_file(filename)
+				if lyrics is not None:
+					info = (information_song, lyrics)
+					loaded_files.append(info)
+			os.chdir('../')
+		if dump:
+			print "Dump information to dumpfile: ", self.DUMPFILE
+			with open(self.DUMPFILE,'wb') as f:
+				pickle.dump(loaded_files, f)
 
 
 	def load_file(self, filename):
@@ -49,6 +67,4 @@ class feature_extraction:
 
 
 if __name__ == "__main__":
-
-	#program = feature_extraction('lyrics/2_pac_when_im_gone_remix.txt')
-	program = feature_extraction()
+	program = feature_extraction(dump=True, load=False)
