@@ -1,0 +1,27 @@
+Artist: david_cook
+Title: baba_oriley
+Genre: Pop/Rock
+Subgenres: [u'Adult Alternative Pop/Rock', u'Alternative/Indie Rock', u'Post-Grunge', u'Pop', u'Pop Idol', u'Contemporary Pop/Rock']
+
+Song:
+
+Out here in the fields
+I fight for my meals
+I give my back into my living
+I don't need to fight
+To prove I'm right
+I don't need to be forgiven
+
+Don't cry
+Don't raise your eye
+It's only teenage wasteland
+
+Teenage wasteland
+Ooh yeah
+It's only teenage wasteland
+Teenage wasteland
+Oh yeah
+Teenage wasteland
+They're all wasted!
+
+Teenage waste

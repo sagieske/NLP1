@@ -1,0 +1,25 @@
+Artist: daniel_odonnell
+Title: a_fool_such_as_i
+Genre: Vocal
+Subgenres: [u'Adult Contemporary', u'Celtic', u'Country-Pop', u'Contemporary Gospel', u'Gospel']
+
+Song:
+
+Pardon me, if I'm sentimental when we say goodbye
+Don't be angry with me, should I cry
+I'm a fool but I love you dear until the day I die
+Now and then there's a fool such as I.
+
+Now and then there's a fool such as I am over you
+You taught me how to love and now you say that we are through
+I'm a fool but I love you dear, I'll miss you till I die
+Now and then there's a fool such as I.
+
+--- Instrumental ---
+
+Now and then there's a fool such as I am over you
+You taught me how to love and now you say that we are through
+I'm a fool but I love you dear until the day I die
+Now and then there's a fool such as I.
+
+Now and then there's a fool such as I...

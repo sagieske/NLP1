@@ -1,0 +1,13 @@
+Artist: demi_lovato
+Title: bad_chick
+Genre: Pop/Rock
+Subgenres: [u'Teen Pop', u'Dance-Pop', u'Pop']
+
+Song:
+
+I'm a bad chick yeah
+I'm a bad chick
+I don't wanna break
+But I might
+When you're this bad
+It's alright

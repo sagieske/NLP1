@@ -1,0 +1,32 @@
+Artist: disney
+Title: arabian_night
+Genre: Children's
+Subgenres: [u"Children's Pop", u'Fairy Tales', u'Sing-Alongs', u'Stories', u'Nursery Rhymes', u'Cast Recordings', u'Show Tunes', u'Traditional Pop', u'Vocal Pop', u'Adult Contemporary']
+
+Song:
+
+Oh I come from a land, from a faraway place
+Where the caravan camels roam
+Where they cut of your ear
+If they don't like your face
+It's barbaric, but hey, it's home
+
+When the wind's from the east
+And the sun's from the west
+And the sand in the glass is right
+Come on down
+Stop on by
+Hop a carpet and fly
+To another Arabian night
+
+Arabian nights
+Like Arabian days
+More often than not
+Are hotter than hot
+In a lot of good ways
+
+Arabian nights
+'Neath Arabian moons
+A fool off his guard
+Could fall and fall hard
+Out there on the dunes

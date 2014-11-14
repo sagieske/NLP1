@@ -1,0 +1,38 @@
+Artist: david_archuleta
+Title: america
+Genre: Pop/Rock
+Subgenres: [u'Pop', u'Pop Idol']
+
+Song:
+
+Every where around the world
+They're coming to America
+Every time the flag's unfurled
+They're coming to America
+Got a dream and take them there
+They're coming to America
+Got a dream they've come to share
+They're coming to America
+
+They're coming to America
+They're coming to America
+They're coming, to America
+They're coming to America
+
+(Today)
+My country tis of thee
+(Today)
+Sweet land of liberty
+(Today)
+Of thee I see
+(Today)
+Of thee I see, today
+
+(Today)
+We've been traveling far
+(Today)
+Without a voice
+(Today)
+But not without a star
+
+Let, freedom, ring

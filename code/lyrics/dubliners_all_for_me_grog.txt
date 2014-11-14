@@ -1,0 +1,51 @@
+Artist: dubliners
+Title: all_for_me_grog
+Genre: International
+Subgenres: [u'Irish Folk', u'Traditional Irish Folk', u'Drinking Songs', u'Celtic', u'Celtic Folk', u'Traditional Celtic']
+
+Song:
+
+Chorus:
+And it's all for me grog, me jolly jolly grog
+All for me beer and tobacco
+Well I've spent all me tin with the lassies drinking
+Gin
+Far across the western ocean I must wander
+
+I'm sick in the head and I haven't been to bed
+Since first I came ashore with me plunder
+I've seen centipedes and snakes
+And my head is full off aches
+And I'll have to make a path for way out yonder
+
+Chorus:
+
+Where are me boots, me noggin' noggin' boots
+They're all sold for beer and tobacco
+You see the sole's were gettin' thin
+And the uppers were letting in
+And the heels are looking out for better weather
+
+Chorus:
+
+Where is me shirt me noggin' noggin' shirt
+It's all gone for beer and tobacco
+You see the sleeves they got worn out
+And the collar was turned about
+And the tail is looking out for better weather
+
+Chorus:
+
+Where is me wife me noggin' noggin' wife
+She's all sold for beer and tobacco
+You see her front it got worn out
+And her tail been kicked about
+And I'm sure she's looking out for better weather
+
+Chorus:
+
+Oh, where is me bed me noggin' noggin' bed
+It's all sold for beer and tobacco
+You see I sold it to the girls
+And the springs they got all twirls
+And the sheets they're looking out for better weather

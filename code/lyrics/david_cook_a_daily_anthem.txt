@@ -1,0 +1,42 @@
+Artist: david_cook
+Title: a_daily_anthem
+Genre: Pop/Rock
+Subgenres: [u'Adult Alternative Pop/Rock', u'Alternative/Indie Rock', u'Post-Grunge', u'Pop', u'Pop Idol', u'Contemporary Pop/Rock']
+
+Song:
+
+Break your neck for some substance
+This is temporary sanity, an exercise in vanity
+So long, to the ordinary day wrought with fictitious tales
+Of how there's any other way
+Hold on to anything at all
+It's a long way down between the summer and the fall
+If I told you that you're everything,
+Would you sing along?
+Would you sing along?
+
+It's a daily anthem
+Would you sing my song,
+At the top of your lungs?
+And we'll all sing along,
+We'll all sing along
+It's a half-faith blessing
+For the lessons I've learned,
+Never deserved.
+And we'll all sing along,
+We'll all sing along
+
+Now the verses take hold,
+A gentle undercurrent of more years to grow old
+Say goodbye to the cold
+And try to forgive everything this night
+As we sing your daily anthem,
+Would you sing my song,
+At the top of your lungs?
+And we'll all sing along,
+We'll all sing along
+It's a half-faith blessing
+For the lessons I've learned,
+Never deserved.
+And we'll all sing along,
+We'll all sing along

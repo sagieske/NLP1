@@ -1,0 +1,26 @@
+Artist: david_archuleta
+Title: and_so_it_goes
+Genre: Pop/Rock
+Subgenres: [u'Pop', u'Pop Idol']
+
+Song:
+
+In every heart
+There is a room
+A sanctuary safe and strong
+To heal the wounds
+Of lover's past
+Until a new one comes along
+
+So I would choose
+To be with you
+Say that choice were mine to make
+But you can make decisions too
+And you can have this heart to break
+
+And every time I've felt a rose
+It seems I've only felt the thorns
+And so it goes, and so it goes
+Soon so will you soon I suppose
+And so it goes, and so it goes
+And you're the only one who knows

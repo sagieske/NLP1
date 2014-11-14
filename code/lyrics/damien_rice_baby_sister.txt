@@ -1,0 +1,28 @@
+Artist: damien_rice
+Title: baby_sister
+Genre: Folk
+Subgenres: [u'Alternative Folk', u'Alternative Singer/Songwriter', u'Alternative/Indie Rock', u'Contemporary Singer/Songwriter', u'Contemporary Folk']
+
+Song:
+
+Don't wake up, baby sister
+Keep dreaming
+Did he fill your cup?
+Baby sister, keep drinking
+
+Or he'll hit you
+He'll bleach your eyes
+So be a good girl just for the night
+And run! Run!
+
+Don't get stuck,
+Baby sister, leave this land
+And read your books
+Baby sister, wash your hands
+
+Or he'll hit you
+He'll bleach your eyes
+So be a good girl just for the night
+And run! Run! Run! Run!
+Run! Run! Run, baby sister, run!
+Baby sister.
