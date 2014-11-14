@@ -11,7 +11,6 @@ class feature_extraction:
 
 	def __init__(self, dump=True, load=False):
 		""" Get all file information. Possible to dump to a specific file or load from a specific file"""
-
 		if load:
 			try:
 				print "Load information from dumpfile: ", (self.DUMPFILE)
@@ -19,6 +18,7 @@ class feature_extraction:
 					loaded_files = pickle.load(f)
 			except:
 				print "File possibly corrupted"
+		# Load all files and get song information
 		else:
 			os.chdir(self.FOLDER)
 			loaded_files = []
@@ -28,6 +28,8 @@ class feature_extraction:
 					info = (information_song, lyrics)
 					loaded_files.append(info)
 			os.chdir('../')
+
+		# Dump information to file
 		if dump:
 			print "Dump information to dumpfile: ", self.DUMPFILE
 			with open(self.DUMPFILE,'wb') as f:
