@@ -1,0 +1,38 @@
+Artist: arlo_guthrie
+Title: all_over_the_world
+Genre: Folk
+Subgenres: [u'Contemporary Folk', u'Folk-Rock', u'Political Folk', u'Psychedelic/Garage', u'Singer/Songwriter', u'Traditional Folk', u'Protest Songs']
+
+Song:
+
+Words and music by Arlo Guthrie
+
+I was watching the news tonight
+And all over the world
+People were singing and carrying signs
+All over the world
+Every body walking hand in hand
+Through cities that I've been
+And though I'm not there tonight
+You know I'll be back again
+I'll be back again, I'll be back again
+
+I'm on a plane tonight for Germany
+And All over the world
+There are lots of people just like you and me
+All over the world
+Who know the bomb must never fall again
+All over the world
+And we must all learn how to live as friends
+All over the world
+All over the world, all over the world
+
+We are making the news tonight
+All over the world
+Because we know that what we do is right
+All over the world
+Every body walking hand in hand
+All over the world
+Through the streets of Europe and Japan
+All over the world
+All over the world, all over the world

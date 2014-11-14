@@ -1,0 +1,36 @@
+Artist: alison_krauss
+Title: another_night
+Genre: Country
+Subgenres: [u'Bluegrass', u'Contemporary Bluegrass', u'Contemporary Country', u'Neo-Traditionalist Country', u'Progressive Bluegrass', u'Traditional Bluegrass']
+
+Song:
+
+Wind is blowin' 'round the cabin
+I hate to hear that lonesome sound
+I'm all alone and so downhearted
+Since my true love she ain't around
+
+I hate to see that sun a sinkin'
+Another night to toss and turn
+Another night to dream about her
+Another night for her I yearn
+
+She had no cause to go and leave me
+For I had never done her wrong
+She left our own little children
+Now with another man she's gone
+
+I hate to see that sun a sinkin'
+Another night to toss and turn
+Another night to dream about her
+Another night for her I yearn
+
+Children they are sound asleepin'
+Oh they don't know that their mother's gone
+What will I do when they awaken?
+Can I tell them their mother's wrong?
+
+I hate to see that sun a sinkin'
+Another night to toss and turn
+Another night to dream about her
+Another night for her I yearn

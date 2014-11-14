@@ -1,0 +1,24 @@
+Artist: a_great_big_world
+Title: i_dont_wanna_love_somebody_else
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Singer/Songwriter', u'Adult Alternative Pop/Rock']
+
+Song:
+
+Oh I built a world around you
+Oh you had me in a dream, I lived in every word you said
+The stars had aligned
+I thought that I found you
+And I don't wanna love somebody else
+
+Oh we left it all unspoken
+Oh we buried it alive and now it's screaming in my head
+Oh I shouldn't go on hoping
+Oh that you will change your mind and one day we could start again
+Well I don't care if loneliness kills me
+I don't wanna love somebody else
+
+Oh I thought that I could change you
+Oh I thought that we would be the greatest story that I tell
+I know that it's time to tell you it's over
+But I don't wanna love somebody else

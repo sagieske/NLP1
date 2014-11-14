@@ -1,0 +1,37 @@
+Artist: alice_in_wonderland
+Title: all_in_a_golden_afternoon
+Genre: Pop/Rock
+Subgenres: [u'Alternative Metal', u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Grunge', u'Hard Rock', u'Heavy Metal']
+
+Song:
+
+Lily: Laaaa...
+Violets: Mimimimi...
+Marguerite: Lalalala...
+Snap-dragon: Hahahahahahaha...
+Marigolds: Poem, poepoem, poem, poempoempoempoem....
+All flowers:
+Little bread-and-butterflies kiss
+The tulips, and the sun is like a
+Toy balloon. There are get up in
+The morning glories, in the golden
+Afternoon. There are dizzy daffodils
+On the hillside, strings of violets
+Are all in tune, Tiger lilies love
+The dandy lions, in the golden
+Afternoon, the golden afternoon.
+There are dog and caterpillars and a
+Copper centipede, where the lazy
+Daisies love the very peaceful life
+They lead... You can learn a lot of
+Things from the flowers, for especially
+In the month of June. There's a wealth
+Of happiness and romance, all in the
+Golden afternoon. ... All in the golden
+Afternoon, the golden afternoon...
+Alice:
+You can learn a lot of things from the
+Flowers, for especially in the month of
+June. There's a wealth of happiness and
+Romance, oh...
+Flowers:... The golden afternoon!

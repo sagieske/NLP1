@@ -1,0 +1,41 @@
+Artist: christmas_songs
+Title: a_boy_is_born_in_bethlehem
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Indie Rock', u'Alternative Singer/Songwriter', u'Lo-Fi']
+
+Song:
+
+A Boy is Born in Bethlehem!
+Allelujah! Allelujah!
+And joy is in Jerusalem,
+Allelujah! Allelujah!
+
+And there He lay in manger poor,
+Allelujah! Allelujah!
+Whose rein shall last for ever-more,
+Allelujah! Allelujah!
+
+The a** and ox and all the heard,
+Allelujah! Allelujah!
+Knew well that Boy to be the Lord!
+Allelujah! Allelujah!
+
+And kings from out the East there were,
+Allelujah! Allelujah!
+With gold and frankincense and myrrh
+Allelujah! Allelujah!
+
+He lived like us in form and dress,
+Allelujah! Allelujah!
+Without our taint of wickedness.
+Allelujah! Allelujah!
+
+He came our souls to purify,
+Allelujah! Allelujah!
+And bring us safe to bliss on high
+Allelujah! Allelujah!
+
+Therefore let us with one accord,
+Allelujah! Allelujah!
+On this His Birthday praise the Lord!
+Allelujah! Allelujah!

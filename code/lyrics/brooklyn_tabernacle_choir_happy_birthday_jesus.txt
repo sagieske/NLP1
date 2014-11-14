@@ -1,0 +1,42 @@
+Artist: brooklyn_tabernacle_choir
+Title: happy_birthday_jesus
+Genre: Religious
+Subgenres: [u'Black Gospel', u'Contemporary Gospel', u'Gospel Choir', u'Gospel', u'Choral']
+
+Song:
+
+Happy Birthday to You
+Happy Birthday to You
+Happy Birthday, dear Jesus
+Happy Birthday to You
+
+Happy birthday, Jesus
+I'm so glad it's Christmas
+All the tinsel and lights
+And the presents are nice
+But the real gift is You
+
+Happy birthday, Jesus
+I'm so glad it's Christmas
+All the carols and bells
+Make the holiday swell
+And it's all about You
+
+Happy birthday, Jesus
+Jesus I love You
+
+Happy birthday, Jesus
+I'm so glad it's Christmas
+All the tinsel and lights
+And the presents are nice
+But the real gift is You
+
+Happy birthday, Jesus
+I'm so glad it's Christmas
+All the carols and bells
+Make the holiday swell
+And it's all about You
+
+Happy birthday, Jesus
+Jesus I love You
+I love You Jesus

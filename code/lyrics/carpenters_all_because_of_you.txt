@@ -1,0 +1,54 @@
+Artist: carpenters
+Title: all_because_of_you
+Genre: Pop/Rock
+Subgenres: [u'AM Pop', u'Soft Rock']
+
+Song:
+
+Every night I get tired eyes
+
+My feet don't reach the ground
+
+Then I'm with you
+
+I get by 'cause I know that you're near me
+
+So baby close your eyes
+
+I can sleep tonight
+
+All because of you
+
+
+
+Every night when the fire flies
+
+The walls come tumblin' down at the Bajou
+
+I get by 'cause I know that you're near me
+
+So baby close your eyes
+
+I can sleep tonight
+
+All because of you
+
+
+
+I'll keep singin' my love song
+
+In my mind I'll sing a song for you
+
+You can see through the music
+
+That's in my mind
+
+So baby close your eyes
+
+I can sleep tonight
+
+All because of you
+
+All because of you
+
+All because of you

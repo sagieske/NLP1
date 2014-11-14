@@ -1,0 +1,34 @@
+Artist: bing_crosby
+Title: after_youve_gone_alternate_version_with_eddie_condon
+Genre: Vocal
+Subgenres: [u'Tin Pan Alley Pop', u'Traditional Pop', u'Vocal Pop', u'American Popular Song', u'Vocal Jazz', u'Standards', u'Swing', u'Vocal Music']
+
+Song:
+
+After you've gone and left me crying
+After you've gone there's no denying
+You'll feel blue, you'll feel sad
+You'll miss the dearest pal you've ever had
+
+There'll come a time and I don't forget it
+There'll come a time when you regret it
+Someday when you grow lonely
+Your heart will break like mine and you'll want me only
+
+After you've gone
+After you've gone
+
+After you've gone and left me crying
+After you've gone there's no denying
+You'll feel blue, you'll feel sad
+You'll miss the dearest pal you've ever had
+
+There'll come a time and I don't forget it
+There'll come a time when you regret it
+Someday when you grow lonely
+Your heart will break like mine and you'll want me only
+
+After you've gone
+After you've gone away, so far away
+After you've gone
+After you've gone away

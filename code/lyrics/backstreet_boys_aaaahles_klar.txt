@@ -1,0 +1,22 @@
+Artist: backstreet_boys
+Title: aaaahles_klar
+Genre: Pop/Rock
+Subgenres: [u'Adult Contemporary', u'Dance-Pop', u'Euro-Dance', u'Euro-Pop', u'Pop', u'Teen Pop', u'Contemporary Pop/Rock', u'Club/Dance']
+
+Song:
+
+Ich brenne
+Ich brenne
+Ich brenne
+Ich brenne
+Ich brenne
+Ich brenne
+Ich brenne
+Ich brenne
+Ich brenne
+Ich brenne
+Ich brenne
+
+--->CHORuS
+
+Ich brenneich brenneich brenneich brenneich brenneich brenneich brenneich brenneich brenneich brenneich brenneich brenneich brenneich brenneich brenneich brenneich brenneich brenneich brenneich brenneich brenneich brenneich brenneich brenneich brenneich brenneich brenneich brenneich brenneich brenneich brenneich brenneich brenneich brenneich brenneich brenne

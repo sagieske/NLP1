@@ -1,0 +1,53 @@
+Artist: beatles
+Title: aint_she_sweet
+Genre: Pop/Rock
+Subgenres: [u'British Invasion', u'British Psychedelia', u'Contemporary Pop/Rock', u'Early Pop/Rock', u'Merseybeat', u'Psychedelic/Garage', u'Rock & Roll', u'AM Pop', u'Folk-Rock']
+
+Song:
+
+Oh aint she sweet,
+Well see her walking down that street.
+Yes I ask you very confidentially:
+Aint she sweet?
+
+Oh aint she nice,
+Well look her over once or twice.
+Yes I ask you very confidentially:
+Aint she nice?
+
+Just cast an eye
+In her direction.
+Oh me oh my,
+Aint that perfection?
+
+Oh I repeat
+Well don't you think that's kind of neat?
+Yes I ask you very confidentially:
+Aint she sweet?
+
+Oh aint she sweet,
+Well see her walking down that street.
+Well I ask you very confidentially:
+Aint she sweet?
+
+Oh aint that nice,
+Well look it over once or twice.
+Yes I ask you very confidentially:
+Aint she nice?
+
+Just cast an eye
+In her direction.
+Oh me oh my,
+Aint that perfection?
+
+Oh I repeat
+Well don't you think that's kind of neat?
+Yes I ask you very confidentially:
+Aint she sweet?
+
+Oh aint she sweet,
+Well see her walking down that street.
+Well I ask you very confidentially:
+Aint she sweet?
+Well I ask you very confidentially:
+Aint she sweet?

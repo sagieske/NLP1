@@ -1,0 +1,37 @@
+Artist: counting_crows
+Title: a_good_year_for_the_roses
+Genre: Pop/Rock
+Subgenres: [u'Adult Alternative Pop/Rock', u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'American Trad Rock', u'Alternative Country-Rock']
+
+Song:
+
+I can hardly stand the sight of lipstick
+On the cigarettes there in the ashtray.
+Lying cold the way you left them,
+But at least your lips caressed them
+While you packed.
+Or the lip print o a half-filled cup
+Of coffee that you poured
+And didn't drink.
+But at least you thought you wanted it
+Which is so much more than I can say for me.
+
+Refrain
+
+It's been a good year for the roses
+Many blooms still linger there.
+The lawn could stand another mowing
+It's funny, I don't even care
+But as you turned and walked away
+As the door behind you closes
+The only thing I thought to say
+Was what a good year for the roses
+
+After three, four years of marriage
+It's the first time that you haven't made the bed
+I guess the reason we're not talking,
+Is there's so little left to say that we haven't said
+While a million thoughts go racing through my mind
+I guess I haven't said a word
+From the bedroom, the familiar sound
+Of our one baby's crying goes unheard

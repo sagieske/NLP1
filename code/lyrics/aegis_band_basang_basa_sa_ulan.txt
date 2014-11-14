@@ -1,0 +1,21 @@
+Artist: aegis_band
+Title: basang_basa_sa_ulan
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Blues-Rock', u'Slide Guitar Blues', u'Southern Rock', u'Boogie Rock', u'Hard Rock']
+
+Song:
+
+Heto ako ngayon, nag-iisa
+Naglalakbay sa gitna ng dilim
+Lagi na lang akong nadarapa
+Ngunit heto, bumabangon pa rin
+
+Heto ako, basang-basa sa ulan
+Walang masisilungan, walang malalapitan
+Sana'y may luha pa, akong mailuluha
+At ng mabawasan ang aking kalungkutan
+
+Dumi at putik sa aking katawan
+Ihip ng hangin at katahimikan
+Bawat patak ng ulan at ang lamig
+Waring nag-uutos, upang maglaho ang pag-ibig.

@@ -1,0 +1,35 @@
+Artist: banda_el_recodo
+Title: aca_entre_nos
+Genre: International
+Subgenres: [u'Banda', u'Mexican Traditions', u'Bolero', u'Corrido', u'Cumbia', u'Ranchera', u'South American Traditions', u'Western European Traditions']
+
+Song:
+
+Por presumir a mis amigos les conte. Que en el amor ninguna pena me aniquila,
+Que pa probarles, de tus besos me olvide,
+Y me bastaron unos tragos de tequila.
+
+Les platique que me encontré con otro amor,
+Y que en sus brazos fui dejando de quererte.
+Que te aborrezco desde el dia de tu traición
+Y que hay momentos que he deseado hasta tu muerte.
+
+Aca entre Nos, Quiero que sepas la verdad,
+No te he dejado de adorar, alla en mi triste soledad
+Me han dado ganas de gritar salir corriendo
+Y preguntar que es lo que ha sido de tu vida.
+
+Aca entre nos, Siempre te voy a recordar
+Y hoy que a mi lado ya no estas no queda mas confesar
+Que ya no puedo soportar que estoy odiando sin odiar
+Porque respiro por la herida.
+
+Aca entre Nos, Quiero que sepas la verdad,
+No te he dejado de adorar, alla en mi triste soledad
+Me han dado ganas de gritar salir corriendo
+Y preguntar que es lo que ha sido de tu vida.
+
+Aca entre nos, Siempre te voy a recordar
+Y hoy que a mi lado ya no estas no queda mas confesar
+Que ya no puedo soportar que estoy odiando sin odiar
+Porque respiro por la herida.

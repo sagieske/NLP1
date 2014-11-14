@@ -1,0 +1,36 @@
+Artist: barney
+Title: 3_little_speckled_frogs
+Genre: Jazz
+Subgenres: [u'Bop', u'Cool', u'West Coast Jazz']
+
+Song:
+
+Three little speckled frogs
+Sitting on a speckled log
+Eating the most delicious lunch
+yumm yummy
+
+One jumped into a pool
+Where it was nice and cool
+Now there are 2 speckled frogs
+CROAK CROAK
+
+Two little speckled frogs
+Sitting on a speckled log
+Eating the most delicious lunch
+Yumm Yummy
+
+One jumped into a pool
+Where it was nice and cool
+Now there are 1 speckled frogs
+CROAK CROAK
+
+One little speckled frogs
+Sitting on a speckled log
+Eating the most delicious lunch
+yumm yummy
+
+He jumped into a pool
+Where it was nice and cool
+Now there are no speckled frogs
+CROAK CROAK

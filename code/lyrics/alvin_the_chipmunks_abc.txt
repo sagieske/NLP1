@@ -1,0 +1,54 @@
+Artist: alvin_the_chipmunks
+Title: abc
+Genre: Children's
+Subgenres: [u'Comedy', u'Novelty', u'Sing-Alongs', u'Song Parody']
+
+Song:
+
+Alvin:
+A - B - C - D - E - F - G
+H - I - J - K - L - M - N - O - P
+Q - are - S - T - you and V,
+W - X and Y and Z
+A - B - C - D - E - F - G - H
+I - J - K - L - M - N - O - P
+Q - are - S - T - you and V,
+W - X and Y and Z
+Now you've heard my abc,
+Tell me what you think of me?
+
+Simon:
+A - B - C - D - E - F - G
+H - I - J - K - L - M - N - O - P
+Q - are - S - T - you and V,
+W - X and Y and Z
+A - B - C - D - E - F - G - H
+I - J - K - L - M - N - O - P
+Q - are - S - T - you and V,
+W - X and Y and Z
+Now I've heard your abc,
+Let me hear your abc!
+
+Theodore:
+A - B - C - D - E - F - G
+H - I - J - K - L - M - N - O - P
+Q - are - S - T - you and V,
+W - X and Y and Z
+A - B - C - D - E - F - G - H
+I - J - K - L - M - N - O - P
+Q - are - S - T - you and V,
+W - X and Y and Z
+All together sing with me,
+Let us try our abc!
+
+The Chipmunks:
+A - B - C - D - E - F - G
+H - I - J - K - L - M - N - O - P
+Q - are - S - T - you and V,
+W - X and Y and Z
+A - B - C - D - E - F - G - H
+I - J - K - L - M - N - O - P
+Q - are - S - T - you and V,
+W - X and Y and Z
+Now we've heard our abc,
+Let us hear our abc!

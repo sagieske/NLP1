@@ -1,0 +1,41 @@
+Artist: bruce_springsteen
+Title: 30_days_out
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Contemporary Pop/Rock', u'Heartland Rock', u'Rock & Roll', u'Alternative Folk']
+
+Song:
+
+We fell in love and I made you the world
+I spent all my time tryin' to satisfy you, girl
+Just one thing that I can't figure out
+Closer I get, farther baby I am out
+
+30 days, 30 days out
+Well I'm six days runnin' but I'm 30 days out
+30 days, 30 days out
+With every kiss you leave a little shadow of doubt
+
+The roof was leakin' honey where we live
+And I'm wonderin' what's that something that you won't give
+I started loving you but I gotta stop
+You got me mostly waitin' for that other shoe to drop
+
+30 days, 30 days out
+You keep me six days runnin' but I'm 30 days out
+30 days, 30 days out
+With every kiss you leave a little shadow of doubt
+
+Tried to talk about what's goin' on
+You just smile and tell me "Baby there ain't nothin' wrong"
+In your smile there's a sign in red
+It said "Thousand miles of hard road dead ahead"
+
+30 days, 30 days out
+Yeah I'm six days runnin' but I'm 30 days out
+30 days, 30 days out
+With every kiss you leave a little shadow of doubt
+
+30 days, 30 days out
+Well I'm six days runnin' but I'm 30 days out
+30 days, 30 days out
+With every kiss you leave a little shadow of doubt

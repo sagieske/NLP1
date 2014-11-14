@@ -1,0 +1,36 @@
+Artist: breaking_benjamin
+Title: break_my_fall
+Genre: Pop/Rock
+Subgenres: [u'Post-Grunge', u'Heavy Metal']
+
+Song:
+
+You fought me once but not again
+You let me feel your heavy hand
+I will clean your f*****g mess
+And leave no trace of evidence
+
+[Chorus:]
+I am losing you again
+Let me out and let me in
+'cause you're not alone here
+Not at all
+Let me belong here
+Break my fall
+
+Shelter me from this again
+Dedicated to the end
+Help me break my conscience in
+To free us from our innocence
+
+[Chorus:]
+
+"Mayday, Mayday.
+Requesting permission to land.
+I cannot control the plane.
+We are in danger of crashing"
+
+[Chorus:]
+
+[x5]
+Break my fall

@@ -1,0 +1,56 @@
+Artist: barbra_streisand
+Title: a_great_day
+Genre: Vocal
+Subgenres: [u'Adult Contemporary', u'Cast Recordings', u'Musicals', u'Show Tunes', u'Soft Rock', u'Standards', u'Traditional Pop', u'AM Pop', u'Show/Musical']
+
+Song:
+
+Fanny & chorus
+When you're down and out
+Lift up your head and shout
+There's gonna be a great day
+Angels in the sky
+Promise that be by and by
+There's gonna be a great day
+Gabriel will warn you
+Some early morn
+You will hear his horn
+It's not far away
+Lift up your head and say
+There's gonna be a great day
+Great day
+
+When you're down and out
+Lift up your head en shout
+There's gonna be a great day
+Angels in the sky
+Promise that by en by
+We're gonna see a great day
+Gabriel will warn you
+Somebody born
+You will hear his horn, his horn
+It's not far away
+Lift up your head and say
+There's gonna be a great day
+When the skies went darker, oh lord!
+Came noah's ark, oh lord!
+Amen and amen!
+Amen and amen!
+
+He came in january, february, march, april, may, june
+July, and august, september october, november,
+De de december
+It was a great day
+It was a great day
+One of those great days
+And on judgment day
+If you believe he will receive you and me
+Gabriel will warn you
+Some early morn
+You will his horn, his horn
+It's not far away
+Lift up your head and say
+There's gonna be a great
+We're gonna see a great
+There's gonna be,
+Be a great day.

@@ -1,0 +1,40 @@
+Artist: crosby_stills_nash
+Title: after_the_storm
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Pop/Rock', u'Singer/Songwriter', u'Soft Rock', u'Album Rock']
+
+Song:
+
+After the clouds disappear
+After the rainbow has gone
+I'm left with a song in my ear
+The melody is lingering on
+How come I have to explain
+Music is worth all the pain
+
+After the rain washes down
+After all the fog burns away
+Will I see the sun coming 'round?
+Closer and closer each day
+How come I have to explain
+People are worth all the pain
+I just want to see the love in your eyes
+After the storm has passed you and gone
+
+When you're dreaming of how it can be
+It doesn't work to pretend
+Let me tell you what happened to me
+Just to get to the end
+I needed a friend
+After the rainbow had gone
+It's so sad, losing a friend
+But the memories are lingering on
+
+How come I have to explain
+Children are worth all the pain
+
+I just want to see the love in your eyes
+After the storm has passed you and gone
+
+I just want to see the love in your eyes
+After the storm has passed you and gone

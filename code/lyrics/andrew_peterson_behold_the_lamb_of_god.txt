@@ -1,0 +1,27 @@
+Artist: andrew_peterson
+Title: behold_the_lamb_of_god
+Genre: Religious
+Subgenres: [u'Alternative CCM', u'CCM', u'Contemporary Christian', u'Gospel', u'Christian Rock']
+
+Song:
+
+Behold, the Lamb of God
+Who takes away our sin
+Behold the Lamb of God
+The life and light of men
+Behold the Lamb of God
+Who died and rose again
+Behold the Lamb of God who comes
+To take away our sin
+
+Broken hearts--behold our broken hearts
+Fallen far--we need you
+Behold the Lamb of God
+
+Chorus
+
+Son of God--Emmanuel
+Son of Man--we need you
+Behold the Lamb
+The hope of man
+Behold the Lamb of God

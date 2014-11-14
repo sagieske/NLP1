@@ -1,0 +1,17 @@
+Artist: childrens_songs
+Title: baa_baa_black_sheep
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Indie Rock', u'Alternative Singer/Songwriter', u'Lo-Fi']
+
+Song:
+
+Baa baa black sheep (done with enthusiasm please)
+have you any wool....?
+Yes sir
+yes sir
+3 bags full!
+1 for the master
+1 for the dame
+1 for the little boy who lives down the laaaaanneee...............
+
+Ta dah!!!!!!!!!!!!

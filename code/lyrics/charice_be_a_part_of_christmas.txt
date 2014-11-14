@@ -1,0 +1,23 @@
+Artist: charice
+Title: be_a_part_of_christmas
+Genre: Pop/Rock
+Subgenres: [u'Adult Contemporary', u'Pop Idol', u'Dance-Pop', u'Pop']
+
+Song:
+
+1st verse
+
+Christmas will never be the same, 
+If you have'nt come home yet, 
+It would be a miracle to see you once again
+
+Chorus:
+I have enouh of your promising that you would come back on christmas day.
+I don't believe you anymore, I am not a fool cause I know that you don't love me anymore
+
+2nd verse
+
+A promise is a promise that we would share the special holiday, just when I thought that it would be real, 
+Who am I to be fooled with you, no no no, I can't believe you would do this to me, and I want you to believe that it's christmas day, it's all about love, it's all about keeping promises to each other
+
+(Repeat chorus 2x and fade)

@@ -1,0 +1,19 @@
+Artist: bing_crosby
+Title: aloha_oe
+Genre: Vocal
+Subgenres: [u'Tin Pan Alley Pop', u'Traditional Pop', u'Vocal Pop', u'American Popular Song', u'Vocal Jazz', u'Standards', u'Swing', u'Vocal Music']
+
+Song:
+
+Proudly swept the rain by the cliffs
+As on it glided through the trees
+Still following with grief the liko
+A hihi lehua of the vale
+
+Aloha oe, aloha oe
+Thou charming one who dwells among the bowers
+One fond embrace, before I now depart
+Until we meet again
+
+One fond embrace, before I now depart
+Until we meet again

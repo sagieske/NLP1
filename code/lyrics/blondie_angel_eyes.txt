@@ -1,0 +1,16 @@
+Artist: blondie
+Title: angel_eyes
+Genre: Pop/Rock
+Subgenres: [u'American Punk', u'Contemporary Pop/Rock', u'New Wave', u'New York Punk', u'Punk', u'Punk/New Wave', u'Dance-Rock', u'Club/Dance']
+
+Song:
+
+So drink up all you people.
+Order, order anything you please.
+Have fun, all you happy people.
+The drinks, and the laugh's, on me.
+
+Pardon me, hehe, but I gotta run.
+The fact's uncommonly clear.
+I gotta find who's my number one and why my angel eyes ain't here.
+'scuse me while I disappear.

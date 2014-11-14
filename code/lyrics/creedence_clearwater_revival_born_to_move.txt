@@ -1,0 +1,27 @@
+Artist: creedence_clearwater_revival
+Title: born_to_move
+Genre: Pop/Rock
+Subgenres: [u'Rock & Roll', u'Contemporary Pop/Rock', u'AM Pop']
+
+Song:
+
+(J. C. Fogerty)
+
+Ev'ry day I'm gonna strut that stuff.
+When the music's loud I can't get enough.
+Singin' hi, singin' hi,
+Come on feet, Teach yourself to move.
+
+People shuff'lin' up and down again.
+Unhappy faces ain't gonna get you in.
+Singin' hi, singin' hi,
+Come on people, Teach yourself to move.
+
+Hey, hey! Hey, all right!
+
+Spread the news, we're goin' have some fun.
+Let it go, movin' son-of-a-gun.
+Singin' hi, signin' hi,
+Come on feet, We was Born To Move.
+
+Hey, hey, Lord! Come on, move it, now boy!

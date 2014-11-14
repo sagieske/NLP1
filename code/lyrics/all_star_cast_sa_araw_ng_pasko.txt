@@ -1,0 +1,38 @@
+Artist: all_star_cast
+Title: sa_araw_ng_pasko
+Genre: Stage & Screen
+Subgenres: []
+
+Song:
+
+[Intro]
+
+'di ba't kay ganda sa atin ng pasko
+Naiiba ang pagdiriwang dito
+Pasko sa ati'y hahanap-hanapin mo
+Walang katulad dito ang pasko
+
+[Refrain]
+Lagi mo na maiisip na sila'y nandito sana
+At sa noche buena ay magkakasama
+
+[Chorus]
+Ang pasko ay kay saya kung kayo'y kapiling na
+Sana pagsapit ng pasko, kayo'y naririto
+Kahit pa malayo ka, kahit nasaan ka pa
+Maligayang bati para sa inyo sa araw ng pasko
+
+Sa ibang bansa'y 'di mo makikita
+Ang ngiti sa labi ng bawat isa
+Alam naming hindi n'yo nais malayo
+Paskong pinoy pa rin sa ating puso
+
+[repeat refrain]
+[repeat chorus]
+
+[Bridge]
+Dito'y mayro'ng caroling at may simbang gabi
+At naglalakihan pa ang christmas tree, ang christmas tree
+
+[repeat chorus except last 4 words]
+[repeat chorus]

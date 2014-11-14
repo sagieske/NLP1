@@ -1,0 +1,52 @@
+Artist: cn_blue
+Title: black_flower
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Pop/Rock', u'Adult Contemporary', u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Dream Pop']
+
+Song:
+
+Saranghandago soksakideon dagamhan keu mal
+Eoreumcheorum chagaweojyeo gago
+Mollatdeon saramdeulboda deo janinhagaedo
+Naui jeonbu jitbalgo ddeonaga
+Niga jun sarangira ibyeoldo niga jumyun
+Nan keujeo apahamyun dwigettni
+
+Keu ddaen nareul doraboneungeoya
+Bbiddeureojin sesang sogae
+Gamyun sogae gariweojin
+Neoui chagaon shiseoneul pihae
+Neoui naengso sogae pieonan jeo geomeun kkotdeureul bwabwa
+Hayanhkaeman boyeojudeon geojitdwetdeon neoui sarangeul
+
+Michindeut saranghandadeoni
+Ddo michindeut naega shireojyeotdan mareul hago
+Ddeutgeobdeon neoui keu sarangi
+Haru achime miweohanun iyuga dwieotni
+Niga jun sarangira ibyeoldo niga jumyun
+Nan keujeo apahamyun dwigettni
+
+Keu ddaen gakkum nareul dorabonungeoya
+Bbiddetreojin sesang sogae
+Gamyun sogae gariweojin neoui chagaoun shiseoneul pihae
+Neoui naengso sogae pieonan jeo geomeun kkotdeureul bwabwa
+Hayanhkaeman boyeojudeon geojitdwettdeon neoui sarangeul
+
+Go Go dwidora boji mara
+Go Go deo isangeun nado
+Neoreul wonhaji anheo majimagae ireogo kkutnaenun
+Jalhaejuji mothae mianhaetdan maldo
+Neoui keu byeondeoksureobdeon maeumdo byeondeoksureobdeon
+Sarangdo ijaenun shinmuri nan geol mwo
+
+Keu ddaen gakkum ureodo bonun geoya
+Teojildeuthan mameul yeolgo
+Seulpeun deushi pyongjeongjitnun neoui eolguldeul misoreul hyanghae
+Neoui gashik sogae pieonan jeo geomeun kkotdeureun jiweo
+Yeongwonhal deut bonaejudeon geotjitdwetdeon neoui sarangeul
+
+Keu ddaen gakkum nareul doraboneungeoya
+Bbiddeureojin sesang sogae
+Gamyun sogae gariweojin neoui chagaoun shiseoneul pihae
+Neoui naengso sogae pieonan jeo geomeun kkotdeureul bwabwa
+Hayanhkaeman boyeojudeon geotjitdwaetdeon neoui sarangeul

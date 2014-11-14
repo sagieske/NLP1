@@ -1,0 +1,32 @@
+Artist: cher
+Title: a_beautiful_story
+Genre: Pop/Rock
+Subgenres: [u'Adult Contemporary', u'Contemporary Pop/Rock', u'Dance-Pop', u'Folk-Rock', u'Girl Groups', u'AM Pop', u'Soft Rock', u'Club/Dance', u'Early Pop/Rock']
+
+Song:
+
+What's your name? Is it Jane?
+Would you mind sitting next to a silly old fool?
+It's just that I'm tired of wasting my hours
+Talking to trees, watching the flowers grow
+Watching birds chasing bees, little boys scraping knees
+Even my tears have all dried
+Can I sit by your side?
+
+Chorus:
+Don't misunderstand me
+I'm just an old man with no place to go
+& if you oblige me, sit here beside me
+I'll tell you a story, a beautiful story
+That you might not know
+Please don't go
+
+Pardon me, Mr. Tree
+I hope that I didn't offend you before
+You are my friend, but I wanted much more
+Now I'm back once again just like always before
+Watching birds chasing bees, little boys scraping knees
+Even my tears have all dried
+Can I sit by your side?
+
+[Chorus:]

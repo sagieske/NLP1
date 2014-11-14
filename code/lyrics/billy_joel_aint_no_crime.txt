@@ -1,0 +1,55 @@
+Artist: billy_joel
+Title: aint_no_crime
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Contemporary Pop/Rock', u'Singer/Songwriter', u'Soft Rock', u'Keyboard']
+
+Song:
+
+Opening:
+You got to open your eyes in the morning,
+Nine o'clock comin' without any warnin'
+And you gotta get ready to go.
+
+You say you went out late last evenin'
+Did a lot of drinkin', come home stinkin',
+And you went and fell asleep on the floor.
+And then your lady comes and finds you a sleepin'
+Starts into weepin' 'bout the hours you been keepin'
+And you better get your ass out the door.
+
+Ain't no crime,
+Yeah, it's good to get it on to get a load off your mind,
+It ain't no crime,
+Well, ev'rybody gets that way sometime.
+It ain't no crime.
+Oh.
+
+Opening
+
+Well now you tell me you love somebody
+And you'll love 'em forever, you may love 'em forever,
+But you won't like 'em all of the time.
+Well now you tell me you need somebody
+For the rest of your life you might have somebody,
+But you won't want 'em ev'ry day.
+
+Ain't no crime,
+Well it's just human nature, happens all the time,
+It ain't no crime,
+Well ?????
+It ain't no crime.
+Oh.
+
+Ain't no crime,
+Yeah, it's good to get it on to get a load off your mind,
+It ain't no crime,
+Well it's just human nature, happens all the time,
+It ain't no crime.
+Oh.
+
+Opening
+
+And just as surely as the wind keeps blowin',
+The grass keeps growin', you gotta keep goin',
+And the Lord have mercy on your soul.
+Oooh, la la la la.

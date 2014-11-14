@@ -1,0 +1,50 @@
+Artist: abba
+Title: al_andar
+Genre: unknown
+Subgenres: [u'Contemporary Pop/Rock', u'Euro-Pop', u'AM Pop', u'Scandinavian Pop', u'Swedish Pop/Rock', u'Disco']
+
+Song:
+
+Se dice que el ansioso
+Esconde un alma en paz
+Viajero o misionero
+Va lejos much ms.
+Si miro hasta el cielo
+O dentro mo, no s,
+Ya nada importa mucho
+Si puedo con sinceridad
+Saber que, lo intent.
+
+(Refrain:)
+Como el mar y su creciente
+Va la gente al andar
+Como el viento y su corrida
+Va la vida al andar
+Como el sol a la maana
+Que reclama el andar
+Atesoro el momento
+Vivo y siento
+Es mi intento
+Y lo hago al andar
+
+Viaj por tantos lados
+En la imaginacin
+Estamos siempre andando
+Sin tiempo ni razn
+Quien puede elegir
+Si existen diferencias
+Sabemos que hay, en cada ser
+Deseos de vivir
+
+La brisa que acaricia
+Con suavidad el mar
+Y todas las gaviotas
+Que vuelan sin cesar
+Lo veo y lo siento
+Y no lo s explicar
+Esplndido momento
+Sentir llover
+Y el sol nacer
+Vivir y disfrutar
+
+(Refrain)

@@ -1,0 +1,39 @@
+Artist: arash
+Title: boro_boro
+Genre: Pop/Rock
+Subgenres: [u'Pop', u'Club/Dance', u'Dance-Pop', u'Pop-Rap']
+
+Song:
+
+Razi bodam,
+amma to bad sheitoni kardi,
+go bukho
+
+Boro Boro delam toro toro nemikhad,
+dige dige nemikham bebinamet
+Boro Boro delam jaie dige dige hast,
+dige dige nemikham bebinamet
+
+Boro Boro delam toro toro nemikhad,
+dige dige nemikham bebinamet
+Boro Boro delam jaie dige dige hast,
+dige dige nemikham bebinamet
+
+Roozi bod, ashghe to bodam,
+az kardi,
+nazdike man naja to
+
+Boro Boro delam toro toro nemikhad,
+dige dige nemikham bebinamet
+Boro Boro delam jaie dige dige hast,
+dige dige nemikham bebinamet
+
+Boro Boro delam toro toro nemikhad,
+dige dige nemikham bebinamet
+Boro Boro delam jaie dige dige hast,
+dige dige nemikham bebinamet
+
+(Chorus repeat x 2)
+
+Boro Boro delam toro toro nemikhad
+Boro Boro delam jaie dige dige hast

@@ -1,0 +1,42 @@
+Artist: carole_king
+Title: aint_that_the_way
+Genre: Pop/Rock
+Subgenres: [u'Adult Contemporary', u'Brill Building Pop', u'Contemporary Pop/Rock', u'Singer/Songwriter', u'Soft Rock', u'AM Pop']
+
+Song:
+
+Ain't that the way
+Whenever you think you've got it made
+Everything changes on you
+Ain't that the way
+Nothing is stranger than the truth
+And how it comes to you
+Ain't that the way
+
+In this life we are living
+Moment to moment, day by day
+And through all our tribulations
+We reach out for each other
+And if we're lucky, someone cares enough to say
+
+Ain't that the way
+Whenever you think you're in control
+Everything turns around
+Ain't that the way
+One day you're flying
+Next day you're on the ground
+Ain't that the way
+
+So it goes
+You never know what's gonna happen
+You never know, but something always does
+And sometimes in quiet desperation
+You realize it's never gonna be the way it was
+
+Ain't that the way
+Whenever you think you've got it all
+There's a wall in front of you
+Ain't that the way
+You gotta go through it, it's life
+And it's all okay
+Ain't that the way

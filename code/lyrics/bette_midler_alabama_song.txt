@@ -1,0 +1,22 @@
+Artist: bette_midler
+Title: alabama_song
+Genre: Vocal
+Subgenres: [u'Adult Contemporary', u'Cast Recordings', u'Show Tunes', u'Soft Rock', u'Contemporary Pop/Rock']
+
+Song:
+
+Oh, show me the way to the next whiskey bar.
+Oh, don't ask why. Oh, don't ask why.
+'Cause I must find the next whiskey bar.
+If I don't find the next whiskey bar,
+I tell you I will die, I tell you I will die.
+I tell you, I tell you, I tell you I will die.
+
+Oh, moon of Alabama, so high up in the sky.
+I lost him, I lost my lover.
+I need a drink. Can you guess why?
+
+Oh, moon of Alabama, so high up in the sky.
+I lost him, I lost my lover.
+I need a drink, and you know why.
+I bet you know why. I bet you know why.

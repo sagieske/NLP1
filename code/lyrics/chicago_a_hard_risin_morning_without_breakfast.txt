@@ -1,0 +1,26 @@
+Artist: chicago
+Title: a_hard_risin_morning_without_breakfast
+Genre: Pop/Rock
+Subgenres: [u'Adult Contemporary', u'Soft Rock', u'Contemporary Pop/Rock', u'AM Pop', u'Jazz-Rock']
+
+Song:
+
+Today when I awoke
+The morning blues hung over me
+So, I looked it straight in the eye
+I jumped into the shower
+For 'bout an hour
+Aw it was fine
+Yeah, It helps me all the time
+It's soothin' to my mind
+Just to see those blues
+Go slippin' down the drain
+Now I usually have my breakfast
+Which consists of tasty spam
+Yeah, I could eat it all day long
+But I only love one brand
+And I can't find it way out here
+So, I have to take a pass
+And settle for some hash
+When I drive and you're not here
+Oh, sweet sweet spam

@@ -1,0 +1,40 @@
+Artist: carpenters
+Title: all_i_can_do
+Genre: Pop/Rock
+Subgenres: [u'AM Pop', u'Soft Rock']
+
+Song:
+
+Ooh, ooh, ba
+
+Yesterday I thought you'd stay
+
+I thought you'd see things my way
+
+But now I see my hopes may be dead
+
+I should have known when you said
+
+I was the one you wanted
+
+Wanting meant nothing more than today
+
+(*) All I can do is cry over you
+
+And hope you return someday
+
+All I can do is cry over you
+
+Ever since you've gone away
+
+Every road that I follow
+
+Leaves me with no tomorrow
+
+I need someone to show me the way
+
+Repeat (*)
+
+Baba, baba, baba
+
+Baba, baba, baba

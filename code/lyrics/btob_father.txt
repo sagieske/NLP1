@@ -1,0 +1,81 @@
+Artist: btob
+Title: father
+Genre: Electronic
+Subgenres: []
+
+Song:
+
+[Changsub]
+Sseulsseulhaejin dwinmoseubi natseoro
+Georeoganeun naenae barabonaga
+Geunyang nunmuri naso
+Geunyang ulgiman haeso
+Jigeumkkot moreugo san naega miweoseo
+
+[Hyunsik]
+Apeson taeyeonhan cheok utgiman haeso
+Hangsang nae apeson kanghan cheok haeso
+[Minhyuk]
+Saengakjocha mothaeso
+Ahnin julman arasoh
+Seulseulhan dwitmoseubeul molladeon geoya
+
+[Sungjae]
+Keuddaenun mollajo neomuna ohreojo
+Nuguboda waeroul tende dagagaji mothaejo
+[Eunkwang]
+E-jaeya arajwo
+Jogeum nuteun geon ahnijo
+Neomuna hagoshipeun mal
+Yeongwonhi saranghamnida
+Nae ahboji
+
+[Hyunsik]
+Hanchameun keureomkae nan barabonaga
+Daryeogase geunyang anhaboryeoso
+[Changsub]
+Manyang eulgosipeoso
+Keu pumi eulgoshipeoso
+Dangsine gomaeum-e neomu seorowoso
+
+[Sungjae]
+Keuddaenun mollajo neomuna ohreojo
+Nuguboda waeroul taendae dagagaji mothaejo
+[Eunkwang]
+E-jaeya arajwo
+Jogeum nuteun gon ahnijo
+Neomuna hagoshipeun mal
+Yeongwonhi saranghamnida
+Nae ahboji
+
+[Ilhoon]
+Hanseum han bun puk swimyeon da na-ahjin dut sek cheok
+Naegaen boyeoyo kedae-en hwiriti anhnun nunmul
+Sangcho kadukhan gaseum oulji angun ahpaseol hyeongto
+Da naega mandul kundae jaggu haeyo way kedae talsol
+[Peniel]
+And your eyes showed you were tired
+But you hid it, such a liar
+[Minhyuk]
+E-jae naega ahn-ah julgaeyo naegae kidaedu dwaeyo
+[Peniel]
+And your eyes showed you were tired
+But you hid it, such a liar
+[Minhyuk]
+Geudaenun yeongwonhan nae nupeon hanuel-e-aeyo
+
+[Changsub]
+Keochirojin sonae Jureumjin nunga-e
+Seulseulhaejin dwemoseumhajo nan iksokhai ahn-ah-so
+[Sungjae]
+Naega keu haetnabwa
+Ah-pur-gae haetnabwa
+Dwideulahson dwemoseumhajo naega namkin jimman gataso
+[Eunkwang]
+Haejun gae eobtjiman
+Nan deurin gae hana eobtjiman
+
+[Eunkwang]
+Neomuna hagoshipeun mal
+Yeongwonhi saranghamnida
+Nae ahboji

@@ -1,0 +1,14 @@
+Artist: all_time_low
+Title: art_of_the_state
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Emo-Pop', u'Punk-Pop']
+
+Song:
+
+Redesign me, state of the art
+Erase my mind, replace my heart
+I wanna start over.
+
+Redefine me, take me apart
+Change my mind, change my heart
+And let me start over.

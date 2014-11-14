@@ -1,0 +1,31 @@
+Artist: buddy_holly
+Title: baby_its_love
+Genre: Pop/Rock
+Subgenres: [u'Early Pop/Rock', u'Rock & Roll', u'Rockabilly']
+
+Song:
+
+Sixty seconds of heavenly bliss
+One minute of your sweet kiss
+Then my heart was all a mess
+It's love - baby, it's love
+
+Sixty minutes of you in my arms
+One hour to learn of all your charms
+Then my heart's like a fire alarm
+It's love - baby, it's love
+
+Twelve hours of you to tantalize
+One day for me to realize
+My heart flutters like butterflies
+It's love - baby, it's love
+
+Seven days - a wedding to plan
+One week and then I begin
+My life of a happy married man
+It's love - baby, it's love
+
+Four weeks of quarrels and kisses
+One month of fighting the missus
+I'm wondering now what the heck that this is
+It's love - baby, it's love

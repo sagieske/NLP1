@@ -1,0 +1,24 @@
+Artist: andrew_lloyd_webber
+Title: all_i_ask_of_you_reprise
+Genre: Stage & Screen
+Subgenres: [u'Cast Recordings', u'Musicals', u'Show Tunes', u'Show/Musical', u'Vocal Music']
+
+Song:
+
+I gave you my music
+Made your song take wing
+And now! How you've repaid me
+Denied me and betrayed me!
+
+He was bound to love you
+When he heard you sing
+Christine...
+
+(Raoul and Christine singing:
+Say you'll share with me one love, one lifetime,
+Say the word and I will follow you.
+Say you'll want me with you here, beside you,)
+
+You will Curse the day you did not do
+All that the phantom
+Asked of you

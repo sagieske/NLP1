@@ -1,0 +1,35 @@
+Artist: bb_king
+Title: a_new_way_of_driving
+Genre: Blues
+Subgenres: [u'Modern Electric Blues', u'Soul-Blues', u'Early R&B', u'Memphis Blues', u'Regional Blues']
+
+Song:
+
+Got a new way of driving
+Come ride in this car with me
+Got a new way of driving
+Come ride in this car with me
+I ride so you bring back your memory
+
+We'll ride in the mornin'
+Put your (???) clothes in my (???)
+We'll ride in the mornin'
+Put your (???) clothes in my (???)
+I'll ride so even
+I swear I won't do harm
+
+Well we'll ride in the mornin'
+We'll ride at night
+We'll ride pretty baby til we ride just right
+
+Come on baby in this car with me
+I'll ride you so easy
+Bring back your memory
+
+Well we'll ride in the mornin'
+Ride before day
+Ride pretty baby drive the blues away
+
+Come on baby in this car with me
+I'll ride you so easy
+Bring back your memory

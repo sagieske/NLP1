@@ -1,0 +1,34 @@
+Artist: buck_owens
+Title: abilene
+Genre: Country
+Subgenres: [u'Bakersfield Sound', u'Honky Tonk', u'Traditional Country']
+
+Song:
+
+Abilene, Abilene
+Prettiest town that I've ever seen.
+Women there don't treat you mean
+In Abilene, sweet Abilene.
+
+I set alone most every night
+Watch the trains roll out of sight
+Don't I wish they were carryin' me
+Back to Abilene, my Abilene.
+
+Abilene, Oh, Abilene
+Prettiest town that I've ever seen.
+Women there don't treat you mean
+In Abilene, sweet Abilene.
+
+Crowded city, there ain't nothin' free
+Nothin' in this town for me
+Wish to the Lord that I could be
+Back In Abilene, sweet Abilene.
+
+Abilene, Oh, Abilene
+Prettiest town that I've ever seen.
+Women there don't treat you mean
+In Abilene, sweet Abilene.
+
+Women there don't treat you mean
+In Abilene, my Abilene...

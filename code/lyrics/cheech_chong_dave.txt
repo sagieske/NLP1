@@ -1,0 +1,45 @@
+Artist: cheech_chong
+Title: dave
+Genre: Comedy/Spoken
+Subgenres: [u'Sketch Comedy', u'Standup Comedy', u'Comedy']
+
+Song:
+
+(Soft knocks at the door)
+Chong: Who is it?
+Cheech: It's me, Dave. Open up, man, I got the stuff.
+(More knocks)
+Chong: Who is it?
+Cheech: It's me, Dave, man. Open up, I got the stuff.
+Chong: Who?
+Cheech: It's, Dave, man. Open up, I think the cops saw me come in here.
+(More knocks)
+Chong: Who is it?
+Cheech: It's, Dave, man. Will you open up, I got the stuff with me.
+Chong: Who?
+Cheech: Dave, man. Open up.
+Chong: Dave?
+Cheech: Yeah, Dave. C'mon, man, open up, I think the cops saw me.
+Chong: Dave's not here.
+Cheech: No, man, I'm Dave, man.
+(Sharp knocks at the door)
+Cheech: Hey, c'mon, man.
+Chong: Who is it?
+Cheech: It's Dave, man. Will you open up? I got the stuff with me.
+Chong: Who?
+Cheech: Dave, man. Open up.
+Chong: Dave?
+Cheech: Yeah, Dave.
+Chong: Dave's not here.
+Cheech: What the hell? No, man, I am Dave, man. Will you...
+(More knocks)
+Cheech: C'mon! Open up the door, will you? I got the stuff with me, I think the cops saw me.
+Chong: Who is it?
+Cheech: Oh, what the hell is it... C'mon. Open up the door! It's Dave!
+Chong: Who?
+Cheech: Dave! D-A-V-E! Will you open up the goddam door!
+Chong: Dave?
+Cheech: Yeah, Dave!
+Chong: Dave?
+Cheech: Right, man. Dave. Now will you open up the door?
+Chong: Dave's not here.

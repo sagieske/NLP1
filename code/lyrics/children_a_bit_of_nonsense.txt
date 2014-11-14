@@ -1,0 +1,16 @@
+Artist: children
+Title: a_bit_of_nonsense
+Genre: Pop/Rock
+Subgenres: [u'Heavy Metal', u'Scandinavian Metal', u'Death Metal', u'Power Metal', u'Speed/Thrash Metal']
+
+Song:
+
+A canner exceedingly canny,
+One morning remarked to his granny:
+A canner can can anything that he can,
+But a canner can't can a can, can he?
+
+There was a young man so benighted,
+He didn't know when he was slighted,
+But went to the party and ate just as hearty
+As tho' he'd been duly invited.

@@ -1,0 +1,44 @@
+Artist: carpenters
+Title: all_of_my_life
+Genre: Pop/Rock
+Subgenres: [u'AM Pop', u'Soft Rock']
+
+Song:
+
+All of my life I have been waiting
+
+For just one boy
+
+And all of my life I have been waiting
+
+For all the joy of having
+
+(*) Someone that I can call my own
+
+Who'll come to my side when I am all alone
+
+And now you are here and I've found a whole new world
+
+Has opened for me
+
+A world filled with joy
+
+A world filled with all your love
+
+Eternally
+
+(**) For you say you're mine
+
+You'll love me all the time
+
+Night and day
+
+Come what may, and all of my life
+
+You'll be my own
+
+I just want
+
+Repeat (*)
+
+Repeat (**)

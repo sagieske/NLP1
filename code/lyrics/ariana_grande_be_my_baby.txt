@@ -1,0 +1,19 @@
+Artist: ariana_grande
+Title: be_my_baby
+Genre: Pop/Rock
+Subgenres: [u'Contemporary R&B', u'Pop', u'Teen Pop', u'Dance-Pop', u'Cast Recordings', u'Musical Theater']
+
+Song:
+
+Be my, be my (x3)
+Baby
+
+Oh baby boy
+You can be my baby
+Hold my close
+Kiss me boy
+And drive me crazy
+
+Be my, be my (x3)
+Baby
+And drive me crazy

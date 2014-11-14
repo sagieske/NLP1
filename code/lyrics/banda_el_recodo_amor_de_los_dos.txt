@@ -1,0 +1,17 @@
+Artist: banda_el_recodo
+Title: amor_de_los_dos
+Genre: International
+Subgenres: [u'Banda', u'Mexican Traditions', u'Bolero', u'Corrido', u'Cumbia', u'Ranchera', u'South American Traditions', u'Western European Traditions']
+
+Song:
+
+Vivir en el mundo con una ilusion
+Es loca esperanza sufre el corazn
+Mi vida es tu vida, amor de los dos
+Tu me haces sufrir, ya lo pagars
+Tu no tienes perdn.
+Prdoname, si te he ofendido
+Perdname, ten compasin
+Mi vida es tu vida, amor de los dos
+Tu me haces sufrir, ya lo pagars
+Tu no tienes perdn

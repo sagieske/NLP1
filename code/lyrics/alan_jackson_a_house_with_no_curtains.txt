@@ -1,0 +1,30 @@
+Artist: alan_jackson
+Title: a_house_with_no_curtains
+Genre: Country
+Subgenres: [u'Contemporary Country', u'Neo-Traditionalist Country', u'New Traditionalist']
+
+Song:
+
+We still wear our rings, we still say I love you
+We both play the part oh so well
+But everyone knows it's just a sad show
+And we're only fooling ourselves
+
+It's like living in a house with no curtains
+The whole world can see what's inside
+You can turn out the lights in a house with no curtains
+But heartache has nowhere to hide
+
+We could pack up and leave in different directions
+If we just had somewhere to go
+We just keep on pretending afraid of the ending
+Admitting what everyone knows
+
+It's like living in a house with no curtains
+The whole world can see what's inside
+You can turn out the lights in a house with no curtains
+But heartache has nowhere to hide
+
+You can turn out the lights
+In a house with no curtains
+But heartache has nowhere to hide

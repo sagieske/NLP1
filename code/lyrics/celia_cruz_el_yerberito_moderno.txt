@@ -1,0 +1,41 @@
+Artist: celia_cruz
+Title: el_yerberito_moderno
+Genre: Latin
+Subgenres: [u'Cuban Traditions', u'Latin Pop', u'Mambo', u'Salsa', u'Tropical', u'Latin Jazz', u'Son', u'World Fusion']
+
+Song:
+
+Se oye el rumor de un pregonar
+Que dice asi:
+El yerberito llego llego
+Traigo yerba santa pa' la garganta
+Traigo jeilimon pa' la inchazon
+Traigo arrecaminos pa' su destino
+Traigo la ruda pa' el que estornuda
+Tambien traigo albacar pa' la gente flaca
+El apasote para los brotes
+El metiten para el que no ve
+Y con esta yerba se casa usted
+Yerbero
+Traigo yerba santa pa' la garganta
+Traigo jeilimon pa' la inchazon
+Traigo arrecaminos pa' su destino
+Traigo la ruda pa' el que estornuda
+Tambien traigo albacar pa' la gente flaca
+El apasote para los brotes
+El metiten para el que no ve
+Y con esta yerba se casa usted
+Ay que yo traigo abrecaminos pa' su destino
+Y con esa yerba se casa usted
+Oye yo traigo jeilimon pa' la inchazon
+Y con esa yerba se cas usted
+Ay que yo traigo yerba santa pa' la garganta
+Y con esa yerba se cas usted
+Y con esa yerba se casa usted
+Ay que yo traigo abrecaminos pa' su destino
+Y con esa yerba se casa usted
+Oye yo traigo jeilimon pa' la inchazon
+Y con esa yerba se casa usted
+Ay que yo traigo yerba santa pa' la garganta
+Y con esa yerba se casa usted
+Y con esa yerba se casa usted

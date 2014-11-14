@@ -1,0 +1,55 @@
+Artist: alice_in_wonderland
+Title: alice
+Genre: Pop/Rock
+Subgenres: [u'Alternative Metal', u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Grunge', u'Hard Rock', u'Heavy Metal']
+
+Song:
+
+Trippin' out
+Spinnin' around
+I'm underground
+I fell down
+I fell do-ay-ay-own
+
+I'm freakin' out
+Where am I now?
+Upside down and I can't stop me now
+I can't stop me no-oo-oo-ow
+Ohhhhh-ohhhh
+
+I-I-I-I I'll get by
+I-I-I-I I'll survive
+
+When the worlds crashing down
+When I fall and hit the ground
+I will turn myself around
+Don't you try to stop me
+
+I-I-I-I I won't cry
+
+I found myself in Wonderland
+Get back on my feet again
+
+Is this real?
+Is this pretend?
+I'll take a stand until the end
+
+When the worlds crashing down
+When I fall and hit the ground
+I will turn myself around
+Don't you try to stop me
+
+When the worlds crashing down
+When I fall and hit the ground
+I will turn myself around
+Don't you try to stop me
+
+I-I-I-I I'll get by
+I-I-I-I I'll survive
+
+When the worlds crashing down
+When I fall and hit the ground
+I will turn myself around
+Don't you try to stop me
+
+I-I-I-I I won't cry

@@ -1,0 +1,40 @@
+Artist: celia_cruz
+Title: babalu
+Genre: Latin
+Subgenres: [u'Cuban Traditions', u'Latin Pop', u'Mambo', u'Salsa', u'Tropical', u'Latin Jazz', u'Son', u'World Fusion']
+
+Song:
+
+Babaluuuuuu
+Babalu
+Babalu aye
+Babalu aye
+Babaluaaaaye
+Ta empezando lo velorio
+Que le hacemo a Babalu
+Dame diez y siete velas
+Ay Pa ponerla en cruz.
+Y Dame un cabo de tabaco mayenye
+Y un jarrito de aguardiente,
+Dame un poco de dinero mayenye
+Pa' que me de la suerte.
+Coro
+Yo Quiere pedi
+Que mi negro me quiera
+Que tenga dinero
+Y que no se muera
+Ay! Yo le quiere pedi a Babalu
+Ay! Un negrito muy santo como tu
+Que no tenga otro negro
+Y que a mi me quiera.
+Ay Babalu aye
+Babalu aye
+Chango-abalu aye
+Babalu aye
+Babalu aye
+Ay dame diecisiete velas pa aguachar un pie
+Babalu aye
+Babalu aye
+Ay babababa que baba que baba Babalu aye
+Babalu aye
+Babalu aye

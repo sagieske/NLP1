@@ -1,0 +1,27 @@
+Artist: a_ha
+Title: and_you_tell_me
+Genre: Pop/Rock
+Subgenres: [u'Film Score', u'Punk/New Wave', u'Synth Pop', u'Contemporary Pop/Rock', u'New Wave', u'Euro-Pop', u'Adult Alternative Pop/Rock', u'Alternative/Indie Rock', u'Dance-Rock', u'Euro-Rock', u'Club/Dance', u'Euro-Dance']
+
+Song:
+
+Please don't hurt me
+I have told you
+All my love is all I've got
+But tomorrow is the day
+When I, for your sake, am coming back
+And you tell me that I don't love you
+
+I'm trying hard to make you jealous
+I'm trying harder to make you stay
+Days are long and nights are crazy
+It's so strange when you're away
+And you tell me that I don't love you
+
+Because I love you
+I will show you
+All the faces my love can have
+So please let me come to you
+And stay this time
+And you tell me that I don't love you
+Oh, you know that it's just not true

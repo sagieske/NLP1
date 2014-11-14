@@ -1,0 +1,43 @@
+Artist: blink_182
+Title: a_new_hope
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Punk Revival', u'Punk-Pop', u'Punk/New Wave', u'Skatepunk']
+
+Song:
+
+I've got her in my head
+At night when I go to bed
+And I know it sounds lame, but
+She's the girl of my dreams
+
+And of course I'd do anything for her
+I'd search the moons of Endor
+I'd even walk naked through
+The deserts of Tatooine
+
+Princess Leia, where are you tonight?
+And who's laying there by your side?
+Every night I fall asleep with you
+And I wake up alone
+
+And even though I'm not as cool as Han
+I still want to be your man
+You're exactly the kind of
+Alderranian that I need
+
+But when you were available, I was
+Drinking Colt 45's with Lando
+I was hanging out in the cantina
+On Mos Eisley
+
+Princess Leia, where are you tonight?
+And who's laying there by your side?
+Every night I fall asleep with you
+And I wake up alone
+
+Princess Leia [2x]
+
+Princess Leia, where are you tonight?
+And who's laying there by your side?
+Every night I fall asleep with you
+And I wake up alone

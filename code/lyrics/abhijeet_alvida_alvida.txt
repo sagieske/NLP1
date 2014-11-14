@@ -1,0 +1,12 @@
+Artist: abhijeet
+Title: alvida_alvida
+Genre: International
+Subgenres: [u'Bollywood', u'Indian Pop', u'Indian Subcontinent Traditions']
+
+Song:
+
+Durr jaaunga main paas aaunga main
+Khaamoshi mein duaan mein
+Yaad aaunga main
+Alvida alvida yaad aaunga main
+Alvida...

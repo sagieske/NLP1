@@ -1,0 +1,19 @@
+Artist: bill_monroe
+Title: a_fallen_star
+Genre: Country
+Subgenres: [u'Bluegrass', u'Bluegrass-Gospel', u'Gospel', u'Traditional Bluegrass', u'Close Harmony', u'Traditional Country', u'Old-Timey']
+
+Song:
+
+A star fell from heaven right into my arms
+A brighter star I know I've never seen
+Then I found out that it was only you with all your charms
+Who came into my life to fill a dream
+A fallen star is what you are
+The twinkle in your eyes came from the sky
+you must have strayed from the milky way
+A fallen star that's what you are
+The heavens must be lonely now that you are mine
+I'm sure they'll miss a star as bright as you
+But the stars will send there blessing and brighter they will shine
+When they see the dream that's comin' true

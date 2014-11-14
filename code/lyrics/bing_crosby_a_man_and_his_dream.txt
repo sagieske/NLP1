@@ -1,0 +1,36 @@
+Artist: bing_crosby
+Title: a_man_and_his_dream
+Genre: Vocal
+Subgenres: [u'Tin Pan Alley Pop', u'Traditional Pop', u'Vocal Pop', u'American Popular Song', u'Vocal Jazz', u'Standards', u'Swing', u'Vocal Music']
+
+Song:
+
+You always stir my imagination
+Sometimes it borders on fantasy
+And sometimes I find visions flash
+Through my mind close to reality
+
+Night, a soft guitar, a hidden lane
+A moon and here and there a star
+For a man and his dream
+Night, a crickets' cry, a whispered word
+A kiss and now and then a sigh
+
+For a man and his dream
+And their eyes when they meet
+Seem to say it's sublime
+And their hearts proudly beat
+
+To a tune that is older than time
+Night must fade away and yet it leaves a love
+So all the world will say
+There's a man and his dream
+
+And their eyes when they meet
+Seem to say it's sublime
+And their hearts proudly beat
+
+To a tune that is older than time
+Night must fade away and yet it leaves a love
+So all the world will say
+There's a man and his dream

@@ -1,0 +1,11 @@
+Artist: andrew_lloyd_webber
+Title: all_i_ask_of_you_phanton_of_the_opera_various_songs_unsorted
+Genre: Stage & Screen
+Subgenres: [u'Cast Recordings', u'Musicals', u'Show Tunes', u'Show/Musical', u'Vocal Music']
+
+Song:
+
+ALL I ASK OF YOU
+
+No more talk of darkness,
+forget these wide-eyed fears

@@ -1,0 +1,33 @@
+Artist: chicago
+Title: 90_degrees_and_freezing
+Genre: Pop/Rock
+Subgenres: [u'Adult Contemporary', u'Soft Rock', u'Contemporary Pop/Rock', u'AM Pop', u'Jazz-Rock']
+
+Song:
+
+Here I am
+In this broken town
+Missing you
+Wishing you were still around
+Streets are full of people, happy
+Heading on their way
+Why am I the only one
+Who's COLD on such a pretty day?
+Chorus:
+90 degrees and freezing
+I'm out here on my own
+I can't shake this feeling
+That I'm really all alone
+The Sun way up there shining
+But down here on the ground
+It's 90 degrees and freezing!
+Right or wrong
+This is how it is,
+The love that kept me warm
+Well, now it's his...
+I remember how the heat in your eyes
+Helped me find my way
+How can I be left so cold inside
+On such a pretty day...
+(Chorus)
+(Chorus again)

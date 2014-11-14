@@ -1,0 +1,27 @@
+Artist: blondie
+Title: accidents_never_happen
+Genre: Pop/Rock
+Subgenres: [u'American Punk', u'Contemporary Pop/Rock', u'New Wave', u'New York Punk', u'Punk', u'Punk/New Wave', u'Dance-Rock', u'Club/Dance']
+
+Song:
+
+No, I don't believe in luck.
+No, I don't believe in circumstance no more.
+Accidents never happen in a perfect world, so I won't believe in luck.
+I saw you walking in the dark, so I slipped behind your footsteps for a while.
+Caught you turning 'round the block...
+Fancy meeting in a smaller world.
+After all, accidents never happen.
+Could have planned it all.
+Precognition in my ears.
+Accidents never happen in a perfect world.
+Complications disappear.
+Now you love me.
+I, yeah, I can tell.
+I never lied.
+I never cried.
+And you, you knew so well.
+Like the Magi on the hill, I can divinate your presence from afar.
+And I'll follow you until I can bring you to a perfect world.
+Accidents never happen in a perfect world.
+Accidents never happen.

@@ -1,0 +1,23 @@
+Artist: andy_williams
+Title: a_time_for_us
+Genre: Vocal
+Subgenres: [u'Standards', u'Traditional Pop', u'Vocal Pop', u'AM Pop', u'Early Pop/Rock', u'Soft Rock', u'Cast Recordings', u'Show Tunes']
+
+Song:
+
+A time for us some day there'll be
+When chains are torn by courage born of a love that's free
+A time when dreams so long denied
+Can flourish as we unveil the love we now must hide
+A time for us at last to see
+A life worthwhile for you and me
+And with our love through tears and thorns
+We will endure as we pass surely through every storm
+A time for us some day there'll be a new world
+A world of shining hope for you and me
+For you and me
+And with our love through tears and thorns
+We will endure as we pass surely through every storm
+A time for us some day there'll be a new world
+A world of shining hope for you and me
+A world of shining hope for you and me

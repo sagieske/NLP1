@@ -1,0 +1,12 @@
+Artist: anup_jalota
+Title: mera_jeevan_tere_hawale
+Genre: International
+Subgenres: [u'Indian', u'Indian Classical', u'Indian Subcontinent Traditions']
+
+Song:
+
+Mera Jeevan Tere Hawale Prabhu Ise Pag Pag Tu Hi Samhale
+Pag Pag Tu Hi Samhale Pag Pag Tu Hi Samhale
+Mera Jeevan Tere Hawale Prabhu Ise Pag Pag Tu Hi Samhale
+Mohamaya Ke Bandhan Todo Hey Prabhu Apni Sharan Me Lelo
+Hey Prabhu Apni Sharan Me Lelo Is Papi Ke Apnale Prabhu Ise Pag Pag Tu Hi Samhale

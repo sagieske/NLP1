@@ -1,0 +1,54 @@
+Artist: a_pink
+Title: hes_my_baby
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Art Rock', u'British Psychedelia', u'Prog-Rock', u'Psychedelic/Garage', u'Mixed Media', u'Hard Rock']
+
+Song:
+
+Eodi-l kadeunji nae nunen neoman boyeo
+Salchag man bwahdo nan al su isseo
+Eocheom ireohke nae mame ssok deuneunji
+Neo anin dareun sarangeun shirheo
+
+Jo-geumsshing neoye soni nae son kkeu-te dahneun geol
+Jakkuman nado mollae tteollineun geol eotteo-khae
+
+He's my baby, He's my baby
+Tal-gomhan soksagim
+He's my baby, He's my baby
+Neo-ye-ge yaksok hal-ke
+He's my baby, He's my baby
+Nan eonjekkajina neomaneul sarang-hae You are my boy
+
+Unneun moseubi eosaekhajin anheul-kka
+Seotureun nae-ga shirh-jin anheul-kka
+Kwaehnhan geokjeonge chami ojiranh-neunkeol
+Neodo nae saenggag ha-go i-nneunji
+
+Du nuneul kamabwahdo ni moseub boil-deuthae
+Oneu-reun nae kkumso-ge natanajwo oh my love
+
+He's my baby, He's my baby
+Tal-gomhan soksagim
+He's my baby, He's my baby
+Neo-ye-ge yaksok hal-ke
+He's my baby, He's my baby
+Nan eonjekkajina neomaneul sarang-hae You are my boy
+
+Nan eonjekkajina neomaneul sarang-hae
+Kakkeumeun seounhae nae mam hana moreuneun neo
+Mae-il neo ttae-me ul-ko neo ttae-me useo haru jon-gil neo ppunya Oh
+
+He's my baby, He's my baby
+Mae-ilmae-il deo sarang-hae
+He's my baby, He's my baby
+Mae-il mae-il haengbo-khae
+He's my baby, He's my baby
+Nan eonjekkajina neomaneul sarang-hae
+
+He's my baby, He's my baby
+Tal-gomhan soksagim
+He's my baby, He's my baby
+Neo-ye-ge yaksok hal-ke
+He's my baby, He's my baby
+Nan eonjekkajina neomaneul sarang-hae You are my boy

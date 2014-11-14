@@ -1,0 +1,15 @@
+Artist: bill_monroe
+Title: a_good_womans_love
+Genre: Country
+Subgenres: [u'Bluegrass', u'Bluegrass-Gospel', u'Gospel', u'Traditional Bluegrass', u'Close Harmony', u'Traditional Country', u'Old-Timey']
+
+Song:
+
+I was a rover, on land and on sea
+'til a good woman's love made a new man of me
+Life had no meaning, it was so incomplete
+'til a good woman's love put me back on my feet
+Still a-roamin' I go home in the evening and she's waiting there
+and I know that no matter what happens she'll always care
+and when night falls and the moon shines above
+I'm a man with a dream and a good woman's love

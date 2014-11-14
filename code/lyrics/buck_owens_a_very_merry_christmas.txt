@@ -1,0 +1,39 @@
+Artist: buck_owens
+Title: a_very_merry_christmas
+Genre: Country
+Subgenres: [u'Bakersfield Sound', u'Honky Tonk', u'Traditional Country']
+
+Song:
+
+Snowflakes fallin' everywhere
+Christmas carols fill the air
+Santa Claus is almost here
+It's a very merry Christmas.
+
+Children playin' in the lane
+Echoes at my window pane
+Santa Claus is here again
+It's a very merry Christmas.
+
+Hang your stocking and jump in bed
+Close your eyes and cover up your head
+Don't there peep cause if you do
+Ol' Santa Clause might be watching you.
+
+Christmas lights are green and red
+Mistletoe hanging overhead
+Fills my heart with happyiness
+And the very merry Christmas.
+
+--- Instrumental ---
+
+Hang your stocking and jump in bed
+Close your eyes and cover up your head
+Don't there peep cause if you do
+Ol' Santa Clause might be watching you.
+
+Christmas lights are green and red
+Mistletoe hanging overhead
+Fills my heart with happyiness
+And the very merry Christmas.
+It's a very merry Christmas...

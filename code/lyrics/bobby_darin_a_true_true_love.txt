@@ -1,0 +1,24 @@
+Artist: bobby_darin
+Title: a_true_true_love
+Genre: Pop/Rock
+Subgenres: [u'Brill Building Pop', u'Early Pop/Rock', u'Traditional Pop', u'AM Pop', u'Folk-Rock']
+
+Song:
+
+I can't give you stars that shine
+Or the moon above
+All I have to offer you
+Is True, True Love
+
+A True, True Love
+That grows and grows
+Forever and a day
+Not like the rose
+That only grows
+Awhile, then fades away...
+
+Tomorrows True, True Love will be
+More than it is today.
+
+Tomorrows True, True Love will be
+More than it is today.

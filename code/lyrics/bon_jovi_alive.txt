@@ -1,0 +1,57 @@
+Artist: bon_jovi
+Title: alive
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Pop/Rock', u'Hair Metal', u'Hard Rock', u'Pop-Metal', u'Arena Rock', u'Album Rock', u'Heavy Metal']
+
+Song:
+
+Feel me like I feel you
+Won't you let me come inside
+Heal me like I heal you
+Let your mind, body, soul, come alive
+On my knees (but I'm Rising)
+On My Feet (Getting Higher)
+I will fly
+
+Hey Hey I'm Alive
+Didn't think I'd make it to the other side
+Here to stay I'm alive
+Hey hey I survived
+It's a brand new day
+And I feel fine
+
+Here to say I'm alive
+Want me like I want you
+That's my heart you hold in your hands
+Touch me like I touch you
+Make me feel like superman
+On my knees (but I'm Rising)
+On My Feet (Getting Higher)
+I will fly
+
+Hey hey I'm alive
+Didn't think I'd make it to the other side
+Here to stay I'm alive
+Hey hey I survived
+It's a brand new
+And I feel fine
+
+Here to stay I'm alive
+Like the wind run with me
+Take my hand come with me
+Those bastards ain't bringing us down
+For all the dreams that died
+And all of the tears they cried
+If there's one thing I've learned
+Life is now
+On my knees (but I'm Rising)
+On My Feet (Getting Higher)
+I will fly
+
+Hey hey I'm alive
+Didn't think I'd make it to the other side
+Her to stay I'm alive (Didn't think I'd make it)
+Hey hey I survived
+It's a brand new day
+And I feel Fine
+Here to say I'm alive (It's here you got to take it)

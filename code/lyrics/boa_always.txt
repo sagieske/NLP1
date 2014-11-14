@@ -1,0 +1,29 @@
+Artist: boa
+Title: always
+Genre: Pop/Rock
+Subgenres: [u'Korean Pop', u'Asian Pop', u'Dance-Pop', u'Korean', u'North/East Asian Traditions']
+
+Song:
+
+Jalga geurae naega neoreul ijeobolge noryeok haebolge
+Eonjena joyonghadeon eonjena mali eobsdeon neoneun naege mojin maldo moshajanhni
+
+Mianhadan yongseoharan maleun dashi hajineun anheulge
+Eotteon maleul haedo eotteon geoseul haedo neoneun dashi dolaol suga eobsjanhni
+
+Ije naege deoneun naege jogeumui huimangdo eobsgessjiman
+Malhaessjanha da aljanha saranghae soyongeobsgessjiman saranghae
+
+Ije niga jeo muneul yeolgo nagan huen mosboge doeltende
+Naega meonjeo ileoseolge deo isang holro namgyeo jineun geon shirheo gyeondil suga eobseo
+
+Ije naege deoneun naege jogeumui huimangdo eobsgessjiman
+Malhaessjanha da aljanha saranghae soyongeobsgessjiman
+
+Dashi hanbeon dan hanbeonman dan harumanimyeon gwaenchanheunde
+Mosdahan mal moshan sarang da jul su isseul eos gateunde saranghae
+
+Gakkeum aju gakkeumsshik naega tteo-oreul ttaemyeon swipge nal chajeul su issge yeogi isseulge
+
+Gomawisseo niga isseo neomudo haengbokhaesseosseo michidorok
+Saranghaesseo saranghaesseo geuraeseo deo apeugessjiman an-nyeong

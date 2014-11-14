@@ -1,0 +1,38 @@
+Artist: coldplay
+Title: 42
+Genre: Pop/Rock
+Subgenres: [u'Adult Alternative Pop/Rock', u'Alternative/Indie Rock', u'Alternative Pop/Rock', u'Britpop']
+
+Song:
+
+Those who are dead are not dead
+They're just living my head
+And since I fell for that spell
+I am living there as well
+Oh...
+
+Time is so short and I'm sure
+There must be something more
+
+Those who are dead are not dead
+They're just living my head oh...
+And since I fell for that spell
+I am living there as well oh...
+
+Time is so short and I'm sure
+There must be something more
+
+You thought you might be a ghost
+You thought you might be a ghost
+You didn't get to heaven but you made it close
+You didn't get to heaven but you made it close
+
+You thought you might be a ghost
+You thought you might be a ghost
+You didn't get to heaven but you made it close
+You didn't get to heaven but you oh oh
+Oh oh...
+
+Those who are dead are not dead
+They're just living my head
+Oh...

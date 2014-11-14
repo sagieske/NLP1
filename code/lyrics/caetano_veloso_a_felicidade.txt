@@ -1,0 +1,16 @@
+Artist: caetano_veloso
+Title: a_felicidade
+Genre: Latin
+Subgenres: [u'Afro-Brazilian', u'Brazilian Pop', u'Brazilian Traditions', u'MPB', u'Tropicalia', u'Film Score']
+
+Song:
+
+Felicidade foi se embora
+E a saudade no meu peito ainda mora
+E é por isso que eu gosto lá de fora
+Porque sei que a falsidade não vigora
+
+A minha casa fica lá de traz do mundo
+Onde eu vou em um segundo quando começo a cantar
+O pensamento parece uma coisa à toa
+Mas como é que a gente voa quando começa a pensar

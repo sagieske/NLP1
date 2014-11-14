@@ -1,0 +1,21 @@
+Artist: bruce_cockburn
+Title: a_life_story
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Folk', u'Singer/Songwriter', u'Adult Alternative Pop/Rock', u'Alternative/Indie Rock', u'Contemporary Singer/Songwriter', u'Protest Songs', u'Urban Folk', u'Progressive Folk']
+
+Song:
+
+Sky-wild
+Far cry
+Wings-slash-free
+Christ is born for you and me
+
+Wind rush
+Reed bend
+Storm tossed sea
+Christ is nailed upon a tree
+
+Mists part
+Sunrise
+Shining key
+Christ is risen to lead us free

@@ -1,0 +1,53 @@
+Artist: boa
+Title: adrenaline
+Genre: Pop/Rock
+Subgenres: [u'Korean Pop', u'Asian Pop', u'Dance-Pop', u'Korean', u'North/East Asian Traditions']
+
+Song:
+
+Ipsure pin misoro nal eojireophin.
+Ni mamhanareul gatji motae han maechin.
+Ni saenggageuro meorisogi makhin.
+Adrenaline
+Chwihan geotcheoreom neol bomyeon meoriga tto ping.
+Swigo itdeon simjangi pumping.
+Ni moksoriman gwitgaeseo wingwing
+Adrenaline
+
+Darmeun eotteon biseutaetdeon ildo eopdeon geureon naya
+Mollatdeon naege eopdeon sinseonhan iringeoya
+Gaseume ttwineun rideum tagoseo heulleo Adrenaline
+Rarararara, I love it
+
+Naega irido andallange daedanhae
+Bogo tto bwado kkeullineunge daedanhae
+Ijeya naui on mome heureuneun
+Adrenaline
+Nan saenggakhae, igeol jeulgillae
+Nan giteukhae, ireoneun niga
+Nugureul mannado ireonjeok eobseo
+Adrenaline
+
+Darmeun eotteon biseutaetdeon ildo eopdeon geureon naya
+Mollatdeon naege eopdeon sinseonhan iringeoya
+Gaseume ttwineun rideum tagoseo heulleo Adrenaline
+Rarararara, I love it
+
+Geogikkajiman dagawajwo
+Naega halteni da naebeoryeodwo
+Ginjanghan nae moseup mame deureo (I'm in) Adrenaline
+Seodulji malgo deo aetaewojwo
+Geureoke nal gyesok maemdorajwo
+Jogeumssik jogeumssik yak ollyeobwa Adrenaline
+
+Heeonago sipji anheun jungdokgateun geureon neoya
+Sone jwin nae modeungeol da noko sipeun neoya
+Gaseume ttwineun rideum tagoseo heureuneun Adrenaline
+Rarararara, I love it
+
+Geogikkajiman dagawajwo
+Naega halteni da naebeoryeodwo
+Ginjanghan nae moseup mame deureo (I'm in) Adrenaline
+Seodulji malgo deo aetaewojwo
+Geureoke nal gyesok maemdorajwo
+Jogeumssik jogeumssik yak ollyeobwa Adrenaline

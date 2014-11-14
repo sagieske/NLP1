@@ -1,0 +1,25 @@
+Artist: barbra_streisand
+Title: a_christmas_love_song
+Genre: Vocal
+Subgenres: [u'Adult Contemporary', u'Cast Recordings', u'Musicals', u'Show Tunes', u'Soft Rock', u'Standards', u'Traditional Pop', u'AM Pop', u'Show/Musical']
+
+Song:
+
+All I want for Christmas is you
+Your the gift that's made my dreams all come true
+All I need for Christmas is here
+Finding every sweet surprise wrapped up in your eyes
+Waiting there for me underneath the tree
+We'll the spend the day exchanging kisses
+Smile and say What a Christmas this is
+Long before the snowflakes appear
+Without bells or mistletoe or the tinsle silver glow
+You just look at me and Oh!
+Christmas is here!
+We will smile and say What a Christmas
+This is
+Long before the snowflakes appear
+Without bells or mistletoe
+Or the tinsle silver glow
+You just have to look at me and Oh!
+Christmas is here...

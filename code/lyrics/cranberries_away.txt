@@ -1,0 +1,25 @@
+Artist: cranberries
+Title: away
+Genre: Pop/Rock
+Subgenres: [u'Adult Alternative Pop/Rock', u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Celtic Rock', u'Contemporary Pop/Rock']
+
+Song:
+
+Turn Away, Turn Away
+From Me, From Me
+And I pray, yes I pray
+For thee, for thee, for thee-ee-ee
+
+Another World
+Wrapped up inside another place
+And I hope, and I pray
+That the pain goes away,
+Yes I pray, Yes I pray, for thee-ee-e> Turn Away, Turn Away
+From Me, From Me
+And I pray, yes I pray
+For thee, for thee, for thee-ee-ee
+
+Turn Away, Turn Away
+From Me, From Me
+And I pray, yes I pray
+For thee, for thee, for thee

@@ -1,0 +1,41 @@
+Artist: boa
+Title: aggressive
+Genre: Pop/Rock
+Subgenres: [u'Korean Pop', u'Asian Pop', u'Dance-Pop', u'Korean', u'North/East Asian Traditions']
+
+Song:
+
+Let's say I love you it's so easy
+
+Sayonara ai suru kimi furimukanai wa
+Soba ni ite tsutau emotion kanjinakya oteage
+
+Kagayaku hikari ni yurenagara umarekawaru
+
+Ai ga areba so easy kuyamazu ikiru style
+Honto ni meguriau hito no mune atatakai deshou
+Ai ga areba so easy
+
+Hajimari wa kyou kamo ne surinuketa hitonami
+Dare demo hitotsu kurai kakaeru namida aru ne
+
+Biru no sora ukabu egao ni kuchidzuke wo
+
+Ai shiaeba not lonely mirai ni okuru smile
+Kitto deaeru sou kimi to mukiaeta hi aru kara
+Ai shiaeba not lonely
+
+Ai ga areba subete wo norikoerareru
+Ikiru koto wa dareka to arukitsudzukeru koto
+
+Ai ga areba so easy kuyamazu ikiru style
+Tsutaeau netsu ga kitto kokoro musubitsukeru
+
+Ai shiaeba not lonely mirai ni okuru smile
+Kitto deaeru sou kimi to mukiaeta hi aru kara
+
+Ai ga areba so easy kuyamazu ikiru style
+Honto ni meguriau hito no mune atatakai deshou
+Ai ga areba so easy
+
+Let's say I love you it's so easy

@@ -1,0 +1,14 @@
+Artist: barney
+Title: barney_espaol
+Genre: Jazz
+Subgenres: [u'Bop', u'Cool', u'West Coast Jazz']
+
+Song:
+
+Barney es un dinosaurio que vive en nustra mente y cuando se hace
+Grande es realmente sorprendente!!!
+El le brinda su amistad a grandes y pequeсos despues de la escuela
+Juegan todos muy contentos!!!
+Barney nos enseсa muchos juegos divertidos, el abc y el 123 tambien
+Son sus amigos!!! Barney viene a jugar cuando lo necesitas, el tambien
+Te ayudara si crees en fantacias!!!

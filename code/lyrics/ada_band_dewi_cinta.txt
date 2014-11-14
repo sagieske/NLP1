@@ -1,0 +1,27 @@
+Artist: ada_band
+Title: dewi_cinta
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Blues-Rock', u'Slide Guitar Blues', u'Southern Rock', u'Boogie Rock', u'Hard Rock']
+
+Song:
+
+Resah tak berarah
+Tunggu hadirmu dewi cinta
+Merasuk sukmaku
+Khayalan sang anak jelata
+Saat kau tersenyum
+Rembulan biaskan warnamu
+Hatiku merekah
+Tampak wajah anggun merayu
+Kupuja ..
+Ayumu ..
+Dalam khayalan ..
+Reff :
+Melayang terbang tinggi
+Katas sana
+Kutanya pada diri
+Terus meronta
+Ternyata semua ini
+Sirna adanya
+Dewi cinta meringis
+Menatap hampa

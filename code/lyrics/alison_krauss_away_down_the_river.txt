@@ -1,0 +1,40 @@
+Artist: alison_krauss
+Title: away_down_the_river
+Genre: Country
+Subgenres: [u'Bluegrass', u'Contemporary Bluegrass', u'Contemporary Country', u'Neo-Traditionalist Country', u'Progressive Bluegrass', u'Traditional Bluegrass']
+
+Song:
+
+Baby dry your eyes
+There's no need to cry
+Cause I'll see you again
+It might be a while
+Before you understand
+
+[Chorus:]
+I'm just away down the river
+A hundred miles or more
+Crossing over Jordan
+To the other shore
+I'll be standing waiting
+With all who've gone before
+I'm just away down the river
+A hundred miles or more
+
+Now the pictures on the wall
+Will help you to recall
+They're not there
+To make you sad
+But to remember
+All the good times we had
+
+[Chorus]
+
+[Instrumental]
+
+When it's time to leave
+You're gonna feel the mountain breeze
+And the snow will fill the stream
+And carry you to me
+
+[Chorus]

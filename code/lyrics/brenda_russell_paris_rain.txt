@@ -1,0 +1,34 @@
+Artist: brenda_russell
+Title: paris_rain
+Genre: R&B
+Subgenres: [u'Adult Contemporary', u'Soul', u'Vocal Music', u'Contemporary Pop/Rock', u'Disco', u'Smooth Jazz', u'Urban', u'Jazz-Pop']
+
+Song:
+
+"Slow stroll on a misty night
+Hearts soar under Paris lights
+And the feeling is strange, as though we've been here before
+It's coming to me now
+
+I trip over stepping-stones
+That lead to the deep unknown
+But here you stand tall as Eiffel's tower
+And every hour I'm deeper into
+
+Love and Paris Rain
+I could drown inside this interlude of
+Love and Paris Rain
+Take me now as I unfold my very soul unto you, my love
+(I fall deeper)
+(Music)
+
+And every hour I'm Deeper into
+[Chorus:]
+
+Slow stroll on a misty night
+Hearts soar under Paris lights
+It's coming to me now
+
+[Chorus:]
+Repeat to fade
+"

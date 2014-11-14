@@ -1,0 +1,14 @@
+Artist: blink_182
+Title: a_stranger
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Punk Revival', u'Punk-Pop', u'Punk/New Wave', u'Skatepunk']
+
+Song:
+
+Stranger walking to my side
+I cannot wait I cannot hide
+To you it's so obvious
+That I'm just the average guy
+But wont you see
+No emotions
+Wont even cry

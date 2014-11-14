@@ -1,0 +1,27 @@
+Artist: carole_king
+Title: a_quiet_place_to_live
+Genre: Pop/Rock
+Subgenres: [u'Adult Contemporary', u'Brill Building Pop', u'Contemporary Pop/Rock', u'Singer/Songwriter', u'Soft Rock', u'AM Pop']
+
+Song:
+
+All I want is a quiet place to live
+Where I can enjoy the fruits of my labor
+Read the paper and not have to cry out loud
+In my mind I can see it crystal clear
+Sharing my dreams with the people around me
+Now they surround me and I'm just a part of the crowd
+
+What will become of us?
+What about the children?
+What will they do to us next time around?
+What will the answer be?
+What will it mean to me?
+When are they gonna see we're underground
+Here underground
+
+And all I want is a quiet place to live
+Where I can be free in a world of my making
+Instead of taking what they decided to give
+I wouldn't want what they have no
+If I could only find a quiet place to live

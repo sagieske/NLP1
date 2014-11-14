@@ -1,3 +1,10 @@
+Artist: basshunter
+Title: boten_anna
+Genre: Pop/Rock
+Subgenres: [u'Alternative Dance', u'Alternative/Indie Rock', u'Club/Dance', u'Euro-Dance']
+
+Song:
+
 Jag känner en bot
 Hon heter Anna. Anna heter hon,
 Och hon kan banna banna dig så hårt

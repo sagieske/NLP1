@@ -1,0 +1,47 @@
+Artist: beauty_and_the_beast
+Title: a_gift_to_you_beauty_and_the_beast_one_magical
+Genre: Pop/Rock
+Subgenres: [u'Prog-Rock']
+
+Song:
+
+Belle:
+If I could give a gift to you
+To hold to your heart dear
+I'd give the Christmas memories
+To hold throughout the year.
+
+And when you have them all, I think
+There's something more I'd bring
+The gift of Christmas laughter now
+So you could learn to sing...
+
+La la la la, it's Christmas time
+Memories everywhere
+Singing of hope, peace to mankind
+And love is in the air.
+
+And every foolish notion leads to feelings that might start
+To make the prayers the children pray
+Come true in all our hearts...
+
+Beast:
+If you could give a gift to me
+To hold to my soul dear
+I'd love to see you smile upon my face,
+Without a fear
+
+And when you've smiled your fear away
+There's something more you'd bring
+The gift of gifts, remembering
+How I first learned to sing...
+
+Both:
+La la la la, it's Christmas time
+Memories everywhere
+Singing of hope, peace to mankind
+And love is in the air.
+
+And every foolish notion leads to feelings that might start
+To make the prayers the children pray
+Come true in all our hearts...

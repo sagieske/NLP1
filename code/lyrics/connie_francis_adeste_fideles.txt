@@ -1,0 +1,41 @@
+Artist: connie_francis
+Title: adeste_fideles
+Genre: Pop/Rock
+Subgenres: [u'Brill Building Pop', u'Early Pop/Rock', u'Show/Musical']
+
+Song:
+
+O come all ye faithful
+Joyful and triumphant
+O come ye
+O come ye to Bethlehem
+
+Come and behold Him
+Born the King of angels
+
+O come let us adore Him
+O come let us adore Him
+O come let us adore Him
+Christ the Lord
+
+Adeste fideles laeti triumphantes
+Venite venite in Bethlehem
+Natum videte Regem angelorum
+Venite adoremus venite adoremus
+Venite adoremus Christ the Lord
+
+Sing choirs of angels
+Sing in exultations
+O sing all ye citizens
+Of heaven above
+
+Glory to God
+In the highest
+
+O come let us adore Him
+O come let us adore Him
+O come let us adore Him
+Christ the Lord
+
+O come let us adore Him
+Christ the Lord

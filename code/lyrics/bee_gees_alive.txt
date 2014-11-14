@@ -1,0 +1,41 @@
+Artist: bee_gees
+Title: alive
+Genre: Pop/Rock
+Subgenres: [u'Adult Contemporary', u'AM Pop', u'Contemporary Pop/Rock', u'Disco', u'Soft Rock', u'Baroque Pop', u'Psychedelic Pop', u'Early Pop/Rock']
+
+Song:
+
+Maybe you talk too high, man.
+Maybe I talk too slow.
+But you've got to live a little bit faster
+'cause you've got a little less time to go.
+
+I ain't lost and I ain't searching.
+But then you know me very well.
+And I can't change the wind and make it blow the other way.
+I'm a fool and I can tell .
+
+That I'm alive and that's all.
+That I can get up just as fast as I fall.
+And I can walk and run but I'll never crawl.
+And in the end it doesn't matter at all.
+I don't know about the people that I read about in books.
+And the Kings and Queens around my room with their quiet dirty looks.
+I know I should be going somewhere, I just can't arrive .
+There's a reason for believing that I've never been alive , alive.
+
+I ain't lost and I ain't searching.
+But then you know me very well.
+And I can't change the world and make it go the other way.
+I'm a fool and I can tell.
+
+That I'm alive and that's all .
+That I can get up just as fast as I fall.
+And I can walk and run but I'll never crawl.
+And in the end it doesn't matter at all.
+I don't know about those people that I read about in books.
+And the Kings and Queens around my room with their quiet dirty looks.
+I know I should be going somewhere, I just can't arrive.
+There's a reason for believing that I've never been alive.
+I know I should be going somewhere I just can't arrive.
+There's a reason for believing that I've never been alive, alive, alive

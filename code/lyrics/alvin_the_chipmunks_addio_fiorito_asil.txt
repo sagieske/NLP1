@@ -1,0 +1,14 @@
+Artist: alvin_the_chipmunks
+Title: addio_fiorito_asil
+Genre: Children's
+Subgenres: [u'Comedy', u'Novelty', u'Sing-Alongs', u'Song Parody']
+
+Song:
+
+Addio, fiorito asil di letizia e d'amor! 
+Sempre il mite tuo sembiante con strazio atroce vedro.
+Addio, fiorito asil, non reggo al tuo squallor.
+Ah, non reggo al tuo squallor.
+Fuggo, fuggo, ah, son vil! 
+Addio, non reggo al tuo squallor, 
+Ah! son vil, ah! son vil!

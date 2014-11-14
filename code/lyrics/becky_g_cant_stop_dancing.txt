@@ -1,0 +1,19 @@
+Artist: becky_g
+Title: cant_stop_dancing
+Genre: Rap
+Subgenres: [u'Pop-Rap', u'West Coast Rap', u'Dance-Pop']
+
+Song:
+
+Can't get any better, no
+
+Just can't stop dancing
+Don't wanna jinx it
+So don't let go of me
+Don't let go of me
+I just can't stop dancing
+
+Spin around now
+Downer, to the floor now
+
+Your mind's just going places I can't see

@@ -1,0 +1,42 @@
+Artist: bob_dylan
+Title: 10000_men
+Genre: Pop/Rock
+Subgenres: [u'Country-Rock', u'Folk-Rock', u'Political Folk', u'Rock & Roll', u'Singer/Songwriter', u'Album Rock', u'Contemporary Pop/Rock', u'Protest Songs', u'AM Pop']
+
+Song:
+
+10. 000 men on a hill
+10. 000 men on a hill
+Some of them going down some of them gonna get killed.
+
+10. 000 men dressed in Oxford blue
+10. 000 men dressed in Oxford blue
+Drummin in the morning in the evening they'll be coming for you.
+
+10. 000 men on the move
+10. 000 men on the move
+None of them doing nothing that your mama wouldn't disapprove.
+
+10. 000 men diggin' for silver and gold
+10. 000 men diggin' for silver and gold
+All clean shaven all coming from the cold.
+
+Hey who could you lover be?
+Hey who could you lover be?
+Let me eat off his head and you can really see.
+
+10. 000 women all dressed in white
+10. 000 women all dressed in white
+Standing at my window wishing me goodnight.
+
+10. 000 men looking so lean and frail
+10. 000 men looking so lean and frail
+Each one of them got seven wives each of them just out of jail.
+
+10. 000 women all sleep in my room
+10. 000 women all sleep in my room
+Spilling my buttermilk sweeping it up with a broom.
+
+Mmm baby thank you for my tea
+Hey baby thank you for my tea
+It's really so sweet of you to be so nice to me.

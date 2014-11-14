@@ -1,0 +1,20 @@
+Artist: children
+Title: a_basque_lullaby
+Genre: Pop/Rock
+Subgenres: [u'Heavy Metal', u'Scandinavian Metal', u'Death Metal', u'Power Metal', u'Speed/Thrash Metal']
+
+Song:
+
+Lullaby, twilight is spreading
+Silver wings over the sky;
+Fairy elves are softly treading,
+Folding buds as they pass by.
+Lullaby, whisper and sigh,
+Lullaby, lullaby.
+
+Lullaby, deep in the clover
+Drone the bees softly to rest;
+Close white lids your dear eyes over,
+Mother's arms shall be your rest.
+Lullaby, whisper and sigh,
+Lullaby, lullaby.

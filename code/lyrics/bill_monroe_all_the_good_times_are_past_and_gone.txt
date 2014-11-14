@@ -1,0 +1,23 @@
+Artist: bill_monroe
+Title: all_the_good_times_are_past_and_gone
+Genre: Country
+Subgenres: [u'Bluegrass', u'Bluegrass-Gospel', u'Gospel', u'Traditional Bluegrass', u'Close Harmony', u'Traditional Country', u'Old-Timey']
+
+Song:
+
+I wish to the lord I'd never been born
+Or died when I was young
+I never would have seen your sparkling blue eyes
+Or heard your lying tongue
+All the good times are past and gone
+All the good times are o'er
+All the good times are past and gone
+Little darling don't weep no more
+Don't you see that turtle dove
+That flies from pine to pine
+He's mourning for his own true love
+Just like I mourn for mine
+Come back, come back my own true love
+And stay awhile with me
+For if ever I've had a friend in this world
+You've been that friend to me

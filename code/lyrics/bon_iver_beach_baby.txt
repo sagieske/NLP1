@@ -1,0 +1,18 @@
+Artist: bon_iver
+Title: beach_baby
+Genre: Pop/Rock
+Subgenres: [u'Alternative Singer/Songwriter', u'Alternative/Indie Rock', u'Indie Rock', u'Indie Folk']
+
+Song:
+
+When you're out,
+Tell your lucky one to know that you'll leave.
+But you don't lock when you're fleeing
+I'd like not hear keys
+
+Only hold till your coffee warms,
+But don't hurry and speed.
+
+One a time put a tongue in your ear in the beach
+And you clutched
+Kicking heels

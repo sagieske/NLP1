@@ -1,0 +1,53 @@
+Artist: aerosmith
+Title: amazing
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Hard Rock', u'Heavy Metal', u'Arena Rock', u'Contemporary Pop/Rock', u'Pop-Metal']
+
+Song:
+
+I kept the right ones out
+And let the wrong ones in
+Had an angel of mercy
+To see me through all my sins
+There were times in my life
+When I was goin' insane
+Tryin' to walk through the pain
+
+And when I lost my grip
+And I hit the floor
+Yeah, I thought I could leave
+But couldn't get out the door
+I was so sick n' tired
+Of livin' a lie
+I was wishing that I would die
+
+[Chorus:]
+It's amazing
+With the blink of an eye
+You finally see the light
+It's amazing
+That when the moment arrives
+You know you'll be alright
+It's amazing
+And I'm saying a prayer
+For the desperate hearts tonight
+
+That one last shot's a Permanent Vacation
+And a how high can you fly with broken wings
+Life's a journey - not a destination
+And I just can't tell just what tomorrow brings
+
+You have to learn to crawl
+Before you learn to walk
+But I just couldn't listen
+To all that righteous talk
+I was out on the street
+Just tryin' to survive
+Scratchin' to stay alive
+
+[Chorus:]
+
+"So, from all of us at Aerosmith
+To all of you out there, wherever you are.
+Remember- the light at the end of the tunnel
+May be you. Goodnight!

@@ -1,0 +1,35 @@
+Artist: conway_twitty
+Title: a_little_bird_told_me
+Genre: Country
+Subgenres: [u'Country-Pop', u'Nashville Sound/Countrypolitan', u'Traditional Country', u'Rockabilly', u'Country Gospel', u'Gospel']
+
+Song:
+
+A little bird told me that you love me
+And I believe that you do
+This little bird told me I was fallin'
+Fallin' for no one but you.
+
+There's no use denying
+I might as well confess
+Of all the girls I know, dear
+I'm sure I love you best.
+
+The little bird told me we'd be happy
+And I believe that it's true
+This little bird told me we'd be married
+Yea, Yea, And I believe that it's true.
+
+We'll have a pretty cottage
+Not too far
+All fenced in like a movie stars
+We'll call him Ace
+Lying there by the fireplace
+A goldfish pond and a wishing well
+Everything is gonna turn out swell.
+
+A little bird told me we'd be happy
+Yea, yea, And I believe that it's true
+For I believe that it's true
+Don't you know that I believe that it's true
+Well baby, I believe that it's true...

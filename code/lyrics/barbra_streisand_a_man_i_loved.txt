@@ -1,0 +1,40 @@
+Artist: barbra_streisand
+Title: a_man_i_loved
+Genre: Vocal
+Subgenres: [u'Adult Contemporary', u'Cast Recordings', u'Musicals', u'Show Tunes', u'Soft Rock', u'Standards', u'Traditional Pop', u'AM Pop', u'Show/Musical']
+
+Song:
+
+I'll tell you a story
+'Bout a man that I loved
+He lives in the sky
+In the clouds above
+He knows every river
+Every mountain and stream
+He's a gentleman, I tell you,
+That lives in my dream
+If you don' t believe
+What I say is true
+Maybe someday he will happen to you
+It's like he's always watching over me
+I do believe in magic
+When it's plain to see
+If you don't believe
+What I say is true
+Maybe someday he will happen to you
+Softly he whispers into my ear
+The dream is over, but I don't wanna hear
+No, no, no, no
+Softly he whispers into my ear
+The dream is over, but I don't wanna hear
+So, take me, I' m lonely
+Take me in your dreams
+Please don't leave me waiting here
+As long as it seems
+If you don't believe
+What I say is true
+Maybe, baby, someday he will happen to you
+Softly he whispers into my ear
+The dream is over, but I don't wanna hear
+But I don't wanna hear...I don't wanna hear
+I don't wanna...I don't wanna hear...

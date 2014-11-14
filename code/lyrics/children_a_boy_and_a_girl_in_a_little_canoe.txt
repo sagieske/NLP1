@@ -1,0 +1,21 @@
+Artist: children
+Title: a_boy_and_a_girl_in_a_little_canoe
+Genre: Pop/Rock
+Subgenres: [u'Heavy Metal', u'Scandinavian Metal', u'Death Metal', u'Power Metal', u'Speed/Thrash Metal']
+
+Song:
+
+Just a boy and a girl in a little canoe
+With the moon shining all around
+As he glides his paddle
+You couldn't even hear a sound
+
+And they talked and they talked
+Till the moon grew dim
+He said you better kiss me
+Or get out and swim
+
+So what you gonna do in a little canoe
+With the moon shinin' all a--
+Boats floatin all a--
+Girls swimmin' all a rou-ou-ound!

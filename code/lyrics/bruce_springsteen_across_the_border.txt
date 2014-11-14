@@ -1,0 +1,42 @@
+Artist: bruce_springsteen
+Title: across_the_border
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Contemporary Pop/Rock', u'Heartland Rock', u'Rock & Roll', u'Alternative Folk']
+
+Song:
+
+Tonight my bag is packed
+Tomorrow I'll walk these tracks
+That will lead me across the border
+Tomorrow my love and I will sleep neath auburn skies
+Somewhere across the border
+Well leave behind my dear
+The pain and sadness we found here
+And well drink from the bravos muddy water
+Where the sky grows grey and wide
+Well meet on the other side
+There across the border
+For you I'll build a house
+High upon a grassy hill
+Somewhere across the border
+Where pain and memory
+Pain and memory have been stilled
+There across the border
+And sweet blossoms fill the air
+Pastures of gold and green
+Roll down into cool clear waters
+And in your arms neath open skies
+Ill kiss the sorrow from your eyes
+There across the border
+Tonight well sing the songs
+Ill dream of you my coraz_n
+And tomorrow my heart will be strong
+And may the saints blessing and grace
+Carry me safely into your arms
+There across the border
+For what are we
+Without hope in our hearts
+That someday well drink from gods blessed waters
+And eat the fruit from the vine
+I know love and fortune will be mine
+Somewhere across the border

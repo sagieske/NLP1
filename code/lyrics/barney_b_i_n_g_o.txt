@@ -1,0 +1,36 @@
+Artist: barney
+Title: b_i_n_g_o
+Genre: Jazz
+Subgenres: [u'Bop', u'Cool', u'West Coast Jazz']
+
+Song:
+
+There was a farmer who had a dog and bingo was his name oh!
+B-I-N-G-O
+B-I-N-G-O
+And Bingo was his name oh.
+There was a farmer who had a dog and Bingo was his name oh!
+(clap)-I-N-G-O
+(clap)-I-N-G-O
+(clap)-I-N-G-O
+And Bingo was his name oh!
+Ther was a farmer who had a dog and bingo was his name oh!
+(clap)-(clap)-N-G-O
+(clap)-(clap)-N-G-O
+Clap)-(clap)-N-G-O
+And Bingo was his name oh!
+There was a farmer who had a dog and Bingo was his name oh!
+(clap)-(clap)-(clap)-G-O
+(clap-(clap)-(clap)-G-O
+(clap-(clap)-(clap)-G-O
+And Bingo was his name oh!
+There was a farmer who had a dog and Bingo was his name oh!
+(clap)-(clap)-(clap)-(clap)-O
+(clap)-(clap)-(clap)-(clap)-O
+(clap)-(clap)-(clap)-(clap)-O
+And Bingo was his name oh!
+There was a farmer who had a dog and bingo was his name oh!
+(clap)-(clap)-(clap)-(clap)-(clap)
+(clap)-(clap)-(clap)-(clap)-(clap)
+(clap)-(clap)-(clap)-(clap)-(clap)
+And Bingo was his name oh!

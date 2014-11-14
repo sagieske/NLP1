@@ -1,0 +1,57 @@
+Artist: block_b
+Title: close_my_eyes
+Genre: Blues
+Subgenres: [u'Contemporary Blues', u'Slide Guitar Blues', u'Modern Acoustic Blues']
+
+Song:
+
+Joha boyeo ni balgeun moseubgwa
+Juwie deullyeo oneun sosig kkaji da
+Mam gataseon neol butjabgo sipjiman
+Utneun eolgure chimeul baeteul suneun eobtjanha
+Yeojeonhae geu miso nugudeun
+Bomyeon ppajil geot gateun nunuseum
+Jigeumeun nae yeopen eobtjiman
+Ilbang jeogin neol hyanghan sarangboda
+Jikyeo boneunge naneun hwolssin haengboghan geol
+
+Dasi dorawa malharyeohada
+Gomgomhi deo saenggaghae bomyeon obanga
+
+Oh my god sogtanda jakku sogtanda
+Haru haru deoneureoman ganeun sulbyeong nabal
+Oh baby
+
+Ye girl it's okay ijen igsughae
+Neoman johdamyeonya na na nungamajulkke
+
+Ye girl it's okay ijen igsughae
+Neoman johdamyeonya na na nungamajulkke
+
+Jamsigetji aju jamsigetji
+Solloin chingu nomdeuri bangigetji
+Motgatdeon ongat moimega dalligetji
+Geureoda dasi ni saenggage jamgigetji
+
+Ohae mara jeongri hangeo maja
+Ohiryeo ni yeonrageul meolli hangeon naya
+Bogiboda na namja dawoseo
+Neoman johdamyeonya jabeul mam eobseo
+
+Dasi dorawa malharyeohada
+Gomgomhi deo saenggaghae bomyeon obanga
+
+Oh my god sogtanda jakku sogtanda
+Haru haru deoneureoman ganeun sulbyeong nabal
+Oh baby
+
+Ye girl it's okay ijen igsughae
+Neoman johdamyeonya na na nungamajulkke
+
+Ye girl it's okay ijen igsughae
+Neoman johdamyeonya na na nungamajulkke
+
+Ye girl it's okay ijen igsughae
+Neoman johdamyeonya na na nungamajulkke
+Ye girl it's okay ijen igsughae
+Neoman johdamyeonya na na nungamajulkke

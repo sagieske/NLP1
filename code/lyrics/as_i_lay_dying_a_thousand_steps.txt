@@ -1,0 +1,15 @@
+Artist: as_i_lay_dying
+Title: a_thousand_steps
+Genre: Pop/Rock
+Subgenres: [u'Heavy Metal', u'Grindcore', u'Speed/Thrash Metal', u'Death Metal']
+
+Song:
+
+We climbed a thousand steps without a single imprint
+This drowning regret will die
+
+Forgotten like my past
+Forgotten like my past
+
+Moving bodies lie in rest
+Carried by each other

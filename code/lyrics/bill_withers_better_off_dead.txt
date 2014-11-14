@@ -1,0 +1,36 @@
+Artist: bill_withers
+Title: better_off_dead
+Genre: R&B
+Subgenres: [u'Soul', u'Smooth Soul', u'Urban']
+
+Song:
+
+She couldn't stand me anymore
+So she just took the kids and went
+You see, I've got a drinkin' problem
+All the money that we had I spent
+
+Now I must die by my own hand
+'Cause I'm not man enough to live alone
+She's better off without me
+And I'm better off dead now that she's gone
+
+She gave the most, took the least
+And she even had the priest come to our home
+And I cried and prayed and promised God
+That I'd leave the stuff alone
+
+Now I must die by my own hand
+'Cause I'm not man enough to live alone
+She's better off without me
+And I'm better off dead now that she's gone
+
+She used to call her friend and cry
+Then the man cut off the telephone
+She'd sit and cry while I went out
+And pawned the things we owned
+
+Now I must die by my own hand
+'Cause I'm not man enough to live alone
+She's better off without me
+And I'm better off dead

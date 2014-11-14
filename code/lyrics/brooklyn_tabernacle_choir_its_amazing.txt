@@ -1,0 +1,38 @@
+Artist: brooklyn_tabernacle_choir
+Title: its_amazing
+Genre: Religious
+Subgenres: [u'Black Gospel', u'Contemporary Gospel', u'Gospel Choir', u'Gospel', u'Choral']
+
+Song:
+
+I could never repay the debt that I owe
+If it had not been for grace
+What would I do, where would I go
+I was not ready, ready to die
+But I wasn't fit to live
+But I accepted the gift
+That God alone can give
+
+Chorus:
+It's amazing, so amazing
+Jesus paid the price
+There's no penalty
+It's amazing, so amazing
+The grace God has given to me
+Though its undeserved
+It's rich and free
+It's amazing, so amazing
+The grace God has given to me
+
+God gives more grace
+As I walk this way
+And with each step, each step I take
+God leads me to say
+
+Chorus
+
+Ending:
+It's amazing, so amazing
+The gace God has given to me
+It's amazing, so amazing
+The grace God has given to me

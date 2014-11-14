@@ -1,0 +1,86 @@
+Artist: babymetal
+Title: megitsune
+Genre: Pop/Rock
+Subgenres: [u'Pop Idol', u'Alternative Metal', u'Heavy Metal']
+
+Song:
+
+Sore! Sore! 
+Sore Sore Sore Sore! 
+Sore! Sore! 
+Sore Sore Sore Sore! 
+
+Omekashi kitsune-san
+Chiki chiki washoi! 
+Chiki chiki washoi! 
+
+Tsuinte nabikase te
+Kira kira washoi! 
+Kira kira washoi! 
+
+Hajike te doron shi te
+Kura kura washoi! 
+Kura kura washoi! 
+
+Iza yuki shichihenge
+Go go go gogo go gogo! 
+
+Sore! Sore! 
+Sore Sore Sore Sore! 
+Sore! Sore! 
+Sore Sore Sore Sore! 
+
+Inishie no oteme tachi yo
+Kari some no yume ni odoru
+Iku sen no toki o koe te
+Ima o ikiru
+
+Ah... 
+So yoi tso demo onna
+Wa joyu yo
+Kitsune ja nai! 
+Kitsune ja nai! 
+Otome wa megitsune! 
+
+Ah... 
+Yamatonadeshiko onna
+Wa kawaru no
+Kao de waratte
+Kokoro denaite
+Soyo nette
+Namida wa misei nai yo
+
+Kitsune kitsune
+Watashi wa megitsune
+Onna wa joyu yo
+
+Sore! Sore! 
+Sore Sore Sore Sore! 
+Sore! Sore! 
+Sore Sore Sore Sore! 
+
+Inishie no otome tachi yo
+Kari some no yuime ni odoru
+Ikusen no toki okoe te
+Koko ni ikiru
+
+Ah... 
+So yoi tso demo onna
+Wa joyu yo
+Kitsune ja nai! 
+Kitsune ja nai! 
+Otome wa... 
+Name tara ikan zeyo
+
+Ah... 
+Yamatonadeshiko onno
+Wa kawaru no
+Zutto itsumo kie nai yo ni
+Hanabi o ageru no
+
+Ah... 
+Saite chiru noga onna no
+Sadame yo
+Kaode waratte
+Kokoro denaite
+Junjo otome na megitsune yo

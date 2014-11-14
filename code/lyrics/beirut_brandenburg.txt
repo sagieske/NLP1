@@ -1,0 +1,21 @@
+Artist: beirut
+Title: brandenburg
+Genre: Pop/Rock
+Subgenres: [u'Alternative Folk', u'Alternative/Indie Rock', u'Indie Rock']
+
+Song:
+
+Send me now, the winter's over
+A light turns out, the winds are colder
+The love we've had will turn all over
+Going south and we are older
+
+On the one time I told you also
+On a night like this you all turn around
+No but I, I won't hold you anymore
+No and I, I can't have you anymore, my dear
+
+And some days we're all alone on the banks of the Rhine
+And some days all we have was worth while
+And some sing dreams of spears chosen once in life
+And some days we're all alone on the banks of the Rhine

@@ -1,0 +1,26 @@
+Artist: bessie_smith
+Title: baby_doll
+Genre: Blues
+Subgenres: [u'Classic Female Blues', u'Early Jazz', u'Vaudeville Blues']
+
+Song:
+
+Honey, there's a funny feeling 'round my heart,
+And it's bound to drive your mama wild
+It must be something they call the Cuban Doll,
+It weren't your mama's angel child
+
+I went to see the doctor the other day, he said I's well as well could be
+But I said, "Doctor, you don't know really what's worrying me"
+I want to be somebody's baby doll so I can get my loving all the time
+I want to be somebody's baby doll to ease my mind
+
+He can be ugly, he can be black, so long as he can eagle rock and ball the
+Jack
+I want to be somebody's baby doll so I can get my lovin' all the time,
+I mean to get my lovin' all the time
+
+Lord, I went to the gypsy to get my fortune told,
+She said you in hard luck, Bessie, doggone your bad luck soul
+I want to be somebody's baby doll so I can get my lovin' all the time,
+I mean to get my lovin' all the time

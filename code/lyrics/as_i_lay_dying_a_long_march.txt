@@ -1,0 +1,16 @@
+Artist: as_i_lay_dying
+Title: a_long_march
+Genre: Pop/Rock
+Subgenres: [u'Heavy Metal', u'Grindcore', u'Speed/Thrash Metal', u'Death Metal']
+
+Song:
+
+Only You know my pain inside
+You've been there when no one else could be
+When tears fall from my eyes
+I know that You are always there
+No matter what's in my heart
+You are the One who cares
+When I doubt, You stand by me
+So I'm not ashamed to say the way I feel
+I love You, You are my Everything

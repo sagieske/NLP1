@@ -1,0 +1,24 @@
+Artist: amy_macdonald
+Title: caledonia
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Singer/Songwriter', u'Contemporary Pop/Rock', u'Adult Alternative Pop/Rock', u'Alternative/Indie Rock']
+
+Song:
+
+I don't know if you can see
+The changes that have come over me
+In these last few days I've been afraid
+That I might drift away
+So I've been telling old stories, singing songs
+That make me think about where I came from
+And that's the reason why I feel
+So far away today
+
+And, let me tell you that I love you
+That I think about you all the time
+Caledonia's calling me
+And now I'm going home
+If I should become a stranger
+You know that it would make me more than sad
+Caledonia's been everything
+I've ever had

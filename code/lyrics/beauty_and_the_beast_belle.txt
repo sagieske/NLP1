@@ -1,0 +1,364 @@
+Artist: beauty_and_the_beast
+Title: belle
+Genre: Pop/Rock
+Subgenres: [u'Prog-Rock']
+
+Song:
+
+BELLE
+
+Little town It's a quiet village
+Ev'ry day
+Like the one before
+Little town
+Full of little people
+Waking up to say:
+
+TOWNSFOLK
+
+Bonjour! Bonjour! Bonjour! Bonjour! Bonjour!
+
+BELLE
+
+There goes the baker with his tray, like always
+The same old bread and rolls to sell
+Ev'ry morning just the same
+Since the morning that we came
+To this poor provincial town
+
+BAKER
+
+Good Morning, Belle!
+
+BELLE
+
+Good morning, Monsieur.
+
+BAKER
+
+And where are you off to, today?
+
+BELLE
+
+The bookshop.
+I just finished the most wonderful story
+About a beanstalk and an ogre and a -
+
+BAKER
+
+That's nice. Marie!
+The baguettes!
+Hurry up!
+
+TOWNSFOLK
+
+Look there she goes that girl is strange, no question
+Dazed and distracted, can't you tell?
+
+WOMAN
+
+Never part of any crowd
+
+MAN
+
+'Cause her head's up on some cloud
+
+TOWNSFOLK
+
+No denying she's a funny girl that Belle
+
+MAN I
+
+Bonjour!
+
+WOMAN I
+
+Good day!
+
+MAN I
+
+How is your fam'ly?
+
+WOMAN 2
+
+Bonjour!
+
+MAN 2
+
+Good day!
+
+WOMAN 2
+
+How is your wife?
+
+WOMAN 3
+
+I need six eggs!
+
+WOMAN 4
+
+That's too expensive!
+
+BELLE
+
+There must be more than this provincial life!
+
+BOOKSELLER
+
+Ah, Belle.
+
+BELLE
+
+Good morning, sir.
+I've come to return the book I borrowed.
+
+BOOKSELLER
+
+Finished already?
+
+BELLE
+
+Oh, I couldn't put it down.
+Have you got anything new?
+
+BOOKSELLER
+
+Not since yesterday.
+
+BELLE
+
+That's all right.
+I'll borrow . . . . . this one!
+
+BOOKSELLER
+
+That one?
+But you've read it twice!
+
+BELLE
+
+Well, it's my favorite!
+Far off places, daring swordfights, magic spells, a prince in disguise -
+
+BOOKSELLER
+
+If you like it all that much, it's yours!
+
+BELLE
+
+But sir!
+
+BOOKSELLER
+
+I insist.
+
+BELLE
+
+Thank you.
+Thank you very much!
+
+TOWNSFOLK
+
+Look there she goes that girl is so peculiar
+I wonder if she's feeling well
+With a dreamy, far-off look
+And her nose stuck in a book
+What a puzzle to the rest of us is Belle
+
+BELLE
+
+Oh, isn't this amazing?
+It's my fav'rite part because --- you'll see
+Here's where she meets Prince Charming
+But she won't discover that it's him 'til chapter three!
+
+WOMAN
+
+Now it's no wonder that her name means "Beauty"
+Her looks have got no parallel
+
+SHOPKEEPER
+
+But behind that fair facade
+I'm afraid she's rather odd
+
+MAN
+
+Very diff'rent from the rest of us
+
+TOWNSFOLK
+
+She's nothing like the rest of us
+Yes, diff'rent from the rest of us is Belle!
+
+LEFOU
+
+I got it Gaston!
+Wow! You didn't miss a shot, Gaston!
+You're the greatest hunter in the whole world!
+
+GASTON
+
+I know.
+
+LEFOU
+
+No beast alive stands a chance against you. ---
+And no girl, for that matter.
+
+GASTON
+
+It's true, LeFou.
+And I've got my sights set on that one.
+
+LEFOU
+
+The inventor's daughter?
+
+GASTON
+
+She's the one - the lucky girl I'm going to marry.
+
+LEFOU
+
+But she's -
+
+GASTON
+
+The most beautiful girl in town.
+
+LEFOU
+
+I know, but -
+
+GASTON
+
+That makes her the best.
+And don't I deserve the best?
+
+LEFOU
+
+Of course you do!
+
+GASTON
+
+Right from the moment when I met her, saw her
+I said she's gorgeous and I fell
+Here in town there's only she
+Who is beautiful as me
+So I'm making plans to woo and marry Belle
+
+BIMBETTES
+
+Look there he goes Isn't he dreamy?
+Monsieur Gaston
+Oh he's so cute!
+Be still my heart I'm hardly breathing
+He's such a tall, dark, strong and handsome brute!
+
+WOMAN 1
+
+Bonjour!
+
+GASTON
+
+Pardon
+
+BELLE
+
+Good day
+
+WOMAN 2
+
+Mais oui!
+
+WOMAN 3
+
+You call this bacon?
+
+WOMAN 4
+
+What lovely grapes!
+
+MAN 1
+
+Some cheese
+
+WOMAN 5
+
+Ten yards!
+
+MAN 1
+
+one pound
+
+GASTON
+
+'scuse me!
+
+CHEESE MERCHANT
+
+I'll get the knife
+
+GASTON
+
+Please let me through!
+
+WOMAN 6
+
+This bread -
+
+WOMAN 7
+
+Those fish -
+
+WOMAN 6
+
+it's stale!
+
+WOMAN 7
+
+they smell!
+
+MEN
+
+Madame's mistaken.
+
+WOMEN
+
+Well, maybe so
+
+TOWNSFOLK
+
+Good morning!
+Oh, good morning!
+
+BELLE
+
+There must be more than this provincial life!
+
+GASTON
+
+Just watch,
+I'm going to make Belle my wife!
+
+TOWNSFOLK
+
+Look there she goes
+The girl is strange but special
+A most peculiar mad'moiselle!
+
+WOMEN
+
+It's a pity and a sin
+
+MEN
+
+She doesn't quite fit in
+
+TOWNSFOLK
+
+'Cause she really is a funny girl
+A beauty but a funny girl
+She really is a funny girl
+That Belle!

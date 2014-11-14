@@ -1,0 +1,26 @@
+Artist: cliff_richard
+Title: a_voice_in_the_wilderness
+Genre: Pop/Rock
+Subgenres: [u'British Invasion', u'Contemporary Pop/Rock', u'Early British Pop/Rock', u'Early Pop/Rock', u'Rock & Roll', u'Show/Musical', u'Teen Idols', u'AM Pop']
+
+Song:
+
+My heart was so heavy with longing for you
+My arms were so lonely, lonesome and blue
+Alone in my sorrow, I heard a voice cry
+A voice in the wilderness, a voice from the sky
+
+Have faith in your darling, the voice seemed to say
+Be true to her memory, she'll come back one day
+And though there was no-one, nobody to see
+A voice in the wilderness brought comfort to me
+
+We had a quarrel, I was unkind
+Why did you leave me, love made me blind
+Come back to me darling, I yearn for your touch
+Have pity, come back now, I need you so much
+Believe me and you'll hear it, the voice from above
+The voice in the wilderness, the voice of true love
+
+Believe me and you'll hear it, the voice from above
+A voice in the wilderness, the voice of true love.

@@ -1,0 +1,37 @@
+Artist: amazing_grace
+Title: amazing_grace
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Folk-Rock', u'Psychedelic/Garage']
+
+Song:
+
+Amazing Grace!
+How sweet the sound
+That saved a wretch like me
+I once was lost but now am found,
+Was blind but now I see
+
+'Twas Grace that taught my heart to fear
+And Grace my fears relieved
+How precious did that grace appear
+The hour I first believed
+
+Through many dangers, toils and snares
+I have already come
+'Tis Grace has brought me safe thus far
+And Grace will lead me home
+
+The Lord has promised good to me
+His word my hope secures;
+He will my sheild and portion be,
+As long as life endures
+
+Yet, when this flesh and heart shall fail,
+And mortal life shall cease,
+I shall posess within the veil,
+A life of joy and peace.
+
+When we've been there ten thousand years
+Bright shining as the sun,
+We've no less days to sing God's praise
+Than when we've first begun

@@ -1,0 +1,33 @@
+Artist: bette_midler
+Title: all_i_need_to_know
+Genre: Vocal
+Subgenres: [u'Adult Contemporary', u'Cast Recordings', u'Show Tunes', u'Soft Rock', u'Contemporary Pop/Rock']
+
+Song:
+
+Look at my face. I know the years are showin'.
+Look at my life. Still don't know where it's goin'.
+I don't know much, but I know I love you,
+And that may be all I need to know.
+
+Look at these eyes. Oh, they never see what matters.
+And look at these dreams, so beaten and so battered.
+I don't know much, but I know I love you,
+And that may be all I need to know.
+
+So many questions and still no answers.
+I climb and climb but never get the view.
+But when I hold you near me sometimes I feel so clearly
+The only truth I'll ever know is me and you.
+
+In my heart I long for inspiration.
+And in my soul I know someday I'll find salvation.
+I don't know much, but I know I love you,
+And that may be all I need to know.
+
+In my heart you're my inspiration.
+And in my soul I know love is our salvation.
+I don't kow much, but if I know you love me,
+That will be all I need to know.
+I don't know much, but if you say you love me,
+That will be all I need to know.

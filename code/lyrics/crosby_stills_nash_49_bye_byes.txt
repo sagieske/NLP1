@@ -1,0 +1,23 @@
+Artist: crosby_stills_nash
+Title: 49_bye_byes
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Pop/Rock', u'Singer/Songwriter', u'Soft Rock', u'Album Rock']
+
+Song:
+
+49 reasons all in a line
+All of them good ones, all of them lies.
+Drifting with my lady, we're oldest of friends
+Need a little work and there's fences to mend.
+Steady girl, be my world.
+Till the drifter come, now she's gone.
+I let that man play his hand,
+I let them go, how was I to know?
+I'm down on my knees, nobody left to please.
+Now it's over, they left in the spring.
+Her and the drifter, lookin' for beautiful things.
+Steady girl, be my world.
+Till the drifter come, now she's gone.
+I let that man play his hand,
+I let them go, how was I to know?
+I'm down on my knees, nobody left to please.

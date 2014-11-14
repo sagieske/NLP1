@@ -1,0 +1,73 @@
+Artist: adriano_celentano
+Title: africa
+Genre: Pop/Rock
+Subgenres: [u'Vocal Pop', u'Italian Pop', u'Italian Music', u'Western European Traditions']
+
+Song:
+
+Le giraffe dal lungo, lungo collo
+sopra gli alberi bruciano la vita
+nel silenzio, la pace piu assoluta
+uno sparo e l'aria e lacerata.
+Un bambino e spaventato
+stringe l'arma con forza tra le dita.
+Una scimmia da lontano
+alza il capo incuriosita...
+
+I leoni sdraiati li nell'ombra
+siamo in tanti
+con I cuccioli giocano a graffiarsi gia
+innocenti
+paradiso di vita, naturale
+siamo in tanti
+uno sparo e un grido che fa male
+obbedienti
+un bambino e spaventato
+senza amore
+stringe l'arma con forza tra le dita
+senza guida
+e la gente da lontano
+com'e ingiusta
+abbassa gli occhi un'altra volta piangendo
+questa sfida.
+e quel sole non si nasconde mai
+le capanne la
+e quel sole impietoso sopra noi
+desolate ma
+dov'e l'acqua? Alziamo gli occhi in su
+nel cuore tanta liberta
+ma vediamo sempre e solo blu
+no la fame non ci ha sconfitto mai
+quegli occhi vivi
+solo l'odio puo farci male ormai
+e luccicanti che
+tu fratello sei un lago senza pesci
+han bisogno anche di te
+tu fratello perche non mi conosci?
+
+
+in questa immensita
+siamo in tanti
+quanti delitti non si sa
+innocenti
+si respira l'amore
+siamo in tanti
+si respira il dolore
+No, non abbiamo mai visto la neve
+siamo gia felici quando piove
+donne belle e dolci come il miele
+il sudore sulle labbra sa di sale.
+e quel sole non si nasconde mai
+Le capanne la
+e quel sole impietoso sopra noi
+desolate ma
+dov'e l'acqua? Alziamo gli occhi in su
+nel cuore tanta liberta
+ma vediamo sempre e solo blu
+no la fame non ci ha sconfitto mai
+quegli occhi vivi
+solo l'odio puo farci male ormai
+e luccicanti che
+tu fratello sei un lago senza pesci
+han bisogno anche di te
+tu fratello perche non mi conosci

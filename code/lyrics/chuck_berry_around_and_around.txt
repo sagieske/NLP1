@@ -1,0 +1,41 @@
+Artist: chuck_berry
+Title: around_and_around
+Genre: Pop/Rock
+Subgenres: [u'Rock & Roll', u'Early R&B']
+
+Song:
+
+They say the joint was rockin'
+Goin' round and round,
+Yeah reelin' and a rockin',
+What a crazy sound,
+Well they never stop a rockin'
+'till the moon went down.
+
+Oh it sound so sweet,
+Gotta take me a chance,
+Rose out of my seat,
+Just had to dance,
+Started movin' ma feet,
+Well and clappin' my hands.
+
+Well the joint started rockin'
+Goin' round and round,
+Yeah reelin' and a rockin',
+What a crazy sound,
+Well they never stoped rockin'
+'till the moon went down.
+
+Twelve o'clock
+Well the place was packed
+Front doors was locked
+Well the place was packed
+When the police knocked
+Both doors flew back
+
+Well the kept on rockin'
+Goin' round and round,
+Yeah reelin' and a rockin',
+What a crazy sound,
+Well you never stop rockin'
+'till the moon went down.

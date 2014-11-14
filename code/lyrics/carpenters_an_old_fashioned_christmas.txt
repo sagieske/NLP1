@@ -1,0 +1,32 @@
+Artist: carpenters
+Title: an_old_fashioned_christmas
+Genre: Pop/Rock
+Subgenres: [u'AM Pop', u'Soft Rock']
+
+Song:
+
+How I miss that Old Fashioned Christmas!
+
+Carols being sung by the tree,
+
+Window's candlelight shining bright for the whole world to see
+
+Children's eyes of sweet expectations
+
+Wondering what each present will hold
+
+Lying in their beds and impatient
+
+On long Christmas Eves of old
+
+It used to be that all the family would gather for this one night
+
+It used to be that special feeling shared together knowing Christmas was here one night a year
+
+How I miss that Old Fashioned Christmas!
+
+Memories that last through the years
+
+Call me sentimental; Don't mind if you do
+
+I send an Old Fashioned Christmas to you!

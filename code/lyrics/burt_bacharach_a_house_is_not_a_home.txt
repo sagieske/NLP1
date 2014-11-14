@@ -1,0 +1,31 @@
+Artist: burt_bacharach
+Title: a_house_is_not_a_home
+Genre: Pop/Rock
+Subgenres: [u'AM Pop', u'Baroque Pop', u'Brill Building Pop', u'Early Pop/Rock', u'Film Music', u'Soundtracks', u'Early R&B', u'Show/Musical']
+
+Song:
+
+A chair is still a chair
+Even when there's no one sitting there
+But a chair is not a house
+And a house is not a home
+When there's no one there to hold you tight,
+And no one there you can kiss good night.
+
+A room is still a room
+Even when there's nothing there but gloom;
+But a room is not a house,
+And a house is not a home
+When the two of us are far apart
+And one of us has a broken heart.
+
+Now and then I call your name
+And suddenly your face appears
+But it's just a crazy game
+When it ends it ends in tears.
+
+Darling, have a heart,
+Don't let one mistake keep us apart.
+I'm not meant to live alone. turn this house into a home.
+When I climb the stair and turn the key,
+Oh, please be there still in love with me.

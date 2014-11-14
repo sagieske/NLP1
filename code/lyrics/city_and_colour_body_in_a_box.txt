@@ -1,0 +1,33 @@
+Artist: city_and_colour
+Title: body_in_a_box
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Indie Rock', u'Alternative Singer/Songwriter', u'Singer/Songwriter', u'Indie Pop']
+
+Song:
+
+There's a funeral procession on the highway,
+Traffic screeches to a halt.
+There's people searching for a better way,
+To live their lives.
+Johnny lived a good life, you'll hear them say
+As tears of sadness soak the ground.
+The reaper crept in, took his breath away,
+In the middle of the night.
+
+[Chorus:]
+We celebrate the lives of the dead,
+It's like a man's best party, only happens when he dies.
+We gather 'round to pay our respects,
+While their souls are still searching for the light,
+Searching for the light.
+
+So please don't come to me on my dying day,
+Just let me go in peace.
+With all the things that I forgot to say,
+Racing through my mind.
+And don't you bury me six feet under ground,
+Just burn my body in a box.
+And let my ashes blow with the wind,
+Out into the night sky.
+
+[Chorus:]

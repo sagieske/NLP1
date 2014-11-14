@@ -1,0 +1,39 @@
+Artist: alter_bridge
+Title: brand_new_start
+Genre: Pop/Rock
+Subgenres: [u'Hard Rock', u'Heavy Metal', u'Post-Grunge']
+
+Song:
+
+Against the sky
+Streams of light
+Call out to me and you
+
+We leave as one
+We've just begun
+To find the solace we're due
+This is the life we must choose
+
+[Chorus:]
+We will make a brand new start
+From the pieces torn apart
+The break of day is before us
+
+Cast your sorrows to the wind
+Let the highway take us in
+As we escape the disorder
+
+This desert road
+That we call home
+This is our destiny
+We'll chase the setting sun
+As we outrun
+A life of agony
+God how we ache to be free
+
+[Chorus 2x]
+
+We'll make our way
+We'll make our way
+We'll make our way
+We'll make our way

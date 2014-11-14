@@ -1,0 +1,29 @@
+Artist: andrae_crouch
+Title: the_blood_will_never_lose_its_power
+Genre: Religious
+Subgenres: [u'Contemporary Gospel', u'Gospel']
+
+Song:
+
+Verse 1:
+The blood that Jesus she'd for me,
+Way back on Calvary;
+The blood that gives me strength
+From day to day,
+It will never lose it's power.
+
+Chorus:
+It reaches to the highest mountain,
+It flows to the lowest valley;
+The blood that gives me strength
+From day to day,
+It will never lose it's power.
+
+Verse 2:
+It soothes my doubts and calms my fears,
+And it dries all my tears;
+The blood that gives me strength
+From day to day,
+It will never lose it's power.
+
+Chorus

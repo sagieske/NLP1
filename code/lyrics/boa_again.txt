@@ -1,0 +1,46 @@
+Artist: boa
+Title: again
+Genre: Pop/Rock
+Subgenres: [u'Korean Pop', u'Asian Pop', u'Dance-Pop', u'Korean', u'North/East Asian Traditions']
+
+Song:
+
+Dashi negero
+
+Himobshi guden naman jithyobogo so ineyo
+Nur gakaun gu gorieso (gurohge na)
+Gudeui chingur nega saranghedon sashiraphe
+Darun yegin soyong objiman
+Gureyo guten wenji gude aphe jashin obso
+Nan do wemyonhangonji molla
+Hajiman ne jinan ibyordwiro to orungon
+Negen hangsang gudeyossoyo
+Igijogin narur yongsohejwo (bogo shipho)
+Himi durmyon hangsang nan marhejyo (sarangheyo)
+Ijin anhayo... Nan to jashin obso domangchigo shipho jirten
+Nur giogheyo narur ullidon gin guriumur
+
+Onunar nun to boni achimhessar dungjigoso
+Ne aphuro wa inun gude gomawoyo
+Biroso ne jinshir chage hejun chage hejun gude jongmar
+Imodunge kumun anijyo
+Hengboghande jaku nunmuri nayo (bogo shipho)
+Chamawadon gu aphummankhum nan (sarangheyo)
+Jikhyobwa jwoyo guden maranhedo nega jun gu aphum modu
+Ijursu ige... Nan to serobge noryogheyo sarangheyo saranghargeyo
+
+(Rap)
+Nur joeinchorom nanun mianhan mam gajyoya hana guronir obsur gora
+Chorahan yagsog jwoya hanabwa na marhajanha gu mam hearyobwa
+Arajwo ne jigumun igomani choesoniranun gor
+
+Gude nukinun mami hananun gobeghe jurkeyo
+Na guderur barabogo inuni sungan
+Nunur gamgo tunun gu anedo majo bogo phurmankhum
+Gu mosubur nan wonheyo
+Hengboghande jaku nunmuri nayo (sarangheyo)
+Chamawadon gu aphum mankhum nan
+Jikhyobwa jwoyo guden mar anhedo nega jun gu aphum modu
+Ijursu ige... Nan to serobge noryogheyo
+Bogo shipho...
+Sarangheyo

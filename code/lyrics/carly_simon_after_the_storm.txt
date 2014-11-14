@@ -1,0 +1,28 @@
+Artist: carly_simon
+Title: after_the_storm
+Genre: Pop/Rock
+Subgenres: [u'Adult Contemporary', u'Contemporary Pop/Rock', u'Film Score', u'Singer/Songwriter', u'Soft Rock', u'AM Pop']
+
+Song:
+
+(Carly Simon)
+
+Heat's up, tea's brewed
+Clothes strewn around the room
+Looks like a wind swept through
+Made a wild man out of you
+And doesn't anger turn you on
+And expectation of a calm
+After the storm
+And your body feels so warm
+After the storm
+
+The wind's pulling the moon down
+Under the eiderdown
+You're taking me to town
+And you're tossing me around
+You come on like a hurricane
+I'm settling like you're weathervane
+After the storm
+And your body feels so warm
+After the storm

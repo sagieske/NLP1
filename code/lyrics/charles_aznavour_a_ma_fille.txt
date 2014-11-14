@@ -1,0 +1,41 @@
+Artist: charles_aznavour
+Title: a_ma_fille
+Genre: Vocal
+Subgenres: [u'Vocal Pop', u'French Pop', u'Cabaret', u'Vocal Music']
+
+Song:
+
+Je sais qu'un jour viendra car la vie le commande
+Ce jour que j'apprhende o tu nous quitteras
+Je sais qu'un jour viendra o triste et solitaire
+En soutenant ta mre et en tranant mes pas
+Je rentrerai chez nous dans un "chez nous" dsert
+Je rentrerai chez nous o tu ne seras pas.
+Toi tu ne verras rien des choses de mon cur
+Tes yeux seront crevs de joie et de bonheur
+Et j'aurai un rictus que tu ne connais pas
+Qui semble etre un sourire mu mais ne l'est pas
+En taisant ma douleur ton bras firement
+Je guiderai tes pas quoique j'en pense ou dise
+Dans le recueillement d'une paisible glise
+Pour aller te donner l'homme de ton choix
+Qui te dvetira du nom qui est le notre
+Pour t'en donner un autre que je ne connais pas.
+Je sais qu'un jour viendra tu atteindras cet ge
+O l'on force les cages ayant trouv sa voie
+Je sais qu'un jour viendra, l'ge t'aura fleurie
+Et l'aube de ta vie ailleurs se lvera
+Et seul avec ta mre le jour comme la nuit
+L't comme l'hiver nous aurons un peu froid.
+Et lui qui ne sait rien du mal qu'on s'est donn
+Lui qui n'aura rien fait pour mrir tes annes
+Lui qui viendra voler ce don't j'ai le plus peur
+Notre part de pass, notre part de bonheur
+Cet tranger sans nom, sans visage
+Oh! Combien je le hais
+Et pourtant s'il doit te rendre heureuse
+Je n'aurai envers lui nulle pense haineuse
+Mais je lui offrirai mon cur avec ta main
+Je ferai tout cela en sachant que tu l'aimes
+Simplement car je T'aime
+Le jour, o il viendra.

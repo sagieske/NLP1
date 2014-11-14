@@ -1,0 +1,38 @@
+Artist: burl_ives
+Title: blue_tail_fly
+Genre: Folk
+Subgenres: [u'Cast Recordings', u'Folk-Pop', u'Sea Shanties', u'Traditional Folk', u'Show/Musical']
+
+Song:
+
+2. Bluetail fly
+When I was young I used to wait
+On my master and hand him his plate
+And Pass the bottle when he got dry
+And brushawaythe blue-tail fly
+Chorus: Jimmy crack corn, and I don't care
+Jimmy crack corn, and I don't care
+Jimmy crack corn, and I don't care
+My master's gone away
+And when he'd ride in the afternoon
+I'd follow after with my hickory broom
+The pony being rather shy
+When bitten bythe blue-tail fly
+Chorus:
+One day he ride around the farm
+Flies so numerousthey did swarm
+One chanced to bite him on the thigh
+The deviltake the blue-tail fly
+Chorus:
+Music
+The pony run, he jump, he pitch
+He threw my master in the ditch
+He died and the jury wondered why
+The verdict was the blue-tail fly
+Chorus:
+He lay underthe 'simmon tree
+His epitaph is there to see
+"Beneath this stone I'm forced to lie
+The victim ofthe blue-tail fly"
+Chorus:
+The Masters gone away

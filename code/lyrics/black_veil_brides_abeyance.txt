@@ -1,0 +1,11 @@
+Artist: black_veil_brides
+Title: abeyance
+Genre: Pop/Rock
+Subgenres: [u'Heavy Metal', u'Screamo', u'Metalcore', u'Alternative/Indie Rock']
+
+Song:
+
+That God does not exist,
+I cannot deny
+That my whole being cries out for a God,
+I cannot forget...

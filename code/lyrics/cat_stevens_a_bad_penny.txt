@@ -1,0 +1,43 @@
+Artist: cat_stevens
+Title: a_bad_penny
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Pop/Rock', u'Psychedelic/Garage', u'Singer/Songwriter', u'Soft Rock', u'AM Pop', u'Album Rock', u'Psychedelic Pop']
+
+Song:
+
+Oh don't say those same idle lies
+I've heard them before
+This fool who left his heart on an early train
+Won't buy no more
+
+Oh no don't use
+Those same weeping eyes
+I'll wipe them no more
+I didn't want to have to be cruel
+But the truth must be said
+And you ain't heard enough
+
+Oh it was not so long ago
+Since you wandered out of here
+To become a silver model
+Of a city on the air
+So don't choke me with your lies
+Because this man has open eyes
+And I can see
+I can see I can tell
+
+I had it enough
+All those sneaky bars and smart parties
+Had enough
+All those sweet friends and lovers
+I've I've had enough
+All those lonely rooms
+And blank faces
+Had enough
+And I want you I want you no more
+I want you I want you no more
+
+Oh don't say those same idle lies
+I've heard them before
+This fool who left his heart on an early train
+Won't buy no more

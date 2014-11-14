@@ -1,0 +1,66 @@
+Artist: big_time_rush
+Title: a_hard_days_night
+Genre: Pop/Rock
+Subgenres: [u'Teen Pop', u'Contemporary R&B', u'Dance-Pop', u'Pop']
+
+Song:
+
+[James]
+It's been a Hard Day's Night
+And I've been working like a dog
+It's been a Hard Day's Night
+I should be sleeping like a log
+[Logan]
+But when I get home to you
+I find the things that you do
+[James]
+Will make me feel alright
+{Kendall]
+You know I work all day
+To get you money to buy you things
+And it's worth it just to hear you say
+You're gonna give me everything
+[Logan]
+So why on Earth should I moan,
+Cause when I get you alone
+[Kendall]
+You know I feel ok
+When I'm home, everything seems to be right
+When I'm home, I feel you holding me tight, tight yeah
+[Carlos]
+It's been a Hard Day's Night
+And I've been working like a dog
+It's been a Hard Day's Night
+I should be sleeping like a log
+[Logan]
+But when I get home to you
+I find the things that you do
+[Carlos]
+Will make me feel alright
+[Logan]
+So why on Earth should I moan,
+Cause when I get you alone
+[James]
+Will make me feel
+[Kendall]
+Ok
+When I'm home, everything seems to be right
+When I'm home, I feel you holding me tight, tight yeah
+[James]
+It's been a Hard Day's Night
+And I've been working like a dog
+It's been a Hard Day's Night
+I should be sleeping like a log
+[Logan]
+But when I get home to you
+I find the things that you do
+[James]
+Will make me feel
+[Kendall]
+Alright, [alright]
+[James]
+Will make me feel
+[Kendall]
+Alright, [yeah]
+[James]
+You know I feel Alright

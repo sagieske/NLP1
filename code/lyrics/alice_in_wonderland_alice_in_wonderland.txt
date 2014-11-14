@@ -1,0 +1,26 @@
+Artist: alice_in_wonderland
+Title: alice_in_wonderland
+Genre: Pop/Rock
+Subgenres: [u'Alternative Metal', u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Grunge', u'Hard Rock', u'Heavy Metal']
+
+Song:
+
+Alice in Wonderland
+How do you get to Wonderland
+Over the hill or underland
+Or just behind a tree
+
+When clouds go rolling by
+They roll away and leave the sky
+Where is the land behind the eye
+People cannot see
+
+Where can you see
+Where do the stars go
+Where is the crescent moon
+They must be somewhere in the sunny afternoon
+
+Alice in Wonderland
+Where is the path to Wonderland
+Over the hill or here or there
+I wonder where

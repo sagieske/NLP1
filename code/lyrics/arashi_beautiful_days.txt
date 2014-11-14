@@ -1,0 +1,62 @@
+Artist: arashi
+Title: beautiful_days
+Genre: Pop/Rock
+Subgenres: [u'J-Pop', u'Pop Idol', u'Teen Pop', u'Japanese Traditions']
+
+Song:
+
+Sora ni kagayaku yo kirari
+Hoshi ga jiwari nijindeku yo
+Kanashii hodo kirei da ne
+
+Hanashi wo kiitehoshii koto
+Are mo kore mo aru kedo
+Nigirishimete dakishimete
+Shiwakucha no mama
+Hoshi ni negau to itsuka
+Kanau to iu keredo
+Yume no naka de shika bokura
+Towa ni mou aenai
+
+Sora ni kagayaku yo kirari
+Hoshi ga jiwari nijindeku yo
+Kaerimichi namida ga tomaranai
+Boku wa zutto
+Sora ni omoide ga porori
+Namida horori koboreteku yo
+Kanashii hodo kirei da ne
+
+Kanashimi wo wakeatte
+Namida no kazu herasu yori
+Yorokobi wo wakachiaenai hou ga tsurai ne
+Mabuta no oku ni utsuru
+Koboreru egao ga ima made mo yuuki kureru yo
+Mou ichido aitai
+
+Sora ni mukatte utau yo
+Sou utau yo koe no kagiri
+Fushigi da ne hitori ja nai n da
+Boku wa zutto
+Sora ni mukai te wo furu yo
+Kono te furu yo chikara komete
+Sore ga bokura no sain
+
+Tanoshikute mo kurushikute mo
+Mou bokura wa aenai
+Donna ni negattete mo
+
+Sora ni kagayaku yo kirari
+Hoshi ga jiwari nijindeku yo
+Kaerimichi namida ga tomaranai
+Boku wa zutto
+Sora ni omoide ga porori
+Naida horori koboreteku yo
+Kanashii hodo kirei da ne
+
+Sora ni mukatte utau yo
+Sou utau yo koe no kagiri
+Fushigi da ne hitori ja nai n da
+Boku wa zutto
+Itsumade mo wasurenai yo
+Wasurenai yo
+Kimi to itsuka sora ni egaita mirai

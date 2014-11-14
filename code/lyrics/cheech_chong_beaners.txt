@@ -1,0 +1,11 @@
+Artist: cheech_chong
+Title: beaners
+Genre: Comedy/Spoken
+Subgenres: [u'Sketch Comedy', u'Standup Comedy', u'Comedy']
+
+Song:
+
+Beaners....
+Beaners....
+Beaners...
+Beaners.. Are Gonna Kick you in the Face

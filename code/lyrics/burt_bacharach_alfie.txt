@@ -1,0 +1,24 @@
+Artist: burt_bacharach
+Title: alfie
+Genre: Pop/Rock
+Subgenres: [u'AM Pop', u'Baroque Pop', u'Brill Building Pop', u'Early Pop/Rock', u'Film Music', u'Soundtracks', u'Early R&B', u'Show/Musical']
+
+Song:
+
+What's it all about, alfie?
+Is it just for the moment we live?
+What's it all about when you sort it out, alfie?
+Are we meant to take more than we give
+Or are we meant to be kind?
+And if only fools are kind, alfie,
+Then I guess it's wise to be cruel.
+And if life belongs only to the strong, alfie,
+What will you lend on an old golden rule?
+As sure as I believe there's a heaven above, alfie,
+I know there's something much more,
+Something even non-believers can believe in.
+I believe in love, alfie.
+Without true love we just exist, alfie.
+Until you find the love you've missed you're nothing, alfie.
+When you walk let your heart lead the way
+And you'll find love any day, alfie, alfie.

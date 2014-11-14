@@ -1,0 +1,96 @@
+Artist: babymetal
+Title: headbanger
+Genre: Pop/Rock
+Subgenres: [u'Pop Idol', u'Alternative Metal', u'Heavy Metal']
+
+Song:
+
+Densetsu no kuro-kami wo
+Karei ni midashi
+Kurui zaku kono hanawa
+Hakanaku kieru
+
+(4x)
+Hedobang Hedobang
+Hedobang Hedobang
+Hedobang Hedobang
+Pan pan pan pan
+
+Saa toki wa kita
+Mo o mayowa-nai
+Nigiri-shimeta no
+Juuhachi-kippu
+Higashi e nishi e
+Minami e kita e
+Kyoo mo do-sen ni totsugeki
+
+Kamite (Koi ya! )
+Shimote (Koi ya! )
+Chokuritsu-fudoo nokezori
+Gyaku-dai (Kara no! )
+Saku-dai (Kara no! )
+Koro-dai (Kara no! )
+Oritatami
+
+Ichigo no yoru o
+Wasure wa shi-nai
+Naki mushi na yasu wa
+Koko kara kie-usero
+
+Densetsu no kuro-kami wo
+Karei ni midashi
+Kurui zaku kono hanawa
+Hakanaku kieru
+
+Moo nidoto modore-nai
+Wazukana toki wo
+Kono mune ni kizamunda
+Ichigo no yoru o
+
+Hirari chuu ni mau
+
+Hedobangyaaa! 
+
+Hedobang Hedobang... 
+
+Ichigo no yoru o
+Wasure wa shi-nai
+Naki mushi na yasu wa
+Koko kara ki-e-ro
+
+Ichigo no yoru o
+Wasure wa shi-nai
+Jama o suru yatsu wa
+Sokuzani kie-usero
+
+Densetsu no kuro-kami wo
+Karei ni midashi
+Kurui zaku kono hanawa
+Hakanaku kieru
+
+Moo nidoto modore-nai
+Wazukana toki wo
+Kono mune ni kizamunda
+Ichigo no yoru o
+
+Densetsu no kuro-kami wo
+Karei ni midashi
+Kurui zaku kono hanawa
+Hakanaku kieru
+
+Moo nidoto modore-nai
+Wazukana toki wo
+Kono mune ni kizamunda
+Ichigo no yoru o
+
+Hirari chuu ni mau
+
+(2x)
+Hedobang Hedobang
+Hedobang Hedobang
+Hedobang Hedobang
+Pan pan pan pan
+
+Hedobangyaaa! 
+
+Hedobang Hedobang...

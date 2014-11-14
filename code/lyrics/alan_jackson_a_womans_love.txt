@@ -1,0 +1,57 @@
+Artist: alan_jackson
+Title: a_womans_love
+Genre: Country
+Subgenres: [u'Contemporary Country', u'Neo-Traditionalist Country', u'New Traditionalist']
+
+Song:
+
+I have known it
+And I have felt it
+I have known a woman's love
+And I have tasted
+And I have wasted
+A woman's love
+
+And I know
+I know I'll never understand it
+All the little things that make it grand and
+A woman's love
+And I know
+I know I'll never come face to face
+With anything that takes the place
+Of a woman's love
+
+Well I have kissed it
+Tried to resist it
+I have missed a woman's love
+And I have hated
+Taken for granted
+A woman's love
+
+And I know
+I know I'll never understand it
+All the little things that make it grand and
+A woman's love
+And I know
+I know I'll never come face to face
+With anything that takes the place
+Of a woman's love
+
+Well I have needed
+And I have pleaded
+And I have lost a woman's love
+And I have worshipped
+And I have cursed it
+A woman's love
+
+And I know
+I know I'll never understand it
+All the little things that make it grand
+A woman's love
+And I know
+I know I'll never come to face to face
+With anything that takes the place
+Of a woman's love
+
+And I know
+I know I'll never come face to face...

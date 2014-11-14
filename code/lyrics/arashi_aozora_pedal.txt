@@ -1,0 +1,40 @@
+Artist: arashi
+Title: aozora_pedal
+Genre: Pop/Rock
+Subgenres: [u'J-Pop', u'Pop Idol', u'Teen Pop', u'Japanese Traditions']
+
+Song:
+
+Omoikiri fun zuketa pedaru wa marude
+Sora wo tobe sou nakurai ikioi wo tsukete mawatta
+Ushiro ni noseta kimi no mawashita udega
+Boku no koto itsumo yori tsuyoku dakishimeta kigashita
+
+Ano hino kaze no iro wa omoidaseru keredo
+Ano toki no yume to hibi wa zutto kusunda mama
+
+Asu wo mabushii kurai ni umaku egakou toshite
+Bokura wa kirei na iro wo nuri sugi tamitai...
+Chotto kakko warui kotomo kowareta yume no iro mo
+Paretto ni hiroge mou ichido asu wo egakou
+
+Kawazoi zutto kudatte tachiirikinshi no
+Saku wo koe kasenjiki no saki made pedaru wo koida
+Jitensha wo nagesutete miageta sora
+Azayaka na sono iro wa kokorokara kienai no ni
+
+Ano toki no kimi no egao omoi dasou toshitemo
+Nanka umakui kanakute itsumo togirete shimau
+
+Kanashii paaji nante nakatta koto ni shiyou toshite
+Bokura wa ikutsumo iro wo kasanete shimatta...
+Kitto nuri sugita irotte shiro ni modorenai kedo
+Sore de ii atarashii iro de asu wo egakou
+
+Asu wo maboroshii kurai ni umaku egakou toshite
+Bokura wa kirei na iro wo nuri sugitamitai...
+Chotto kakko warui kotomo kowareta yume no iro mo
+Paretto ni hiroge mou ichido asu wo egakou
+
+Kitto nuri sugita irotte shiro ni modorenai kedo
+Sore de ii atarashi iro de asu wo egakou

@@ -1,0 +1,32 @@
+Artist: bessie_smith
+Title: aggravatin_papa
+Genre: Blues
+Subgenres: [u'Classic Female Blues', u'Early Jazz', u'Vaudeville Blues']
+
+Song:
+
+I know a drivin' man,
+They call him Driver Sam,
+He lives in Birmingham,
+Way down in Alabam.
+Now, the other night
+He had a fight with a gal named Mandy Brown,
+She kept on saying he was aggravatin',
+And she shouted out to him:
+Aggravatin' Papa, don't you try to two-time me!
+I said, don't two-time me!
+Aggravatin' Papa, treat me kind or let me be,
+I mean, just let me be!
+It's been awhile, I'll get you told,
+Stop messin' round, sweet jellyroll.
+If you stay out with a high-brown baby,
+I'll smack you down, and I don't mean maybe!
+Aggravatin' Papa, I'll do anything you say,
+Anything you say,
+But when you go struttin', do your strut around my way!
+So, papa, just treat me pretty, be nice and kind!
+The way you treated me will make me lose my mind!
+Aggravatin' Papa, don't you try to two-time me!
+Just treat me pretty, be nice and sweet!
+I got a darn forty-four that don't repeat,
+Aggravatin' Papa, don't you try to two-time me!

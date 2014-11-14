@@ -1,0 +1,16 @@
+Artist: bobby_darin
+Title: a_taste_of_honey
+Genre: Pop/Rock
+Subgenres: [u'Brill Building Pop', u'Early Pop/Rock', u'Traditional Pop', u'AM Pop', u'Folk-Rock']
+
+Song:
+
+Cold winds may blow o'er the icy sea But I'll take with 
+Me the warmth of thee A taste of honey A taste much 
+Sweeter than wine
+He will return He will return He'll come back For the 
+Honey and me 
+I'll leave behind my heart to wear And may it e'er remind 
+You of A taste of honey A taste much sweeter than wine
+He will return He will return He'll come back For the 
+Honey and me

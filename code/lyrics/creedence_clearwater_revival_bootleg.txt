@@ -1,0 +1,33 @@
+Artist: creedence_clearwater_revival
+Title: bootleg
+Genre: Pop/Rock
+Subgenres: [u'Rock & Roll', u'Contemporary Pop/Rock', u'AM Pop']
+
+Song:
+
+Chorus:
+Bootleg, bootleg;
+Bootleg, howl.
+Bootleg, bootleg;
+Bootleg, howl.
+
+Take you a glass of water
+Make it against the law.
+See how good the water tastes
+When you can't have any at all.
+
+Chorus
+
+Findin' a natural woman,
+Like honey to a bee.
+But you don't buzz the flower.
+When you know the honey's free.
+
+Chorus
+
+Suzy maybe give you some cherry pie,
+But lord, that ain't no fun.
+Better you grab it when she ain't lookin'
+'cause you know you'd rather have it on the run.
+
+Chorus

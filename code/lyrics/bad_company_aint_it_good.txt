@@ -1,0 +1,29 @@
+Artist: bad_company
+Title: aint_it_good
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Arena Rock', u'Blues-Rock', u'Hard Rock', u'Rock & Roll']
+
+Song:
+
+Ain't it funny, time goes by, you forget about your pain,
+Find yourself, with someone else, fall in love again.
+
+Ain't it good, so good, you and me, against the world
+Ain't it good, so good, it's plain to see, it's you and me baby.
+
+Spend your life, wasting time, always chasing something.
+I found out what it's all about, I got my love for certain.
+
+Ain't it good, so good, you and me, against the world
+Ain't it good, so good, it's plain to see, it's you and me baby.
+
+I used to be so lonely, I used to be so blue,
+I had nothing, till I found you.
+
+Yeah, yeah, yeah.
+
+Ain't it good, so good, you and me against the world.
+Ain't it good, so good, it's plain to see, it's you and me baby.
+
+Ain't it good, so good, you and me against the world.
+Ain't it good, so good, it's plain to see, it's you and me baby

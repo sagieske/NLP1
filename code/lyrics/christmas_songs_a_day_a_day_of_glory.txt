@@ -1,0 +1,26 @@
+Artist: christmas_songs
+Title: a_day_a_day_of_glory
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Indie Rock', u'Alternative Singer/Songwriter', u'Lo-Fi']
+
+Song:
+
+A day, a day of glory!
+A day that ends our woe!
+A day that tells of triumph
+Against our vanquish'd foe!
+Yield, summer's brightest sunrise,
+To this December morn:
+Life up your gates, ye Princes
+And let the Child be born!
+
+With Gloria in excelsis
+Archangels tell their mirth:
+With Kyrie eleyson
+Men answer upon the earth:
+And angels swell the triumph,
+And mortals raise the horn,
+Life up you gates, ye Princes,
+And let the Child be born.
+
+He comes, His throne the manger

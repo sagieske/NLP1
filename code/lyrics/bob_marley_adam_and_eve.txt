@@ -1,0 +1,48 @@
+Artist: bob_marley
+Title: adam_and_eve
+Genre: Reggae
+Subgenres: [u'Roots Reggae']
+
+Song:
+
+The lord named Adam and Eve,
+To live a happy life.
+In the garden of Eden,
+But they disobeyed.
+
+I wanna know,
+Why they sin,
+In the garden of Eden.
+
+It's a devilman's affair,
+In the shake of a surfband.
+
+And they broke the fruit of life
+And everyone of us is living in sin.
+
+Any anywhere you go,
+Woman is the root of all evil.
+
+He was the first one to break a fruit
+And everyone of us is living in sin.
+
+The lord named Adam and Eve,
+To live a happy life.
+In the garden of Eden,
+But they disobeyed.
+
+I wanna know,
+Why they sin,
+In the garden of Eden.
+
+It's a devilman's affair,
+In the shake of a surfband.
+
+And they broke the fruit of life
+And everyone of us is living in sin.
+
+Any anywhere you go,
+Woman is the root of all evil.
+
+He was the first one to break a fruit
+And everyone of us is living in sin.

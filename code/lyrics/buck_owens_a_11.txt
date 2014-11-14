@@ -1,0 +1,30 @@
+Artist: buck_owens
+Title: a_11
+Genre: Country
+Subgenres: [u'Bakersfield Sound', u'Honky Tonk', u'Traditional Country']
+
+Song:
+
+I don't know you from Adam
+But if you're gonna play the jukebox
+Please don't play A - Eleven.
+
+I just came in here from force of habit
+I don't intend to spend too much time in here
+But I heard you *matchin' for the music
+And if you play A- Eleven - there'll be tears.
+
+I don't know you from Adam
+But if you're gonna play the jukebox
+Please don't play A - Eleven.
+
+--- Instrumental ---
+
+This used to be our favorite spot
+And when she was here it was heaven
+It was here she told me that she loved me
+And she always played A - Eleven.
+
+I don't know you from Adam
+But if you're gonna play the jukebox
+Please don't play A - Eleven...

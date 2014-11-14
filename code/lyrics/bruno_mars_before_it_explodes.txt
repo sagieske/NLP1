@@ -1,0 +1,57 @@
+Artist: bruno_mars
+Title: before_it_explodes
+Genre: Pop/Rock
+Subgenres: [u'Pop', u'Contemporary Pop/Rock', u'Pop-Rap', u'Contemporary R&B']
+
+Song:
+
+It's not a question of love,
+Cause our love has never changed.
+But all the little things keep piling up,
+And life keeps getting in the way.
+
+Don't make this harder than it is,
+We both knew it'd come to this.
+Better now than in a year,
+With lots of tears,
+And we both hate each other.
+The fuse has already left,
+So how about a final kiss?
+And just let it go.
+
+Stop the madness,
+Before it explodes!
+Before it's out of our control.
+Let's stop the madness,
+Before it explodes!
+We gotta let it go,
+Before it all explodes.
+
+Some things we won't understand,
+And we're both so tired of being misunderstood.
+So let's just turn and walk away,
+And hold on to what was good.
+
+Don't make this harder than it is,
+We both knew it'd come to this.
+Better now than in a year,
+With lots of tears,
+And we both hate eachother.
+The fuse has already left,
+So how about a final kiss?
+And just let it go.
+
+Stop the madness,
+Before it explodes!
+Before it's out of our control.
+Let's stop the madness,
+Before it explodes!
+We gotta let it go,
+Before it all explodes.
+
+Before it explodes!
+Before it's out of our control.
+Let's stop the madness,
+Before it explodes!
+We gotta let it go,
+Before it all explodes.

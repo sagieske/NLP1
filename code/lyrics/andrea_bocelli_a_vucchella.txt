@@ -1,0 +1,37 @@
+Artist: andrea_bocelli
+Title: a_vucchella
+Genre: Classical
+Subgenres: [u'Classical Crossover', u'Opera', u'Vocal Music']
+
+Song:
+
+Francesco Paolo Tosti / Gabriele D'Annunzio
+
+Sì, comm'a nu sciorillo
+Tu tiene na vucchella
+Nu poco pocorillo appassuliatella.
+Meh, dammillo, dammillo,
+- è comm'a na rusella -
+Dammillo nu vasillo,
+Dammillo, Cannetella!
+
+Dammillo e pigliatillo,
+Nu vaso piccerillo
+Comm'a chesta vucchella,
+Che pare na rusella
+Nu poco pocorillo appassuliatella.
+
+A Sweet Mouth
+
+Yes, like a little flower,
+You have got a sweet mouth
+A little bit withered.
+Please give it to me
+It's like a little rose
+Give me a little kiss,
+Give, Cannetella!
+
+Give one and take one,
+A kiss as little
+As your mouth
+Which looks like a little rose

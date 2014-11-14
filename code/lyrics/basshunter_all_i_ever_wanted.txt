@@ -1,3 +1,10 @@
+Artist: basshunter
+Title: all_i_ever_wanted
+Genre: Pop/Rock
+Subgenres: [u'Alternative Dance', u'Alternative/Indie Rock', u'Club/Dance', u'Euro-Dance']
+
+Song:
+
 All I ever wanted was to see you smilin
 I know that I love you o baby why don't you see
 

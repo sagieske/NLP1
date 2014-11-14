@@ -1,0 +1,23 @@
+Artist: barbie
+Title: believe
+Genre: Children's
+Subgenres: [u'Contemporary Pop/Rock', u'Dance-Pop', u'Sing-Alongs', u'Teen Pop', u'Urban']
+
+Song:
+
+[Verse:]
+Hidden beneath the ground
+Is the spring that's feed the creeks
+Invisible as the wind
+That you feels upon your cheeks
+
+And every breeze that whisper
+Remind us constantly
+Sometimes what's real
+Is something you can't see~
+
+[Chorus:]
+Believe in all that can be
+A miracle start whenever your dream
+Believe and sing from your heart, you'll see
+Your song will hold the key~

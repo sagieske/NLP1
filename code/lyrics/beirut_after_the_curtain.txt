@@ -1,0 +1,15 @@
+Artist: beirut
+Title: after_the_curtain
+Genre: Pop/Rock
+Subgenres: [u'Alternative Folk', u'Alternative/Indie Rock', u'Indie Rock']
+
+Song:
+
+What can you do
+When the curtain falls
+
+What will you do
+When the curtain falls
+You'll
+
+Left, right

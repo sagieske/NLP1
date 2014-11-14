@@ -1,0 +1,13 @@
+Artist: colbie_caillat
+Title: before_i_let_you_go
+Genre: Pop/Rock
+Subgenres: [u'Pop', u'Contemporary Pop/Rock', u'Contemporary Singer/Songwriter']
+
+Song:
+
+I see you looking over
+You keep on looking back n watching me
+The way you come closer
+Fits the one goes to you
+Because your still going back to that life
+And I refuse to stand on the side

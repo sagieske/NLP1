@@ -1,0 +1,29 @@
+Artist: burl_ives
+Title: by_the_light_of_the_silvery_moon
+Genre: Folk
+Subgenres: [u'Cast Recordings', u'Folk-Pop', u'Sea Shanties', u'Traditional Folk', u'Show/Musical']
+
+Song:
+
+16. By the light of the silvery moon
+
+By the light of the silvery moon,
+I want to spoon, to my honey I'll croon love's tune
+Honeymoon keep a-shining in June,
+Your silv'ry beams will bring love dreams
+We'll be cuddling soon,
+By the silvery moon
+
+By the light of the silvery moon,
+I want to spoon, to my honey I'll croon love's tune
+Honeymoon keep a-shining in June,
+Your silv'ry beams will bring love dreams
+We'll be cuddling soon,
+By the silvery moon
+
+By the light of the silvery moon,
+I want to spoon, to my honey I'll croon love's tune
+Honeymoon keep a-shining in June,
+Your silv'ry beams will bring love dreams
+We'll be cuddling soon,
+By the silvery moon

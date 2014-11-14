@@ -1,0 +1,28 @@
+Artist: bill_monroe
+Title: a_voice_from_on_high
+Genre: Country
+Subgenres: [u'Bluegrass', u'Bluegrass-Gospel', u'Gospel', u'Traditional Bluegrass', u'Close Harmony', u'Traditional Country', u'Old-Timey']
+
+Song:
+
+Chorus:
+I hear a voice callin'
+It must be our Lord (it must be our Lord)
+It's coming from heaven on high.
+I hear a voice callin'
+I've gained a reward (I've gained a reward)
+For the land where we never shall die.
+
+The saviour who died, on cruel calvary
+He she'd his life blood that the world might be free.
+So follow his footsteps, up the narrow way.
+And be ready to meet him when calls on that day.
+
+Repeat chorus:
+
+The saviour has paid a great price for me
+He gave his life on calvary.
+So follow his footsteps, up the narrow way.
+That'll pay my debt on the great judgement day.
+
+Repeat chorus

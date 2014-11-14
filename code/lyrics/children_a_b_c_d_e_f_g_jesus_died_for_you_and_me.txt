@@ -1,0 +1,22 @@
+Artist: children
+Title: a_b_c_d_e_f_g_jesus_died_for_you_and_me
+Genre: Pop/Rock
+Subgenres: [u'Heavy Metal', u'Scandinavian Metal', u'Death Metal', u'Power Metal', u'Speed/Thrash Metal']
+
+Song:
+
+A-B-C-D-E-F-G,
+Jesus died for you and me
+H-I-J-K-L-M-N,
+Jesus died for sinful men, amen!
+O-P-Q-are-S-T-you,
+I believe God's word is true,
+V-W,
+God has promised you
+X-Y-Z,
+A home eternally.
+
+(Uk version - to rhyme with zed!)
+
+.... X - Y - Z
+New life instead

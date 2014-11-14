@@ -1,0 +1,20 @@
+Artist: burl_ives
+Title: aunt_rhody
+Genre: Folk
+Subgenres: [u'Cast Recordings', u'Folk-Pop', u'Sea Shanties', u'Traditional Folk', u'Show/Musical']
+
+Song:
+
+Aunt rhody
+Go tell Aunt Rhody, go tell Aunt Rhody,
+Go tell Aunt Rhody that the old gray goose is dead.
+The one she's been saving to make a feather bed.
+The old gander's weeping, because his wife is dead.
+The goslings are mourning, because their mother's dead.
+She died in the mill pond from standing on her head.
+Go tell Aunt Rhody that the old gray goose is dead.
+-----------------------------------------------------------------
+Traditional, from old France. Some say the philosopher Rousseau
+Had a hand in it's making.
+Filename[ auntrody
+===Document boundary===

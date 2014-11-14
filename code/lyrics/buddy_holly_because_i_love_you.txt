@@ -1,0 +1,17 @@
+Artist: buddy_holly
+Title: because_i_love_you
+Genre: Pop/Rock
+Subgenres: [u'Early Pop/Rock', u'Rock & Roll', u'Rockabilly']
+
+Song:
+
+Well they say what you don't know won't hurt youand I believe that it's soso don't tell me that you found someone new to go through life with you
+Because I love youmy darling, my dearest I love you
+You're the one I want nearest may I love youand I hope that you love me too
+I'd rather die thinking you love methan to go on through life without you
+And you, with someone new, to go through life with you
+Well, because I love you, I love you
+My darling, my dearest I love you, I love you
+You're the one I want nearest may I love you, I love you
+And I hope that you love me tooi'd rather die thinking you love me
+Than to go on through life without youand you, with someone new, to go through life with you

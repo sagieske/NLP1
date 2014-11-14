@@ -1,0 +1,12 @@
+Artist: ashanti
+Title: black_child
+Genre: R&B
+Subgenres: [u'Contemporary R&B', u'Pop']
+
+Song:
+
+We Interupt This Program Of the Beautiful World Of Ashanti
+Chapter 2
+To Bring You To The Streets
+Acordding To Black Child
+[Black Child Rapping To The End...]

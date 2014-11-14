@@ -1,0 +1,38 @@
+Artist: aegis_band
+Title: halik
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Blues-Rock', u'Slide Guitar Blues', u'Southern Rock', u'Boogie Rock', u'Hard Rock']
+
+Song:
+
+Ayoko sana na ikaw ay mawawala
+Mawawasak lamang ang aking mundo
+Ngunit ano'ng magagawa,
+Kung talagang ayaw mo na
+Sino ba naman ako para pigilin ka?
+
+Lumayo ka man ay maiiwan
+Ang bakas ng ating pagmamahalan
+Ang awiting ito ay alaala
+Na hindi kita malilimutan
+
+[Refrain]
+Pagka't ikaw
+Ang tanging laman
+Ng aking mundo,
+Ng aking puso,
+Ng aking buhay...
+
+[Chorus:]
+Ang halik mo,
+Na-mi-miss ko
+Ang halik mo,
+Na-mi-miss ko
+Bakit iniwan mo ako?
+
+Nasasaktan ako oh, baby
+Sa tuwing nakikita ka
+Naninibugho ako oh, baby
+Pag may kasama kang iba
+
+(Repeat refrain & chorus)

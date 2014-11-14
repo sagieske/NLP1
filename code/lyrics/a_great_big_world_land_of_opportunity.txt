@@ -1,0 +1,56 @@
+Artist: a_great_big_world
+Title: land_of_opportunity
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Singer/Songwriter', u'Adult Alternative Pop/Rock']
+
+Song:
+
+I'm sailing away
+To a land of opportunity.
+The sun will shine
+And birds will sing every day.
+I'm sailing away
+And I hope that you remember me.
+It was fun, we had our run, hip hooray!
+
+You said hello.
+I loved you so
+Just like a movie scene.
+I want you to know
+I had to let go
+I've fallen in love again.
+
+I'm running away
+To a place where you won't bother me.
+We won't talk for a while.
+We'll be okay.
+And I'm changing my name
+To a word that's really hard to say.
+It's no one's fault
+I'm just too young
+And you're insane.
+
+I wasted my time.
+I missed all the signs,
+And it ruined my holiday.
+I want you to know
+I had to let go.
+I'm falling in love again.
+
+I just gotta believe there's something better.
+I just gotta believe there's something more than you and me.
+I just gotta believe, I just gotta believe!
+
+You said hello
+I loved you so
+I felt like a kid again.
+I want you to know
+I had to let go
+I'm falling in love again.
+
+I just gotta believe there's something better.
+I just gotta believe there's something more than you and me.
+I just gotta believe, I just gotta believe!
+
+I'm sailing away
+To a land of opportunity.

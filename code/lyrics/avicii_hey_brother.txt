@@ -1,0 +1,36 @@
+Artist: avicii
+Title: hey_brother
+Genre: Electronic
+Subgenres: [u'Club/Dance', u'Progressive House', u'EDM', u'House']
+
+Song:
+
+[Verse:]
+Hey Brother! There's an endless road to rediscover
+Hey Sister! Know the water's sweet but blood is thicker
+Oh! If the sky comes falling down! For you
+There's nothing in this world I wouldn't do
+
+[Verse 2:]
+Hey Brother! Do you still believe in one another?
+Hey Sister! Do you still believe in love? I wonder
+Oh! If the sky comes falling down! For you
+There's nothing in this world I wouldn't do
+
+[Chorus:]
+What if I'm far from home? Oh Brother, I will hear you call!
+What if I lose it all? Oh Sister, I will help you out!
+Oh! If the sky comes falling down! For you
+There's nothing in this world I wouldn't do
+
+[Verse 3:]
+Hey Brother! There's an endless road to rediscover
+Hey Sister! Do you still believe in love? I wonder
+Oh! If the sky comes falling down! For you
+There's nothing in this world I wouldn't do
+
+[Chorus:]
+What if I'm far from home? Oh Brother, I will hear you call!
+What if I lose it all? Oh Sister, I will help you out!
+Oh! If the sky comes falling down! For you
+There's nothing in this world I wouldn't do

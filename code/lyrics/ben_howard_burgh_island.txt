@@ -1,0 +1,30 @@
+Artist: ben_howard
+Title: burgh_island
+Genre: Pop/Rock
+Subgenres: [u'Alternative Singer/Songwriter', u'Alternative/Indie Rock', u'Indie Folk']
+
+Song:
+
+With brown eyes shining, short lane on a way to go,
+And the sun tries you're feeling home, I guess you're broke
+And we lost sight of it, and breath tide up in someone's hold,
+And your eyes screamed it, Burgh Island, in sepia tones.
+
+And if ever to leave, I'll say before I go
+That you're the best moment I have ever known.
+
+With brown eyes shining, short light on a way to go,
+And the sun tries you so long,
+And we lost sight of it and breath tide up in someone's hold,
+And we'll break for it, in Burgh Island in sepia tones.
+
+And if ever to leave, I'll say before I go
+That you're the best moment I have ever known.
+
+Oh, I bite my tongue that you leave it the first to the wind
+'Cause I heard the song by my means of fickled child,
+The one blowning.
+
+Oh, I bite my tongue, brought you many the first to run.
+'Cause I heard each song by means of fickled child,
+The one blowing.

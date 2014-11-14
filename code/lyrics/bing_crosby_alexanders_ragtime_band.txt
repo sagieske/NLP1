@@ -1,0 +1,36 @@
+Artist: bing_crosby
+Title: alexanders_ragtime_band
+Genre: Vocal
+Subgenres: [u'Tin Pan Alley Pop', u'Traditional Pop', u'Vocal Pop', u'American Popular Song', u'Vocal Jazz', u'Standards', u'Swing', u'Vocal Music']
+
+Song:
+
+Come on and hear, come on and hear Alexander's Ragtime Band
+Come on and hear, come on and hear 'bout the best band in the land
+They can play a bugle call like you never heared before
+So natural that you wanna go to war
+That's just the bestest band what am, oh Honey Lamb
+
+Come on along, come on along, let me take you by the hand
+Up to the man, up to the man who's the leader of the band
+And if you care to hear the Swanee River played in ragtime
+Come on and hear (come on and hear), come on and hear (come on and hear)
+Alexander's Ragtime Band!
+
+Come on and hear (come on and hear), come on and hear (come on and hear)
+Alexander's Ragtime Band
+Come on and hear (well here I come), come on and hear (I'm standin' right here)
+It's the best band in the land
+They can play a bugle call like you never heared before
+(whistle)
+That's just the bestest band what am, oh Honey Lamb
+
+Come on along (come on along), come on along (come on along)
+Let me take you by the hand (here's my lilywhites)
+Up to the man (the mighty man), I'm talkin' 'bout the man
+Mmm, the leader of the band
+And if you care to hear that Swanee River played in ragtime
+Come on and hear (come on and hear), come on and hear (come on and hear)
+Alexander's Ragtime Band
+
+Alexander's Ragtime Band!

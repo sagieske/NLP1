@@ -1,0 +1,29 @@
+Artist: bobby_vinton
+Title: blue_velvet
+Genre: Vocal
+Subgenres: [u'Early Pop/Rock', u'Traditional Pop', u'Vocal Pop', u'AM Pop']
+
+Song:
+
+Blue velvet wowwow
+She wore blue velvet
+Bluer than velvet was the night
+Softer than satin was the light from the stars
+
+She wore blue velvet
+Bluer than velvet were her eyes
+Warmer than May her tender size
+Love was ours
+
+Eyes love I held tightly
+Feelin' the rapture grow
+Like a flame burning brightly
+But when she left gone was the glow of
+
+Blue velvet
+But in my heart there'll always be
+Precious and warm a memory through the years
+And I still can see blue velvet through my tears
+
+She wore blue velvet
+But in my heart there'll always be...

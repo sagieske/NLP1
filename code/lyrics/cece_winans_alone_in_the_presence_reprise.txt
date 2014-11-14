@@ -1,0 +1,14 @@
+Artist: cece_winans
+Title: alone_in_the_presence_reprise
+Genre: Religious
+Subgenres: [u'Adult Contemporary R&B', u'Contemporary Gospel', u'Urban', u'Contemporary R&B', u'Gospel']
+
+Song:
+
+Alone in the presence of you
+Love overflow
+and with you feelings show
+
+Alone in the presence of you
+Alone in the presence of you
+Alone in the presence of you

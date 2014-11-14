@@ -1,0 +1,37 @@
+Artist: buck_owens
+Title: above_and_beyond
+Genre: Country
+Subgenres: [u'Bakersfield Sound', u'Honky Tonk', u'Traditional Country']
+
+Song:
+
+A well I'll give you love
+That's above and beyond the call of love
+And I'll never ever make you cry
+A yes I'll give you love
+That's above and beyond the call of love
+And love's something that money can't buy
+
+Well a poor boy's chances for a pretty girl's glances
+Are sometimes very few
+Though I've got no money, if you'll be my honey
+Here's what I'll offer you
+
+A well I'll give you love
+That's above and beyond the call of love
+And I'll never ever make you cry
+A yes I'll give you love
+That's above and beyond the call of love
+And love's something that money can't buy
+
+We met by chance and I knew at a glance
+That I'd found my destiny
+Now I want to carry you off and marry you
+If you will agree
+
+And I'll give you love
+That's above and beyond the call of love
+And I'll never ever make you cry
+Yes I'll give you love
+That's above and beyond the call of love
+And love's something that money can't buy

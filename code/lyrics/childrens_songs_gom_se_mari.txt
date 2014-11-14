@@ -1,0 +1,16 @@
+Artist: childrens_songs
+Title: gom_se_mari
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Indie Rock', u'Alternative Singer/Songwriter', u'Lo-Fi']
+
+Song:
+
+Kom sema-ri-ga
+Han chi-be-yi-so
+Appa gom
+Omma gom
+Ae-gi gom
+Appa gommun tung-tung-hae
+Omma gommun nal-shin-hae
+Ae-gi gommun na bul-gwi-yo-wo
+Hishuk hishuk cha-rhan-da

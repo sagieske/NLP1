@@ -1,0 +1,39 @@
+Artist: baz_luhrmann
+Title: im_losing_you
+Genre: Pop/Rock
+Subgenres: [u'Club/Dance', u'Opera']
+
+Song:
+
+I've got the feeling
+There's no concealing
+Just what it is that's on my mind
+I know that I'm losing you
+There's no pretending there's a happy ending
+This stories closing and there's nothing more
+Can it be that I've lost you?
+I've seen it happen
+I know the pattern
+The way true love disappears
+Just when now more than ever
+I need you
+I need your love
+I'm losing the love that I knew
+Losing the love that I knew
+I'm losing you
+No use in staying
+No use in saying
+Or begging you to change
+I know that I've lost you
+My heart it's breaking
+The time it's taking
+Our love away I see it fade
+And with it my happiness
+I can't believe
+I won't believe it
+I won't accept your love is gone
+Just when now more than ever I need you
+I need your love
+I'm losing the love that I knew
+Losing the love that I knew
+I'm losing you

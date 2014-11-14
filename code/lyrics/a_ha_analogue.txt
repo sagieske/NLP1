@@ -1,0 +1,52 @@
+Artist: a_ha
+Title: analogue
+Genre: Pop/Rock
+Subgenres: [u'Film Score', u'Punk/New Wave', u'Synth Pop', u'Contemporary Pop/Rock', u'New Wave', u'Euro-Pop', u'Adult Alternative Pop/Rock', u'Alternative/Indie Rock', u'Dance-Rock', u'Euro-Rock', u'Club/Dance', u'Euro-Dance']
+
+Song:
+
+Come back, my darling one
+I'm calling on you
+The road ahead is long
+And I must warn you
+
+I wonder
+Where did she go?
+If I failed you
+I tell you right now
+
+All I want you to know; I love you
+All I need is the time to show you
+
+Come back, my fallen son
+Don't let them fool you
+Cos when the day is done
+They'll never move you
+
+Lay down your senseless pride
+(Got more than you)
+Put out your mournful tones
+I tell you right now
+
+All I want you to know; I love you
+All I need is the time to show you how I feel
+Feel
+
+(Lay down your senseless pride
+You travelled once too often, yeah)
+
+I tell you right now
+All I want you to know; I love you
+All I need is the time to show you how I feel
+
+All I want you to know I love you
+All I need is the time to show you how I feel
+
+(Come back, my analogue
+I hardly knew ya
+The high end sloping off
+A thing of beauty
+Take hold, my little ones
+My minor key sonatas
+Show forth your looping grace
+No one here can take your place)

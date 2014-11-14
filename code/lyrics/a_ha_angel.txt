@@ -1,0 +1,23 @@
+Artist: a_ha
+Title: angel
+Genre: Pop/Rock
+Subgenres: [u'Film Score', u'Punk/New Wave', u'Synth Pop', u'Contemporary Pop/Rock', u'New Wave', u'Euro-Pop', u'Adult Alternative Pop/Rock', u'Alternative/Indie Rock', u'Dance-Rock', u'Euro-Rock', u'Club/Dance', u'Euro-Dance']
+
+Song:
+
+Esengo, esengo, esengo meine (repeat)
+Esengo, esengo, esengo meine (repeat)
+Ezali na ba oyo ba ndimi Yesu
+Ezali na ba oyo ba ndimi Yesu
+Mawa, mawa, mawa meine
+Mawa, mawa, mawa meine
+Ezali na ba oyo ba mboyi Yesu
+Ezali na ba oyo ba mboyi Yesu
+Longwa, longwa, longwa Santana
+Longwa, longwa, longwa Santana
+Na lingi ko salela Yo, Yesu Masistaia
+Na lingi ko salela Yo, Yesu Masistaia
+Mbalembe, mbalembe, tu kweda na
+Mbalembe, mbalembe, tu kweda na
+Mbalembe, mbalembe tu kwenda na nzila zulu
+Tu kwenda na

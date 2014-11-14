@@ -1,0 +1,26 @@
+Artist: clean_bandit
+Title: birch
+Genre: Electronic
+Subgenres: [u'House', u'Classical Crossover', u'Left-Field House', u'Pop']
+
+Song:
+
+I was a fool for you and
+I went all round town
+When I finally saw you
+Now I'm speaking to make this something
+Cold [x7]
+
+It's not enough to hear you
+Your voice will never be
+I find I hate to be near you
+I, I long to see this evening through
+Cold [x6]
+
+I call home
+Call home
+Call home
+Call home
+
+Call home
+Call home

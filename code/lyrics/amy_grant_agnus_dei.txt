@@ -1,0 +1,23 @@
+Artist: amy_grant
+Title: agnus_dei
+Genre: Religious
+Subgenres: [u'Adult Contemporary', u'CCM', u'Contemporary Christian', u'Contemporary Pop/Rock', u'Gospel']
+
+Song:
+
+Alleluia Alleluia
+For our Lord God Almighty reigns
+Alleluia Alleluia
+For our Lord God Almighty reigns
+Alleluia
+
+Holy Holy
+Are You Lord God Almighty
+Worthy is the Lamb
+Worthy is the Lamb
+You are Holy
+Holy
+Are You Lord God Almighty
+Worthy is the Lamb
+Worthy is the Lamb
+Amen

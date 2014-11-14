@@ -1,0 +1,19 @@
+Artist: bruce_cockburn
+Title: a_montreal_song
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Folk', u'Singer/Songwriter', u'Adult Alternative Pop/Rock', u'Alternative/Indie Rock', u'Contemporary Singer/Songwriter', u'Protest Songs', u'Urban Folk', u'Progressive Folk']
+
+Song:
+
+I turned on the tv war news
+Just to look and wonder why
+Thunder crashed and red flash-flowers
+Bloomed a nightmare in the sky
+So I went down to the cafe
+Just to string myself along
+On the way I found some riches --
+Played the jukebox, got this song
+While I sat there a ragged man came --
+Bummed a coffee, talked awhile
+Told me stories full of wonder --
+Left me laughing like a well-loved child

@@ -1,0 +1,33 @@
+Artist: boys_over_flowers
+Title: a_thing_called_happiness
+Genre: Pop/Rock
+Subgenres: []
+
+Song:
+
+Haeng-bo-gi mu-eoshinji
+Al suneun optja-nhayo
+Tashin omneun haengbogiran
+Isseul su optja-nhayo
+I saeng-myeong ta ba-chyeo-seo
+Tangshi-neul sarang hari
+I mogsum ta ba-chyeo-seo
+Yongwo-nhi sarang hari
+Ibyeolma-neun marajweoyo
+Nae gyote isseo-jweo-yo
+Tangshin om-neun haeng-bogiran
+Is-seul su opt-ja-nhayo
+
+Sarangi chung-han gotdo
+Ije-neun ara-sseo-yo
+Tangshin omneun sarangiran
+Isseul su optja-nhayo
+I saeng-myeong tab a-chyeo-seo
+Tangshi-neul sarang hari
+I mogsum ta ba-chyeo-seo
+Yongwo-nhi sarang hari
+Ibyeol-ma-neun mara-jweo-yo
+Nae gyote isseo-jweo-yo
+Tangshin om-neun sarangiran
+Is-seul su opt-ja-nhayo
+Nae gyote isseo-jweo-yeo

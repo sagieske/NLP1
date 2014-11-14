@@ -1,0 +1,42 @@
+Artist: baz_luhrmann
+Title: perhaps_perhaps_perhaps
+Genre: Pop/Rock
+Subgenres: [u'Club/Dance', u'Opera']
+
+Song:
+
+You won't admit you love me, and so,
+How am I ever, to know,
+You always tell me. Perhaps. Perhaps. Perhaps.
+
+A million times I've asked you, and then,
+I ask you over, again,
+You only answer. Perhaps. Perhaps. Perhaps.
+
+Chorus :
+
+If you can't make your mind up,
+We'll never, get started.
+And I don't wanna wind up,
+Being parted, broken hearted.
+
+So if you really love me, say yes,
+But if you don't dear, confess,
+And please don't tell me. Perhaps. Perhaps. Perhaps.
+
+(musical interlude)
+
+Perhaps. Perhaps. Perhaps.
+
+Chorus :
+
+If you can't make your mind up,
+We'll never, get started.
+And I don't wanna wind up,
+Being parted, broken hearted.
+
+So if you really love me, say yes,
+But if you don't dear, confess,
+And please don't tell me. Perhaps. Perhaps. Perhaps.
+Perhaps. Perhaps. Perhaps.
+Perhaps... Perhaps... Perhaps.

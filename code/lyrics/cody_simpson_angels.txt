@@ -1,0 +1,18 @@
+Artist: cody_simpson
+Title: angels
+Genre: Pop/Rock
+Subgenres: [u'Pop', u'Dance-Pop', u'Teen Pop']
+
+Song:
+
+A A A Angels And Gentlemen
+
+Angels And Gentlemen
+
+I Wanna Thank You All For Joining Me And Taking The Time To Listen
+I Been In The Studio Working Like Crazy On My New Album
+And I I Apologize For The Wait
+But In The Meantime I Wanna Share With You A Little Something
+For Being Sos Patient
+Yeah... 
+I Like This Rightt Heree Yeahhh...

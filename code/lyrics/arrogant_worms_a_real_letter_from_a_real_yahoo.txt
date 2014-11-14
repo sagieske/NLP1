@@ -1,0 +1,23 @@
+Artist: arrogant_worms
+Title: a_real_letter_from_a_real_yahoo
+Genre: Folk
+Subgenres: [u'Comedy', u'Satire', u'Music Comedy']
+
+Song:
+
+And here's a letter from Bill Macy of Gainesville, Florida
+It appears to me that Gainsville Sun is withholding information from the public.
+Recently, there was a four-column spread about a probable murder from a gun.
+Another item tells of a shooting death in Key Biscaine
+A third item tells us of a soldier shooting his wife and children.
+I can count on such reports in about every issue of the Sun.
+We can be sure of many more incidents have occured of people being protected from injury or death, because they had a gun.
+These reports can be easily obtained from the National Rifle Association.
+I am sure they keep accurate records of such protection.
+The failure to report these cases of protection is not fair.
+I urge you to correct this.
+I suggest a small box in every paper called "Protected By Guns."
+Simply insert the number of such protections.
+On those rare days when none are noted, simply put a zero in the box.
+
+Thanks, Bill.

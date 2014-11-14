@@ -1,0 +1,32 @@
+Artist: city_and_colour
+Title: against_the_grain
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Indie Rock', u'Alternative Singer/Songwriter', u'Singer/Songwriter', u'Indie Pop']
+
+Song:
+
+You need not to climb mountaintops,
+You need not to cross the sea,
+You need not to find a cure for everything that makes you weak.
+You need not to reach for the stars when life becomes so dark,
+And when the wind does blow against the grain,
+You must follow your heart,
+You must follow your heart.
+
+When all your friends have come and gone,
+And the sun no longer shines,
+And the happiness for which you long is washed away like an ocean's tide,
+When all the hard times outweigh the good,
+And all your words are misunderstood,
+When the day seems lost from the stars
+You must follow your heart,
+You must follow your heart.
+
+If you feel you've paid the price,
+And your wounds should cease to heal
+And everything you love in life spins like a winding wheel.
+If you should wake to find you're abandoned,
+And the road you've traveled leads to a dead-end
+When death creeps in to play it's part,
+You must follow your heart,
+You must follow your heart.

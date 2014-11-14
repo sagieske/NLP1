@@ -1,0 +1,25 @@
+Artist: big_time_rush
+Title: anything_goes
+Genre: Pop/Rock
+Subgenres: [u'Teen Pop', u'Contemporary R&B', u'Dance-Pop', u'Pop']
+
+Song:
+
+Anything goes
+When everything's gone, anything goes [x3]
+Theories without real foundation
+Blindfolds entire nations
+Idols as big as your bank account is no compromise
+Your gods resemble humanity
+The irony is they are inferior and nonfunctional in their making
+Are we here by chance
+That would make our circumstance
+Absolutely worthless
+Flesh and blood without purpose
+Are you part of no bigger scheme
+Don't bother with self esteem
+Are we all but fading dreams
+The vastness of space, the beauty of your face
+The artistry of nature, all without a painter
+From sunrise to sunset, are we part of this big accident?[x2]
+When everything's gone, anything goes [x4]

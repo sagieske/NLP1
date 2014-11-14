@@ -1,0 +1,27 @@
+Artist: andrae_crouch
+Title: my_tribute
+Genre: Religious
+Subgenres: [u'Contemporary Gospel', u'Gospel']
+
+Song:
+
+How can I say thanks for the things
+You have done for me?
+Things so undeserved yet you gave
+To prove your love for me
+The voices of a million angels
+Could not express my gratitude
+All that I am, and ever hope to be
+I owe it all to thee
+
+To god be the glory, to god be the glory
+To god be the glory for the things he has done
+With his blood he has saved me
+With his power he has raised me
+To god be the glory for the things he has done
+Just let me live my life and
+Let it be pleasing lord to thee
+And if I gain any praise, let it go to calvary
+With his blood he has saved me
+With his power he has rasied me
+To god be the glory for the things he has done

@@ -1,0 +1,33 @@
+Artist: aerosmith
+Title: all_your_love
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Hard Rock', u'Heavy Metal', u'Arena Rock', u'Contemporary Pop/Rock', u'Pop-Metal']
+
+Song:
+
+All your love I miss lovin'
+All your kiss I miss kissin'
+All your love I miss lovin'
+All your kiss I miss kissin'
+
+Ever since I left you baby, I never knew what I was missin'
+All your love I miss lovin'
+All your kiss I miss kissin'
+All your love I miss lovin'
+All your kiss I miss kissin'
+Ever since I left you baby, I never knew what I was missin'
+
+All your lovin pretty baby
+That I had in store for you
+All your lovin pretty baby
+That I had in store for you-
+What could a poor boy do?
+All your lovin pretty baby
+All your lovin pretty baby
+All your lovin (x's 7) pretty baby
+What could a poor boy do?
+All your lovin pretty babay
+All your kissin is kissin
+All the lovin you gave me pretty babay
+Ever since I left you baby,
+I n-n-never knew what I was missin' aaaah

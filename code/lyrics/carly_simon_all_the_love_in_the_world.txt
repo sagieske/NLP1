@@ -1,0 +1,41 @@
+Artist: carly_simon
+Title: all_the_love_in_the_world
+Genre: Pop/Rock
+Subgenres: [u'Adult Contemporary', u'Contemporary Pop/Rock', u'Film Score', u'Singer/Songwriter', u'Soft Rock', u'AM Pop']
+
+Song:
+
+Jake
+I know your face
+So well
+Close my eyes
+And see it still
+Though time can turn
+A heart to stone
+Your face will stay
+A face I've known
+
+Jake
+Some things
+Still hurt and how
+And God
+It's hard
+To see you now
+Because you
+My life a hell
+And Jake
+I know your face
+So well
+
+And it was always
+All right there
+Why didn't you know
+It was all right there
+Why couldn't I show you
+It was always there
+
+All the love
+In the world
+All the love
+All the love
+In the world

@@ -1,0 +1,32 @@
+Artist: coldplay
+Title: a_spell_a_rebel_yell
+Genre: Pop/Rock
+Subgenres: [u'Adult Alternative Pop/Rock', u'Alternative/Indie Rock', u'Alternative Pop/Rock', u'Britpop']
+
+Song:
+
+As far as I can see
+All time and circuitry
+Is wrong
+
+As far as poetry
+Sit down and sing to me
+A song
+
+It's/Cos' all
+I want in this world
+All I want in this world
+Is for you to come home
+
+A spell a rebel yell
+A spell
+
+Soldier come home to me
+You've been away from me
+So long
+
+All I want in this world
+All I want and deserve
+Is for you to come home
+
+A spell a rebel yell (8x)

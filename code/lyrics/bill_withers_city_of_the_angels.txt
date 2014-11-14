@@ -1,0 +1,39 @@
+Artist: bill_withers
+Title: city_of_the_angels
+Genre: R&B
+Subgenres: [u'Soul', u'Smooth Soul', u'Urban']
+
+Song:
+
+City of the angels spread your wings for me
+I've been other places lookin for my dream
+Eastern cities move to fast
+Southern ones to slow
+I can't go back to my past
+And I need someplace to grow
+
+City of the Angels
+Clear your cloudy skies for me
+I heard you got some places that I oughta see
+Heard you got a disneyland not too far away
+When it rains I understand the skies are clear all day
+
+La, la, find a place for me
+Gimme all your spaces please
+It's where I wanna be
+
+City of the Angels spread your wings for me
+I heard you got some places an old man like me should see
+Heard 'bout your disneyland not too far away from town
+When it rains I understand the skies are clear all day
+
+La, la, find a place for me
+Gimme all your spaces please
+It's where I wanna be
+
+I heard you got a disneyland not to far away
+And when it rains I understand the skies are clear all day
+
+La, la, find a place for me
+Gimme all your spaces please
+It's where I wanna be

@@ -1,0 +1,41 @@
+Artist: alabama
+Title: a_better_word_for_love
+Genre: Country
+Subgenres: [u'Contemporary Country', u'Urban Cowboy', u'Country-Pop', u'Country-Rock']
+
+Song:
+
+A Better Word For Love
+(Al Anderson / Gary Nicholson)
+
+Here's another morning
+Soon she'll be waking up
+I watched her and wonder
+If there's a better word for love
+
+So many times I've told her
+It never seems enough
+So I keep searching
+For a better word for love
+
+Moaning, stumbling, wondering
+When I find a way
+'Cos I know she knows
+There's nothing more to say
+
+Tonight when I'm out walking
+I'll asked the stars above
+If out there somewhere
+There's a better word for love
+
+Moaning, stumbling, wondering
+When I find a way
+'Cos I know she knows
+There's nothing more to say
+
+So here's another morning
+Soon she'll be waking up
+I guess I'll just hold her tight
+'Til there's a better word for love
+I guess I'll just hold her tight
+'Til there's a better word for love

@@ -1,0 +1,16 @@
+Artist: brooklyn_tabernacle_choir
+Title: im_amazed
+Genre: Religious
+Subgenres: [u'Black Gospel', u'Contemporary Gospel', u'Gospel Choir', u'Gospel', u'Choral']
+
+Song:
+
+(feat. Jason Crabb)
+
+I'm amazed that you love me
+I'm amazed how you care
+Through your precious blood
+I've found pardon
+And my sins are washed
+They're all washed away
+All my sins are washed away

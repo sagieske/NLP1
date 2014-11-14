@@ -1,0 +1,44 @@
+Artist: alice_cooper
+Title: a_runaway_train
+Genre: Pop/Rock
+Subgenres: [u'Hard Rock', u'Heavy Metal', u'Contemporary Pop/Rock']
+
+Song:
+
+All aboard. Watch your step, people. Last call for The Nightmaaare
+Express! 
+
+I found myself slippin' away
+Just this side of dead.
+I woke up in a boxcar, 
+I wasn't in my bed.
+
+I found my leg chained to a spike
+That ran down through the floor, 
+Attached to thirteen angry men, 
+All rotten to the core.
+
+"But I'm innocent," I cried right out, 
+"I'm in someone else's dream!"
+They looked around and laughed out loud, 
+Said, "Brother, so are we! 
+Yeah, brother, so are we!"
+
+"But I'm a big celebrity
+Known all 'round the land!"
+"Well buddy, you ain't no one here, 
+Man, you ain't in demand."
+
+Speedin' towards a flamin' wall
+Like a screamin' sonic boom.
+I really gotta wake up now
+Or I may meet my doom, oh Lord! 
+I may meet my doom! 
+
+So all that I remember
+Is how much my body hurt.
+Now I'm sleepin' in the graveyard
+On the wrong side of the dirt.
+Now, on the wrong side of the dirt.
+Wrong side of the dirt, don't you know, 
+I'm on the wrong side of the dirt!

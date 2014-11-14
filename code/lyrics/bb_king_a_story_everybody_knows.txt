@@ -1,0 +1,39 @@
+Artist: bb_king
+Title: a_story_everybody_knows
+Genre: Blues
+Subgenres: [u'Modern Electric Blues', u'Soul-Blues', u'Early R&B', u'Memphis Blues', u'Regional Blues']
+
+Song:
+
+Went to a party
+The New York style
+I met a lady
+Make a sane man wild
+She said the words only her lips could say
+She made me want to throw my life away
+But when I asked her
+She said "Maybe tomorrow, B.B."
+And that's a story everybody knows
+
+I took her flying
+Out across the sea
+I thought I had her
+I know that she had me
+And when we landed
+It was Paris, France
+Seemed like a nice place
+For some French romance
+But when I touched her
+She said "Maybe a little later, B.B."
+And that's the story everybody knows
+
+We went to Berlin
+And to Stockholm too
+And on the Moscow
+Then to the Peking Zoo
+As far as travel, she couldn't get too much
+Somewhere in Oakland
+She let me have just a little touch
+And then she said "I'm late for beauty appointment,
+I've got a headache, And I believe I'm coming down with the flu"
+And that's the story everybody knows

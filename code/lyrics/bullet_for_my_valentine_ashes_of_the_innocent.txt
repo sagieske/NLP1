@@ -1,0 +1,41 @@
+Artist: bullet_for_my_valentine
+Title: ashes_of_the_innocent
+Genre: Pop/Rock
+Subgenres: [u'Heavy Metal', u'Punk Metal', u'Alternative/Indie Rock', u'Screamo', u'Post-Hardcore']
+
+Song:
+
+[Verse:]
+Ashes of the innocent!, The end for you and me,
+Darkened screams of agony, Are begging set me free,
+Mourning all your loved ones, As their bodies turn to stone,
+Violence, Hate and Agony... Are what we've grown to know.
+
+[Chorus:]
+Hold me, Show me, Bring me to my knees,
+So as the fire burns and the tables turn,
+We'll never rest in peace...
+Rest in peace!
+
+[Verse 2:]
+Ashes of the innocent!, Remind me of the past,
+Taking scars of victory, The time has passed too fast,
+Singing broken melodies, Like shards of broken glass,
+Ripping through my reverie, These scars will never last.
+
+[Chorus:] [x2]
+Hold me, Show me, Bring me to my knees,
+So as the fire burns and the tables turn,
+We'll never rest in peace...
+Rest in peace!
+
+[Solo]
+
+Ashes of the innocent!, The end for you and me,
+Darkened screams of agony, Are begging set me free.
+
+[Chorus:] [x2]
+Hold me, Show me, Bring me to my knees,
+So as the fire burns and the tables turn,
+We'll never rest in peace...
+Rest in peace!

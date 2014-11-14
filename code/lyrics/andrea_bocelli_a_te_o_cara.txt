@@ -1,0 +1,16 @@
+Artist: andrea_bocelli
+Title: a_te_o_cara
+Genre: Classical
+Subgenres: [u'Classical Crossover', u'Opera', u'Vocal Music']
+
+Song:
+
+(Vincenzo Bellini - I puritani)
+
+A te, o cara, amore talora
+Mi guidò furtivo e in pianto;
+Or mi guida a te d'accanto
+Fra la gioia e l'esultar.
+Al brillar di sì bell'ora,
+Se rammento il mio tormento
+Si raddoppia il mio contento,

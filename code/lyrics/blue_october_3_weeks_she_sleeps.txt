@@ -1,0 +1,19 @@
+Artist: blue_october
+Title: 3_weeks_she_sleeps
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Post-Grunge', u'Adult Alternative Pop/Rock', u'Punk/New Wave', u'Synth Pop']
+
+Song:
+
+For 3 weeks, she sleeps
+Through the rain
+I've gotta try, to keep her dry
+Or I'm out of ways
+Self books, love crooks
+Steel her away
+I'ts who you know, and where ya go
+All in a day
+So, la-di-da la-di-da ah-haa
+Ohh-ohh-ohh-ohhhh
+La-di-da La-di-da ah-haa
+Ohh-ohh-ohh-ohh-ohhhh

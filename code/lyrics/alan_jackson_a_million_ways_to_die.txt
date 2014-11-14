@@ -1,0 +1,44 @@
+Artist: alan_jackson
+Title: a_million_ways_to_die
+Genre: Country
+Subgenres: [u'Contemporary Country', u'Neo-Traditionalist Country', u'New Traditionalist']
+
+Song:
+
+Cowboys and pioneers, come lend your eyes and ears.
+I've got the need to testify.
+Don't try to fill your nest out in the open west
+'Cause there's a million ways to die.
+
+Six bullets in the gut or just a paper cut
+... Too many ways to quantify.
+They'll cut your ankle off to cure a minor cough
+'Cause there's a million ways to die.
+[Chorus:]
+
+It's a hundred and one in the shade of the sun.
+If you fall asleep, you fry.
+[Chorus:]
+
+You can live like a saint but there just really ain't
+No avoiding a million ways to die.
+[Chorus:]
+
+Smallpox and bigger pox, and deadly tomahawks
+... Or God forbid you steal a pie.
+They'll blast you into shards for bein' good at cards.
+'Cause there's a million ways to die.
+
+Out on the desert plains it hardly ever rains
+And you can hear coyotes cry.
+They'll eat you up and then they'll crap you out again
+'Cause there's a million ways to die.
+[Chorus:]
+
+With a whoosh and a whack there's a knife in your back
+'Cause you got a fancy tie...
+[Chorus:]
+
+It's a kick in the pants but you don't have a chance
+Of escaping a million ways to die.
+[Chorus:]

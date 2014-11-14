@@ -1,0 +1,10 @@
+Artist: bruce_cockburn
+Title: actions_speak_louder
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Folk', u'Singer/Songwriter', u'Adult Alternative Pop/Rock', u'Alternative/Indie Rock', u'Contemporary Singer/Songwriter', u'Protest Songs', u'Urban Folk', u'Progressive Folk']
+
+Song:
+
+(Instrumental)
+
+("Actions Speak Louder" was composed as the theme for the documentary film "The Greenpeace Years.")

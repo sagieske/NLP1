@@ -1,0 +1,38 @@
+Artist: buena_vista_social_club
+Title: chan_chan
+Genre: Latin
+Subgenres: [u'Afro-Cuban Jazz', u'Cuban Jazz', u'Cuban Traditions', u'Latin Jazz', u'Modern Son', u'Son', u'World Fusion', u'Bolero', u'Cha-Cha', u'Mambo', u'Western European Traditions']
+
+Song:
+
+De Alto Cedro voy para Marcané
+Llego a Cueto voy para Mayarí
+(Repeat x3)
+
+El cariño que te tengo
+No te lo puedo negar
+Se me sale la babita
+Yo no lo puedo evitar
+
+Cuando Juanita y Chan Chan
+En el mar cernían arena
+Como sacudía el 'jibe'
+A Chan Chan le daba pena
+
+Limpia el camino de pajas
+Que yo me quiero sentar
+En aquel tronco que veo
+Y así no puedo llegar
+
+De Alto Cedro voy para Marcané
+Llego a Cueto voy para Mayarí
+(Repeat x3)
+
+(Instrumental solo)
+
+De Alto Cedro voy para Marcané
+Llego a Cueto voy para Mayarí
+(Repeat x2)
+
+De Alto Cedro voy para Marcané
+Llego a Cueto voy (slowly) para Mayarí

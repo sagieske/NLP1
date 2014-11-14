@@ -1,0 +1,34 @@
+Artist: connie_francis
+Title: all_by_myself
+Genre: Pop/Rock
+Subgenres: [u'Brill Building Pop', u'Early Pop/Rock', u'Show/Musical']
+
+Song:
+
+'Ll go my way by myself
+Here's how that comedy ends
+I have to deny myself
+Love and laughter and friends.
+
+With clouds in the sky above
+Have put the blocks on my fun
+I'll try to fly up above
+For my place in the sun.
+
+I'll face the unknown
+I'll build the world of my own
+No one know that I denied myself
+
+I found myself alone.
+
+--- Instrumental ---
+
+I'll face the unknown
+I'll build the world of my own
+No one know that I denied myself
+I found myself alone.
+
+I'll go my way by myself
+Here's how that comedy ends
+I have to deny myself
+Love and laughter and friends...
