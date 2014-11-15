@@ -3,6 +3,8 @@ import sys
 import glob
 import os
 import pickle
+import nltk
+from nltk.corpus import stopwords
 
 class feature_extraction:
 	
@@ -34,6 +36,50 @@ class feature_extraction:
 			print "Dump information to dumpfile: ", self.DUMPFILE
 			with open(self.DUMPFILE,'wb') as f:
 				pickle.dump(loaded_files, f)
+
+		
+		self.clean(loaded_files[11][-1])
+
+	def clean(self, sentence_array):
+		# Split all sentences to words:
+		word_list = []
+		for sentence in sentence_array:
+			words = sentence.split()
+			# Use lower case
+			lower_case_words = [word.lower() for word in words]
+			word_list += lower_case_words
+
+		# Check language of tex
+		probable_language = self.check_language(word_list)
+		print probable_language
+		if probable_language != 'english':
+			return None
+		# Filter out stopwords
+		word_list = self.remove_stopwords(probable_language, word_list)
+
+
+	def check_language(self, word_list):
+		""" source: http://blog.alejandronolla.com/2013/05/15/detecting-text-language-with-python-and-nltk/""" 
+		languages_ratios = {}
+		for language in stopwords.fileids():
+			stopwords_set = set(stopwords.words(language))
+			words_set = set(word_list)
+			# Check similarity
+			common_elements = words_set.intersection(stopwords_set)
+			# Save as ratio
+			languages_ratios[language] = len(common_elements)
+
+		# Get language with most similarities
+		most_rated_language = max(languages_ratios, key=languages_ratios.get)
+		return most_rated_language
+
+	def remove_stopwords(self, language, word_list):
+		""" Remove stopwords for given language from word list"""
+		stops = stopwords.words(language)
+		return [word for word in word_list if word not in stops]
+
+
+
 
 
 	def load_file(self, filename):
@@ -69,4 +115,4 @@ class feature_extraction:
 
 
 if __name__ == "__main__":
-	program = feature_extraction(dump=True, load=False)
+	program = feature_extraction(dump=False, load=True)
