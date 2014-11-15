@@ -10,6 +10,7 @@ class feature_extraction:
 	
 	FOLDER = 'lyrics/'
 	DUMPFILE = 'file_dump'
+	vocabulary = []
 
 	def __init__(self, dump=True, load=False):
 		""" Get all file information. Possible to dump to a specific file or load from a specific file"""
@@ -39,11 +40,41 @@ class feature_extraction:
 
 		counter = 0
 		lyrics_info_words = []
+		all_words = []
+		# Clean all lyrics
 		for item in loaded_files:
 			counter +=1
 			cleaned_wordlist = self.clean(item[-1])
 			lyrics_info_words.append( item[:-1] + (cleaned_wordlist,) )
+			# Add to list of all words found
+			if cleaned_wordlist:
+				all_words += cleaned_wordlist
+
+		# set vocabulary dictionary
+		self.vocabulary = dict.fromkeys(set(all_words),0)
+		print self.vocabulary
+		self.calculate_word_counts(lyrics_info_words)
 		
+
+	def calculate_word_counts(self, lyrics_info_words):
+		""" Calculate words """
+		# Loop over all lyrics
+		for item in lyrics_info_words:
+			word_list = item[-1]
+			if word_list is not None:
+				lyric_count = {}
+				for word in word_list:
+					# Update vocabulary count
+					# TODO! Gives error about unseen word but should not be possible
+					# self.vocabulary[word] += 1
+					self.vocabulary[word] = lyric_count.get(word, 0) +1
+					# Update count in lyric
+					lyric_count[word] = lyric_count.get(word, 0) +1
+				# Update tuple with information
+				item += (lyric_count,)
+
+
+			
 
 	def clean(self, sentence_array):
 		"""
