@@ -37,10 +37,19 @@ class feature_extraction:
 			with open(self.DUMPFILE,'wb') as f:
 				pickle.dump(loaded_files, f)
 
+		counter = 0
+		lyrics_info_words = []
+		for item in loaded_files:
+			counter +=1
+			cleaned_wordlist = self.clean(item[-1])
+			lyrics_info_words.append( item[:-1] + (cleaned_wordlist,) )
 		
-		self.clean(loaded_files[11][-1])
 
 	def clean(self, sentence_array):
+		"""
+		Cleans lyrics by setting everything to lower case, removing stopwords and further cleaning. 
+		Returns cleaned list of words or None (when language is not english)
+		"""
 		# Split all sentences to words:
 		word_list = []
 		for sentence in sentence_array:
@@ -51,11 +60,18 @@ class feature_extraction:
 
 		# Check language of tex
 		probable_language = self.check_language(word_list)
-		print probable_language
 		if probable_language != 'english':
 			return None
 		# Filter out stopwords
 		word_list = self.remove_stopwords(probable_language, word_list)
+		cleaned_list = []
+		for word in word_list:
+			# Remove triple (or more) occurance of letter
+			word = re.sub(r'(\w)\1+',r'\1\1', word)
+			# Remove non words
+			word = re.sub(r'(\W)','', word)
+			cleaned_list.append(word)
+		return cleaned_list
 
 
 	def check_language(self, word_list):
