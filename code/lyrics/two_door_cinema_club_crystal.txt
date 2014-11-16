@@ -1,0 +1,23 @@
+Artist: two_door_cinema_club
+Title: crystal
+Genre: Pop/Rock
+Subgenres: [u'Indie Electronic', u'Alternative/Indie Rock', u'New Wave/Post-Punk Revival']
+
+Song:
+
+Everything tonight
+Made everything alright
+I am speechless
+I listen to your words
+Float like hummingbirds all around me
+
+Sweet mess suspend me in crystal
+
+You and I were set
+To float down with a map
+See where it takes us
+I left you on that street with shadow at your feet
+I should've kissed you
+
+Sweet mess suspend me in crystal
+Sweet mess suspend me in crystal

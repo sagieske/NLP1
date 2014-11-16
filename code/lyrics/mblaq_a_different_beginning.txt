@@ -1,0 +1,16 @@
+Artist: mblaq
+Title: a_different_beginning
+Genre: Pop/Rock
+Subgenres: []
+
+Song:
+
+We did it
+It's another beginning
+We are mblaq
+Just mblaq
+Faster
+Stronger
+Deeper
+Thanks to our fans...
+See ya!

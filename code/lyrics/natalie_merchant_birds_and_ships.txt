@@ -1,0 +1,19 @@
+Artist: natalie_merchant
+Title: birds_and_ships
+Genre: Pop/Rock
+Subgenres: [u'Adult Alternative Pop/Rock', u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Contemporary Singer/Songwriter', u'Contemporary Pop/Rock']
+
+Song:
+
+The birds are singing in your eyes today
+Sweet flowers blossom in your smile
+The wind and sun are in the words you say
+Where might your lonesome lover be?
+
+Birds maybe singing in my eyes this day
+Sweet flowers blossom when I smile
+But my soul is stormy and my heart blows wild
+My sweetheart rides a ship on the sea
+
+Though my soul is stormy and my heart blows wild
+Where might my lonesome lover be?

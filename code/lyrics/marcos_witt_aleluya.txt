@@ -1,0 +1,17 @@
+Artist: marcos_witt
+Title: aleluya
+Genre: Religious
+Subgenres: [u'CCM', u'Contemporary Christian', u'Latin Pop', u'Christmas', u'Holidays', u'Latin CCM', u'Latin Gospel', u'Gospel']
+
+Song:
+
+En el cielo y en la tierra te alabamos oh Seor
+Eres digno de alabanza y de suprema adoracin
+//te proclamamos Seor//
+Coro
+Aleluya, aleluya, aleluya al Seor
+Aleluya, aleluya, aleluya al Seor
+En la cruz por mi te diste para darme libertad
+De la tumba resurgiste y en tu trono ahora estas
+//te proclamamos Seor//
+Vastago Music. 1998

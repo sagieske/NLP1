@@ -1,0 +1,44 @@
+Artist: waterboys
+Title: a_golden_age
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Celtic Rock', u'College Rock']
+
+Song:
+
+I heard a rumour of a golden age
+And the stage is gettin' set
+I heard a rumour of a golden age
+The stage is gettin' set
+I heard a rumour of a golden age
+In the song, on a screen and printed page
+And all the world will be a stage
+And the stage is gettin' set
+
+I've seen the glow of a golden dawn
+And the dawn is comin' through
+I've seen the glow of a golden dawn
+And the dawn is comin' through
+I've seen the glow of a golden dawn
+And all will wait to gaze upon
+And though the hour is hard and long
+The dawn is coming through
+
+I felt the wind behind my heels
+And it feels good to me
+I felt the wind behind my heels
+And it feels good to me
+I felt the wind behind my heels
+My soul fired up like catherine wheels
+And I'm never gonna forget how it feels
+And it feels good to me
+
+I stood on the side of a shimmering sea
+I saw a ship come sailing in
+I stood on the side of a shimmering sea
+I saw a ship come sailing in
+I stood on the side of a shimmering sea
+Said "Lord, I surrender" and fell on my knees
+And loving rose in the heart of me
+And the ship came sailing in
+
+I heard a rumour of a golden age

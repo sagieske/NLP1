@@ -1,0 +1,43 @@
+Artist: fx
+Title: all_night_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Asian Pop', u'Korean Pop', u'Pop', u'Teen Pop']
+
+Song:
+
+[All] All night all night [Luna] neoui saekkkallo nareul saekchilhaejwo
+All night all night [Luna] I sesange hanabakke eopge
+
+[Sulli] Nan neoreul modu bol su isseo naman bol su isseo baby you see?
+[Krystal] Nega gajin saekkkal jeonbu but they don’t really feel you
+[Amber/Krystal] Geurae bwatja aju saljjak ppunigetji
+
+[Victoria] Bitnaneun nun soge sumeun blue bimil jamsuhameun yellow it’s you
+[Luna] Juhwangsaek noeuldo borasaek muldeulgo kkaman bam wieseo dulman itgo sipeo
+
+[All] All night all night [Amber] neoui saekkkallo nareul saekchilhaejwo
+All night all night [Amber] I sesange hanabakke eopge
+
+[Victoria] Modu ttokgateun goseul bol ttae neon dareun goseul bol jul alji
+[Luna] Cheonsaga neoui gwissoge soksagyeojumyeon
+[Amber/Victoria] Sumeoinneun gose huin nun chajanaeji
+
+[Sulli] Bitnaneun nun soge sumeun blue mellowhan ttatteutan yellow it’s you
+[Krystal] Juhwangsaek noeuldo borasaek muldeulgo kkaman bam wieseo dulman itgo sipeo
+
+[All] All night all night [Krystal] neoui saekkkallo nareul saekchilhaejwo
+All night all night [Krystal] I sesange hanabakke eopge
+
+[Amber] I feel so high neowa nae nunbichi majuchil ttae
+I feel so hot neowa nae soni kkwak kkyeoaneul ttae
+Moksori ooh melodic eonjena dugeungeorimeul bulleowa-wa-wa-wa-wa
+
+[All] All night all night [Victoria] neoui saekkkallo nareul saekchilhaejwo
+All night all night [Victoria] I sesange hanabakke eopge
+All night all night [Sulli] neoui saekkkallo nareul saekchilhaejwo
+All night all night [Sulli] I sesange hanabakke eopge
+
+[Luna] Hanassik ne soni bulssuk neoui du bari
+Jogeumssik ne mami deureowa naui sigane
+[Krystal] Ssok ne soni bulssuk neoui du bari
+Jogeumssik ne mami deureowa naui sigane

@@ -1,0 +1,40 @@
+Artist: noel_gallagher
+Title: alone_on_the_rope
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'British Trad Rock', u'Britpop', u'Contemporary Pop/Rock']
+
+Song:
+
+I won't let your smile
+Get lost in the fall
+I won't let your dreams
+Run away in the dark
+
+Still recall the way you were
+And that look in your eyes
+Still recall the way you were
+And that look in your eyes
+
+Can't hear the sound
+A thought ringing in my ear
+I still feel the pain
+I carried with me for years
+
+Still recall the way you were
+And that look in your eyes
+Still recall the way you were
+And that look in your eyes
+
+You could leave when the walls fall down
+I can tell by the look in your eyes
+You're alone on the rope
+And if you can't find no hope
+Don't look down
+Don't look down
+
+You could leave when the wall falls down
+I can tell by the look in your eyes
+You're alone on the rope
+And if you can't find no hope
+Don't look down
+Don't look down

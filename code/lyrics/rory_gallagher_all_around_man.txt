@@ -1,0 +1,41 @@
+Artist: rory_gallagher
+Title: all_around_man
+Genre: Blues
+Subgenres: [u'Blues-Rock', u'British Blues', u'Regional Blues']
+
+Song:
+
+I ain't no doctor, I ain't no doctor's son,
+But I'll fill your prescription,
+Till the real doctor comes,
+Till the real doctor comes.
+
+I ain't no sailor, ain't no sailor's son,
+But I'll be your navigator,
+Till the marines hit town,
+Till the marines hit town.
+
+I'm a handyman, an all around man,
+I'm a handyman, all around man,
+And when your husband comes,
+That's when the handyman's gonna scram.
+
+I ain't the da, ain't the da's son,
+But I'll talk to the jury,
+And I'll see justice done.
+
+Handyman, I'm a handyman,
+An all around man, all around man.
+
+I ain't no astronaut,
+From Cape Kennedy I don't come.
+Just step inside my rocket ship,
+I'll take you circling round the sun.
+
+We'll head off for Pluto, Venus and Mars,
+Step inside, baby, I'll take you very far.
+
+I'm a handyman, an all around man,
+An all around man, an all around man,
+And when your husband comes,
+That's when the handyman is gonna scram.

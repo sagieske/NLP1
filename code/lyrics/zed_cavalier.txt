@@ -1,0 +1,22 @@
+Artist: zed
+Title: cavalier
+Genre: Electronic
+Subgenres: [u'Club/Dance', u'Progressive Trance', u'Trance']
+
+Song:
+
+I've got a little secret
+I hope you'll understand me
+Just a little secret
+I'll be as quick as I can be
+I feel like I've been talking to a wall
+And no-one's there to comfort me at all
+When I've found out
+You signed the line
+That's for me to reconcile
+I wish I could be pretty like my friends
+They all got perfect faces
+I wish I could be pretty like my friends
+All in silk and laces
+I spoke to Mr Clement
+He said,

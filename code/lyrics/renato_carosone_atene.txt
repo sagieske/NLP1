@@ -1,0 +1,50 @@
+Artist: renato_carosone
+Title: atene
+Genre: International
+Subgenres: [u'Italian Music', u'Western European Traditions']
+
+Song:
+
+Coro:
+Kalinikta, mio amor,
+Kalinikta, mio amor,
+Kalinikta, mio amor...
+"Sagap?".
+
+Atene,
+Che nostalgia,
+Rivedo ancora la sua bocca voluttuosa
+Sotto un cielo di turchese.
+Atene,
+Ovunque sia,
+Con la tua voce, come il vento tra gli ulivi
+Dille ancora: "Sagap?".
+Sopra il tronco di un mandorlo in fior
+Incidemmo una data e due cuor
+E giurammo cos?: "Quest'amor
+Nun muore mai, mai!...".
+Atene,
+Atene mia,
+Ancora a te
+Io torner?!...
+
+Kalinikta, mio amor,
+Kalinikta, mio amor,
+Kalinikta, mio amor...
+"Sagap?".
+
+Finale:
+O mia piccola greca verr?
+Con un bianco veliero dal mar,
+Il tuo pianto coi baci berr?
+E sarai mia, mia!...
+Atene,
+Che nostalgia,
+Ancora a te
+Io torner?!...
+
+Kalinikta, mio amor,
+Kalinikta, mio amor,
+Kalinikta, mio amor...
+"Sagap?".
+(2 volte)

@@ -1,0 +1,28 @@
+Artist: quiero_club
+Title: darwin_mustard
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Indie Pop']
+
+Song:
+
+We are after you Mr. Mustard
+I'll show you how it's done
+We are after you Mr. Mustard
+Let me tell you how it's done
+We are after you
+They are after you
+We are after you
+They are after you
+
+And if I choose to remind you
+Your life is pretty short
+Just come and ask Mr. Mustard
+He will tell you how it's done
+
+She came from the water
+He came from the sun
+They show afterhours when you are alone
+
+When you are alone
+
+All right

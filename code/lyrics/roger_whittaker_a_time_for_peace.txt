@@ -1,0 +1,43 @@
+Artist: roger_whittaker
+Title: a_time_for_peace
+Genre: Vocal
+Subgenres: [u'Vocal Pop', u'Adult Contemporary', u'AM Pop', u'Traditional Pop', u'Schlager', u'Film Music', u'Soundtracks']
+
+Song:
+
+Snowflakes fall gently down.
+We walk on to the distant sound.
+Christmas carols on the wind.
+Then Christmas feelings come again.
+Strangers smile a warm: "Hello".
+Angels in the virgin snow.
+Children gather in the square.
+The Christmas feelings people share.
+
+A time for peace - a special time,
+In the hope we may find.
+Deep within every heart,
+The love that very special kind.
+A love to carry us along,
+To carry it be on.
+Christmas and the love that it gives,
+The soul of every Christmas song.
+
+Christmas rocks us gently now,
+More then just a dream somehow.
+May that feeling never end,
+This Christmas feeling come again.
+
+A time for peace - a special time,
+In the hope we may find.
+Deep within every heart,
+The love that very special kind.
+A love to carry us along,
+To carry it be on.
+Christmas and the love that it gives,
+The soul of every Christmas song.
+
+A time for peace - a special time,
+In the hope we may find.
+Deep within every heart,
+The love that very special kind...

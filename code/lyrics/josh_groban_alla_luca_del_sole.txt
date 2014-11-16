@@ -1,0 +1,43 @@
+Artist: josh_groban
+Title: alla_luca_del_sole
+Genre: Vocal
+Subgenres: [u'Adult Contemporary', u'Classical Crossover', u'Classical Pop', u'Vocal Pop', u'Film Score']
+
+Song:
+
+Qui c'e il buio fuori di me
+Ed anche un po dentro di me...
+Che assurdita questa citta
+Senza persone!
+Io non so spiegar neanche come
+Ma non e questa la mia dimensione,
+E la mia mente non e mai in pace,
+E sempre altrove.
+Tu dove sei? La tua voce dov'e?
+Senza di te, senza il tuo aiuto
+Che sara di me?
+Tutto sembrera migliore
+Alla luce che verra dal sole!
+Questa notte passera,
+Il buio che c'e si dissolvera!
+Si vedranno le colline,
+Io continuero a cercare te.
+Via da questa malinconia,
+Invidia o rabbia che sia.
+Qui nel mio cuore
+Non voglio piu queste parole.
+Tu dove sei? Il tuo sorriso dov'e?
+Senza di te, senza il tuo amore
+Che sara di me?
+Tutto sembrera migliore
+Alla luce che verra dal sole!
+Questa notte passera,
+Il buio che c'e si dissolvera!
+E alla luce di quel sole
+Io continuero a cercare te.
+Tutto sembrera migliore,
+Alla luce, al sole.
+Il silenzio morira,
+La gente che c'e si confondera.
+E alla luce di quel sole
+Io continuero a cercare te.

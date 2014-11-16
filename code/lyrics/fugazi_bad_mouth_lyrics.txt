@@ -1,0 +1,18 @@
+Artist: fugazi
+Title: bad_mouth_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'American Underground', u'Indie Rock', u'Post-Hardcore']
+
+Song:
+
+You can't be what you were
+So you better start being just what you are
+You can't be what you were
+Time is now and it's running out
+You can't be what you were
+So you better start living the life
+That you're talking about
+You can't be what you were
+No movement, no movement, no movement
+In a bad mouth
+It betrays a bad mind

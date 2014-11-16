@@ -1,0 +1,33 @@
+Artist: wynonna_judd
+Title: all_of_that_love_from_here
+Genre: Country
+Subgenres: [u'Contemporary Country', u'Soft Rock', u'Neo-Traditionalist Country']
+
+Song:
+
+I can see a cotton field
+An old man working in the mill
+I can see loadin' the trunk of my old blue oldsmobile
+I see the tears in my mama's eyes
+When she kissed her baby goodbye
+I can still feel all of that love from here
+
+(chorus)
+
+I can see the cotton sheets
+They're swingin' in the wind, out swingin' in the wind
+I close my eyes and my mind flies
+And I'm right back home again
+I'm right back home and
+I can get lost while I'm chasing my dreams
+I find my way 'cause my heart has wings
+And I can still feel all of that love from here
+
+I was raised on love's foundation
+The rock of ages goes unshaken
+The faith and hope that was given to me is stronger than the blackjack tree
+My mama taught me how to stand alone
+She let me go but she still holds on
+And I can still feel all of that love from here
+
+(repeat chorus)

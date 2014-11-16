@@ -1,0 +1,39 @@
+Artist: nitty_gritty_dirt_band
+Title: amazing_grace
+Genre: Country
+Subgenres: [u'Bluegrass', u'Country-Rock', u'Progressive Bluegrass', u'Progressive Country', u'Contemporary Pop/Rock', u'New Acoustic', u'AM Pop']
+
+Song:
+
+"Amazing Grace, how sweet the sound,
+That saved a wretch like me....
+I once was lost but now am found,
+Was blind, but now, I see.
+
+T'was Grace that taught...
+My heart to fear.
+And Grace, my fears relieved.
+How precious did that Grace appear...
+The hour I first believed.
+
+Through many dangers, toils and snares...
+We have already come.
+T'was Grace that brought us safe thus far...
+And Grace will lead us home.
+
+The Lord has promised good to me...
+His word my hope secures.
+He will my shield and portion be...
+As long as life endures.
+
+When we've been here a thousand years...
+Bright shining as the sun.
+We've no less days to sing God's praise...
+Then when we've first begun.
+
+"Amazing Grace, how sweet the sound,
+That saved a wretch like me....
+I once was lost but now am found,
+Was blind, but now, I see.
+
+(End)

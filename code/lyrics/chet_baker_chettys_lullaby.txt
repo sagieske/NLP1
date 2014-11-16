@@ -1,0 +1,21 @@
+Artist: chet_baker
+Title: chettys_lullaby
+Genre: Jazz
+Subgenres: [u'Cool', u'West Coast Jazz', u'Vocal Jazz', u'Jazz Instrument', u'Trumpet Jazz', u'Film Score']
+
+Song:
+
+Veglierт,
+Questa notteя solo per te,
+Dolce bimbo ti dirт che presto tornerт,
+Senza te,
+Sento gelo nel mio cuor,
+Cerco solo
+L'illusione
+Di averti qui con me...
+Torneran per me le stelle,
+Nel mio cielo senza piщ nubi...
+Sogni d'or,
+Scendon lievi verso te,
+Dormi caro che domani,
+Col sol ti bacerт.

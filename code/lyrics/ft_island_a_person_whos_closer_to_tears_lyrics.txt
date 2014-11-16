@@ -1,0 +1,60 @@
+Artist: ft_island
+Title: a_person_whos_closer_to_tears_lyrics
+Genre: Jazz
+Subgenres: [u'Third Stream', u'World Fusion', u'Classical Crossover', u'Chamber Music', u'New Acoustic']
+
+Song:
+
+Eetji moht-hae ni goeun eebsoolloh
+Sarangeul malhadungeh uhjeh gatasuh
+Nahn gidarineunde nuhl saranghaneunde
+Darana soomuh salgo eetneunde
+
+Eetji moht-hae ni goeun eebsoolloh
+Eebyuleul malharyugo hal guht gatasuh
+Nahn gwireul magado nahn nooneul gamado
+Darana soomeulsoogah ubsussuh
+
+Nae ahne nuraneun sarami geuddaen
+Uhlmana sojoonghaetneunde
+Ni ahne naraneun sarameul eejen
+Heunjukdo ubsuhjin guhni
+
+Nae muhriboda shimjangsoge gahgga-oon saram
+Mannamboda eebyul-eh duh gahgga-oon saram
+Nae gaseumsohgesuh nae maeumsohgesuh
+Juh muhlli dduhnaganeun geu saram
+
+Murineun eetgo shimjangeun ddoh ubtneun geu saram
+Misoboda noonmoolee duh gahgga-oon saram
+Noonmoolman namgigo sarangman namgigo ggeutnae
+Dduhnagan geu saram
+
+Nae ahne nuhraneun sarameul eejen
+Ichyuh jil ddaedo dwaetneunde
+Gaseumee nuraneun sarameul ajik
+Ji-ooji moht-han gungahbwa
+
+Nae muhriboda shimjangsoge gahgga-oon saram
+Mannamboda eebyul-eh duh gahgga-oon saram
+Nae gaseumsohgesuh nae maeumsohgesuh
+Juh muhlli dduhnaganeun geu saram
+
+Murineun eetgo shimjangeun ddoh ubtneun geu saram
+Misoboda noonmoolee duh gahgga-oon saram
+Noonmoolman namgigo sarangman namgigo ggeutnae
+Dduhnagan geu saram
+
+Sarangee ubsuhdo noonmoolee ubsuhdo saragahl geu saram
+
+Nae muhriboda shimjangsoge gahgga-oon saram
+Mannamboda eebyul-eh duh gahgga-oon saram
+Nae gaseumsohgesuh nae maeumsohgesuh
+Juh muhlli dduhnaganeun geu saram
+
+Murineun eetgo shimjangeun ddoh ubtneun geu saram
+Misoboda noonmoolee duh gahgga-oon saram
+Noonmoolman namgigo sarangman namgigo ggeutnae
+Dduhnagan geu saram
+
+Ggeutnae nahl buhrin geu saram

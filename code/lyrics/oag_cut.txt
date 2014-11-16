@@ -1,0 +1,18 @@
+Artist: oag
+Title: cut
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Punk Revival']
+
+Song:
+
+The car is burning down
+Escape straight to the underground
+Flying saucers in the air
+I am sitting alone on an old chair
+The car is burning down again
+Escape straight to the underground
+Flying saucers in the air repeat
+I am sitting alone on an old chair
+Hardchorus
+I wanna cut your hair
+I wanna cut your hair

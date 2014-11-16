@@ -1,0 +1,14 @@
+Artist: zachary_richard
+Title: chanquis_chanque
+Genre: International
+Subgenres: [u'Creole', u'North American Traditions', u'Zydeco', u'Cajun', u'Traditional Cajun', u'Country-Rock']
+
+Song:
+
+Chanquis Chanque, Chanquis Chanque tous les soirs.
+Chanquis Chanque, Chanquis Chanque toute la nuit.
+Chanquis Chanque, Laissez le bon temps rouler.
+
+T'es parti hier au soir, t'es revenu ta petite robe ?tait toute d?chir?e.
+T'es parti heir au soir, et je ne connais m?me pas o? tu as couch?.
+Tu peux pas continuer ? me faire des chagrins comme ?a

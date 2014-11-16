@@ -1,0 +1,17 @@
+Artist: donny_hathaway
+Title: come_ye_disconsolate
+Genre: R&B
+Subgenres: [u'Film Score', u'Soul', u'Smooth Soul', u'Chicago Soul']
+
+Song:
+
+Come, ye disconsolate, where'er ye languish,
+Come to the mercy seat, fervently kneel.
+Here bring your wounded hearts, here tell your anguish;
+Earth has no sorrow that heaven cannot heal.
+
+Joy of the desolate, light of the straying,
+Hope of the penitent, fadeless and pure!
+Here speaks the Comforter, tenderly saying,
+"Earth has no sorrow that Heaven cannot cure."
+I said, earth has no sorrow that Heaven cannot cure

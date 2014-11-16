@@ -1,0 +1,29 @@
+Artist: the_national
+Title: about_today
+Genre: R&B
+Subgenres: [u'Contemporary R&B', u'Pop']
+
+Song:
+
+Today you were far away
+And I didn't ask you why
+What could I say
+I was far away
+You just walked away
+And I just watched you
+What could I say
+
+How close am I to losing you
+
+Tonight you just close your eyes
+And I just watch you
+Slip away
+
+How close am I to losing you
+
+Hey, are you awake
+Yeah I'm right here
+Well can I ask you about today
+
+How close am I to losing you
+How close am I to losing

@@ -1,0 +1,41 @@
+Artist: teresa_teng
+Title: dan_yuan_ren_chang_jiu
+Genre: Pop/Rock
+Subgenres: [u'C-Pop']
+
+Song:
+
+Ming yue ji shi you
+Ba jiu wen qing tian
+Bu zhi tian shang gong que
+Jin xi shi he nian
+
+Wo yu cheng feng gui qu
+Wei kong qiong lou yu yu
+Gao chu bu sheng han
+Qi wu nong qing ying
+He si zai ren jian
+
+Zhuan zhu ge
+Di yi hu
+Zhao wu mian
+Bu ying you hen
+He shi chang xiang bie shi yuan (yue shi yuan)
+
+Ren you bei huan li he
+Yue you yin qing yuan que
+Ci shi gu nan quan
+Dan yuan ren chang jiu
+Qian li gong chan juan
+
+Zhuan zhu ge
+Di yi hu
+Zhao wu mian
+Bu ying you hen
+He shi chang xiang bie shi yuan (yue shi yuan)
+
+Ren you bei huan li he
+Yue you yin qing yuan que
+Ci shi gu nan quan
+Dan yuan ren chang jiu
+Qian li gong chan juan

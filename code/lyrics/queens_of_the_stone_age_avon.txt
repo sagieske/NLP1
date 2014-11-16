@@ -1,0 +1,23 @@
+Artist: queens_of_the_stone_age
+Title: avon
+Genre: Pop/Rock
+Subgenres: [u'Alternative Metal', u'Hard Rock', u'Heavy Metal', u'Stoner Metal', u'Alternative/Indie Rock']
+
+Song:
+
+I see you go
+Through a park in a haze
+I don't listen
+For traffic going the same way
+A simple system
+I string 'em up
+I cut 'em down
+Dare I say
+
+A perfect vision
+Some simple ways to let you know
+Free range humans all cooped up
+Naked clone is playing lame
+I string 'em up
+I cut 'em down
+Dare I say

@@ -1,0 +1,31 @@
+Artist: manowar
+Title: an_american_trilogy
+Genre: Pop/Rock
+Subgenres: [u'Heavy Metal', u'Power Metal']
+
+Song:
+
+Oh, I wish I was in the land of cotton
+Old times they are not forgotten
+Look away, look away, look away Dixie land
+
+Oh I wish I was in Dixie away, away
+In Dixie land I'll take my stand
+To live and die in Dixie
+
+Dixie land where I was born
+Early Lord one frosty morning
+Look away, look away, look away Dixie land
+
+Glory, glory, hallelujah
+Glory, glory, hallelujah
+Glory, glory, hallelujah
+This truth is marching on
+
+So hush little baby, don't you cry
+You know your daddy's bound to die
+All my trials Lord will soon be over
+
+Glory, glory, hallelujah
+This truth is marching on
+This truth is marching on

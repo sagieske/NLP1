@@ -1,0 +1,40 @@
+Artist: 2am
+Title: back_then
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'College Rock', u'Contemporary Pop/Rock', u'Post-Punk', u'Dance-Rock']
+
+Song:
+
+Geuttae 12siga dadoemyeon
+Neujeun makchae mam jorimyeo ip matchudeon
+Geuttae ni saengireul apdugo
+Myeot ireul yeolsimhi gurmeodo baebureudeon
+Geuttaeui naega geuriwo
+
+Dongjeon myeot gaero jeonhwagiman butdeulgo
+Paran hwamyeone tajaro bameul saedo
+Son tteolligo du nun ppajyeodo uri dureun cham tteugeowosseo
+Geu saebyeok motungiui cheot immatchumgwa
+Maldo andoege haetdeon saranghandan mal
+Cham mungkeulhaetdeon neowa naega geuriwo oh neon jal isseulkka
+
+Geuttae niga jun gong teipsoge
+Choesin yuhaenghan norae sairo ni moksori
+Dasin deureul su eobtjiman
+
+Dongjeon myeot gaero jeonhwagiman butdeulgo
+Paran hwamyeone tajaro bameul saedo
+Son tteolligo du nun ppajyeodo uri dureun cham tteugeowosseo
+Geu saebyeok motungiui cheot immatchumgwa
+Maldo andoege haetdeon saranghandan mal
+Cham mungkeulhaetdeon neowa naega geuriwo oh neon jal isseulkka
+
+Geu sojunghangeol geuttaen wae geugeol mollasseonneunji
+Babocheoreom wae ijewa huhoehaneunji
+
+Dan harurado doragal su itdamyeon
+Geu ttaeui naro doragal su itdamyeon
+Malhal geoya gomawotdago niga isseo naega itdago
+Maldo motage sigani heulleotjiman
+Tto dareun saranghago isseul neojiman
+Eodie itgeon haengbokhagil baralkke oh nae sarang annyeong

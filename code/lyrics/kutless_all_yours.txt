@@ -1,0 +1,13 @@
+Artist: kutless
+Title: all_yours
+Genre: Pop/Rock
+Subgenres: [u'Post-Grunge', u'Alternative CCM', u'Contemporary Christian', u'CCM']
+
+Song:
+
+Really You're the one that paid the price
+I wanna give you every breath, every treasure that I own
+Oh Lord I give you everything
+It's all yours, anyway
+You gave me life, to give it away
+It's all yours anyway

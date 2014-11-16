@@ -1,0 +1,42 @@
+Artist: peter_paul_mary
+Title: 75_septembers
+Genre: Folk
+Subgenres: [u'Contemporary Folk', u'Folk Revival', u'Folk-Pop', u'Political Folk', u'Traditional Folk', u"Children's Folk", u'Protest Songs', u'Folk-Rock']
+
+Song:
+
+In the year of the yellow cab
+In the shadow of the great world war
+The third kid grandmom had
+Came into this world
+On a rolling farm in Maryland
+When Wilson was the President
+And summer blew her good-bye through the trees
+
+A child of changing times
+Growing up between the wars
+The Fords rolled off the line
+And bars all closed their doors
+And I imagine you back then
+With snap brim hat and farmer's tan
+Where horses drew their wagons through the fields
+
+Chorus:
+Now the fields are all four lanes
+And the moon's not just a name
+Are you more amazed at how things change
+Or how they stay the same
+And do you sit here on this porch and wonder
+How the time flies by
+Or does it seem to barely creep along
+With 75 Septembers come and gone
+
+Were the fields all gold and fawn
+Was the spring house dark and cool
+Did the rooster crow at dawn
+When they got you up for school
+And would you tell me once again
+The tales of grandad's hired men
+And how they drove the old road to town
+
+Chorus:

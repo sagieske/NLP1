@@ -1,0 +1,32 @@
+Artist: u2
+Title: a_day_without_me
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'College Rock', u'Contemporary Pop/Rock', u'Post-Punk', u'Dance-Rock']
+
+Song:
+
+Starting a landslide in my ego
+Look from the outside
+To the world I left behind
+
+I'm dreaming
+You're awake
+If I were sleeping
+What's at stake
+A day without me
+
+Whatever the feelings
+I keep feeling
+What are the feelings
+You left behind
+
+Today's a day without me
+
+I started a landslide in my ego
+Look from the outside
+To the world I left behind
+
+In the world I left behind
+Wipe their eyes, and then let go
+To the world I left behind
+Shed a tear, and then let go...

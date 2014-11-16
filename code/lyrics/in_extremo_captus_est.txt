@@ -1,0 +1,22 @@
+Artist: in_extremo
+Title: captus_est
+Genre: Pop/Rock
+Subgenres: [u'Heavy Metal', u'Alternative Metal']
+
+Song:
+
+Ignem cecum sub pectore
+Longo depasco tempore
+Qui vires miro vobore
+Toto diftundit corpore
+
+Amoris spes est dubia
+Aut verax aut contraria
+Est ergo tuo manere
+Me mori vel me vivere
+
+Times in vanum
+Tam est arcanum
+
+Amor volat andique
+Captus est libidine

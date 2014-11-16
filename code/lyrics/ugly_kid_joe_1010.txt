@@ -1,0 +1,23 @@
+Artist: ugly_kid_joe
+Title: 1010
+Genre: Pop/Rock
+Subgenres: [u'Hair Metal', u'Hard Rock', u'Pop-Metal', u'Funk Metal', u'Heavy Metal']
+
+Song:
+
+Written by ugly kid joe
+
+Hey, do you finally see it
+Wait, we are there
+Fate, refuse to believe it
+May, I don't care
+Ten outta ten die
+Framed, well try to escape it
+Safe, it aint fair
+Wait, well try to achieve it
+May, I don't care
+Ten outta ten
+Let me sleep, let me sleep
+See me struggle and hold on to my soul
+Fallen faster and don't know which way Im gonna go
+Ten outta ten die

@@ -1,0 +1,12 @@
+Artist: oscar_hammerstein
+Title: finale_oh_what_a_beautiful_mornin
+Genre: Stage & Screen
+Subgenres: [u'Cast Recordings', u'Show Tunes', u'Traditional Pop', u'Vocal Music']
+
+Song:
+
+Oh what a beautiful mornin'
+Oh what a beautiful day
+I've got a beautiful feeling
+Everything's going my way
+Oh what a beautiful day!

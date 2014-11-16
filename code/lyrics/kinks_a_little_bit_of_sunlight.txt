@@ -1,0 +1,26 @@
+Artist: kinks
+Title: a_little_bit_of_sunlight
+Genre: Pop/Rock
+Subgenres: [u'British Invasion', u'Contemporary Pop/Rock', u'Rock & Roll', u'Album Rock', u'Hard Rock', u'AM Pop', u'Early Pop/Rock']
+
+Song:
+
+Tears would fall like the falling rain,
+There would be a sea.
+But you don't have to cry to prove your love,
+Just believe in me.
+
+[Chorus]
+Cause a little bit of sunlight is all that I want from you,
+A little bit of sunlight,
+Is all that I want,
+All that I want,
+All that I want from you.
+
+A man who can't live with cloudy skies,
+Should only wait and see.
+
+Soon all the clouds will disappear,
+And leave just you and me.
+
+[Chorus]

@@ -1,0 +1,19 @@
+Artist: low
+Title: be_there
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Dream Pop', u'Indie Rock', u'Sadcore', u'Slowcore', u'Alternative Pop/Rock']
+
+Song:
+
+I don't wanna be there when you're wrong
+I don't wanna be there when you find out
+I don't wanna be there when you break glass
+And I don't wanna be there when they drag you out
+
+You can't speak backwards
+You can't save the animals
+
+And I don't wanna be there when you're wrong
+And I don't wanna be there when you find out
+I don't wanna be there when you break glass
+And I don't wanna be there when they drag you out

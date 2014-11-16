@@ -1,0 +1,37 @@
+Artist: david_allan_coe
+Title: a_sad_country_song
+Genre: Country
+Subgenres: [u'Outlaw Country', u'Progressive Country', u'Singer/Songwriter', u'Country-Folk', u'Traditional Country']
+
+Song:
+
+If you're feeling lonely
+And think you're the only
+One left
+That's alone in a bar
+If need somebody
+With shoulders to cry on
+Well baby I'm not very far
+
+Chorus:
+Just look for my name on a jukebox
+When you're tired and feeling alone
+Put in a dime
+And I'll take the time
+To sing you
+A sad country song
+
+If you started drinking
+Still can't stop thinking
+About all those long nights alone
+If tear drops start falling
+And you keep on calling
+To find out there's nobody home
+
+Chorus:
+Just look for my name on a jukebox
+When you're tired and feeling alone
+Put in a dime
+And I'll take the time
+To sing you
+A sad country song

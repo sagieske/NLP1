@@ -1,0 +1,37 @@
+Artist: nitty_gritty_dirt_band
+Title: and_so_it_goes
+Genre: Country
+Subgenres: [u'Bluegrass', u'Country-Rock', u'Progressive Bluegrass', u'Progressive Country', u'Contemporary Pop/Rock', u'New Acoustic', u'AM Pop']
+
+Song:
+
+A mansion on a hill is a lovely sight to see
+But like any other house, it's only temporary
+Home is anywhere you choose to put your heart;
+If there's no love inside, it'll soon fall apart.
+
+Ashes to ashes, dust into dust
+Buildings will crumble, bridges will rust
+Mountains will disappear, rivers will dry up
+And so it goes with everything but love
+And so it goes, with everything but love
+
+You can drive around in a long limosine
+If you don't know where you're going, it don't mean a thing
+He who'd walk a mile, just to hold an empty hand
+Knows what it means, to be a wealthy man
+
+Ashes to ashes, dust into dust
+Buildings will crumble, bridges will rust
+Mountains will disappear, rivers will dry up
+And so it goes with everything but love
+And so it goes, with everything but love
+
+Worldly treasures will all pass away
+There's just one thing that's put here to stay
+
+Ashes to ashes, dust into dust
+Buildings will crumble, bridges will rust
+Mountains will disappear, rivers will dry up
+And so it goes with everything but love
+And so it goes, with everything but love

@@ -1,0 +1,21 @@
+Artist: cheap_trick
+Title: aint_that_a_shame
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Pop/Rock', u'Hard Rock', u'Power Pop', u'Album Rock', u'Arena Rock', u'New Wave', u'Punk/New Wave']
+
+Song:
+
+You made me cry when you said good-bye.
+Ain't that a shame... My tears fall like rain
+Ain't that a shame... You're the one to blame.
+You broke my heart, now we're apart.
+Ain't that a shame... My tears fall like rain
+Ain't that a shame... You're the one to blame.
+Ah, yes you are,
+Farewell, good-bye, although I'll cry.
+Ain't that a shame... My tears fall like rain
+Ain't that a shame... You're the one to blame.
+Ah!
+You made me cry when you said good-bye.
+Ain't that a shame... My tears fall like rain
+Ain't that a shame... You're the one to blame.

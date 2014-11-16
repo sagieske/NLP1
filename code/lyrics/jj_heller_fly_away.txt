@@ -1,0 +1,25 @@
+Artist: jj_heller
+Title: fly_away
+Genre: Folk
+Subgenres: [u'Alternative CCM', u'CCM', u'Contemporary Christian', u'Gospel', u'Adult Contemporary']
+
+Song:
+
+Stars call me closer
+The earth is dragging me down
+I want to be more than hungry
+I want to live somewhere other than this old gray town
+
+I want to fly away far beyond my cage
+Where I hear freedom singing
+You are telling me again there's no door to keep me in
+I hear freedom singing
+
+Beauty all around me
+Drawing me to the sky
+This is life I can feel it
+Bid my lonely days goodbye
+
+Chorus
+
+Fly away home, fly away home, fly away home to you,

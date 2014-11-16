@@ -1,0 +1,25 @@
+Artist: iggy_pop
+Title: angel
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Detroit Rock', u'Hard Rock', u'Proto-Punk', u'Dance-Rock', u'Contemporary Pop/Rock', u'Punk', u'Punk/New Wave']
+
+Song:
+
+Still when I was crying
+You were on my side
+Angel, you can come and see me here tonight
+Angel, of course you're always more than welcome here
+Still I'm needing somebody else... again.
+
+Writings up my place
+There is nothing much I want to do about it
+The way I fall without you
+The way I'm dull without you
+I split my score, offer you love.
+
+Still when I was crying
+You were on my side
+Angel, I never thought that I'd be free or clear
+Angel, except for you, I doubt that I'd be here
+Still I'm needing somebody else... again.
+Still I'm needing somebody else... again.

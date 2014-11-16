@@ -1,0 +1,15 @@
+Artist: hank_locklin
+Title: all_the_world_is_lonely_now
+Genre: Country
+Subgenres: [u'Nashville Sound/Countrypolitan', u'Honky Tonk', u'Traditional Country', u'Country-Pop']
+
+Song:
+
+Yesterday you said you love me today you say it's over now
+Why did you go away and leave me all the world is lonely now
+Don't tell me that you love another and that you've broken every vow
+For I don't want to live without you all the world is lonely now
+[ piano ]
+I tried so hard to make you happy with love your heart would not allow
+It's hard to know you'll never love me all the world is lonely now
+(All the world is lonely now)

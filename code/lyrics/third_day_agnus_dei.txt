@@ -1,0 +1,23 @@
+Artist: third_day
+Title: agnus_dei
+Genre: Religious
+Subgenres: [u'Christian Rock', u'Contemporary Christian', u'CCM', u'Gospel', u'Alternative CCM']
+
+Song:
+
+Alleluia Alleluia
+For our Lord God Almighty reigns
+Alleluia Alleluia
+For our Lord God Almighty reigns
+Alleluia
+Holy Holy
+Are You Lord God Almighty
+Worthy is the Lamb
+Worthy is the Lamb
+You are Holy
+Holy
+Are You Lord God Almighty
+Worthy is the Lamb
+Worthy is the Lamb
+Amen
+/*originally performed by Michael W. Smith

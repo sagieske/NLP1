@@ -1,0 +1,36 @@
+Artist: 38_special
+Title: around_and_around
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Hard Rock', u'Southern Rock', u'Arena Rock', u'Contemporary Pop/Rock']
+
+Song:
+
+They say the joint was rockin'
+A goin' 'round and round
+Yeah reelin' and a rockin'
+What a crazy sound
+But you never stopped rockin'
+Till the moon went down
+
+Though it sounds so sweet
+I hadda take me a chance
+I rose out of my seat
+I just had to dance
+Started movin' my feet
+Yeah clappin' my hands, Alright
+
+But you kept on rockin'
+Going 'Round and around
+Yeah reelin' and a rockin'
+What a crazy sound
+But you never stopped rockin'
+Till the moon went down
+
+I said Twelve o'clock
+I say the place as packed
+The front doors was locked
+I say the place was packed
+When the police knocked
+Both doors flew back
+
+Chorus twice

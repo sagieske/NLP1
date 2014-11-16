@@ -1,0 +1,59 @@
+Artist: v6
+Title: feel_your_breeze
+Genre: Pop/Rock
+Subgenres: [u'Adult Alternative Pop/Rock', u'Alternative/Indie Rock', u'Contemporary Pop/Rock', u'Pop']
+
+Song:
+
+I say, feel your breeze
+Anytime, anywhere in my heart
+Feel your breeze
+Never stop walking now oh
+Kesenai kizu wo mata fuyashiteku
+Nanka kaze ga shimite yuku
+Hitori kakaeteru fuan nara
+Ima dare ni mo aru hazu...
+Kitto yoru wa nagaku
+Fukaku shindeta hou ga
+Asahi noboru toki wa
+Sou, kirameku hazu sa
+Itsuka souzou shiteta mirai to
+Ima ga sukoshi chigatte itatte
+Yume no tame no namida wa
+Mada kiezu ni hikaritsuzukeru
+Zutto kokoro wa kimi wo miteru
+Mune ni kizanda kimochi de
+Towa ni yume wo kanjiyou
+Ano natsu kumo afureru you ni
+I say, feel your breeze
+Anytime, anywhere in my heart
+Feel your breeze
+Never stop walking now oh
+Dekinai koto wa nannimo nai to
+Sou motte iru kedo
+Umaku konasenai nichijoy ni
+Sugu bokura wa tomadou
+Kitto yume wa tooku
+Sora ni kasundeku you de
+Dakedo kaze wa omoi
+Sotto nosete yuku kara
+Itsuka souzou shiteta mirai ni
+Bokura chanto chikazukeru you ni
+Kaze ni itsumo fukarete
+Ima koko kara aruite ikou
+Zutto kokoro wa kimi wo miteru
+Mune de musunda kimochi de
+Towa ni kimi wo kanjiyou
+Kono kisetsu ga afureru you ni
+Itsuka souzou shiteta mirai to
+Ima ga sukoshi chigatte itatte
+Yume no tame no namida wa
+Mada kiezu ni hikaritsuzukeru
+Zutto kokoro wa kimi wo miteru
+Mune ni kizanda kimochi de
+Towa ni yume wo kanjiyou
+Ano natsu kumo afureru you ni
+I say, feel your breeze
+Anytime, anywhere in my heart
+Feel your breeze
+Never stop walking now oh

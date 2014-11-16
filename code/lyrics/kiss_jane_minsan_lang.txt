@@ -1,0 +1,49 @@
+Artist: kiss_jane
+Title: minsan_lang
+Genre: Pop/Rock
+Subgenres: [u'Arena Rock', u'Hard Rock', u'Heavy Metal', u'Pop-Metal', u'Contemporary Pop/Rock', u'Album Rock']
+
+Song:
+
+Minsan lang lang dumaan
+Isang tulad mo, mundo ko'y nagbago
+Ngayo'y aalis at nagpaalam
+Di kita pipigilan
+
+Di ko na mabilang
+Kung ilang gabi
+Walang tigil ang luha ko sayo
+
+Nais ko malaman mo
+Nandito lang ako
+Maghihintay sayo
+At kung sakali di magtagpo
+Maiintindihan nitong puso ohhh
+
+Minsan lang madama
+Ang tunay na ligaya
+Limutin ka'y di ko magagawa
+Nasa'n ka man naroroon
+Mananatili ang pag-ibig ko sayo
+
+Di ko na mabilang
+Kung ilang gabi
+Walang tigil ang luha ko sayo
+
+Nais ko malaman mo
+Nandito lang ako
+Maghihintay sayo
+At kung sakali di magtagpo
+Maiintindihan nitong puso ohhh
+
+Di ko na mabilang
+Kung ilang gabi
+Walang tigil ang luha ko sayo
+
+Nais ko malaman mo
+Nandito lang ako
+Maghihintay sayo
+At kung sakali di magtagpo
+Maiintindihan nitong puso ohhh
+
+Ho... ohhh... ohhh

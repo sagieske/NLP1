@@ -1,0 +1,56 @@
+Artist: pet_shop_boys
+Title: a_new_life
+Genre: Pop/Rock
+Subgenres: [u'Alternative Dance', u'Dance-Pop', u'House', u'Dance-Rock']
+
+Song:
+
+(Lowe/Springs/Tennant)
+-------------
+At night it hits me cold
+There's so much more to life than I'll ever know
+I look around and I realise
+It's time to make a move, though you won't sympathise
+
+Stars collect overhead
+They look down on the channel and our lives grown dead
+Cars pass on through the night
+How do you get to heaven if you never try?
+
+New life, new love
+Where's the heart I was dreaming of?
+I need a new hope, new dream
+Another heart in a different scene
+
+Make a firm decision, it's time to go
+That's for you to find out and for me to know
+No more hard times or petty crimes
+Forget that life I have left behind
+
+The night goes by
+Leaving you behind me, as I fly
+Then rise, the day and night sky
+How do you get to heaven if you never try?
+
+New life, new love
+Where's the heart I was dreaming of?
+I need a new hope, new dream
+Another heart in a different scene
+
+A new life, it's so hard to find
+A new love, it's so hard to find
+
+The night goes by
+Leaving you behind me, as I fly
+There lies the day in that sky
+How do you get to heaven if you never try?
+
+New life, new love
+Where's the heart I was dreaming of?
+I need a new hope, new dream
+Another heart in a different scene
+
+New life, new love
+Where's the heart I was dreaming of?
+I need a new hope, new dream
+Another heart in a different scene

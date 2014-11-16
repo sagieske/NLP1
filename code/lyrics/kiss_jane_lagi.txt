@@ -1,0 +1,56 @@
+Artist: kiss_jane
+Title: lagi
+Genre: Pop/Rock
+Subgenres: [u'Arena Rock', u'Hard Rock', u'Heavy Metal', u'Pop-Metal', u'Contemporary Pop/Rock', u'Album Rock']
+
+Song:
+
+Verse 1:
+
+Sa tuwing ika'y nakikita
+Anong saya
+Pag lumapit na kausap s'ya
+Natutulala
+
+Ibang-iba ang nadarama
+Anong kaba
+Aaminin ko na...
+
+Chorus:
+
+Sayo na lagi na lang
+Lagi na lang
+Lagi kang nasa isip ko
+Lagi na lang
+Lagi na lang
+Lagi kang nasa puso
+Ko'y iyong-iyo
+'Wag hayaan na
+Masaktan
+Asahan mo di
+Magbabago
+Hanggang kailan
+
+Ibang-iba ang nadarama
+Anong kaba
+Aaminin ko na
+
+Sayo na lagi na lang
+Lagi na lang
+Lagi kang nasa isip ko
+Lagi na lang
+Lagi na lang
+Lagi kang nasa puso
+Lagi na lang
+Lagi na lang
+
+Chorus:
+
+Sayo na lagi na lang
+Lagi na lang
+Lagi kang nasa isip ko
+Lagi na lang
+Lagi na lang
+Lagi kang nasa puso ko
+Lagi na lang
+Lagi na lang

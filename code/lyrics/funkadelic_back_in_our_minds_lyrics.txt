@@ -1,0 +1,26 @@
+Artist: funkadelic
+Title: back_in_our_minds_lyrics
+Genre: R&B
+Subgenres: [u'Funk', u'Psychedelic Soul', u'Soul', u'Psychedelic/Garage', u'Hard Rock']
+
+Song:
+
+We are back in our minds, again
+(x3)
+We don't fight no more
+We done close that door
+This time for sure
+We can't stand no more
+Fussin' and a-cussin' each other
+When we're souls to your brother
+Livin' in this world we all live in
+We are back in our minds, again
+(x3)
+We don't fight no more (we don't fight, y'all)
+We don't close that door
+This time for sure (we don't fight, y'all)
+We can't stand no more
+Fussin' and a-cussin' each other
+When we're souls to your brothers
+Livin' in this world we all live in
+Back in our minds again

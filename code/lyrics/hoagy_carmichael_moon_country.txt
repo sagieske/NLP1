@@ -1,0 +1,26 @@
+Artist: hoagy_carmichael
+Title: moon_country
+Genre: Jazz
+Subgenres: [u'American Popular Song', u'Early Jazz', u'Standards', u'Tin Pan Alley Pop', u'Traditional Pop', u'Cast Recordings', u'Show Tunes']
+
+Song:
+
+I long for that moon country
+That possum and coon country
+That sycamore heaven back south
+I’ll lose my mind till I get there
+
+I long for that old country
+That good for the soul country
+With folk cooking things
+That melt in your mouth
+
+Mmm, when my cousin, Cindy Lou
+Plays a twilight hymn to you
+She makes that old piano
+Sound exactly like brand new
+
+I long for that moon country
+That’s where I should be
+‘Cause that old moon country
+Is home to me

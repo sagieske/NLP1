@@ -1,0 +1,25 @@
+Artist: edgar_winter
+Title: autumn_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Boogie Rock', u'Hard Rock', u'Contemporary Pop/Rock', u'Rock & Roll', u'Blues-Rock', u'Arena Rock']
+
+Song:
+
+Autumn the wind blows colder than summer
+Autumn my loves gone with another
+I can' t demand anything of myself now
+So, I guess I' ll stay here in New England for Autumn, Autumn
+
+The buildings look tall and gray
+The birds flying haven' t much to say
+They all know that it' s coming again
+So I guess they' ll stay here in New England for Autumn, Autumn
+
+Did you ever lose something that you thought you knew
+Did you ever lose someone who was close to you
+Well, I lost my lover, in my summer too
+
+To Autumn wind blows colder than summer
+Autumn my loves gone with another
+I can' t demand anything of myself now
+So, I guess I' ll stay here in New England for Autumn, Autumn

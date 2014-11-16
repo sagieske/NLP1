@@ -1,0 +1,32 @@
+Artist: 4men
+Title: here_i_am
+Genre: R&B
+Subgenres: [u'Adult Contemporary R&B', u'Contemporary R&B', u'Adult Contemporary', u'New Jack Swing']
+
+Song:
+
+Here I am yeogi Here I am
+Here I am naega yeogie yeogi inneunde
+
+Here I am jigeum Here I am
+Here I am jigeum yeogie naega inneunde
+
+Nal da jwodo mojara
+Nal beoryeodo mojara
+Naega neol eolmamankeum saranghaneunjireul
+Moreul geoya ama neon Here I am
+
+Here I am yeogi Here I am
+Here I am naega yeogie yeogi inneunde
+
+Nal da jwodo mojara
+Nal beoryeodo mojara
+Naega neol eolmamankeum saranghaneunjireul
+Gateun jarieseo neol gidarilge
+
+Nal yokhaedo gwaenchanha
+Nal beoryeodo gwaenchanha
+Naega neol eolmamankeum saranghaneunjireul
+Moreul geoya ama neon Here I am
+
+Moreul geoya ama neon Here I am

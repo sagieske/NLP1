@@ -1,0 +1,21 @@
+Artist: loretta_lynn
+Title: all_i_want_from_you_is_away
+Genre: Country
+Subgenres: [u'Honky Tonk', u'Nashville Sound/Countrypolitan', u'Country-Pop', u'Traditional Country']
+
+Song:
+
+At first I kinda liked it bein' here with you
+Bein' what you needed Lord and leadin' you to
+When it started changin' with every passing day
+I went searchin' but I couldn't found the answer
+All I want from you is away
+Oh you hung around and you watched my show but you wouldn't pay
+You'll always be just what you are no matter what I say
+All I want from you is away
+[ guitar - steel ]
+Ah one thing that I will say cause I kinda think I should
+Feelin' like a woman in your arms it sure felt good
+And if I look behind me and I see you there
+That's enough for me cause I've already been there
+All I want from you is away...

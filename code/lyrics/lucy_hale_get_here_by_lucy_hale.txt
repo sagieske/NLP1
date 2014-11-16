@@ -1,0 +1,26 @@
+Artist: lucy_hale
+Title: get_here_by_lucy_hale
+Genre: Pop/Rock
+Subgenres: [u'Pop Idol', u'Contemporary Country', u'Country-Pop']
+
+Song:
+
+You can reach my by railway
+You can reach me train way
+You can reach me
+On an airplane
+You can reach me with your mind
+
+You can reach me by caravan
+Cross the desert like an Arab man
+I don't care how you get here
+Just get here if you can
+
+There are hills and mountains between us
+Oh, its something to get over
+If I had my way
+Surely you would be closer
+
+I need you closer
+I don't care how you get here
+Just get here if you can

@@ -1,0 +1,25 @@
+Artist: death
+Title: a_moment_of_clarity
+Genre: Pop/Rock
+Subgenres: [u'Heavy Metal', u'N\xfc Metal']
+
+Song:
+
+I would describe it as an invisible darkness
+Casting a shadow, a blinding black
+Guarded by hope, my soul is kept from
+The bloody claws.
+Look beyond, what vision lets me see
+Time after time, unneeded misery
+Holding tight to my dreams
+I own no price for you
+I grip them tight and hope for sight.
+Open my eyes wide to see a moment of clarity
+Confusion gone, it's in your hands
+Your turn to ask why.
+(Solo Hamm / Schuldiner)
+Life is like a mystery
+With many clues, but with few anwers
+To tell us what it is that we can do to look
+For messages that keep us from the truth
+(fade out solo: Schuldiner)

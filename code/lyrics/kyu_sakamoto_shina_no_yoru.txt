@@ -1,0 +1,39 @@
+Artist: kyu_sakamoto
+Title: shina_no_yoru
+Genre: Electronic
+Subgenres: [u'Ethnic Fusion', u'Experimental', u'Movie Themes', u'Progressive Electronic', u'Soundtracks', u'Original Score', u'Alternative/Indie Rock', u'Experimental Electronic', u'Experimental Rock', u'Film Score', u'Keyboard']
+
+Song:
+
+Shina no yoru
+Shina no yoru yo
+Minato no akari
+Murasaki no yo ni
+Noboru janku no
+Yume no fune
+Aa wasurarenu
+Kokyu no ne
+Shina no yoru
+Yume no yoru
+
+Shina no yoru
+Shina no yoru yo
+Yanagi no mado ni
+Lantan yurete
+Akai torikago
+Shina musume
+Aa yarusenai
+Ai no uta
+Shina no yoru
+Yume no yoru
+
+Shina no yoru
+Shina no yoru yo
+Kimi matsu yoru wa
+Obashima no ame ni
+Hana mo chiru chiru
+Beni mo chiru
+Aa wakaretemo
+Wasuraryo ka
+Shina no yoru
+Yume no yoru

@@ -1,0 +1,15 @@
+Artist: ugly_casanova
+Title: beesting
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Indie Rock', u'Lo-Fi']
+
+Song:
+
+I don't know they say you never die
+Kiss me Just like a Beesting
+I don't know they say you never die
+Kiss me just like a beesting
+I don't know they say you never die!
+Kiss me just like a beesting
+I don't know they say you never die!!
+I don't know they say you would never downaonon

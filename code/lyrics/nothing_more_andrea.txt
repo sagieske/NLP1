@@ -1,0 +1,22 @@
+Artist: nothing_more
+Title: andrea
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Post-Grunge', u'Hard Rock']
+
+Song:
+
+Crying, hurting, you're broken inside
+Voices tell you not to live but die
+Follow Him to new life
+Break the bonds, the chains that tie
+Fight away those wicked lies
+Follow Him to new life
+
+Lying defeated, the future feels dim
+Rock bottom feels cold again
+(But hope is waiting, and love is waiting)
+
+And hope is waiting
+And love is waiting
+And peace is waiting
+And joy is waiting

@@ -1,0 +1,21 @@
+Artist: jay_chou
+Title: ai_wo_bie_zou
+Genre: Rap
+Subgenres: [u'East Coast Rap', u'Hardcore Rap']
+
+Song:
+
+Wo dao le zhe ge shi hou hai shi yi yang
+Ye li de ji mo rong yi dao ren bei shang
+Wo bu gan xiang de tai duo,
+Yin wei wo yi ge ren
+
+Ying mian re lai de yue gang la xiang shen ying
+Mai wu mu di de zou zai leng leng de jie
+Wo mei you ni de xiao xi,
+Yin wei wo zai xiang ni
+
+[Chorus:]
+Ai wo bie zou, ru guo ni shuo, ni bu ai wo
+Bu yao ting jian ni zhen de shuo shu kou
+Zai gei wo yi dian wen rou

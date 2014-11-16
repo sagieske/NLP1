@@ -1,0 +1,35 @@
+Artist: manu_chao
+Title: bienvenida_a_tijuana
+Genre: Latin
+Subgenres: [u'Rock en Espa\xf1ol', u'International Fusion', u'Worldbeat', u'French Pop']
+
+Song:
+
+Bienvenida a Tijuana
+Bienvenida mi amor
+De noche a la maana
+Bienvenida mi amor
+Bienvenida mamacita
+I'm in ruta Babylon
+Bienvenida la cena
+Sopita de camarn
+Calavera no llora
+Serenata de amor
+Calavera no llora
+No tiene corazn
+Por la Panamericana
+Bienvenida a la aduana
+Bienvenida mi suerte
+A mi me gusta el verte
+I wanna go to San Diego
+I wanna go y no puedo
+Bienvenida a Tijuana
+Bienvenida la juana
+Calavera no llora
+Serenata de amor
+Calavera no llora
+No tiene corazn
+Bienvenida mamacita
+I'm in ruta Babylon
+Bienvenida la juana
+Tequila, sexo, marihuana

@@ -1,0 +1,22 @@
+Artist: qntal
+Title: all_for_one
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Goth Rock', u'Industrial Dance']
+
+Song:
+
+I must go walk the woods so wild,
+and wander here and there
+in dred and dedly fere,
+for where I trusted,I am begild,
+and all for one.
+Thus am I banisshed from by blis
+by craft and false pretens,
+fautles without offens,
+as of return no certen is,
+and all for fere of one.
+The ronning stremes shall be my drinke,
+acorns schall be my fode,
+nothing may do me good,
+but when your bewty I do think,
+and all for love of one.

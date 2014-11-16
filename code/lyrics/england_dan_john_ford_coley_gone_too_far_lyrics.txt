@@ -1,0 +1,38 @@
+Artist: england_dan_john_ford_coley
+Title: gone_too_far_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Pop/Rock', u'Singer/Songwriter', u'Soft Rock', u'AM Pop', u'Country-Rock']
+
+Song:
+
+How it all started, I hardly remember
+A casual walk through the park in the winter
+All that I wanted was someone I could talk to
+It had to be you.
+
+The wind was cold we hudled together
+Looking bakc I should have known better
+Wasn't it me who said I'll never fall for anyone
+And look what I've done.
+
+Chorus:
+Gone too far, I don't know how I did it
+Gone too far and I hate to admit it
+But I spend all my time thinking of you
+Gone too far, there's nothing I can do now
+Gone too far, it'll work out somehow
+But I spend all my time thinking of you
+
+Seems before, I didn't know what was missing
+Maybe I did, but I just wouldn't listen
+Wasn't it me who said I'll never fall for anyone
+And look What I've done.
+
+Repeat 1st 3 lines of chorus
+Adlib
+
+Bridge:
+Maybe somewhere along the line
+I knew it would happen to me
+Now I look in those smiling eyes
+And for days now that's all I can see

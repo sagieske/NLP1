@@ -1,0 +1,34 @@
+Artist: u2
+Title: 40
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'College Rock', u'Contemporary Pop/Rock', u'Post-Punk', u'Dance-Rock']
+
+Song:
+
+I waited patiently for the Lord
+He inclined and heard my cry
+He brought me up out of the pit
+Out of the miry clay
+
+I will sing, sing a new song
+I will sing, sing a new song
+
+How long to sing this song
+How long to sing this song
+How long... How long... How long...
+How long... To sing this song
+
+He set my feet upon a rock
+And made my footsteps firm
+Many will see
+Many will see and fear
+
+I will sing, sing a new song
+I will sing, sing a new song
+I will sing, sing a new song
+I will sing, sing a new song
+
+How long to sing this song
+How long to sing this song
+How long... How long... How long...
+How long... To sing this song

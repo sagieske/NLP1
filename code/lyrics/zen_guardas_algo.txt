@@ -1,0 +1,38 @@
+Artist: zen
+Title: guardas_algo
+Genre: Pop/Rock
+Subgenres: [u'Indie Rock', u'Adult Alternative Pop/Rock', u'Alternative/Indie Rock']
+
+Song:
+
+Ya no puedo leer tus ojos
+No lуgro encontrarte en ellos
+Sй que tъ guardas algo
+Sй que tъ tienes algo
+Para mi
+
+Tu silencio me hiere tanto
+Esta angustia me estб acabando
+Sй que tъ guardas algo
+Sй que tъ tienes algo
+
+Dime quien me alejу de ti
+Dime quiйn se burlу de mi
+Dime quiйn me ha robado todo
+Dime quiйn se ha llevado todo de mi
+
+Ya quiero buscar respuestas
+Ya no puedo vivir soсando
+Sй que ya no hay nada
+Sй que ya no queda nada
+Para mi
+
+Dime quien me alejу de ti
+Dime quiйn se burlу de mi
+Dime quiйn me ha robado todo
+Dime quiйn se ha llevado todo
+
+Dime quien me alejу de ti
+Dime quiйn se burlу de mi
+Dime quiйn me ha robado todo
+Dime quiйn se ha llevado todo de mi.

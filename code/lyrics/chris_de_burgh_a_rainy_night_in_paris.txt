@@ -1,0 +1,36 @@
+Artist: chris_de_burgh
+Title: a_rainy_night_in_paris
+Genre: Pop/Rock
+Subgenres: [u'Adult Contemporary', u'Art Rock', u'Contemporary Pop/Rock', u'Euro-Rock', u'Soft Rock', u'Vocal Music']
+
+Song:
+
+It's a rainy night in paris,
+And the harbour lights are low.
+He must leave his love in paris
+Before the winter snow;
+
+On a lonely street in paris
+He held her close to say,
+"we'll meet again in paris
+When there are flowers on the champs-elysees. "
+
+"how long" she said "how long,
+And will your love be strong,
+When you're across the sea,
+Will your heart remember me? ... "
+
+Then she gave him words to turn to,
+When the winter nights were long,
+"nous serons encore amoureux
+Avec les couleurs du printemps... "
+
+"and then" she said "and then,
+Our love will grow again. "
+Ah but in her eyes he sees
+Her words of love are only words to please...
+
+And now the lights of paris
+Grow dim and fade away,
+And I know by the light of paris
+I will never see her again...

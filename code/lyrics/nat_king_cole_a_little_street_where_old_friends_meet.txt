@@ -1,0 +1,43 @@
+Artist: nat_king_cole
+Title: a_little_street_where_old_friends_meet
+Genre: Jazz
+Subgenres: [u'Traditional Pop', u'Vocal Jazz', u'Swing', u'Vocal Pop', u'Early R&B']
+
+Song:
+
+(h. woods, g. kahn)
+
+
+It's just a little street
+Where old friends meet,
+I'd love to wander back
+Someday.
+
+
+To you, it may be old,
+And sort of tumbled down,
+But it means a lot to folks
+In my hometown.
+
+
+Although I'm rich or poor,
+I still feel sure
+I'm welcome as the flowers in may.
+
+
+It's just a little street
+Where old friends meet,
+And treat you in the same old way.
+
+
+~interlude~
+
+
+Although I'm rich or poor,
+I still feel sure
+I'm welcome as the flowers in may.
+
+
+It's just a little street
+Where old friends meet,
+And treat you in the same old way.

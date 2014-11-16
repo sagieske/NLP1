@@ -1,0 +1,25 @@
+Artist: now_now
+Title: dead_oaks
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Indie Pop', u'Indie Rock']
+
+Song:
+
+I can't feel your bones but I can see them
+And I can't call you up without a reason
+
+I can take a thousand miles and I can drive for hours to your house in the
+Summer
+But I could stay for longer if you wanted me to
+
+Oh oh oh oh oh
+I've been up and I don't sleep enough
+And oh oh
+I don't sleep enough
+And oh oh
+I know we don't talk as much but I can hear you still
+Oh oh oh oh oh
+X3
+
+I can hear your voice on the phone when you're up all alone
+Because I am up too

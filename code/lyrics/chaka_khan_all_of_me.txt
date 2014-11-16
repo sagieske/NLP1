@@ -1,0 +1,32 @@
+Artist: chaka_khan
+Title: all_of_me
+Genre: R&B
+Subgenres: [u'Funk', u'Urban', u'Smooth Soul', u'Soul', u'Club/Dance', u'Quiet Storm']
+
+Song:
+
+All of me
+Why not take all of me
+Can't you see
+I'm no good without you
+Take my lips
+I never use them
+Take my arms
+I want to lose them
+Your goodbye left me with eyes that cry
+How can I go on dear without you
+You took the part that once was my heart
+So why not take all of me
+
+All of me
+Why not take all of me
+Can't you see
+I'm no good without you
+Take my lips
+I want to lose them
+Take my heart
+I'll never use them
+Your goodbye left me with eyes that cry
+How can I go on dear without you
+You took the part that once was my heart
+So why not take all of me

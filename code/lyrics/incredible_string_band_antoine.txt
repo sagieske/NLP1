@@ -1,0 +1,22 @@
+Artist: incredible_string_band
+Title: antoine
+Genre: Folk
+Subgenres: [u'British Folk', u'British Folk-Rock', u'Folk-Rock', u'Singer/Songwriter']
+
+Song:
+
+So still the green and golden plain in icy spring
+They young French convent girls in white singing
+He took the sacrament young Antoine not without a blush
+He left the priest the good book the bread and cup
+And took with him the voices hanging in the silver space
+Not till he'd reached the vineyard rim did he look down
+On the gentle valley breathing in the sun
+Seeing the eastern slope where she lived he spoke her name
+In love beyond his years he saw the mist come down
+And knew there would be many mists he'd look through
+For this mountain star
+Ah if you'd seen me there hiding in the orchard
+Rejoicing in my warm salt tears
+Holding to my heart the beauty of a sad song
+Needing, needing you.

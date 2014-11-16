@@ -1,0 +1,45 @@
+Artist: dave_clark_five
+Title: any_way_you_want_it
+Genre: Pop/Rock
+Subgenres: [u'British Invasion', u'Early Pop/Rock', u'Rock & Roll', u'AM Pop']
+
+Song:
+
+(written by Dave Clark)
+Any way you want it
+You can call me any day - ay, hey, hey
+Any way you want it
+You can always hear me say - ay, hey, hey
+It's alright (x 8)
+Any way you want it
+It's the way it will be
+You don't want money
+You don't want a diamond ring - ay, hey, hey
+You say you want my lovin' more than any other thing - ay, hey,
+Hey
+It's alright (x 8)
+Any way you want it
+It's the way it will be
+Any way - any way you want it
+That's alright by me
+Any way - any way you want it
+That's the way it will be
+Any way you want it
+You can call me any day - ay, hey, hey
+Any way you want it
+You can always hear me say - ay, hey, hey
+It's alright (x 8)
+Any way you want it
+It's the way it will be
+Any way - any way you want it
+That's alright by me
+Any way - any way you want it
+That's the way it will be
+Any way you want it
+You can call me any day - ay, hey, hey
+Any way you want it
+You can always hear me say - ay, hey, hey
+It's alright (x 8)
+Any way you want it
+It's the way it will be
+That's the way it will be (x 3)

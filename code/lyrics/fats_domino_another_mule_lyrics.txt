@@ -1,0 +1,36 @@
+Artist: fats_domino
+Title: another_mule_lyrics
+Genre: R&B
+Subgenres: [u'Early R&B', u'New Orleans R&B', u'Rock & Roll', u'Piano Blues']
+
+Song:
+
+If your liver starts to jump
+And your heart begins to thump
+Man that's all
+Another mule is kickin' your stall
+
+Now if your girl stay out all night
+Don't you get mad and start a fight
+'Cos man that's all
+Another mule is kickin' your stall
+
+Now if you come home and your food ain't cooked
+And she give you a dirty look
+Man that's all
+Another mule is kickin' your stall
+
+If your liver starts to jump
+And your heart begins to thump
+Man that's all
+Another mule is kickin' your stall
+
+Now if your girl stay out all night
+Don't you get mad and start a fight
+'Cos man that's all
+Another mule is kickin' your stall
+
+Now if you come home and your food ain't cooked
+And she give you a dirty look
+Man that's all
+Another mule is kickin' your stall

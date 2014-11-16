@@ -1,0 +1,16 @@
+Artist: stanley_brothers
+Title: all_the_love_i_had_is_gone
+Genre: Country
+Subgenres: [u'Traditional Bluegrass', u'Bluegrass', u'Bluegrass-Gospel', u'Close Harmony', u'Gospel', u'Old-Timey', u'Traditional Country', u'Country-Pop']
+
+Song:
+
+I even loved the ground that you walked on
+But that has been some time ago
+I could never take you back, no matter how I try
+For all the love I had is gone
+
+You told me a lie and I believed you
+That's alright if that's the way you want to do
+Go on my dear now with your new love
+You'll know how it feels when he lies to you

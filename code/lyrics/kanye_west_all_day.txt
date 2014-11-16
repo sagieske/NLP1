@@ -1,0 +1,14 @@
+Artist: kanye_west
+Title: all_day
+Genre: Rap
+Subgenres: [u'Midwest Rap', u'Hardcore Rap', u'Pop-Rap', u'Pop']
+
+Song:
+
+All day, n****
+It's Ye, n****
+Shopping for the winter
+It's just May, n****
+Ball so hard, man
+This s**t cray, n****
+You ain't getting money unless you got eight figures

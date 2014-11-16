@@ -1,0 +1,21 @@
+Artist: ray_lamontagne
+Title: all_the_wild_horses
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Singer/Songwriter', u'Contemporary Folk', u'Adult Alternative Pop/Rock', u'Alternative/Indie Rock']
+
+Song:
+
+All the wild horses
+All the wild horses
+Tethered with tears in their eyes
+May no man's touch ever tame
+May no man's reigns ever chain you
+And may no man's weight ever defrayed your soul
+And as for the clouds
+Just let them roll
+Roll away
+Roll away
+As for the clouds
+Just let them roll
+Roll away
+Roll away

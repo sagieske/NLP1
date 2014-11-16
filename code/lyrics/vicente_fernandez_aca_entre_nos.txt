@@ -1,0 +1,39 @@
+Artist: vicente_fernandez
+Title: aca_entre_nos
+Genre: Latin
+Subgenres: [u'Mexican Traditions', u'Ranchera', u'Latin Pop', u'Mariachi', u'Tejano']
+
+Song:
+
+Por presumir, a mis amigos les conte.
+Que en el amor ninguna pena me aniquila,
+Que pa' probarles, de tus besos me olvide,
+Y me bastaron unos tragos de tequila.
+
+Les platique que me encontrй con otro amor,
+Y que en sus brazos fui dejando de quererte.
+Que te aborrezco desde el dia de tu traiciуn
+Y que hay momentos que he deseado hasta tu muerte.
+
+Aca entre Nos, Quiero que sepas la verdad,
+No te he dejado de adorar, alla en mi triste soledad
+Me han dado ganas de gritar, salir corriendo
+Y preguntar que es lo que ha sido de tu vida.
+
+Aca entre nos, Siempre te voy a recordar
+Y hoy que a mi lado ya no estas no queda mas confesar
+Que ya no puedo soportar, que estoy odiando sin odiar
+Porque respiro por la herida.
+
+Y ay Martнn no cabe duda que tambiйn de dolor se canta
+Cuando llorar no se puede.
+
+Aca entre Nos, Quiero que sepas la verdad,
+No te he dejado de adorar, alla en mi triste soledad
+Me han dado ganas de gritar salir corriendo
+Y preguntar que es lo que ha sido de tu vida.
+
+Aca entre nos, Siempre te voy a recordar
+Y hoy que a mi lado ya no estas no queda mas confesar
+Que ya no puedo soportar que estoy odiando sin odiar
+Porque respiro por la herida.

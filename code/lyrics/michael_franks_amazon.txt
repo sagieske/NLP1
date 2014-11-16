@@ -1,0 +1,32 @@
+Artist: michael_franks
+Title: amazon
+Genre: Vocal
+Subgenres: [u'Contemporary Instrumental', u'Crossover Jazz', u'Jazz-Pop', u'Smooth Jazz']
+
+Song:
+
+Inside my dream
+I hear the jungle parrots scream
+Just me and you
+Alone in our dugout canoe
+We kiss
+The snakes hiss
+We drift on
+Amazon
+Each day we fight
+To stay alive
+Make love each night
+Drunk with desire
+Asleep beside the jungle fire
+We are
+Like jaguar
+And python
+Amazon
+In the morning we eat roast banana
+In the evening we drink mat tea
+And the waterfall water's sweet
+In the green equatorial heat
+Like the river we journey to the sea
+Like the river we journey
+Like the river we journey to the
+Like the river we journey to the sea

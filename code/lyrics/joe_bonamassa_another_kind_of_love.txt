@@ -1,0 +1,37 @@
+Artist: joe_bonamassa
+Title: another_kind_of_love
+Genre: Pop/Rock
+Subgenres: [u'American Trad Rock', u'Blues-Rock', u'Modern Electric Blues']
+
+Song:
+
+Poor little baby
+You've got your lover, she's a girl
+Poor little baby
+You've got caught up in the world
+
+I've got to say you lost your way
+You're a woman, another kind of woman
+Another kind of love
+
+You just pile on your misery
+Now you have failed
+But deep down inside yourself
+See if you can tell
+
+Poor little baby
+You've got caught up in the world
+I got to say you've lost your way
+You're a woman, another kind of woman
+Another kind of love, hey yeah
+
+I can show you a brand new world
+Now you'll never be satisfied
+When there's nowhere to run, baby
+There's nowhere to hide
+
+Poor little baby
+You've got caught up in the world
+I've got to say you've lost your way
+You're a woman, another kind of woman
+Another kind of love

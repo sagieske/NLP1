@@ -1,0 +1,48 @@
+Artist: ezra_band
+Title: runaway_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Blues-Rock', u'Slide Guitar Blues', u'Southern Rock', u'Boogie Rock', u'Hard Rock']
+
+Song:
+
+Say It's true
+There's nothing like me and you
+Not alone Tell me you feel it too
+Cuz' I have runaway
+I will runaway, yeah.
+Yeah... I will runaway, runaway.
+I will runaway... With you.
+
+Cause I... Have fallen in love.
+With you.
+No never have I'm...
+Never gonna stop, falling in love.
+With you.
+
+Close the door,
+Lay down upon the floor
+And by candlelight
+Make love to me,
+Through the night.
+
+Cause I have runaway.
+I have runaway, yeah
+Yeah...
+I have runaway, runaway
+I have runaway
+With you.
+Cause I...
+Fallen in love
+With you.
+No never have I never gonna stop,
+Falling in love
+With you.
+
+Cause I'm
+Falling in love
+With you.
+No never have I'm
+Never gonna stop,
+Falling in love
+Stop, falling in love.
+With you...

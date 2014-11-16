@@ -1,0 +1,14 @@
+Artist: oscar_brand
+Title: bologna
+Genre: Folk
+Subgenres: [u'Folksongs', u'Singer/Songwriter', u'Traditional Folk', u'Folk Revival']
+
+Song:
+
+My Bologna has a first name,
+It's O-S-C-A-R.
+My bologna has a second name,
+It's M-A-Y-E-R.
+Oh I love to eat it everyday,
+And if you ask me why say,
+Cause' Oscar Mayer has a way with B-O-L-O-G-N-A!!!!

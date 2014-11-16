@@ -1,0 +1,31 @@
+Artist: mickey_gilley
+Title: blue_christmas
+Genre: Country
+Subgenres: [u'Country-Pop', u'Honky Tonk', u'Traditional Country', u'Urban Cowboy']
+
+Song:
+
+I'll have a blue, blue Christmas without you, 
+I'll be so blue thinking about you.
+Decorations of red
+On a green Christmas tree
+They won't mean a thing dear
+If you're not here with me.
+
+I'll have a blue, blue Christmas, that's certain, 
+And when that blue, blue heartache starts hurting, 
+You'll be doing all right
+With your Christmas of white, 
+But I'll have a blue, blue, blue Christmas.
+
+(All right guys let's play some blues Instrumental)
+
+I'll have a blue, blue Christmas, that's certain, 
+And when that blue, blue heartache starts hurting, 
+You'll be doing all right
+With your Christmas of white, 
+I'll have, have a blue, blue, blue, blue Christmas.
+
+(Okay Santa let's take it home Instrumental)
+
+I'll have a blue, blue Christmas...

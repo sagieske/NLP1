@@ -1,0 +1,44 @@
+Artist: v6
+Title: chou
+Genre: Pop/Rock
+Subgenres: [u'Adult Alternative Pop/Rock', u'Alternative/Indie Rock', u'Contemporary Pop/Rock', u'Pop']
+
+Song:
+
+Anata ni totte tari nai mono wo
+Kitto umete agerareru hazu
+
+Shinji teitane utagai mosezu
+Odora saretei tayou dane
+
+Ikutsu mo miekakure suru uso ni
+Tada kizu kanu furi wo shiteta
+Zutto enji teiru sore ga aishi nuku koto
+
+Hirari to mai odoru chou
+Owa ranu rondo shinayakani sasou yo
+Hane wo hiroge ayashiku hana kara hana he
+Tada hokora shikuaru ga ii tobi maware
+
+Anata ga zutto kawa ite iruto
+Shiru nowo mayotta hiwa sugi te
+
+Yori soi nagara zawameki nagara
+Katame ta kokoro tsumikasane ru
+
+Koboreta fuseijitsu no kakera wo
+Tada mie nai furi wo shiteta
+Sono yasashi niwa sukoshi yamashisaga maji ru
+
+Hirari to mai ori ru chou
+Toki ori ame to kimagure ni nureru yo
+Hane wo itame sore demo hana kara hana he
+Tada nuku mori ga areba ii hitotsu dake
+
+Futoshitara kie soude hakana genimieru shigusa mo
+Yasashii hitomi nimo shibire ru uso no mitsu ga aru
+
+Hirari to mai odoru chou
+Owa ranu rondo shinayakani sasou yo
+Hane wo hiroge ayashiku hana kara hana he
+Tada hokora shiku aru ga ii tobi maware

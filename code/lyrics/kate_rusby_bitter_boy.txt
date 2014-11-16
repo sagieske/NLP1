@@ -1,0 +1,49 @@
+Artist: kate_rusby
+Title: bitter_boy
+Genre: Folk
+Subgenres: [u'British Folk', u'Celtic', u'Contemporary Folk', u'Contemporary Singer/Songwriter', u'Irish Folk']
+
+Song:
+
+There was a boy, a bitter boy,
+Whos gloden heart I saw gleaming.
+I thought I'd win the heart within
+But now I know that I was dreaming.
+
+But I will rise and I will sing,
+Until the day I can't conceal it,
+Because I hold the saddest song,
+I wish to god you cannot feel it.
+
+And then the boy, the bitter boy,
+He came to me for rest and healing.
+He reached in his chest, deep in his breast,
+And held out the heart for me still gleaming.
+
+But I will rise and I will sing,
+Until the day I can't conceal it,
+Because I hold the saddest song,
+I wish to god you cannot feel it.
+
+And then the boy, me and the boy,
+We walked for miles through stormy weather,
+And hand in hand, we roamed the land,
+And held the gleaming heart together.
+
+But I will rise and I will sing,
+Until the day I can't conceal it,
+Because I hold the saddest song,
+I wish to god you cannot feel it.
+
+And then the boy, the bitter boy,
+He came to take the gleaming treasure.
+He reached in my chest, deep in my breast,
+And took the gleaming heart forever.
+
+But I will rise and I will sing,
+Until the day I can't conceal it,
+And then I'll sing the saddest song,
+I wish to god you cannot hear it.
+
+Oh and then I'll sing the saddest song,
+And wish to god you cannot hear it.

@@ -1,0 +1,14 @@
+Artist: handel_george_frideric
+Title: 05_accompagnato_for_bass_thus_saith_the_lord
+Genre: Classical
+Subgenres: [u'Chamber Music', u'Choral', u'Concerto', u'Keyboard', u'Opera', u'Orchestral']
+
+Song:
+
+Thus saith the Lord, the Lord of Hosts: Yet once a little while and I will
+Shake the heavens and the earth, the sea and the dry land. And I will
+Shake all nations, and the desire of all nations shall come. (Haggai
+2: 6-7)
+The Lord, whom ye seek, shall suddenly come to His temple, even the
+Messenger of the Covenant, whom ye delight in; behold, He shall come,
+Saith the Lord of Hosts. (Malachi 3: 2)

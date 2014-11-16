@@ -1,0 +1,37 @@
+Artist: norah_jones
+Title: above_ground
+Genre: Pop/Rock
+Subgenres: [u'Adult Alternative Pop/Rock', u'Alternative/Indie Rock', u'Contemporary Singer/Songwriter', u'Contemporary Jazz', u'Jazz Blues', u'Torch Songs', u'Vocal Jazz']
+
+Song:
+
+Underground I'm waiting
+Just below the crowded avenue
+Watchin' red lights fading out of view
+
+Oh the air feels heavy
+Everything just passes by
+And I think that I'm a little shy
+
+Meet me outside above ground
+I see you on your way
+I'll be with you someday, someday
+
+Drawing lines above my head
+But the fan keeps spinning over me
+Just my thoughts to keep me company
+
+Now I know I'm ready
+Pour the night into a glass
+Can I sip it slow and make it last?
+
+Meet me outside above ground
+I see you on your way
+I'll be with you someday, someday
+
+Meet me outside above ground
+I see you on your way
+I'll be with you someday
+I'll be with you someday
+I'll be with you someday
+I'll be with you someday

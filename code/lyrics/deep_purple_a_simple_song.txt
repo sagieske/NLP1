@@ -1,0 +1,46 @@
+Artist: deep_purple
+Title: a_simple_song
+Genre: Pop/Rock
+Subgenres: [u'Arena Rock', u'British Metal', u'Hard Rock', u'Heavy Metal']
+
+Song:
+
+Time, it does not matter
+But time is all we have
+To think about, think about
+
+Road, it has no end
+Crossroads every turn
+So it goes, so it goes
+
+Once you sang
+A simple song
+Got confused
+Went on too long
+
+Why does the promise fade
+You lie on the bed you make
+
+Stranger than fiction
+Further from the truth
+Beyond imagination
+Those seeds have taken root"
+
+Wild as a dream could be
+
+From black and white
+To blue and red
+Golden circles
+Flow above your head
+
+Once you sang
+A simple song
+You got confused
+And now it’s gone
+
+Once you sang
+A simple song
+It all went wrong
+
+Time, it does not matter
+Time is all we have

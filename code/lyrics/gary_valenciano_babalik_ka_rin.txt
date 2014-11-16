@@ -1,0 +1,30 @@
+Artist: gary_valenciano
+Title: babalik_ka_rin
+Genre: Blues
+Subgenres: [u'Modern Electric Texas Blues', u'Contemporary Blues', u'Electric Blues', u'Electric Texas Blues', u'Regional Blues', u'Texas Blues', u'Blues-Rock']
+
+Song:
+
+I
+Saan ka man naroroon ngayon, Saudi, Japan o Hongkong
+Babalik ka rin, babalik ka rin, babalik ka rin.
+Ano mang layo ang narating, Singapore, Australia
+Europe o Amerika, babalik at babalik ka rin.
+
+Refrain:
+Kaytagal mo nang nawala, babalik ka rin, babalik ka rin
+Kaytagal mo nang nawala, babalik ka rin, babalik ka rin.
+
+Ii
+Sa piling ng iyong pinagmulan, sa iyong nakaraan
+Babalik ka rin, babalik ka rin, babalik ka rin
+Anumang layo ang narating, iyong maaalala
+Ang dati mong kasama, babalik at babalik ka rin.
+
+(Repeat Refrain)
+
+Iii
+Sa paglipas ng panahon, sa iyong kahapon
+Sa alaalang naghihintay sa 'yo.
+
+(Repeat Refrain, 2x)

@@ -1,0 +1,56 @@
+Artist: peter_paul_mary
+Title: all_mixed_up
+Genre: Folk
+Subgenres: [u'Contemporary Folk', u'Folk Revival', u'Folk-Pop', u'Political Folk', u'Traditional Folk', u"Children's Folk", u'Protest Songs', u'Folk-Rock']
+
+Song:
+
+You know this language that we speak,
+Is part german , latin and part greek
+Celtic and arabic all in a heap,
+Well amended by the people in the street
+The Choctaw gave us the word "okay";
+"vamose" is a word from Mexico way.
+And all of this is a hint I suspect of what comes next.
+
+Chorus:
+I think that this whole world
+Soon mama my whole wide world
+Soon mama my whole world
+Soon gonna be get mixed up.
+Soon mama my whole world
+Soon mama my whole wide world
+Soon mama my whole world
+Soon gonna be get mixed up.
+
+I like Polish sausage, I like Spanish rice,
+And pizza pie is also nice
+Corn and beans from the Indians here
+Washed down by German beer
+Marco Polo traveled by camel and pony,
+He brought to Italy, the first macaroni
+And you and I as well we're able,
+We put it all on the table
+
+(Chorus)
+
+There were no red-headed Irishmen
+Before the Vikings landed in Ireland
+How many Romans had dark curly hair
+Before they brought slaves from Africa?
+No race of man is completely pure,
+Nor is anyone's mind, that's for sure
+The winds mix the dust of every land,
+And so will woman and man.
+
+(Chorus)
+
+This doesn't mean we will all be the same,
+We'll have different faces and different names
+Long live many different kinds of races
+It's a difference of opinion that makes horse races
+Just remember the rule about rules, brother
+What could be right for one could be wrong for the other
+And take a tip from La Belle France: "Viva la difference!"
+
+(Chorus)

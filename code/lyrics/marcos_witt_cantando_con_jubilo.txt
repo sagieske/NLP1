@@ -1,0 +1,19 @@
+Artist: marcos_witt
+Title: cantando_con_jubilo
+Genre: Religious
+Subgenres: [u'CCM', u'Contemporary Christian', u'Latin Pop', u'Christmas', u'Holidays', u'Latin CCM', u'Latin Gospel', u'Gospel']
+
+Song:
+
+Cantando con jubilo
+Con panderos y danza
+Exaltamos tu nombre Oh Dios
+
+Reina Oh Seсor
+Gloria Te damos hoy
+Tu pueblo se goza en Ti
+
+Cantando con jubilo
+Entramos en Tu presencia
+Alabando Tu nombre por siempre
+Eres digno de toda adoraciуn

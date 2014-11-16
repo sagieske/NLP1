@@ -1,0 +1,11 @@
+Artist: world_party
+Title: and_god_said
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'College Rock', u'Contemporary Pop/Rock', u'Adult Alternative Pop/Rock', u'Dance-Rock']
+
+Song:
+
+And God said, "Look after the planet
+Look after the planet, look after the planet"
+And God said, "Look after the planet"
+But man said, "Fuck you"

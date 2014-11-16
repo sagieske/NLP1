@@ -1,0 +1,39 @@
+Artist: white_stripes
+Title: apple_blossom
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Garage Rock Revival', u'Indie Rock', u'Punk Blues', u'Blues-Rock']
+
+Song:
+
+Hey little apple blossom
+What seems to be the problem?
+All the ones you tell your troubles to
+They don't really care for you
+
+Come and tell me what you're thinking
+Cause just when the boat is sinking
+A little light is blinking
+And I will come and rescue you
+
+Lots of girls walk around in tears
+But that's not for you
+You've been looking all around for years
+For someone to tell your troubles to
+
+Come and sit with me and talk a while
+Let me see your pretty little smile
+Put your troubles in a little pile
+And I will sort em' out for you
+
+Lots of girls walk around in tears
+But that's not for you
+You've been looking all around for years
+For someone to tell your troubles to
+
+Come and sit with me and talk a while
+Let me see your pretty little smile
+Put your troubles in a little pile
+And I will sort em' out for you
+
+I'll fall in love with you
+I think I'll marry you

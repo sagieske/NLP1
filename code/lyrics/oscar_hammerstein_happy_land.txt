@@ -1,0 +1,11 @@
+Artist: oscar_hammerstein
+Title: happy_land
+Genre: Stage & Screen
+Subgenres: [u'Cast Recordings', u'Show Tunes', u'Traditional Pop', u'Vocal Music']
+
+Song:
+
+"There is a happy land, far, far away, 
+Where saints in Glory stand, bright, bright as day."
+[Spoken] In the beginning God created the-heaven and the-earth.
+Mis-on-ary

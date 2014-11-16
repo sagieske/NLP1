@@ -1,0 +1,26 @@
+Artist: mickey_gilley
+Title: amazing_grace
+Genre: Country
+Subgenres: [u'Country-Pop', u'Honky Tonk', u'Traditional Country', u'Urban Cowboy']
+
+Song:
+
+Amazing grace, how sweet the sound
+That saved a wretch like me
+I once was lost but now I'm found
+Was blind but now I see.
+
+'Twas grace that taught my heart to fear
+And grace my fears releived
+How precious did that grace appear
+The hour I first believed.
+
+--- Instrumental ---
+
+When we've been there ten thousand years
+Bright shining as the sun
+We've no less days to sing God's praise
+Than when we first begun.
+
+We've no less days to sing God's praise
+Than when we first begun...

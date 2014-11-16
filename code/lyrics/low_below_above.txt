@@ -1,0 +1,16 @@
+Artist: low
+Title: below_above
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Dream Pop', u'Indie Rock', u'Sadcore', u'Slowcore', u'Alternative Pop/Rock']
+
+Song:
+
+Once you felt alive
+Present for a time
+Those below you w***e themselves
+Those above you know
+
+You're a friend of mine
+Bound by chains and wires
+Those below you w***e themselves
+Those above you know

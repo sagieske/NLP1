@@ -1,0 +1,26 @@
+Artist: unknown
+Title: a_perfect_day
+Genre: Pop/Rock
+Subgenres: [u'Indie Pop', u'Alternative/Indie Rock', u'Neo-Psychedelia', u'Indie Electronic']
+
+Song:
+
+O arise all you sons of this land,
+Let us sing of our joy to be free,
+Praising God and rejoicing to be
+Papua New Guinea.
+Chorus:
+Shout our name from the mountains to seas
+Papua New Guinea;
+Let us raise our voices and proclaim
+Papua New Guinea.
+Now give thanks to the good Lord above
+For His kindness, His wisdom and love
+For this land of our fathers so free,
+Papua New Guinea.
+Chorus:
+Shout again for the whole world to hear
+Papua New Guinea;
+We're independent and we're free,
+Papua New Guinea.
+Sent by Carlos Andr Pereira da Silva Branco

@@ -1,0 +1,25 @@
+Artist: queen_adreena
+Title: awaiting_you
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Art Rock', u'Contemporary Pop/Rock', u'Glam Rock', u'Hard Rock', u'Arena Rock', u'Dance-Rock', u'British Metal', u'Heavy Metal']
+
+Song:
+
+I swim the lake for I have lost my shoes,
+I'm holding on,
+I'm still awaiting you,
+You cling to me but I remain composed,
+I'll take the blame, grow you a thornless rose
+I swim the lake for I have lost my shoes,
+I'm holding on,
+I'm still awaiting you,
+Awaiting you,
+Awaiting you
+I swallow deep but the distance grows,
+I'm struggling on to find the endless road
+You cling to me, but I remain composed,
+The moon is full, but the darkness knows
+I swim the lake for I have lost my shoes,
+I'm holding on,
+I'm still awaiting you,
+Awaiting you,

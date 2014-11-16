@@ -1,0 +1,12 @@
+Artist: shrek
+Title: alone
+Genre: Jazz
+Subgenres: [u'Avant-Garde Jazz']
+
+Song:
+
+Cause I'm all alone
+Theres no one here beside me
+My problems have all gone
+Theres no one here to reside me
+But you gotta have friends

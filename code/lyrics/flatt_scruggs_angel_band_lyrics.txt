@@ -1,0 +1,16 @@
+Artist: flatt_scruggs
+Title: angel_band_lyrics
+Genre: Country
+Subgenres: [u'Bluegrass', u'Traditional Bluegrass', u'Country-Pop']
+
+Song:
+
+My latest sun is sinking fast my race is nearly run
+My strongest trials now are past my triump has began
+Oh come angel band come and around me stand
+Bear me away on your snowy wings to my imortal home
+Bear me away on your snowy wings to my imortal home
+[ dobro ]
+I've almost gained my heavenly home my spirit loudly sing
+The holy ones behold they come I hear the noise of wings
+Oh come angel band...

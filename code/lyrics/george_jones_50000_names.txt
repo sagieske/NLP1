@@ -1,0 +1,36 @@
+Artist: george_jones
+Title: 50000_names
+Genre: Country
+Subgenres: [u'Country-Pop', u'Honky Tonk', u'Nashville Sound/Countrypolitan', u'Traditional Country', u'Country Gospel', u'Gospel']
+
+Song:
+
+There are teddy bears & high school rings
+And old photographs that mamas bring
+That daddies with their young boys, playing ball.
+There's combat boots that he used to wear, 
+When he was sent over there.
+There's 50, 000 names carved in the wall
+
+There's cigarettes, & there's cans of beer
+And notes that say I miss you dear
+And children who don't say anything at all.
+There's purple hearts and packs of gum
+Fatherless daughters and fatherless sons
+And there's 50, 000 names carved in the wall
+
+They come from all across this land
+In pickup trucks and mini vans
+Searching for a boy from long ago
+They scan the wall and find his name
+The teardrops fall like pouring rain
+And silently they leave a gift and go
+
+There's stars of David and rosary beads
+And crucifixion figurines
+And flowers of all colors large and small
+There's a Boy Scout badge and a merit pin
+Little American flags waving in the wind
+And there's 50, 000 names carved in the wall.
+
+There's 50, 000 names carved in the wall...

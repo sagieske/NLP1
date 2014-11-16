@@ -1,0 +1,31 @@
+Artist: zen_caf
+Title: auto_parkissa
+Genre: Pop/Rock
+Subgenres: [u'Indie Rock', u'Adult Alternative Pop/Rock', u'Alternative/Indie Rock']
+
+Song:
+
+Min olen syksy hiljainen
+Min olen aamu talvinen
+Min olen ollut rautatie ja kiskot sen
+Min olen puita metsss
+Min olen kanto tiedt s
+Min olen ollut rautatie ja asfaltti
+Min olen pyt nurkassa
+Ei en liiku vaikka muut on jalkoja
+Min olen ollut lentoreitti pohjoiseen
+(x2)Min olen auto parkissa
+Olen tynn sakkolappuja
+Min olen paskaa lintujen
+Konepellin pll tiedn sen
+Min olen huone vintill
+Olen talo ilman hissi
+Min olen ollut vyl tukholmaan ja pois
+Min olen ilmaa purkissa
+Min olen karhu talvella
+Olen ollut taivaan kansi thtiloistossa
+(x2)Min olen auto parkissa
+Olen tynn sakkolappuja
+Min olen paskaa lintujen
+Konepellin pll tiedn sen
+Min olen auto parkissa(x2)

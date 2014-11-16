@@ -1,0 +1,23 @@
+Artist: the_muppets
+Title: alphabet_song
+Genre: R&B
+Subgenres: [u'Contemporary R&B', u'Pop']
+
+Song:
+
+The Sesame Street "Alphabet Song"
+Thanks to Brian Fennell (fenn@wpi. Wpi. Edu)
+Amazingly Beautiful Creatures Dancing
+Exite the Forest Glade.
+In my Heart I do
+Jump like Kangaroo do
+Listening to the Music
+So Nicely Organ Played.
+Quietly Rest the
+Sleeping Tiger
+Under the Vines by the Waterside
+X-marks-the-spot 'neath the
+Yellow moon where the
+Zulu chief and I do hide
+(Hey nan ay)
+(From memory, I may have botched it some)

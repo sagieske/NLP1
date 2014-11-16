@@ -1,0 +1,32 @@
+Artist: luciano_pavarotti
+Title: caro_mio_ben
+Genre: Classical
+Subgenres: [u'Classical Crossover', u'Opera', u'Vocal Music']
+
+Song:
+
+Caro mio ben,
+Credimi almen,
+Senza di te
+Languisce il cor,
+Caro mio ben,
+Senza di te
+Languisce il cor.
+
+Il tuo fedel
+So spira ognor.
+Cessa, crudel,
+Tanto rigor!
+Cessa, crudel,
+Tanto rigor,
+Tanto rigor!
+
+Caro mio ben
+Credimi almen,
+Senza di te
+Languisce il cor,
+
+Caro mio ben
+Credimi almen,
+Senza di te
+Languisce il cor.

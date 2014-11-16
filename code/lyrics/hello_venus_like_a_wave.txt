@@ -1,0 +1,90 @@
+Artist: hello_venus
+Title: like_a_wave
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Indie Pop', u'Alternative Latin']
+
+Song:
+
+[All] Say Goodbye
+Never Say Goodbye, 
+Don't Say Goodbye
+Nan babo cheoreom 
+Tto pado cheoreom
+Neol gidarinda 
+[Lime] (Don't leave me cry)
+[All] Nan babo cheoreom 
+Tto pado cheoreom
+Neoreul geurinda 
+[Lime](Don't make me cry)
+
+[Ara] Babo cheoreom amu maldo motae 
+Jeom jeom Neon meoreo jyeoman ganeunde
+[Alice] Ai cheoreom nunmureun wae nande
+[Ara] Neo eobsin yeogsi naneun andwae
+
+[Lime] Geurae babo cheoreom nan neol mot ijeo
+Nae oenjjog gaseumen uri chueog
+Deuri nama isseo ijeul su eobseo
+Gieogeul jiwodo niga sara isseo Uh
+Jeongmal eotteokae nareul dugo eotteoke
+Neo geureoke tteonal su isseo maejeong hage naege
+Chagabge doraseon neol gidaryeo nan geureoke
+
+[Alice] Neoneun nal tteona haengbokhaji marajwo
+Nae gaseumi apa sumdo mot swigesseo
+[Lime] Niga tteonagan I jarie maeil
+Nan gidaryeo 
+[YooYoung](gidaril geoya nan)
+
+[All] Nan babo cheoreom 
+Tto pado cheoreom
+Neol gidarinda 
+[Lime](Don't leave me cry)
+[All] Nan babo cheoreom 
+Tto pado cheoreom
+Neoreul geurinda 
+[Lime](Don't make me cry)
+
+[Yooyoung] Jamkkanman doraseoneun neoreul butjabgo
+Cheoeumeuro ni apeseo nunmullo
+Bilgo tto nan sorichyeo mag michin saram cheoreom na
+[Nara] (Geureoke nareul tteonamyeon)
+[YooYoung] Haengbog hal su itni jeongmal
+[Nara](Idaero nareul) 
+[YooYoung] tteona gamyeon haengbog hal geot
+Gat damyeoneun nohajul tende nan
+
+[Lime] Neoneun nal tteona haengbokhaji marajwo
+Nae gaseumi apa sumdo mot swigesseo
+[Alice] Niga tteonagan I jarie maeil
+Nan gidaryeo (
+[Lime] gidaril geoya nan)
+
+[Ara] Niga utgo isseo 
+Jamdeun Nae pumeseo 
+[Alice](kkae eonal su eobseo)
+[Ara] Sigani meomchwoseon ibyeorui kkeuteseo
+Neol gidarilge 
+[Lime](Dedicate this song for you)
+
+[Lime] Saranghae gil irheun sarange
+Na jeom jeom muneojyeoga
+Apeuge nae mameul doryeonae
+Nae sumi meomchwojyeo ga
+[Alice] Tteonajima 
+Geudaero naege dorawa
+Don't break my heart
+
+[Ara] Deoneun naegeseo meoreojiji marajwo
+Naega animyeon neon haengbog hal su eobseo
+[Lime] Dasi doraol I jarie maeil
+Nan gidaryeo nan neol gidaryeo
+
+[All] Nan babo cheoreom tto pado cheoreom
+Neol gidarinda 
+[Lime](Don't leave me I cry)
+Nan babo cheoreom tto pado cheoreom
+Neoreul geurinda 
+[Ara](maeil nan babo cheoreom neol)
+
+Gidarinda

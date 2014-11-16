@@ -1,0 +1,34 @@
+Artist: rossa
+Title: ayat_ayat_cinta
+Genre: Folk
+Subgenres: [u'Contemporary Folk', u'Progressive Folk']
+
+Song:
+
+Desir pasir di padang tandus
+Segersang pemikiran hati
+Terkisah ku di antara cinta yang rumit
+
+Bila keyakinanku datang
+Kasih bukan sekadar cinta
+Pengorbanan cinta yang agung
+Ku pertaruhkan
+
+reff:
+Maafkan bila ku tak sempurna
+Cinta ini tak mungkin ku cegah
+Ayat-ayat cinta bercerita
+Cintaku padamu
+Bila bahagia mulai menyentuh
+Seakan ku bisa hidup lebih lama
+Namun harus ku tinggalkan cinta
+Ketika ku bersujud
+
+Bila keyakinanku datang
+Kasih bukan sekedar cinta
+Pengorbanan cinta yang agung
+Ku pertaruhkan
+
+repeat reff
+
+Ketika ku bersujud

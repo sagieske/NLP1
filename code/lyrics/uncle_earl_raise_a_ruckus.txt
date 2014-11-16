@@ -1,0 +1,51 @@
+Artist: uncle_earl
+Title: raise_a_ruckus
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'American Trad Rock', u'Contemporary Pop/Rock', u'Neo-Psychedelia', u'Album Rock']
+
+Song:
+
+Well, my old missus said to me,
+Gonna raise a ruckus tonight,
+When she died, gonna set me free
+Gonna raise a ruckus tonight
+Oh, come on children, come along,
+While the moon is shining bright,
+Get on the boat,
+Down the river float,
+Gonna raise a ruckus tonight
+
+Well there ain't no use in me working so hard
+Gonna raise a ruckus tonight,
+When I've got a woman in the rich folks' yard
+Gonna raise a ruckus tonight
+
+Oh, come on children, come along,
+While the moon is shining bright,
+Get on the boat,
+Down the river float,
+Gonna raise a ruckus tonight
+
+Well, every evening about half past eight
+Gonna raise a ruckus tonight,
+I'll hang my bucket on the rich folks' gate
+Gonna raise a ruckus tonight
+
+Oh, come on children, come along,
+While the moon is shining bright,
+Get on the boat,
+Down the river float,
+Gonna raise a ruckus tonight
+
+Well she brings me chicken and she brings me pie
+Gonna raise a ruckus tonight,
+I eat some of everything the rich folks buy
+Gonna raise a ruckus tonight
+
+Oh, come on children, come along,
+While the moon is shining bright,
+Get on the boat,
+Down the river float,
+Gonna raise a ruckus tonight.
+
+(Repeat)

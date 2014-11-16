@@ -1,0 +1,57 @@
+Artist: unbelievable_truth
+Title: agony
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Britpop']
+
+Song:
+
+"Could I
+Break through
+The wall you put me in,
+Can I,
+be sure,
+You even keep me here,
+
+Blood on
+my fingers,
+seems to testify
+to my
+Imprisonment,
+but I have my doubts.
+
+I fade
+The sound
+away...
+I will,
+choose,
+silence..
+
+Do I,
+resist,
+when you bring me bread?
+Am I,
+still tempted,
+when you promise more?
+
+Silence,
+I like the sound of it
+If I keep it up
+then will you let me go?
+
+Blood on my fingers,
+Jesus was that really me?
+Sorrythankyou, Sorrythankyou, Sorrythankyou, Thankyou, let me go.
+
+Keep me here? Keep me here?
+
+Am...
+I..
+Tempted...
+When you...
+Promise...
+The world...
+
+Blood on my fingers,
+Jesus was that really me?
+
+Sorrythankyou, Sorrythankyou, Sorrythankyou"

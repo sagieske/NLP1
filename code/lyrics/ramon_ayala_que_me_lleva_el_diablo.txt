@@ -1,0 +1,37 @@
+Artist: ramon_ayala
+Title: que_me_lleva_el_diablo
+Genre: Latin
+Subgenres: [u'Mexican Traditions', u'Norteno']
+
+Song:
+
+Que rayos me pasa a mi,
+Que quiero llorar gritando...
+
+Maldito sea tu amor,
+Como te estoy adorando,
+Que suerte me cargo yo,
+Quisiera no haber nacido
+Pa' que te fui a conocer,
+Si eres un caso perdido.
+
+Si un dia te fuiste de mi,
+Y hoy vuelves,
+Demonios que hago
+Si te perdono, pa' que
+Si te maldigo, que gano
+Mejor tu sigue feliz,
+Y a mi que me lleve el diablo
+
+Cantinas muchas cantinas
+Recorro de arriva a bajo
+Estoy asta el mero fondo
+No puedo caer mas bajo.
+
+Si un dia te fuiste de mi,
+Y hoy vuelves,
+Demonios que hago
+Si te perdono, pa' que
+Si te maldigo, que gano
+Mejor tu sigue feliz
+Y a mi que me lleve el diablo.

@@ -1,0 +1,45 @@
+Artist: freddie_king
+Title: country_boy_lyrics
+Genre: Blues
+Subgenres: [u'Electric Texas Blues', u'Modern Electric Blues', u'Regional Blues', u'Texas Blues', u'Early R&B', u'Electric Blues', u'Modern Electric Texas Blues']
+
+Song:
+
+[Freddy]
+I'm just a little country boy
+Lookin' for my pride and joy
+I came to the city just to see what I could see
+I just made it in your town
+Thought I'd take a look around
+I wanna tell you baby
+Just how good you look to me
+My mama told me there will be sometime like this
+She told me there would be some moments here will flip
+She warned me of a lot of things I had to do
+But she didn't tell me I would meet somebody like you
+Somebody take a chance with me
+I want you to romance with me
+You might say I'm coy
+'Cause I'm just a little country boy
+[Margaret]
+I'm just a little country girl
+Living in a great big world
+I met some country boy
+And I've got some news for you
+He swept me right off my feet
+Made my life complete
+My heart skipped a beat
+'Cause he thrilled me through and through
+Ooo-ooo-ooo-ooo-ooo
+[Sung together]
+We gonna march together down the aisle today
+We gonna see the preacher in the business way
+Oh I'm so happy can't you see I'm thrilled with joy?
+[Freddy]
+(Can't believe how this could happen to a country boy)
+So come and take me by the hand (M)
+Let me be your lovin' man (F)
+I'm in a great big world (M)
+My baby is a country girl (F)
+I found my toy (M)
+I'm a country boy (F)

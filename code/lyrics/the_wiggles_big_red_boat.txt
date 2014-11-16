@@ -1,0 +1,24 @@
+Artist: the_wiggles
+Title: big_red_boat
+Genre: R&B
+Subgenres: [u'Contemporary R&B', u'Pop']
+
+Song:
+
+Big Red Boat stay afloat
+Cruising the ocean blue.
+Big Red Boat stay afloat
+Crusing around the world bringing fun to you.
+We're a boat full of friends. How many friends?
+1, 2, 3 and 4.
+We're a boat full of friends. How many friends?
+1, 2, 3 and 4.
+Big Red Boat stay afloat
+Cruising the ocean blue.
+Big Red Boat stay afloat
+Crusing around the world bringing fun to you.
+We're a boat full of friends. How many friends?
+1, 2, 3 and 4.
+We're a boat full of friends. How many friends?
+1, 2, 3 and 4.
+The Boat is Red the sea is Blue.

@@ -1,0 +1,28 @@
+Artist: eric_bogle
+Title: cornflower_blue_lyrics
+Genre: Country
+Subgenres: [u'Contemporary Country', u'Country-Rock']
+
+Song:
+
+"Cornflower Blue"
+-Eric Bogle
+
+Cornflower blue, bloomin' in the mornin' sun
+Tiny flowers that grew, from when our love had just begun
+Long ago we planted, each dry and dusty row
+How long has it taken, for the seeds of love to grow?
+Cornflower blue...
+
+Cornflower blue, like the faded shirt you wore
+Standing in the shadows, when I opened up the door
+The smile in your eyes, when you said hello
+Held me so tenderly, and you would not let me go
+Cornflower blue...
+
+Cornflower blue, deeper than the evenin' sky
+Peaceful as a river, bluer than goodbye
+Blue like a diamond, when the light shines true
+If love came in colors, then I'd choose this one for you
+Cornflower blue...
+Cornflower blue...

@@ -1,0 +1,33 @@
+Artist: mark_knopfler
+Title: a_night_in_summer_long_ago
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Folk-Rock', u'Psychedelic/Garage', u'Film Score', u'Contemporary Singer/Songwriter', u'Adult Contemporary', u'Film Music', u'Soundtracks']
+
+Song:
+
+My lady may I have this dance
+Forgive a knight who knows no shame
+My lady may I have this dance
+And lady may I know your name
+You danced upon a soldier's arm
+And I felt the blade of love so keen
+And when you smiled you did me harm
+And I was drawn to you, my queen
+
+Now these boots may take me where they will
+Though they may never shine like his
+There is no knight I would not kill
+To have my lady's hand to kiss
+Yes and they did take me through the hall
+To leave me not one breath from you
+And they fell silent one and all
+And you could see my heart was true
+
+Then I did lead you from the hall
+And we did ride upon the hill
+Away beyond the city wall
+And sure you are my lady still
+A night in summer long ago
+The stars were falling from the sky
+And still, my heart, I have to know
+Why do you love me, lady, why?

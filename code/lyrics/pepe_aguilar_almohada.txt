@@ -1,0 +1,28 @@
+Artist: pepe_aguilar
+Title: almohada
+Genre: Latin
+Subgenres: [u'Mexican Traditions', u'Tejano', u'Norteno', u'Ranchera', u'Corrido', u'Latin Pop']
+
+Song:
+
+Amor como el nuestro, No hay dos en la vida
+Por mas que se busque, Por mas que se esconda
+Tu duermes conmigo, Toditas las noches
+Te quedas callada, Sin ningun reproche
+Por eso te quiero, por eso te adoro
+Eres en mi vida, todo mi tesoro
+A veces regreso, borracho de angustia
+Te lleno de besos y caricias mustias
+Pero estas dormida, no sientes caricias
+Te abrazo a mi pecho, me duermo contigo
+Mas luego despierto, tu no estas conmigo
+Solo esta mi almohada
+A veces te miro, callada y ausente
+Y sufro en silencio, como tanta gente
+Quisiera gritarte, que vuelvas conmigo
+Que si aun estoy vivo, slo es para amarte
+Pero todo pasa y a los sufrimientos
+Como las palabras, se las lleva el viento
+Por eso regreso, borracho de angustia
+Te lleno de besos y caricias mustias
+Pero estas dormida...

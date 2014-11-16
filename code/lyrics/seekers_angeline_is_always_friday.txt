@@ -1,0 +1,26 @@
+Artist: seekers
+Title: angeline_is_always_friday
+Genre: Pop/Rock
+Subgenres: [u'AM Pop', u'Folk-Rock', u'Psychedelic/Garage', u'Early Pop/Rock', u'Folk-Pop']
+
+Song:
+
+Clatter -- the milkman at my doorstep, bustle -- my neighbour at her tea;
+In all the world no one's so glad to see the sun as me.
+Angeline is always Friday, Angeline is spring forever;
+Winter Angeline could never be.
+Mister Wilson, old and smiling, lifts his cap as she is passing,
+Bowing her politely on to me.
+Chorus:
+The week has gone it's lonely way;
+I've waited for my only day
+Away from shadows,
+In her sunlight I can tell her, "I love you, Angeline."
+Angeline is always Friday, suitcase on the rack above;
+She hasn't even read her magazine.
+Angeline is counting stations, 'til the one where I am standing,
+Waiting for my only Angeline.
+(Instrumental bridge)
+[Chorus:]
+Clatter -- the milkman at my doorstep, bustle -- my neighbour at her tea;
+In all the world no one's so glad to see the sun as me.

@@ -1,0 +1,48 @@
+Artist: paul_simon
+Title: a_hazy_shade_of_winter
+Genre: Pop/Rock
+Subgenres: [u'Adult Contemporary', u'Contemporary Pop/Rock', u'Folk-Rock', u'Singer/Songwriter', u'Soft Rock', u'Worldbeat', u'Album Rock', u'AM Pop']
+
+Song:
+
+Time,
+Time,
+Time, see what's become of me
+While I looked around for my possibilities.
+
+I was so hard to please.
+Look around,
+Leaves are brown,
+And the sky is a hazy shade of winter.
+
+Hear the Salvation Army band.
+Down by the riverside's
+Bound to be a better ride
+Than what you've got planned.
+
+Carry your cup in your hand.
+And look around.
+Leaves are brown.
+And the sky is a hazy shade of winter.
+
+Hang on to your hopes, my friend.
+That's an easy thing to say,
+But if your hopes should pass away
+Simply pretend that you can build them again.
+Look around,
+The grass is high,
+The fields are ripe,
+It's the springtime of my life.
+
+Seasons change with the scenery;
+Weaving time in a tapestry.
+Won't you stop and remember me
+At any convenient time?
+Funny how my memory skips
+Looking over manuscripts
+Of unpublished rhyme.
+
+Drinking my vodka and lime,
+I look around,
+Leaves are brown,
+And the sky is a hazy shade of winter.

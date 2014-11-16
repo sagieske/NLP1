@@ -1,0 +1,44 @@
+Artist: kelly_family
+Title: angels_flying
+Genre: Pop/Rock
+Subgenres: [u'Celtic', u'Traditional Celtic', u'Euro-Pop']
+
+Song:
+
+I Can't Hold My Tears Now
+I Can't Hold Them Back
+Maybe She'll Come Back
+Come Back To Me
+
+Those Beautiful Eyes
+Those Beautiful Smiles
+They're Like Sugar And Honey
+I Was Wrong She Was Right
+You Are An Angel
+You Are An Angel
+
+Chorus:
+If You See, Angels Flying
+Wave Goodbye
+If You See, Angels Flying
+Wave Goodbye
+
+Can't Hold My Tears Back
+We're Too Far Apart
+Maybe She'll Come Back
+Come Back To Me
+
+Those Beautiful Eyes
+Those Beautiful Smiles
+They're Like Sugar And Honey
+I Was Lost Now I'm Found
+Please Forgive Me
+You Are An Angel
+
+Chorus 5x
+
+Those Beautiful Eyes
+Those Beautiful Smiles
+They're Like Sugar And Honey
+I Was Wrong She Was Right
+You Are An Angel

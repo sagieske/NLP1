@@ -1,0 +1,46 @@
+Artist: francis_cabrel
+Title: carte_postale_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Folk', u'French Pop', u'Singer/Songwriter']
+
+Song:
+
+Allums les postes de tlvision,
+Verrouilles les portes des conversations,
+Oublis les dames et les jeux de cartes,
+Endormies les fermes quand les jeunes partent.
+
+Brises les lumires des ruelles en fte,
+Refroidi le vin brlant les assiettes,
+Emports les mots des serveuses aimables,
+Et disparus les chiens jouant sous les tables.
+
+Dchires les nappes des soires de noce,
+Oublies les fables du sommeil des gosses,
+Arrtes les valses des derniers jupons,
+Et les fausses notes des accordons.
+
+C'est un hameau perdu sous les toiles,
+Avec de vieux rideaux pendus des fentres sales,
+Et sur le vieux buffet sous la poussire grise,
+Il reste une carte postale.
+
+Goudronnes les pierres des chemins tranquilles,
+Releves les herbes des endroits fragiles,
+Dsertes les places des belles foraines,
+Assches les traces de l'eau des fontaines.
+
+Oublies les phrases sacres des grand-pres,
+Aux tres des grandes chemines de pierre,
+Envols les rires des nuits de moissons,
+Et allumes les postes de tlvision.
+
+C'est un hameau perdu sous les toiles,
+Avec de vieux rideaux pendus des fentres sales,
+Et sur le vieux buffet sous la poussire grise,
+Il y reste une carte postale.
+
+Envoles les robes des belles promises,
+Les ailes des grillons, les paniers de cerises,
+Oublis les rires des nuits de moissons,
+Et allumes les postes de tlvision.

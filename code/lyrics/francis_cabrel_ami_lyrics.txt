@@ -1,0 +1,36 @@
+Artist: francis_cabrel
+Title: ami_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Folk', u'French Pop', u'Singer/Songwriter']
+
+Song:
+
+Ami cherche un autre ami perdu
+Dans l'immensit des nues
+Visages et corps inconnus
+Rveur cherche retrouver son ciel
+Du fond de la nuit appelle
+Son toile maternelle
+Car il y a vingt ans un orage
+L'a fait tomber de mon nuage
+Et m'a laiss seul dans ce monde abandonn
+Au matin d'un lointain voyage
+Je suis tomb de mon nuage
+Je n'ai jamais senti la terre sous mes pieds
+Reviens, toile aux plaines d'argent
+Reviens chercher ton enfant
+Avant qu'il ne soit gant
+Avant qu'il ne se brle un feu
+Qu'il ne se blesse un jeu
+Avant qu'il ne soit trop vieux
+Car il y a vingt ans un orage
+L'a fait tomber de mon nuage
+Et m'a laiss seul dans ce monde abandonn
+Au matin d'un lointain voyage
+Je suis tomb de mon nuage
+Je n'ai jamais senti la terre sous mes pieds
+Il y a vingt ans un orage
+L'a fait tomber de mon nuage
+Et m'a laiss seul dans ce monde abandonn
+Au matin d'un lointain voyage
+Je suis tomb de mon nuage

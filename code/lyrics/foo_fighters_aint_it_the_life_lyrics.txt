@@ -1,0 +1,56 @@
+Artist: foo_fighters
+Title: aint_it_the_life_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Grunge', u'Post-Grunge']
+
+Song:
+
+Dear Haley
+Can you save me from the borrowed cloud I'm on
+All you gotta do is try
+Pray you're just getting by
+Hey wait I thought you'd made it
+How'd your bottled crown fall off
+Tell me how'd you get so tired
+Faded down to the wire
+Try living a lie and kicking out the same old guise
+Wasting time
+So very ordinary
+Wait until my bomb goes off
+See the actors run and hide
+Fake it all in stride
+One day we all can say we're gone
+And haunt the ground we're from
+Everything's so open wide
+Here within the divide
+Try living a lie and kicking out the same old guise
+Wasting time
+Ain't it the life
+Ain't it the life
+Ain't it the life
+Got no crime
+Just sail on by
+Sail on by
+Ain't it the life
+Ain't it the life
+Ain't it the life
+Got no crime
+Just sail on by
+Sail on by
+Ain't it the life
+Just sail on by
+Try living a lie and kicking out the same old guise
+Wasting time
+Ain't it the life
+Ain't it the life
+Ain't it the life
+Got no crime
+Just sail on by
+Sail on by
+Ain't it the life
+Ain't it the life
+Ain't it the life
+Got no crime
+Just sail on by
+Sail on by
+Ain't it the life

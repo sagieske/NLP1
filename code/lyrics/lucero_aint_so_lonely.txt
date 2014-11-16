@@ -1,0 +1,19 @@
+Artist: lucero
+Title: aint_so_lonely
+Genre: Latin
+Subgenres: [u'Dance-Pop', u'Latin Pop', u'Mexican Traditions', u'Tejano', u'Bolero', u'Western European Traditions', u'Contemporary Pop/Rock']
+
+Song:
+
+She smiles oh so sweetly and I ain't so lonely
+She acts like she don't need me and I ain't so lonely
+
+We drive down to the corner drugstore and I ain't so lonely
+Coca-cola and pills take a few more and I ain't so lonely
+
+It's been a while since I was nineteen
+It's been a while since I've seen myself act like such a fool
+How long must this go on tonight
+
+By myself on the long drive home I ain't so lonely
+Cause I like hearing the sad songs and I ain't so lonely

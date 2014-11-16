@@ -1,0 +1,43 @@
+Artist: crystal_lewis
+Title: angels_we_have_heard_on_high
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Indie Rock', u'Americana', u'Indie Pop', u'Alternative Country-Rock']
+
+Song:
+
+Angels we have heard on high
+Sweetly singing over the plains
+And the mountains in reply,
+Echoing their joyous strains.
+Glo-ori-a
+In excelsis de-o
+Glo-ori-a
+In excelsis de-o
+
+Shepherds, why this Jubilee?
+Why your joyous strains prolong?
+What the gladsome tidings be
+Which inspire your heavenly song?
+Glo-ori-a
+In excelsis de-o
+Glo-ori-a
+In excelsis de-o
+
+Come to Bethlehem and see
+Him whose birth the angels sing;
+Come, adore on bended knee
+Christ, the Lord,
+The newborn King
+Glo-ori-a
+In excelsis de-o
+Glo-ori-a
+In excelsis de-o
+
+See Him in a manger laid
+Jesus, Lord of heaven and earth!
+Mary, Joseph, lend your aid,
+With us sing our Savior's birth.
+Glo-ori-a
+In excelsis de-o
+Glo-ori-a
+In excelsis de-o

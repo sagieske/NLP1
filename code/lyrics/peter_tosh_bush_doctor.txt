@@ -1,0 +1,50 @@
+Artist: peter_tosh
+Title: bush_doctor
+Genre: Reggae
+Subgenres: [u'Political Reggae', u'Roots Reggae']
+
+Song:
+
+"lyrics hebush Doctor
+Warning!
+Warning! The Surgeon General warns
+Cigarette smoking is dangerous, dangerous
+Hazard to your health
+Does that mean anything to you
+To legalize marijuana
+Right here in Jamaica
+I'm say it cure glaucoma
+I man a de Bush Doctor
+So there'll be
+No more smokin and feelin tense
+When I see them a come
+I don't have to jump no fence
+Legalize marijuana
+Down here in Jamaica
+Only cure for asthma
+I man a de Minister(of the Herb)
+So there'll be no more
+Police brutality
+No more disrespect
+For humanity
+Legalize marijuana
+Down here in Jamaica
+It can build up your failing economy
+Eliminate the slavish mentality
+There'll be no more
+Illegal humiliation
+And no more police
+Interrogation
+Legalize marijuana
+Down here in sweet Jamaica
+Only cure for glaucoma
+I man a de Bush Doctor
+So there be
+No more need to smoke and hide
+When you know you're takin
+Illegal ride
+Legalize marijuana
+Down here in Jamaica
+It the only cure for glaucoma
+I man a de Minister
+Re"

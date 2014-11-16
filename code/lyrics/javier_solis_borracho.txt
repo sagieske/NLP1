@@ -1,0 +1,41 @@
+Artist: javier_solis
+Title: borracho
+Genre: Latin
+Subgenres: [u'Mariachi', u'Mexican Traditions', u'Ranchera', u'Latin Pop', u'Bolero', u'Tejano', u'Western European Traditions', u'Tropical']
+
+Song:
+
+Borracho yo he nacido,
+Borracho yo he crecido
+Y s? Sinceramente
+Que borracho he de morir,
+No culpo yo al destino
+Que me marco un camino,
+Que irremediablemente
+Yo tengo que seguir,
+Mi vida es...
+Igual como otras vidas,
+Tragedias y comedias
+Que m? S puede existir
+Todos gozan lo mismo,
+Todos sufren lo mismo
+Es una ley eterna
+De llorar y reir...
+
+Que culpa tengo yo...
+Por que me gusta el vino
+Si encuentro en la embriaguez
+Dicha y ternura...
+Que culpa tengo yo
+Si me brindo el destino
+El balsamo que alivia mi amargura
+
+Que culpa tengo yo...
+Por que me gusta el vino
+Si encuentro en la embriaguez
+Dicha y ternura...
+Que culpa tengo yo
+Si me brindo el destino
+El balsamo que alivia mi amargura
+
+(Gracias a Arturo por esta letra)

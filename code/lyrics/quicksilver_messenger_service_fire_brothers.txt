@@ -1,0 +1,14 @@
+Artist: quicksilver_messenger_service
+Title: fire_brothers
+Genre: Pop/Rock
+Subgenres: [u'Acid Rock', u'Psychedelic/Garage']
+
+Song:
+
+In the valley where the moons and lovers play live two children who were born on Saturday.
+One was dark, one was fair, followed by the hawk, mothered by the mare.
+Stranger children you will never see, brothers of the forest and the sea,
+One was land, one was air, and they kept the fires burning there.
+In a golden vessel and silver vase, kept them burning in the strange enchanted
+Place,
+Kept them burning to the sky, for they knew someday the sun would die

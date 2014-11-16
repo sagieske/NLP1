@@ -1,0 +1,38 @@
+Artist: yves_montand
+Title: aux_marches_du_palais
+Genre: Vocal
+Subgenres: [u'French Pop', u'Traditional Pop', u'French', u'French Chanson', u'Vocal Pop', u'Western European Traditions', u'Film Score']
+
+Song:
+
+Aux marches du palais
+Aux marches du palais
+Y a une tant belle fille lonla,
+Y a une tant belle fille.
+
+Elle a tant d'amoureux
+Qu'elle ne sait lequel prendre.
+
+C'est un p't** cordonnier
+Qu'a eu sa pr? F? Rence.
+
+C'est en la lui chaussant
+Qu'il lui fit sa demande.
+
+La belle si tu voulais
+Nous dormirions ensemble.
+
+Dans un grand lit carr?
+Orn? De toile blanche.
+
+Aux quatre coins du lit
+Un bouquet de pervenches.
+
+Dans le mitan du lit
+La rivi? Re est profonde.
+
+Tous les chevaux du roi
+Pourraient y boire ensemble.
+
+Et nous y dormirions
+Jusqu'? La fin du monde

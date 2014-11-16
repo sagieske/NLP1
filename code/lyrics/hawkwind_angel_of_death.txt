@@ -1,0 +1,20 @@
+Artist: hawkwind
+Title: angel_of_death
+Genre: Pop/Rock
+Subgenres: [u'Art Rock', u'Hard Rock', u'Heavy Metal', u'Prog-Rock', u'British Psychedelia', u'Psychedelic/Garage']
+
+Song:
+
+Brock -)
+We're angels of life, we're angels of death
+We're born to blaze a nuclear way through space
+A way out of the waste that held the human race
+We're angels of life, we're angels of death
+We are the dead who are never led
+We are the warriors at the edge of time
+We lurk inside your brain, hide inside your minds
+We're angels of life, we're angels of death
+We stalk the city streets to kill all we meet
+Nostrils flare awhile, it makes you want to smile
+We're born to erase, all of your days
+_____________________________________________________________________

@@ -1,0 +1,29 @@
+Artist: the_platters
+Title: harbour_lights
+Genre: R&B
+Subgenres: [u'Doo Wop', u'Vocal Pop', u'Early Pop/Rock', u'Early R&B']
+
+Song:
+
+(Hugh Williams and Jimmy Kennedy)
+
+I saw the harbor lights
+They only told me we were parting
+The same old harbor lights that once brought you to me
+I watched the harbor lights
+How could I help if tears were starting
+Goodbye to tender nights beside the silv'ry sea
+
+I long to hold you near and kiss you just once more
+But you were on the ship and I was on the shore
+
+Now I know lonely nights
+For all the while my heart is whisp'ring
+Some other harbor lights will steal your love from me
+
+I long to hold you near and kiss you just once more
+But you were on the ship and I was on the shore
+
+Now I know lonely nights
+For all the while my heart is whisp'ring
+Some other harbor lights will steal your love from me

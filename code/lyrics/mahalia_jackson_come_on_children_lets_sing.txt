@@ -1,0 +1,30 @@
+Artist: mahalia_jackson
+Title: come_on_children_lets_sing
+Genre: Religious
+Subgenres: [u'Black Gospel', u'Gospel', u'Spirituals', u'Traditional Gospel']
+
+Song:
+
+Come on children, let's sing
+About the goodness of the Lord
+Come on children, let's shout
+All about God's great (rich) reward
+Guide our footsteps everyday
+Keeps us in this narrow way
+Come on children let sing
+(Come on children, let's shout)
+(How the Lord Almighty)
+(Has brought us out)
+(There's none like him)
+(Without a doubt)
+Come on children, let's sing
+About the goodness of the Lord
+
+He has been my all an' all
+He will never let me fall
+That is why I can sing
+That is why I can shout
+Because I know what it's all about
+The goodness, goodness
+Of the Lord, the Lord, the Lord
+(repeat chorus)

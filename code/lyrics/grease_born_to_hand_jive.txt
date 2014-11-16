@@ -1,0 +1,29 @@
+Artist: grease
+Title: born_to_hand_jive
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Garage Punk', u'Punk Revival']
+
+Song:
+
+Before I was born, late one night,
+My papa said everything's alright
+The doctor laughed when Ma lay down
+With her stomach bouncing all around
+Cause the beebop stork was about to arrive
+Mama gave birth to the hand-jive
+
+I could barely walk when I milked a cow
+When I was three I pushed a plow
+While chopping wood I moved my legs
+I started dancing when I gathered eggs
+The townfolk clapped, I was only five
+He'll out dance 'em all, he's born to hand-jive
+Oh yeah, yeah, yeah - everybody
+Born to hand-jive, baby,
+Born to hand-jive, baby
+Born to hand-jive, baby,-oh yeah, oh yeah, oh yeah
+Born to hand-jive, baby,
+Born to hand-jive, baby,
+Born to hand-jive, baby,-oh yeah, oh yeah, oh yeah
+Oh yeah, oh yeah, oh yeah,
+Born to hand-jive, oh yeah!

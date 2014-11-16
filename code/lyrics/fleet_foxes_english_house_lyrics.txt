@@ -1,0 +1,30 @@
+Artist: fleet_foxes
+Title: english_house_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Indie Rock', u'Americana']
+
+Song:
+
+You go with your two feet bare
+Down through the cold lane there, to Brighton
+A country house, a liar and a louse live there
+
+Go with your arms held wide
+Happiness in your eyes, convincing
+And stay the night, turn out every light you see
+And lay them down buried in the ground for me
+
+Whoa my love, whoa my love
+Whoa my love, whoa my love
+Whoa... 
+
+Tongues of the creatures wait
+Drawn to the fragile legs you walk on
+A cold wind blows, Brighton to the coast from me
+The cold wind blows, Brighton to the coast from me
+
+Whoa my love, oh my love
+Whoa my love, oh my love
+Whoa my love, oh my love
+Whoa my love, oh my love
+Oh...

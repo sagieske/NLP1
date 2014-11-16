@@ -1,0 +1,39 @@
+Artist: lakewood_church
+Title: friend_of_god
+Genre: Country
+Subgenres: [u'Contemporary Country', u'Country-Rock']
+
+Song:
+
+Who am I that You are mindful of me
+That You hear me when I call?
+Isn't it true that You are thinking of me
+How You love me, it's amazing
+
+I am a friend of God
+I am a friend of God
+I am a friend of God
+He calls me friend
+
+I am a friend of God
+I am a friend of God
+I am a friend of God
+He calls me friend
+
+I am a friend of God
+I am a friend of God
+I am a friend of God
+He calls me friend
+
+God Almighty, Lord of glory
+You have called me friend
+
+I am a friend of God
+I am a friend of God
+I am a friend of God
+He calls me friend
+
+You call me friend
+You call me friend
+You call me friend
+...

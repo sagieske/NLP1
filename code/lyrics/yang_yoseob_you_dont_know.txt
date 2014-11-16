@@ -1,0 +1,43 @@
+Artist: yang_yoseob
+Title: you_dont_know
+Genre: Rap
+Subgenres: [u'Party Rap', u'Southern Rap', u'Dirty South']
+
+Song:
+
+Haru jongil geudaega nune areungeoryeoyo
+Geudae ttaemune amugeotdo hal suga eobtjyo
+Kkumsogekkajido natanaseo nal heundeureo nonneyo
+Kkaeeonamyeon geudael chaja hemaegon hajyo
+
+Gireul geotdaga yeppeun oseul bwado nan geudaega jakku tteoolla
+Masinneun eumsigeul meogeul ttaedo nan (geudaega tteoolla)
+Oneulgachi haessari joheun nal
+Areumdaun geudaewaui deiteuneun (eolmana dalkomhalkkayo?)
+
+Ireon nal geudaeneun moreujyo
+Naegen neomu gwabunhan dangsiniraseo daga gal sujocha eobseo
+Hajiman geudaega mollado
+Nae mam jeonhal su eopdago haedo nan meomchul suga eomneyo
+
+Modeun geotdeuri saeropge boyeoyo
+Because of you, Woo Hoo
+Euneunhan baramkkaji nal seollege hae
+
+Georiui yeonindeureul bwado nan geudaega jakku tteoolla
+Hal il eomneun jumari doedo nan (geudaega tteoolla)
+Oneulgachi haessari joheun nal
+Areumdaun geudaewaui deiteuneun (eolmana dalkomhalkkayo?)
+
+Ireon nal geudaeneun moreujyo
+Naegen neomu gwabunhan dangsiniraseo daga gal sujocha eobseo
+Hajiman geudaega mollado
+Nae mam jeonhal su eopdago haedo nan meomchul suga eomneyo
+
+Geudaeneun moreujyo nae maeumeul na honja sijakhan sarangeul
+Ganjeolhi wonhagie eonjengan irwojil geora mideoyo
+
+Ireon nal geudaeneun moreujyo
+Naegen neomu gwabunhan dangsiniraseo daga gal sujocha eobseo
+Hajiman geudaega mollado
+Nae mam jeonhal su eopdago haedo nan meomchul suga eomneyo

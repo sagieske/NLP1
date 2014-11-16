@@ -1,0 +1,37 @@
+Artist: until_june
+Title: outer_space
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Alternative CCM', u'Contemporary Christian']
+
+Song:
+
+[Verse:]
+After evening fell we both had left this place
+Me and her beneath the stars in outer space
+Listen softly as the rain touched our face
+Dripping water as the lights lit up this place
+
+(prechorus)
+And then I walked her home alone
+And now I'm sorry for what I said
+
+[Chorus:]
+Oh and then she fell away
+And the memories start to fade
+And all I have is you
+
+[Verse 2:]
+We talked for hours on the rooftop
+Pretending shes there
+It seemed so long ago
+She left this quiet and intrusive
+The hurt that she felt,
+Of tears and broken glass.
+
+(Chorus 2)
+Oh and then she fell away
+And the memories fade away
+And all I have is you
+Oh and then she fell away
+But the pain I felt would stay
+With me

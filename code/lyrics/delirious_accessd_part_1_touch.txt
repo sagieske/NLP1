@@ -1,0 +1,14 @@
+Artist: delirious
+Title: accessd_part_1_touch
+Genre: Religious
+Subgenres: [u'CCM', u'Christian Rock', u'Contemporary Christian', u'Gospel', u'Christian Rap']
+
+Song:
+
+And when you touch my life
+I've been born again
+I've been born again
+
+And when you, you touch my life
+I've been born again
+I've been born again, yeah

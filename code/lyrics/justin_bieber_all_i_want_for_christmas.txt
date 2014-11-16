@@ -1,0 +1,14 @@
+Artist: justin_bieber
+Title: all_i_want_for_christmas
+Genre: Pop/Rock
+Subgenres: [u'Pop', u'Dance-Pop', u'Teen Pop']
+
+Song:
+
+There is just one thing I need
+I don't Care About the presents
+Underneath the Christmas Tree
+I don't Need to hang my stocking
+There Upon the fireplace
+Santa Claus won't make me happy
+With a toy on Christmas day

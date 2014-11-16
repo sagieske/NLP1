@@ -1,0 +1,17 @@
+Artist: hugh_grant
+Title: love_autopsy
+Genre: Pop/Rock
+Subgenres: [u'Adult Alternative Pop/Rock', u'Alternative/Indie Rock']
+
+Song:
+
+Figuring out you and me
+Is like doing a love autopsy
+They could operate all day long
+And never figure out what went wrong
+Love autopsy
+Love autopsy
+
+Ah ah ah ah
+
+What went wrong

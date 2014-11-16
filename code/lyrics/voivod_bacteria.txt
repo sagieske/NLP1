@@ -1,0 +1,22 @@
+Artist: voivod
+Title: bacteria
+Genre: Pop/Rock
+Subgenres: [u'Heavy Metal', u'Progressive Metal', u'Speed/Thrash Metal']
+
+Song:
+
+Clouds and fog cover the earth
+Dread and fear have now returned
+Red rainfalls poison the sky
+Blood and death for years and more
+Chemical infection on it's way
+Synthesized corruption and decay
+Pure decay
+Dead planet
+Virus unknown
+Plague and curse fall on the globe
+Chemical infection on it's way
+Synthesized corruption and decay
+Parasite
+One bacteria out to spread
+One bacteria and you're dead...

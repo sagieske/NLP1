@@ -1,0 +1,22 @@
+Artist: marcos_barrientos
+Title: abre_mis_ojos
+Genre: Latin
+Subgenres: [u'Bossa Nova', u'Brazilian Pop', u'MPB', u'Brazilian Traditions', u'Samba']
+
+Song:
+
+Abre mis ojos Oh Cristo
+Abre mis ojos Te pido
+Yo quiero verte
+Yo quiero verte
+
+Y contemplar tu majestad
+Y el resplandor de tu gloria
+Derrama tu amor y poder
+Cuando cantamos santo, santo
+
+Santo, Santo, Santo
+Yo quiero verte
+
+Santo, Santo, Santo
+Yo quiero verte

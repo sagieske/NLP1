@@ -1,0 +1,39 @@
+Artist: mark_knopfler
+Title: all_that_matters
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Folk-Rock', u'Psychedelic/Garage', u'Film Score', u'Contemporary Singer/Songwriter', u'Adult Contemporary', u'Film Music', u'Soundtracks']
+
+Song:
+
+My darling girl
+My darling girl
+You're all that matters
+In this wicked world
+All that matters
+All that matters
+My darling boy
+My darling boy
+All of my sunshine
+And all of my joy
+You're all that matters
+All that matters
+
+Well, I can't stop the pain
+When it calls
+I'm a man
+And I can't stop the rain
+When it falls, my darling
+Who can?
+
+My darling girl
+My darling girl
+You're all that matters
+In this wicked world
+All that matters
+All that matters
+My darling friend
+My darling friend
+All we've got going
+Is love in the end
+It's all that matters
+All that matters

@@ -1,0 +1,25 @@
+Artist: union_underground
+Title: bitter
+Genre: Pop/Rock
+Subgenres: [u'Dance-Pop', u'Pop', u'Teen Pop', u'Contemporary Pop/Rock', u'Pop Idol']
+
+Song:
+
+Twist me with your motivation
+You make me sick
+Won't you feel my frustration?
+It's ten feet thick
+
+All I see is apathy
+In this world I won't be
+
+I will be a better man
+I won't be a bitter man
+
+Twist me with your complication
+This time it stuck
+Curse me with your lips
+You wretched f**k
+
+Out of me am I free
+In this world I won't be

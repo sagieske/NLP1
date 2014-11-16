@@ -1,0 +1,35 @@
+Artist: doc_watson
+Title: blue_railroad_train
+Genre: Folk
+Subgenres: [u'Traditional Folk', u'Appalachian', u'Bluegrass', u'Old-Timey', u'North American Traditions', u'Traditional Country', u'Traditional Bluegrass']
+
+Song:
+
+(break)
+
+Blue railroad train, I'm goin' down the railroad track
+It makes me feel so doggone blue to listen to that old smokestack
+
+Drivers a-rollin' on, leavin' me here behind
+Give me back them good old days and let me ramble down the line
+
+(break)
+
+Blue railroad train, leavin' me here alone
+You treatn' me good, you treat'n me bad, you're makin' me think of home
+
+I hear that lonesome train and love to hear the whistle blow
+She's takin' the sun and leavin' the rain and makin' me wanna go
+
+(break)
+
+I've got the blues, longin' for her company
+It's many miles from where I am to the only one for me
+
+It's so lonesome here, waitin' for the manifest
+I hope that engineer is kind, enough to let me be his guest
+
+(break)
+
+Blue railroad train, a good old pal to me
+Takes me everywhere I wanna go, get my transportation free

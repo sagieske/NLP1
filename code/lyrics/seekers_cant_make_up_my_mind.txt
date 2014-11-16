@@ -1,0 +1,28 @@
+Artist: seekers
+Title: cant_make_up_my_mind
+Genre: Pop/Rock
+Subgenres: [u'AM Pop', u'Folk-Rock', u'Psychedelic/Garage', u'Early Pop/Rock', u'Folk-Pop']
+
+Song:
+
+Chorus:
+Can't make up my mind where you might hide away from me;
+Everywhere I've seached, and still I can't make up my mind.
+Maybe I'll stay here, maybe I'll go;
+I don't know what to do.
+It isn't easy seaching around;
+I can't believe it's true.
+Oh, no, now.
+When I awoke I opened my eyes,
+And when I turned around,
+I found your note pushed under my door;
+You'd gone without a sound.
+[Chorus:]
+Can't make up my mind.
+So you had gone, no word of farewell;
+I didn't realize.
+I may have hurt you, I couldn't tell;
+It wasn't in your eyes.
+[Chorus:]
+Can't make up my mind.
+Can't make up my mind.

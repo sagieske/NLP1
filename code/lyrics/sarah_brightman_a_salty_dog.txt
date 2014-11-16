@@ -1,0 +1,45 @@
+Artist: sarah_brightman
+Title: a_salty_dog
+Genre: Vocal
+Subgenres: [u'Adult Contemporary']
+
+Song:
+
+All hands on deck
+We've run afloat
+I heard the captain cry
+Explore the ship
+Replace the cook
+Let no one leave alive
+Across the straits
+Around the horn
+How far can sailors fly
+A twisted path
+Our tortured course
+And no one left alive
+
+We sailed for parts
+Unknown to man
+Where ships come home to die
+No lofty peak
+Nor fortress hold
+Could match our captain's eye
+
+Upon the seventh sea sick day
+We made our port of call
+A sand so white
+And seas so blue
+No mortal place at all
+
+We fired the gun
+And burned the mast
+And rowed from ship to shore
+The captain cried
+We sailors wept
+Our tears were tears of joy
+How many moons
+And many Junes
+Have passed since we made land
+A salty dog
+The seaman's log
+Your witness, my own hand

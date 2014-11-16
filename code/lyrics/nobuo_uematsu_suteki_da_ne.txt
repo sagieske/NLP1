@@ -1,0 +1,84 @@
+Artist: nobuo_uematsu
+Title: suteki_da_ne
+Genre: Stage & Screen
+Subgenres: [u'Video Game Music', u'Soundtracks', u'Film Music', u'Film Score', u'Vocal Music']
+
+Song:
+
+English:
+
+My heart, swimming
+In the words the wind has borne
+A voice, bouncing
+On a tomorrow carried by clouds
+
+A heart, trembling
+On a mirror where the moon quivers
+A star falls, spills
+Gentle teardrops
+
+Isn't it wonderful
+If we could walk, holding hands
+I'd want to go
+To your town, your house, into your arms
+
+To your heart
+I leave my body
+Mixed into the night
+I dream
+
+The wind stops; your words
+Are a kind illusion
+The clouds break apart; tomorrow
+Is a distant voice
+
+A heart flowing
+In a mirror where the moon has seeped in
+A star wavers, spills
+Tears you can't hide
+
+(repeat)
+
+That face
+Touch it, just so
+And dream a dream
+That melts in the morning
+
+Japanese:
+
+Kaze ga yoseta kotoba ni
+Oyoida kokoro
+Kumo ga hakobu ashita ni
+Hazunda koe
+
+Tsuki ga yureru kagami ni
+Furueta kokoro
+Hoshi ga nagare, koboreta
+Yawarakai namida
+
+Suteki da ne
+Futari te o tori aruketa nara
+Ikitai yo
+Kimi no machi, ie, ude no naka
+
+Sono mune
+Karada azuke
+Yoi ni magire
+Yume miru
+
+Kaze wa tomari; kotoba wa
+Yasashii maboroshi
+Kumo wa yabure; ashita wa
+Tooku no koe
+
+Tsuki ga nijimu kagami o
+Nagareta kokoro
+Hoshi ga yurete, koboreta
+Kakusenai namida
+
+(kurikaeshi)
+
+Sono kao
+Sotto furete
+Asa ni tokeru
+Yume miru

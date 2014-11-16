@@ -1,0 +1,27 @@
+Artist: mina
+Title: a_volte
+Genre: Pop/Rock
+Subgenres: [u'Euro-Pop', u'Italian Pop', u'Adult Contemporary']
+
+Song:
+
+A volte, lo so, cerchi me
+con il nome che un d? davi a lei
+ma poi se mi sfiori le labbra
+comprendo che tu ami me.
+
+A volte se vuoi ricordare
+una musica cos? pu? bastare
+ma so che tu l'hai amata
+e con me la scorderai.
+
+Per? i giorni passano
+guarire tu potrai
+e se sapr? attenderti
+soltanto a me tu penserai.
+
+Ma perch? se tu sei qui con me
+non mi importa se lei sognerai?
+Perch? col sole dell'alba
+io lo so
+che a me tornerai

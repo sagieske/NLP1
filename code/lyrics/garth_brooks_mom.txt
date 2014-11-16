@@ -1,0 +1,17 @@
+Artist: garth_brooks
+Title: mom
+Genre: Country
+Subgenres: [u'Country-Pop', u'New Traditionalist', u'Contemporary Country']
+
+Song:
+
+A little baby told God,
+Hey I'm kinda scared, don't really know if
+I wanna go down there,
+Because from here it looks like a little blue ball
+But that's a great big place and I'm so small.
+
+Why can't I just stay here with you?
+Did I make you mad, don't you want me, too? '
+And God said, 'Oh child, of course I do,
+But there's somebody special that's waiting for you

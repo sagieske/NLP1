@@ -1,0 +1,22 @@
+Artist: rage_against_the_machine
+Title: beautiful_world
+Genre: Pop/Rock
+Subgenres: [u'Alternative Metal', u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Heavy Metal', u'Rap-Metal']
+
+Song:
+
+It's a beautiful world we live in
+A sweet romantic place
+Beautiful people everywhere
+The way they show they care makes me want to say
+It's a beautiful world
+Oh what a beautiful world
+For you
+
+It's a wonderful time to be here
+It's nice to be alive
+Wonderful people everywhere
+The way they comb their hair makes me want to say
+It's a wonderful place
+Oh what a wonderful place
+For you, for you, for you, for you, for you, for you, not me

@@ -1,0 +1,19 @@
+Artist: marcos_witt
+Title: al_rey
+Genre: Religious
+Subgenres: [u'CCM', u'Contemporary Christian', u'Latin Pop', u'Christmas', u'Holidays', u'Latin CCM', u'Latin Gospel', u'Gospel']
+
+Song:
+
+Me ha enseсado su grandeza
+Me ha mostrado su belleza
+Me vistiу de su realeza
+De su salvaciуn yo cantarй
+Ha cambiado mi tristeza
+Ha ungido mi cabeza
+Me cubriу de su belleza
+De su redenciуn yo cantarй
+Yo me asombro me maravillo
+Y derramo mi canto en honor a йl
+No hay nadie mas glorioso
+Tan hermoso como mi Rey

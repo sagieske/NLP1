@@ -1,0 +1,20 @@
+Artist: sublime
+Title: aint_no_prophet
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Punk Revival', u'Ska-Punk', u'Third Wave Ska Revival', u'Alternative Pop/Rock']
+
+Song:
+
+I ain't no prophet
+I don't wanna cure no damn disease
+But would you marry me anyways?
+If I was on my knees?
+I'm goin' through my time of change
+In my time of need
+In love love love
+Whatever...
+So I thought to myself
+I'm gonna marry into wealth
+Gonna take everything that she's got up
+And keep it for myself oh oh oh
+She said to me

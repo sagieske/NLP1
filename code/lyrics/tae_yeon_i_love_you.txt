@@ -1,0 +1,38 @@
+Artist: tae_yeon
+Title: i_love_you
+Genre: Country
+Subgenres: [u'Contemporary Country', u'Country-Pop', u'Contemporary Folk', u'Contemporary Pop/Rock', u'Neo-Traditionalist Country']
+
+Song:
+
+Seuchyeo ganayo
+Uriui sarangeun
+Kaseum apeun chuoekingayo
+Doraseoneyo
+Keudaeui maeumeun
+Nunmullodo jabeulsun obnayo
+
+My Love saranghaeyo saranghaeyo
+Keudae deutgo ittnayo
+My Love ijimarayo jiuji marayo
+Uriui sarangeul
+
+Naui nunmuri keudaen boinayo
+Haruharu keuriwohabnida
+Kaseum ddeollideon keudae ibmachumdo
+Ijeneun chuoeki dwoettnabwayo
+
+My Love saranghaeyo saranghaeyo
+Keudae deutgo ittnyayo
+My Love ijimarayo jiuji marayo
+Uriui sarangeul
+
+Maeil nan keuriumsoge
+Harureul beotineunde
+Keudaen eodittnayo
+
+Naega mianhaeyo mianhaeyo
+Keudae iji mothaeseo! 
+
+My Love dorawajwoyo
+Ddeonaji marayo naegyeoteseo jebal

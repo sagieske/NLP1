@@ -1,0 +1,25 @@
+Artist: other_lives
+Title: black_tables
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Indie Rock']
+
+Song:
+
+When the whites of your eyes come through,
+You will see something new
+With your body and mind restored,
+It's good to see you back home
+
+When the life in your eyes wants black,
+Things return; you've come back
+With your body and mind restored,
+It's good to see you once more
+
+Turning black tables
+And you're turning black tables
+And you're making your head whirl
+Making your head whirl
+And you're turning black tables
+And you're turning black tables
+And you're making your head whirl
+Making your head whirl

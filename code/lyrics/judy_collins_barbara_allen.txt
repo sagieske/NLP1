@@ -1,0 +1,51 @@
+Artist: judy_collins
+Title: barbara_allen
+Genre: Folk
+Subgenres: [u'Folk Revival', u'Folk-Rock', u'Singer/Songwriter', u'Vocal Music', u'AM Pop', u'Contemporary Folk']
+
+Song:
+
+It was in the merry month of May
+When the green buds were swelling
+A young man on his death bed lay
+For love of Barbara Allen
+
+He sent his servant to the town
+Sent him to her dwelling
+My master's sick and he sends for you
+If you are Barbara Allen
+
+So slowly, slowly she got up
+Slowly she would nigh him
+And all she said when she got there was
+“My true love you're dying”
+
+He turned his face unto the wall
+Death was in him dwelling
+Adieu, adieu to my sweet friends all
+Be kind to Barbara Allen
+
+When he was dead and laid in grave
+She heard the death bells knelling
+And every stroke to her did say
+Hard hearted Barbara Allen
+
+As she walked down the road to home
+She saw his hearse a-comin'
+"Oh, lay him down on the cold, cold ground
+That I may gaze upon him"
+
+Oh mother, mother, make my bed
+Make it soft and narrow
+For my true love has died today
+I'll die for him tomorrow
+
+They buried her by the old church tower
+In there lay beside her
+And from her grave grew red, red rose
+And from his grave grew brier
+
+They grew to the top of the old church tower
+Till they could grow no higher
+And there they tied in a true love's knot
+The red, red rose and the brier

@@ -1,0 +1,17 @@
+Artist: ernest_tubb
+Title: all_my_friends_are_gonna_be_strangers_lyrics
+Genre: Country
+Subgenres: [u'Honky Tonk', u'Traditional Country']
+
+Song:
+
+All the love you promised would be mine forever I would have bet my bottom dollar on
+Well it sure turned out to be a short forever
+Just once I turned my back and you were gone
+From now on all my friends are gonna be strangers I'm all through ever trusting anyone
+The only thing I can count on now is my fingers
+I was a fool believing you and now you are gone
+[ guitar ]
+It amazes me not knowing any better than to think I had a love that would be true
+Why I should be taken out tired and feathered to have let myself be taken in by you
+From now on all my friends...

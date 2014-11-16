@@ -1,0 +1,31 @@
+Artist: javier_solis
+Title: cuando_calienta_el_sol
+Genre: Latin
+Subgenres: [u'Mariachi', u'Mexican Traditions', u'Ranchera', u'Latin Pop', u'Bolero', u'Tejano', u'Western European Traditions', u'Tropical']
+
+Song:
+
+Amor estoy solo aqu? en la playa
+es el sol quien me acompa?a
+y me quema, y me quema, y me quema
+
+Cuando calienta el sol aqu? en la playa
+siento tu cuerpo vibrar cerca de m?
+es tu palpitar, es tu cara,
+es tu pelo, son tus besos,
+me estremezco oooh...
+
+Cuando calienta el sol aqu? en la playa
+siento tu cuerpo vibrar cerca de m?
+es tu palpitar, tu recuerdo
+mi locura, mi delirio
+me estremezco oooh...
+cuando calienta el sol
+
+Es tu palpitar, tu recuerdo
+mi locura, mi delirio
+me estremezco oooh...
+cuando calienta el sol
+cuando calienta el sol
+cuando calienta el sol
+cuando calienta el sol

@@ -1,0 +1,39 @@
+Artist: killswitch_engage
+Title: always
+Genre: Pop/Rock
+Subgenres: [u'Heavy Metal', u'Alternative Metal', u'Progressive Metal', u'Grindcore']
+
+Song:
+
+In these moments of loss and torment
+When the vast skies don’t seem to call to you
+When the weight of this world bears down
+And the stars have fallen like tears
+
+I am with you always
+From the darkness of night 'til the morning
+I am with you always
+From life until death takes me
+
+Monuments built in remembrance of me
+But monuments fade and fall in decay
+The memories are all that remains
+As far as east is from the west, remember
+
+I am with you always
+From the darkness of night until the morning
+I am with you always
+From life until death takes me
+
+When hope seems lost, down and lonely
+I am here with you always
+
+I am with you always
+From the darkness of night
+I am with you always
+From the darkness of night until the morning
+I am with you always
+From life until death takes me
+
+I am with you always
+From life until death takes me

@@ -1,0 +1,21 @@
+Artist: unheilig
+Title: das_licht_intro
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Industrial', u'Goth Rock']
+
+Song:
+
+Könnt ihr den Lichtstrahl sehen?
+Spürt ihr die Energie?
+Könnt ihr die Wärme fühlen?
+Könnt ihr den Herzschlag hören?
+
+Könnt ihr die Lichter sehen?
+Könnt ihr die Sehnsucht spüren?
+Könnt ihr den Atem fühlen?
+Könnt ihr die Stimme hören?
+
+Könnt ihr die Städte sehen?
+Könnt ihr die Träume spüren?
+Könnt ihr die Freiheit fühlen?
+Könnt ihr die Menschen hören?

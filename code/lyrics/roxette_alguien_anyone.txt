@@ -1,0 +1,50 @@
+Artist: roxette
+Title: alguien_anyone
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Pop/Rock', u'Euro-Pop', u'Swedish Pop/Rock', u'Adult Contemporary']
+
+Song:
+
+Alguien para descubrir el amor
+Para quererse
+Alguien para compartir el dolor
+Y perdonarse
+Toda la vida buscandote
+Lejos de mi y eras tu
+Esa persona que sabe querer
+Y eres tu...
+Alguien para dar un beso total
+Y abandonarse
+Alguien para dar un salto mortal
+Y no morirse
+Quien iba decirmelo
+Tu eres el unico, tu amor
+Mi corazon desde el cielo al suelo
+Buscandote...
+Alguien para conocer la vida
+Alguien para conservar el calor
+Alguien para creer en todo
+Alguien para disfrutar del amor
+Despues mas que nada
+Estar feliz contigo
+Mi buen amigo...
+Siempre buscandote
+Ahora sintiendote
+Aqui en mi
+Para los dos un amor
+Sin testigos
+Gracias a ti
+Alguien para conocer la vida
+Alguien para conservar el calor
+Alguien para creer en todo
+Alguien para disfrutar del amor
+Despues mas que a nada
+Estar feliz contigo oh
+Mi buen amigo, amigo
+Alguien para conocer la vida
+Alguien para conservar el calor
+Alguien para creer en todo
+Alguien para disfrutar del amor
+Despues mas que a nada
+Estar feliz contigo oh
+Mi buen amigo, tu eres ese alguien

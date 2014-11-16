@@ -1,0 +1,44 @@
+Artist: indochine
+Title: a_lassaut
+Genre: Pop/Rock
+Subgenres: [u'French Rock', u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Euro-Rock', u'New Wave', u'Punk/New Wave']
+
+Song:
+
+(Nicola Sirchis Dominique Nicolas)
+L'escadrille survole l'ile de Krakatoa
+Tout finira ici a l'est de Java
+Une premiere mission, bombarder la ville
+L'operation terrible de la routine
+Il n'y aura pas...
+Il n'y aura pas de survivant
+Que la fumee...
+Que la fumee sur le volcan
+Trois mauvais garcons
+Au gout de l'action
+Trois filles dans la lune
+Qui dansent sur les dunes
+Pour la derniere fois
+A L'Est De Java
+Les filles sur la plage ne font pas attention
+Aux premieres sirenes que font tous les avions
+Les pilotes en ordre attaquent sans pitie
+C'est dans les flammes qu'ils vont tout exploser
+De tous cotes...
+De tous cotes, c'est la bataille
+Pas de quartier...
+Pas de quartier pour les canailles
+Trois mauvais garcons
+Au gout de l'action
+Trois filles dans la lune
+Qui dansent sur les dunes
+Pour la derniere fois
+A l'est de Java
+Les chasseurs mitraillent sur tout ce qui bouge
+Les femmes et les enfants laisseront le sable rouge
+Et quand les 3 filles ouvriront leurs grands yeux
+Il sera trop tard car toute l'ile est en feu
+Les trois garcons...
+Les trois garcons les oublieront
+Et les trois filles...
+Et les trois filles y echapperont

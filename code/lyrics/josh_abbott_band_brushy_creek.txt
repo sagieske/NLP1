@@ -1,0 +1,40 @@
+Artist: josh_abbott_band
+Title: brushy_creek
+Genre: Pop/Rock
+Subgenres: [u'Alternative Country-Rock', u'Alternative/Indie Rock', u'Alt-Country', u'Country-Rock']
+
+Song:
+
+Verse 1
+I got a guitar; you got a smile.
+We can go to Brushy Creek for a while
+And have us a good time.
+There ain't nothing like the sound
+Of the hill country singing in the background.
+
+Verse 2
+Well your grandparents own this land,
+Built this house with their hands
+And lived a good life.
+Now they're looking down
+Dancing to the hill country background.
+
+Chorus
+Oh there's a round rock that lies midstream.
+We can go there and share our dreams.
+Hike on up to the railroad tracks
+And maybe hold hands when we walk back.
+
+Verse 3
+A place to think and come back home
+When we're tired and feeling alone
+In this good life.
+Where our love is found
+In the hill country singing in the background.
+
+Verse 4
+I got a guitar; you got a ring.
+Let's go to Brushy Creek this spring
+And have us a good time.
+There ain't nothing like the sound
+Of the hill country singing in the background

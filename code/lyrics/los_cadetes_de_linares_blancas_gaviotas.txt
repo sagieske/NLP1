@@ -1,0 +1,23 @@
+Artist: los_cadetes_de_linares
+Title: blancas_gaviotas
+Genre: Latin
+Subgenres: [u'Banda', u'Mexican Traditions', u'Norteno', u'Ranchera']
+
+Song:
+
+Me voy para olvidar que perdi tu amor
+Me voy como la tarde se abraza del sol
+Mares inmesos de penas tendre que cruzar
+Y a otra playa serena tendre que llegar
+
+Tu amor dentro de mi alma como tempestad
+Asi como las olas curiosas del mar
+
+Tal ves cuando manana te pueda olvidar
+Blancas Gabiotas de nieve me iran a esperar
+
+Tu amor dentro de alma como tempestad
+Asi como las olas curiosas del mar
+
+Tal ves cuando manana te pueda olvidar
+Blancas Gabiotas de nieve me iran a esperar

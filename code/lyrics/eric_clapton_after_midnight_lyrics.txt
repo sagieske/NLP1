@@ -1,0 +1,31 @@
+Artist: eric_clapton
+Title: after_midnight_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Blues-Rock', u'British Blues', u'Contemporary Pop/Rock', u'Regional Blues', u'Adult Contemporary', u'Hard Rock']
+
+Song:
+
+By J. J. Cale
+
+After midnight, were gonna let it all hang down.
+After midnight, were gonna chug-a-lug and shout.
+Were gonna stimulate some action;
+Were gonna get some satisfaction.
+Were gonna find out what it is all about.
+After midnight, were gonna let it all hang down.
+
+After midnight, were gonna shake your tambourine.
+After midnight, it's all gonna be peaches and cream.
+Were gonna cause talk and suspicion;
+Were gonna give an exhibition.
+Were gonna find out what it is all about.
+After midnight, were gonna let it all hang down.
+
+After midnight, were gonna let it all hang down.
+
+Second verse
+
+After midnight, were gonna let it all hang down.
+After midnight, were gonna let it all hang down.
+After midnight, were gonna let it all hang down.
+After midnight, were gonna let it all hang down.

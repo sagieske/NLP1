@@ -1,0 +1,33 @@
+Artist: echo_the_bunnymen
+Title: all_that_jazz_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'College Rock', u'Neo-Psychedelia', u'Post-Punk', u'Punk/New Wave']
+
+Song:
+
+Where the hell have you been
+We've been waiting with our best suits on
+Hair slicked back and all that jazz
+Rolling down the union jack
+See you at the barricades babe
+See you when the lights go low, joe
+Hear you when the wheels turn round
+Someday when the sky turns black
+
+It appears because it's what I feel
+I know I don't understand
+If you ask you know I don't mind kneeling
+But when my knees hurt I like to stand
+Instinct is the common lawyer
+A million years won't erase
+Strike the chord I'm searching for
+Call it a committed race
+
+No matter how I shake my fist
+I know I can't resist it
+No matter how you shake your fist
+You know you can't resist it
+See you at the barricades babe
+See you when the lights go low, joe
+Hear you when the wheels turn round
+Someday when the sky turns black

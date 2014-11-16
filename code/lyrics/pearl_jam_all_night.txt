@@ -1,0 +1,37 @@
+Artist: pearl_jam
+Title: all_night
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Grunge', u'Hard Rock']
+
+Song:
+
+Got all night
+Plenty of time
+Take these chains
+From my eyes
+So alive
+Gettin 'it prime
+Take 'em there
+Before you die
+Why be satisfied
+We've got all night
+Please be here
+Top of the stairs
+No place for
+The president
+Build some fears
+Left outside
+f**k, be content
+To just get by
+Why be satisfied
+We've got all night
+You scream and wail
+You see who cares
+Scream and wail
+See who cares
+Life has nothin' to do with
+Killin' time
+So why be satisfied
+We've got... All night
+We've got all night
+We've got all night

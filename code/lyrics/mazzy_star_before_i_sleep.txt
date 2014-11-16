@@ -1,0 +1,26 @@
+Artist: mazzy_star
+Title: before_i_sleep
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Dream Pop', u'Adult Alternative Pop/Rock']
+
+Song:
+
+If it's
+The truth
+That's all I know
+I look for you
+And just say
+I know
+The lie
+That was
+Is now
+The last
+I'll go
+For you
+Before I sleep
+I hear you say
+You say
+I stay
+Near the edge
+And waste my time
+Just waste my time

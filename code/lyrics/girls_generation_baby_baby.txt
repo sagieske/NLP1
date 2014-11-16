@@ -1,0 +1,47 @@
+Artist: girls_generation
+Title: baby_baby
+Genre: Pop/Rock
+Subgenres: [u'Korean Pop', u'Pop', u'Teen Pop', u'Asian Pop', u'Club/Dance']
+
+Song:
+
+Dorineun mam goma oon mam gadeukhi damaso
+Jelyebeun pojak soge (jonhago shipeunde)
+Anilgoya ooseulgo ya ungdoonghan sang sang daemooneh
+Mae il miruneun babo (wae nagat janh ge)
+
+Neul ootdon moseub neega nae mam hoob chingo
+Gong maro numoo malo andweneunde
+
+Please baby baby baby geu dae ga nae aneh
+Numoo do gipi deurowa bo ilga iron nae sujubeun gobaek
+Baby baby baby salmyo shi dagaga
+Jakeun mogsoriro gaga ee noman deurige malhae joolgeh
+
+Dab dab han mam mianhan mam onjenga jonaejool
+Mae il sahyo ganeun sunmool (jonhago shipeunde)
+Anilgo ya shireulgoya
+Geunyang nalpyon han chingu ee sangeun joldae anya (geuromyun ajae?)
+Neul otneun moseub nimam hoob chigo shipo
+Jongmaro numoo deulryo jugo shipo
+
+Please baby baby baby geudaega nae aneh
+Numoodo gipi deurowa bo il ga iron nae sujubeun gobaek
+Baby baby baby sal myo shi dagaga
+Boodeuron noon ooseum euro noye momeh seumyo galgoya
+
+Sashil nudo algo nagagaji mothaneun nal
+Oneu saenga naege no daga ogo itneungol
+Pogeunhan geu poomeuro nal gok anajwo
+
+Please baby baby baby geudaega nae aneh
+Numoo do gipi deurowa bo il ga iron nae sujubeun go baek
+Baby baby baby sal myo shi dagaga
+Jakeun mogsoriro gaga ee noman neurige malhae jooleh
+
+Please baby baby baby naega geudae aneh
+Sojong han sarang maneuro gadeugi chaewo nogo shipungolyo
+Baby baby baby ijeneun geudaeye
+Nugodo boorubji anheul gajang yebeun yoja chinguya
+
+Baby baby baby

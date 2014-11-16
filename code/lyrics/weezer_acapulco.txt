@@ -1,0 +1,25 @@
+Artist: weezer
+Title: acapulco
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Punk-Pop', u'Emo']
+
+Song:
+
+Beautiful girl
+What're you doing
+Above the tides?
+
+When I was there
+You came down
+In my arms
+
+Told me things
+No one knew
+Now you're gone
+
+You came down
+In my arms
+
+Told me things
+No one knew
+Now you're gone

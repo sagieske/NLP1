@@ -1,0 +1,31 @@
+Artist: il_divo
+Title: amazing_grace
+Genre: Vocal
+Subgenres: [u'Classical Crossover', u'Classical Pop', u'Vocal Pop', u'Vocal Music']
+
+Song:
+
+Amazing Grace, how sweet the sound,
+That saved a wretch like me.
+I once was lost but now am found,
+Was blind, but now I see.
+
+T'was Grace that taught my heart to fear.
+And Grace, my fears relieved.
+How precious did that Grace appear
+The hour I first believed.
+
+Through many dangers, toils and snares
+I have already come;
+'Tis Grace that brought me safe thus far
+And Grace will lead me home.
+
+When we've been here ten thousand years
+Bright shining as the sun.
+We've no less days to sing God's praise
+Than when we've first begun.
+
+Amazing Grace, how sweet the sound,
+That saved a wretch like me.
+I once was lost but now am found,
+Was blind, but now I see.

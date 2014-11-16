@@ -1,0 +1,27 @@
+Artist: gerry_and_the_pacemakers
+Title: give_all_your_love_to_me
+Genre: Pop/Rock
+Subgenres: [u'British Invasion', u'Merseybeat']
+
+Song:
+
+Love me till the end of time
+Till the seas run dry
+Till the flowers forget to bloom
+Till the sun don't shine
+
+While there's people here on earth
+While there's stars above
+Oh I beg of you, my dear
+Give me all your love
+
+Give me all your love all of the time
+As the wind that blows evermore, evermore
+Till the moon has lost it's glow
+In the heavens above
+Oh I beg of you, my dear
+Give me all your love
+
+Give me all your love all of the time
+As the wind that blows evermore, evermore
+Give me all your love

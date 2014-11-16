@@ -1,0 +1,26 @@
+Artist: the_searchers
+Title: all_my_sorrows
+Genre: R&B
+Subgenres: [u'Contemporary R&B', u'Pop']
+
+Song:
+
+Now there's just one thing that money can't buy
+True love that will never die
+All my sorrows soon forgotten
+
+Carefree lovers down country lanes
+Don't know my grief, can't feel my pain
+All my sorrows soon forgotten
+
+But it's too late, my love
+Too late, but never mind
+All my sorrows soon forgotten
+
+Now there's one more thing that troubles my mind
+My love has gone, left me behind
+All my sorrows soon forgotten
+
+But it's too late, my love
+Too late, but never mind
+All my sorrows soon forgotten

@@ -1,0 +1,22 @@
+Artist: rascal_flatts
+Title: banjo
+Genre: Country
+Subgenres: [u'Contemporary Country']
+
+Song:
+
+You gotta go deep
+Way on back
+Cross a few creeks
+And a couple little shacks
+You gotta get lost
+Way on out
+Crickets and frogs
+Yeah you're gettin' close now
+And you kick it into four wheel drive when you run out of road and you go, and you go and you go-go-go
+'Til you hear banjo
+
+It ain't on the map
+And I'm glad it isn't
+Leave the phone and the gps, those satellites ain't found it yet,
+Got our own little piece of heaven hidden

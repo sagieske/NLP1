@@ -1,0 +1,30 @@
+Artist: nazareth
+Title: all_nite_radio
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Hard Rock', u'Contemporary Pop/Rock']
+
+Song:
+
+So youve run outa numbers
+And youve run outa lovers
+They wont deliver that pizza
+
+Youre hungry under the covers
+Youre all alone in the moonlight
+Got to get ready for daylight
+
+All nite, all nite
+Listening to the all nite radio
+
+You could have been sleepin
+You could have done anythin
+But everbodys singin
+Good morin
+
+All nite, all nite
+Listening to the all nite
+All nite radio
+
+(written and arranged by nazareth)
+Copyright 1983 fool circle limited
+All rights reserved.

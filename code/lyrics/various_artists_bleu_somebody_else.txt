@@ -1,0 +1,29 @@
+Artist: various_artists
+Title: bleu_somebody_else
+Genre: Pop/Rock
+Subgenres: [u'New Wave', u'Punk/New Wave']
+
+Song:
+
+What if I was alright
+What if I wasn't wound so tight
+What if I had the balls to be bad
+Would you still look at me like that
+Would you be mad that I had held the old me back
+
+Why can't I be somebody else
+Somebody who isn't too cool to believe it's ok to be just me
+
+Maybe I was too much
+Maybe I'll take it down at notch
+Maybe I have the guts to go mad
+Maybe I mess me up real bad
+Maybe I'll make you wish you had the old me back
+
+Why can't I be somebody else
+Somebody who isn't too cool to believe it's ok to be just me
+
+What if I can't remember who Im tryin to be
+Why can't I be somebody else
+Somebody who isn't too cool to believe it's ok to be just me
+Just me...

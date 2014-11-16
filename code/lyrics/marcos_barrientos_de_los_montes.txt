@@ -1,0 +1,30 @@
+Artist: marcos_barrientos
+Title: de_los_montes
+Genre: Latin
+Subgenres: [u'Bossa Nova', u'Brazilian Pop', u'MPB', u'Brazilian Traditions', u'Samba']
+
+Song:
+
+Llenas nuestro hogar de danza, de tu gozo la ciudad,
+La injusticia tu quebrantas, asн se humilla tu heredad... (bis)
+
+De los montes a los valles ya se escucha el clamor de
+Los cielos a los pueblos ya te cantan con amor
+
+Tu luz vence las tinieblas al andar ante la cruz llena
+Tu gloria a tierra como el mar en plenitud
+
+De los montes a los valles ya se escucha el clamor de
+Los cielos a los pueblos ya te cantan con amor (bis)
+
+Tu luz vence las tinieblas al andar ante la cruz llena
+Tu gloria a tierra como el mar en plenitud
+
+De los montes a los valles ya se escucha el clamor de
+Los cielos a los pueblos ya te cantan con amor (bis)
+
+Aleluya, aleluya, aleluya, aleluya, Aleluya, aleluya,
+Aleluya, aleluya, aleluya...
+
+De los montes a los valles ya se escucha el clamor
+De los cielos a los pueblos ya te cantan con amor

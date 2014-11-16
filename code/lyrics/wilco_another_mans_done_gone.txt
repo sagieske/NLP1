@@ -1,0 +1,24 @@
+Artist: wilco
+Title: another_mans_done_gone
+Genre: Pop/Rock
+Subgenres: [u'Adult Alternative Pop/Rock', u'Alternative Country-Rock', u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Experimental Rock', u'Indie Rock']
+
+Song:
+
+Sometimes I think I'm gonna lose my mind
+But it don't look like I ever do
+I've loved so many people everywhere I went
+Some too much, and others not enough
+
+Well I don't know
+I may go
+Down or up or anywhere
+But I feel
+Like this scribbling might stay
+
+Maybe if I hadn't seen so much hard feelings
+I might not could've felt other people's
+So when you think of me, if and when you do
+Just say, "Well, another man's done gone"
+
+Well, another man's done gone

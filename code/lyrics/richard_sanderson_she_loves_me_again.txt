@@ -1,0 +1,36 @@
+Artist: richard_sanderson
+Title: she_loves_me_again
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Pop/Rock', u'Rock & Roll']
+
+Song:
+
+She loves me again
+All this time I kept to dream in my mind
+There were things I had to learn, had to try
+And I find her just the same
+
+She loves me again
+I have reasons then to come and to go
+There were things I couldn't say
+But believe in me
+
+Can't you see it's all a game
+I still love her just the same
+She's as lovely as before
+Now I want her even more
+
+She loves me again
+One year past, it hasn't changed anything
+Time was lost but now we know so much more
+Seasons change but love remains
+
+Can' you see it's all a game
+I still love her just the same
+She's as lovely as before
+Now I love her even more
+
+She loves me again
+On my own I kept to dream in my mind
+All alone I have to learn
+She loves me once again.

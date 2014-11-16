@@ -1,0 +1,24 @@
+Artist: doris_day
+Title: again
+Genre: Vocal
+Subgenres: [u'Traditional Pop', u'Vocal Pop', u'Swing']
+
+Song:
+
+Again, this couldn't happen again
+This is that once in a lifetime
+This is the thrill divine
+
+What's more, this never happened before
+Though I have prayed for a lifetime
+That such as you would suddenly be mine
+
+Mine to hold as I'm holding you now and yet never so near
+Mine to have when the now and the here disappear
+What matters, dear, for
+
+When this doesn't happen again
+We'll have this moment forever
+But never, never again (never, never)
+We'll have this moment for ev er
+But never, never again (never, never)

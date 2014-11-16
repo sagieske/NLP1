@@ -1,0 +1,26 @@
+Artist: system_of_a_down
+Title: armenian_of_a_down
+Genre: Pop/Rock
+Subgenres: [u'Alternative Metal', u'Heavy Metal', u'Hard Rock']
+
+Song:
+
+All that I want, all that I need
+I don't want to camp
+don't want to bleed
+
+Fight your enemy
+change his soul
+turn it to be free (X2)
+
+All that I want, all that I need
+I don't want to camp
+don't want to bleed
+
+Fight your enemy
+change his soul
+turn it to be free (X2)
+
+I am here in the balcony
+
+(end)

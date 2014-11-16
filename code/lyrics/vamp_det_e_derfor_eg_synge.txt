@@ -1,0 +1,20 @@
+Artist: vamp
+Title: det_e_derfor_eg_synge
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Dance-Rock', u'Alternative Dance']
+
+Song:
+
+Tekst: Per Olav Kaldestad / Musikk: Jan I. Toft
+Eg vil syngja ein liten song
+Om korfor eg syng som eg gjer.
+Eg syng som eg gjer fordi
+Det er eg som no sit her.
+Eg sit her no og tilstr at
+Eg liker sludra med alle,
+Men frer s gjerne ordet sjlv
+At eg set melodi til min tale.
+D kan ingen seie meg imot,
+Eg held dine tankar i mine.
+D er eg glad til songen er slutt
+Og tankane er blitt dine.

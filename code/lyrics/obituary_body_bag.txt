@@ -1,0 +1,32 @@
+Artist: obituary
+Title: body_bag
+Genre: Pop/Rock
+Subgenres: [u'Death Metal', u'Heavy Metal']
+
+Song:
+
+You're rising
+Cure you of the dead
+You're dying
+Live beyond the way
+Falling thru the gates
+Scavenge you
+With the darkening light
+Thru the falling going low
+Thru the death of those
+The dying...
+We're dying
+Healing of the one
+Falling of the days
+Charring in the sun
+We're dying
+Killing for the need
+Violence of the ways
+Slowly bleed
+Killing for the need
+Rising of the dead
+The falling ways
+The killing for the need
+.. Darkened light
+The rising of the dead
+With the darkening light

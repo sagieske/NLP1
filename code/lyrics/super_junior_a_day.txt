@@ -1,0 +1,51 @@
+Artist: super_junior
+Title: a_day
+Genre: Pop/Rock
+Subgenres: []
+
+Song:
+
+[Donghae]neon mudji, hangsang eolmana, neol sarang ha neunji
+[Ryeowook]gakkeumsshik, ajik meon, mirae kkaji buranhae haji
+[Yesung]geokjeong hajima neol gwerob hajima, naegen wanbyeokhan saram
+Ingeol
+[Kyuhyun]summan shwi eo do, hwajang anhaedo, neon areum dawo, nun busheo
+
+[Sungmin]haru e hanbeon man neol saenggakhae
+Deo isangeun andwae, akkyeo dul geoya
+[Heechul]himdeul eobtdeon haru ye sunshine geudaeman
+Isseo jun damyeon O. K. Geugeollo dwae
+
+[Leeteuk]neol bomyeon, pyeonhae ireon mal, neon shilheo haetjiman
+[Shindong]haengbokhae, hajiman, yeojeonhi neon buranhae haetji
+[Eunhyuk]ye shim hajima neol gwerob hijima, sashil sunjinhan saram ingeol
+[Siwon]sarang seureon nun useum neomchil ttae, neon areum dawo, nun busheo
+
+Haru e hanbeon man neol saenggakhae
+Deo isangeun andwae, akkyeo dul geoya
+Himdeul eobtdeon haru ye sunshine geudaeman
+Isseo jun damyeon O. K. Geugeollo dwae
+
+[Ryeowook]meorissok ontong neoye saenggak ppun
+[Kyuhyun]mwonga dareun geoseul wonhaedo, jamshi meolli tteoreojyeo bwado
+Gyeolguk neo, gyeolguk neo, neomu shinbihae
+
+[Donghae]jamshi nun gamgo neol tteo ollyeo
+You're So Beautiful Girl, neo ppunya
+[Yesung]jigeum geudaero ni moseubi
+Gajang areum dawo nun busheo (My Girl)
+
+Haru e hanbeon man neol saenggakhae ([Ryeowook]ohh)
+Deo isangeun andwae, akkyeo dul geoya ([Ryeowook]deo isangeun andwae,
+Akkyeo dullae)
+Himdeul eobtdeon haru ye sunshine geudaeman
+([Kyuhyun]himdeul eobtdeon haru ye sunshine, geudaeman)
+Isseo jun damyeon O. K. Geugeollo dwae ([Yesung]O. K. Geugeollo)
+
+Haru e hanbeon man neol saenggakhae ([Kyuhyun]haru e hanbeonman,
+Saenggakhae)
+Deo isangeun andwae, akkyeo dul geoya ([Kyuhyun]andwae, akkyeo dul geoya)
+Himdeul eobtdeon haru ye sunshine geudaeman
+([Ryeowook]himdeul eobtdeon haru ye sunshine geudaeman)
+Isseo jun damyeon O. K. Geugeollo dwae ([Kyuhyun]isseo jun damyeon O. K.
+Geugeollo dwae)

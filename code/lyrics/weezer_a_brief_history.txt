@@ -1,0 +1,26 @@
+Artist: weezer
+Title: a_brief_history
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Punk-Pop', u'Emo']
+
+Song:
+
+Wooly Mammoth's my favorite mammal
+And he's got more sperm than a sperm whale
+The Bible says that God made the stars
+But Darwin makes more sense to fish
+On Mars
+
+Falling in deep into a deep black hole
+Falling in deep into a deep black hole
+Falling in deep into a deep black hole
+And the whole is so black
+
+He's more man, I feel stupid
+'Cause I have got brains absolutness
+Mountain joy tips on top she'll age much faster
+That's the paradox
+Arrow of timepoints in the direction
+To be built in one two
+Has been, wanna go to Has been
+Wanna go to Has been

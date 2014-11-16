@@ -1,0 +1,39 @@
+Artist: washington
+Title: five_and_ten
+Genre: Jazz
+Subgenres: [u'Crossover Jazz', u'Soul Jazz', u'Fusion', u'Contemporary Jazz', u'Smooth Jazz', u'Jazz-Pop', u'Saxophone Jazz']
+
+Song:
+
+First of all I was surprised
+How you looked into the mirror
+I could see the holy spirit there
+You saw a dancing bear
+
+You were young and I was younger
+I did everything you said 
+I remember my big sister
+I was five and she was ten
+
+Taught me most of what I know
+How to swim and play piano
+I remember how you held my hand
+The first time I heard Graceland
+
+Never had to learn my numbers
+Never had to learn to share
+On the floor and in the garden
+Judy Garland, Fred Astaire
+
+You could be easily me
+And I could be easily you
+And I know I would be proud
+To say it if it were true
+And all the things that I've said
+And things that I've done to you
+
+You were young and I was younger
+I did everything you said
+Now I remember my big sister
+I was five and she was ten
+I was five and she was ten

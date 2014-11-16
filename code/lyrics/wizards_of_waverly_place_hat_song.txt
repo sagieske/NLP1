@@ -1,0 +1,12 @@
+Artist: wizards_of_waverly_place
+Title: hat_song
+Genre: Pop/Rock
+Subgenres: [u'Pop', u'Teen Pop', u'Punk-Pop']
+
+Song:
+
+What's that? A hat. Crazy funky junky hat
+Overslept, hair's unsightly
+Tryin' to look like Kiera Knightly
+We've been there we've done that
+We see right through your funky hat

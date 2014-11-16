@@ -1,0 +1,33 @@
+Artist: vasco_rossi
+Title: amore
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Singer/Songwriter', u'Italian Pop']
+
+Song:
+
+C'ho un mal di schiena che nom
+Mi fa dormire
+da ieri sera ce l'ho
+voglio morire.
+Ti prego fammi un favore
+chiamami un dottore...
+Amore!
+Quel mal di schiena poi... Ohi
+non passa ancora
+da ieri l'altro ce l'ho
+la vita dura
+ti prego fammi un piacere
+fammi una "puntura"...
+Mia cara!
+Amore!
+C'ho un mal di schiena che non
+mi fa dormire
+Da ieri l'altro ce l'ho
+Voglio morire
+ti prego fammi un favore
+chiamami un dottore
+fammi una "puntura"
+insomma dammi qualcosa...
+Mia cara!
+Mia cara!
+Amore!....

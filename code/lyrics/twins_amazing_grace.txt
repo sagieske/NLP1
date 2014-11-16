@@ -1,0 +1,21 @@
+Artist: twins
+Title: amazing_grace
+Genre: Pop/Rock
+Subgenres: [u'Rock & Roll', u'Album Rock', u'Hard Rock']
+
+Song:
+
+Amazing grace, how sweet the sound
+That saved a wretch like me
+I once was lost but now am found
+Was blind but now I see
+
+'Twas grace that taught my heart to fear
+And grace my fears relieved
+How precious did that grace appear
+The hour I first believed
+
+Must Jesus bear the cross alone
+And all the world go free?
+No, there's a cross for ev'ryone
+And there's a cross for me

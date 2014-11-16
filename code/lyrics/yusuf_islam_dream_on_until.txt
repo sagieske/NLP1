@@ -1,0 +1,16 @@
+Artist: yusuf_islam
+Title: dream_on_until
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Pop/Rock', u'Psychedelic/Garage', u'Singer/Songwriter', u'Soft Rock', u'AM Pop', u'Album Rock', u'Psychedelic Pop']
+
+Song:
+
+Dream on (x2)
+Dream on, through the darkness, 
+Dream on (x2)
+Dream on, 'till the light
+
+Dream on (x2)
+Dream on, 'till it's bright, 
+Dream on (x2)
+Dream on, through the darkness

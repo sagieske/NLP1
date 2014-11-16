@@ -1,0 +1,25 @@
+Artist: james_blunt
+Title: annie
+Genre: Pop/Rock
+Subgenres: [u'Adult Alternative Pop/Rock', u'Alternative/Indie Rock', u'Contemporary Singer/Songwriter']
+
+Song:
+
+Annie, you had your name in the bright lights.
+I thought I saw your photograph having such a laugh in a magazine,
+Did it all come tumbling?
+Annie, you were made for the big time.
+They said you're a star to be in the NME,
+But the walls came tumbling down, down. Will you go down on me?
+'Cause Annie you're a star, that's just not going very far.
+And all the world will know your name,
+And you'll be famous as you are 'cause I'll sing for you.
+Annie, would it be nice to be recognised?
+And did you practise your autograph but now no one's asked and it's such a shame,
+That the dreams are crumbling?
+Annie, why aren't you bathed in the limelight?
+'Cause I thought that you said you'd be a celebrity several years ago.
+Did it all come tumbling down, down. Will you go down on me?
+'Cause Annie you're a star, that's just not going very far.
+And all the world will know your name,
+And you'll be famous as you are 'cause I'll sing for you.

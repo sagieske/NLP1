@@ -1,0 +1,34 @@
+Artist: luka_bloom
+Title: be_well
+Genre: Folk
+Subgenres: [u'Alternative Folk', u'Contemporary Folk', u'Urban Folk', u'Contemporary Singer/Songwriter']
+
+Song:
+
+Be well my love
+Be well
+As you brave
+The raging storm
+
+Be well my love
+Be well
+Into a new world
+We are born
+
+Step out on the road
+Alone for awhile
+Underneath Dublin sky
+The quiet grows
+
+Go on through the night
+Alone for awhile
+Walk along the waterfront
+To Sandycobh
+
+Fare thee well my love
+Fare thee well
+I must go down embrace the sea
+
+Fare thee well my love
+Fare thee well
+Feel the waves wash over me

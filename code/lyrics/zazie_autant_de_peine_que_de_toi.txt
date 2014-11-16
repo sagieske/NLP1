@@ -1,0 +1,55 @@
+Artist: zazie
+Title: autant_de_peine_que_de_toi
+Genre: Pop/Rock
+Subgenres: [u'French Pop', u'French Rock', u'Nouvelle Chanson', u'Pop', u'Club/Dance', u'Dance-Pop', u'Euro-Dance', u'Euro-Pop']
+
+Song:
+
+Je suis brune ou blonde
+deux pas de ta rue
+Comme au bout du monde
+Je suis laide ou belle,
+Je suis le bien, le mal,
+Le fiel ou le miel
+Je suis telle ou telle,
+Je suis toutes celles
+Que tu veux
+Je fais tour tour
+La moue et l'amour
+Je suis ce que tu veux bien faire de moi
+Et tu fais tout et n'importe quoi
+Est-ce que tu m'aimes this-moi
+Pour que tu m'aimes comme a
+Pour que tu smes sur moi
+Autant de peine que de toi
+Je suis le corps ou l'me,
+La matresse et la mre,
+La fille ou la femme
+Je suis terre et ciel,
+La trop prsente
+Comme l'absente l'appel
+Je fais comme tu veux
+Je gomme tout ce que
+Tu n'aimes pas
+Je fais tour tour
+L'amie et l'amour
+Je donne, je pardonne,
+Je faiblis et tu fais de moi
+Tout et n'importe quoi
+Est-ce que tu m'aimes this-moi
+Pour que tu m'aimes comme a
+Pour que tu smes sur moi
+Autant de peine que de toi
+Je suis tout tour
+La nuit et le jour
+Je fais, je dfais
+Je refais, tu as fait de moi
+Tout ce que je ne suis pas
+Est-ce que tu m'aimes this-moi
+Pour que tu m'aimes comme a
+Pour que tu smes sur moi
+Autant de peine que de toi
+Est-ce que tu m'aimes tant que a
+Pour vouloir faire de moi
+Autant de femmes la fois
+Autant de peine que de toi.

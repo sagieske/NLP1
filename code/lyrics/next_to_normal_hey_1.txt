@@ -1,0 +1,78 @@
+Artist: next_to_normal
+Title: hey_1
+Genre: Pop/Rock
+Subgenres: [u'Neo-Prog', u'Post-Grunge', u'Hard Rock']
+
+Song:
+
+Henry:
+Hey
+
+Natalie:
+Hey
+
+Henry:
+I've missed you these days,
+I thought you might call.
+It's been weeks...
+
+Natalie:
+I've been crazed.
+
+Henry:
+Hey, hey...
+Have you been on the scene?
+'Cause you look like a mess...
+
+Natalie:
+Thanks, I guess.
+
+Henry:
+Are you clean?
+
+Natalie:
+Well coming from you...
+
+Henry:
+I don't do what you do.
+
+Natalie:
+Ok, how did it start?
+
+Henry:
+But you took it too far.
+
+Natalie:
+Oh, I took it too far.
+
+Henry:
+Hey! Hey!
+
+Natalie:
+Henry, don't!
+Don't do this to me!
+
+Henry:
+Are we over?
+Don't say that we're over.
+
+Natalie:
+Don't you want us to be?
+
+Henry:
+No, I want who I knew.
+She's somewhere in you.
+Hey, say...
+Will you come to this dance?
+It's some spring formal dance...
+It's March 1st, and it's cheese.
+But it's fun and it's free...
+
+Natalie:
+I don't do dances.
+
+Henry:
+Do this dance with me?
+
+Natalie:
+Goodbye, Henry.

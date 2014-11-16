@@ -1,0 +1,16 @@
+Artist: chet_baker
+Title: daybreak
+Genre: Jazz
+Subgenres: [u'Cool', u'West Coast Jazz', u'Vocal Jazz', u'Jazz Instrument', u'Trumpet Jazz', u'Film Score']
+
+Song:
+
+Daybreak, another new day, the mist on the meadow is
+Drifting away, 
+For it's daybreak, the sun's in the sky now, 
+And flowers break through their blanket of dew, 
+
+Sunrise, how lovely it seems, to see from my window a
+Sky full of dreams, 
+As the white clouds sail on through the blue, at
+Daybreak I daydream of you

@@ -1,0 +1,30 @@
+Artist: michael_buble
+Title: all_of_me
+Genre: Vocal
+Subgenres: [u'Adult Contemporary', u'Vocal Jazz', u'Standards', u'Vocal Pop']
+
+Song:
+
+All of me why not take all of me
+Can't you see I'm no good without you
+
+Take my lips I want to lose them
+Take my arms I'll never use them
+
+Your goodbyes they left me with eyes that cry
+How can I get along without you
+
+You took the part that once was my heart
+So why not take all of me
+
+Your goodbye left me with eyes that are crying
+Now I'm lost without you
+
+And now that you took that part
+That used to be my heart
+
+All of me why not take all of me
+Can't you see that I'm a mess without you
+
+You took the part that used to be my heart
+So why not take all of me

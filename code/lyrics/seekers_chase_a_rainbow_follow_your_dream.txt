@@ -1,0 +1,36 @@
+Artist: seekers
+Title: chase_a_rainbow_follow_your_dream
+Genre: Pop/Rock
+Subgenres: [u'AM Pop', u'Folk-Rock', u'Psychedelic/Garage', u'Early Pop/Rock', u'Folk-Pop']
+
+Song:
+
+(Fade up)
+Chase a rainbow;
+Chase a rainbow;
+Chase a rainbow.
+Chase your rainbow anywhere you find it;
+And maybe you'll find it tomorrow.
+Love is a rainbow to light up your life;
+It's a strong wind that blows away sorrow.
+Chorus:
+When you walk along a lonely road,
+When you're down, and all the world can see,
+When you want to run away and hide,
+You need someone to believe in -- believe in me.
+Chase your rainbow;
+Chase your rainbow;
+Chase your rainbow;
+Chase your rainbow.
+Round and round, let your rainbow surround you,
+Reflections to colour your day.
+You'll find someone to share all your dreams,
+Feel your loneliness fading away.
+[Chorus:]
+Chase a rainbow;
+Chase your rainbow;
+Chase a rainbow;
+Chase your rainbow;
+Chase a rainbow;
+Chase your rainbow.
+(Instrumental fade)

@@ -1,0 +1,22 @@
+Artist: wonder_girls
+Title: army_song
+Genre: R&B
+Subgenres: [u'Funk', u'Motown', u'Pop-Soul', u'Soul', u'Smooth Soul', u'Album Rock', u'AM Pop', u'Contemporary R&B']
+
+Song:
+
+Nae chingureul sogaehalge
+I sesang manko manheun chingu junge
+Nareul jikyeojuneun meotjin nae chingu
+Yakhan chingu mian
+Nappeun chingu annyeong
+Nae maeumeul heundeuneun ganghan chingu
+Muttukttukhan ajeossiga anieyo
+Uriui deundeunhan ganghan chingu
+Eonjena nae gyeote nega isseo
+Naui maeum sarojabayo
+Army Army Army joha
+Urideurui ganghan chingu nega joha
+Army Army Army joha
+Urideureul jikyeojuneun neomaneul
+I love you

@@ -1,0 +1,80 @@
+Artist: inoue_joe
+Title: hello
+Genre: Jazz
+Subgenres: [u'Hard Bop', u'Modern Creative', u'Post-Bop', u'Jazz Instrument', u'Saxophone Jazz', u'Straight-Ahead Jazz']
+
+Song:
+
+I would like to tell you guys
+What I like/What I dislike
+Call me up when I come home
+
+I'll be:
+Jogging by, walking by, standing by the sea
+Killing time, filling time, surfing at the beach
+
+To Mr. Cloud:
+
+Don't block up Mr. Sun
+
+Everything's so clear
+Look into my mirror
+Summer wave is all I see
+
+Hello! My name is
+Inoue to ii masu
+Tomodachi to umi de asobi masu
+Dekai nami nomaretari
+Nomi kaeshitari
+
+Hi ga ochiru made hashagi masu
+Ita ni nori hitasura kogi masu
+Ohi-sama ni terasarete
+BOODO motte saa ikou!
+
+Now it's time to realize
+What it's like to stay inside
+Won't you let me out
+Before I get sick to my stomach?
+
+I get nauseated by
+Ika no list of things that bother me:
+
+Densha wa kusakutese mai
+KARAOKEBOKKUSU wa kemuritai
+Kuruma wa you kara kirai
+Sara ni hikouki ja boku nere naishi
+
+Shizen no nai basho daikirai
+Sonna boku ga yatte kita daitokai
+Korekara dare to nani yarakasun dai?
+Itsu doko de nani misete kurerun dai?
+Kokoro no mado ni hizashi ga iru hi wo
+
+Yumemite watashi wa koko ni kitan dai
+
+Ko no mikaitaku ryouiki wo
+Jishin no tede kiri hiraku yo
+Mita koto mo kiita koto mo
+Nai you na sekai
+
+Ano hi tsudotta mis amigos
+Kono mune ni idaku itami mo
+Shio no michi hiki to tomoni
+Arai nagashite
+
+Hello! My name is
+Inoue to ii masu
+Tomodachi to umi de asobi masu
+Dekai nami nomaretari
+Nomi kaeshitari
+
+Hi ga ochiru made hashagi masu
+Ita ni nori hitasura kogi masu
+Ohi-sama ni terasarete
+BOODO motte saa ikou!
+
+Dekai nami nomaretari
+Nomi kaeshitari
+Ohi-sama ni terasarete
+BOODO motte saa ikou!

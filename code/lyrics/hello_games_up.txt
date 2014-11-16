@@ -1,0 +1,41 @@
+Artist: hello
+Title: games_up
+Genre: Pop/Rock
+Subgenres: [u'Glam Rock', u'Glitter', u'Contemporary Pop/Rock', u'Japanese Traditions']
+
+Song:
+
+Game's up
+Darling don't even know your name
+You'll soon be my latest flame
+I've been keeping my eye on you
+I found out your secrets too
+I'm gonna make you mine
+Don't run away let me on the line
+No matter how much you pay
+You'll soon be hearing me say
+
+Game's up baby I know
+Baby I know
+
+Baby I know your number;
+Baby I know
+Baby I know
+
+Baby I know your number.
+Can't you see what I'm going through
+Just trying to get to you
+Calling though you just won't reply
+But baby I'll try and try
+Get the operator
+She'll put me through and a minute later.
+I'll get a message to you
+And baby soon as I do
+
+Game's up baby I know
+Baby I know
+.. .
+
+Game's up baby I know
+Baby I know
+.. .

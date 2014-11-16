@@ -1,0 +1,32 @@
+Artist: one_night_only
+Title: chemistry
+Genre: Pop/Rock
+Subgenres: [u'Alternative Singer/Songwriter', u'Alternative/Indie Rock', u'Indie Pop', u'Indie Rock']
+
+Song:
+
+Maybe I'ts the chemistry,
+The sparks that fly from you to me
+I touch your skin, I feel alive
+Been searching for you every night.
+
+Where am I supposed to go?
+I'm hoping that you won't say no
+We've got all the time in the world.
+
+It must be the chemistry, tonight
+I hope you that know
+I won't let you go this time
+
+It must be the chemistry, between you and I
+I hope that you know
+I won't let you go this time
+
+Underneath the starry sky,
+You can bring me back to life.
+I touch your skin, I feel alive
+Been searching for you every night.
+
+Take me somwhere I don't know,
+Watch all the people down below,
+We've got all the time in the world.

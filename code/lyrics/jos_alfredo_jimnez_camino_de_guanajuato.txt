@@ -1,0 +1,38 @@
+Artist: jos_alfredo_jimnez
+Title: camino_de_guanajuato
+Genre: Latin
+Subgenres: [u'Mexican Traditions', u'Ranchera']
+
+Song:
+
+No vale nada la vida
+La vida no vale nada
+Comienza siempre llorando
+Y as llorando se acaba
+Por eso es que en este mundo
+La vida no vale nada
+Bonito Len Guanajuato
+Su feria con su jugada
+Ah se apuesta la vida
+Y se respeta al que gana
+Alla en mi Len Guanajuato
+La vida no vale nada
+El cristo de tu montaa
+El cerro del cubilete
+Consuelo de los que sufren
+Adoracin de la gente
+El cristo de tu montaa
+Del cerro del cubileta
+Camino de Guanajuato
+Que pasas por tantos pueblos
+No pases por Salamanca
+Que ah me hiere el recuerdo
+Vete rodeando vereda
+No pases porque me muero
+
+Camino de Santa Rosa
+La sierra de Guanajuato
+Ah nomas tras lomita
+Se ve Dolores Hidalgo
+Yo ah me quedo paisano
+All es mi pueblo adorado

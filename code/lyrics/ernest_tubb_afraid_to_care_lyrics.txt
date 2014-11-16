@@ -1,0 +1,16 @@
+Artist: ernest_tubb
+Title: afraid_to_care_lyrics
+Genre: Country
+Subgenres: [u'Honky Tonk', u'Traditional Country']
+
+Song:
+
+Here I go again love's standing at my door
+I'm so afraid to take a chance for I've been hurt before
+It's not that I can't love you your life I'd like to share
+But my heart's been broken so many times it's just afraid to care
+Maybe time will ease the pain and someday I can love again
+My heart can't stand a new affair
+It's loved and lost so many times it's just afraid to care
+[ steel ]
+Maybe time will ease the pain...

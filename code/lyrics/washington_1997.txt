@@ -1,0 +1,78 @@
+Artist: washington
+Title: 1997
+Genre: Jazz
+Subgenres: [u'Crossover Jazz', u'Soul Jazz', u'Fusion', u'Contemporary Jazz', u'Smooth Jazz', u'Jazz-Pop', u'Saxophone Jazz']
+
+Song:
+
+My mother works so hard
+She works so late
+Oh mother, take it easy
+You work so hard
+You might be late
+To your own party
+
+When you leave me it's not fair
+When you leave me it's not fair
+When you leave me it's not fair
+When you leave me it's not fair
+It's not fair
+
+Hit you with a feather
+Miss you by a whisker
+And I'm going to kill you
+If you dare to
+Hit me with a feather
+Miss you by a whisker
+Etcetera, whatever
+Oh my father
+
+Father, I love you so
+I love you so
+I've got parts of your body
+I love you so
+You're never late
+To your own party
+
+When you leave me it's not fair
+When you leave me it's not fair
+When you leave me it's not fair
+When you leave me it's not fair
+
+Don't give me more than I want
+Don't give me more than I want
+Don't give me more than I want
+I will just take what I've got
+Don't give me what you want
+
+Mother, I love you so
+I love you so
+I've got parts of your father, and Dorrigo
+Now I know that if I had a brother
+He would know
+He would know
+But all I've got's a sister
+She lives below
+She lives below
+She lives below your home
+
+How I love you
+
+Hit you with a feather
+Miss you by a whisker
+And I'm going to kill you
+If you dare to
+Hit me with a feather
+Miss you by a whisker
+Better late than never
+Your own party
+
+Hit me with a feather
+Miss you by a whisker
+Better late than never
+Your own party
+
+Hit me with a feather
+Miss you by a whisker
+Better late than never
+Your own party

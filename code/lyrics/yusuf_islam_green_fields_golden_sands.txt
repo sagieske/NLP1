@@ -1,0 +1,33 @@
+Artist: yusuf_islam
+Title: green_fields_golden_sands
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Pop/Rock', u'Psychedelic/Garage', u'Singer/Songwriter', u'Soft Rock', u'AM Pop', u'Album Rock', u'Psychedelic Pop']
+
+Song:
+
+Green fields and golden sands
+Are all I need, are all I want
+Let the wind blow hard, I don't mind
+
+A small house and an olive tree
+To keep and feed my family
+Let the wind blow hard, I don't mind
+
+One day, we'll all realize
+I'm not the only one
+Just raise your eyes up
+And you'll be gone
+
+To those green fields and golden sands
+That's all I need, that's all I want
+That's all I really need
+Let the wind blow hard, I don't mind
+
+One day, we'll all realize
+I'm not the only one
+Just raise your eyes up
+And you'll be gone
+
+To those green fields and golden sands
+That's all I need, that's all I want
+That's all I need, that's all I really want

@@ -1,0 +1,65 @@
+Artist: 98
+Title: ayo
+Genre: Pop/Rock
+Subgenres: [u'Urban', u'Teen Pop', u'Pop', u'Adult Contemporary']
+
+Song:
+
+(Verse)
+I came here on the mission,
+And I ain’t leaving here alone
+So baby, tell me where to go
+Can’t make my exit without you.
+
+Your friends don’t even know you’re gone
+You got a man, who needs ‘em now?
+Right now it’s me and you, come on,
+Forget these people around you.
+
+(Pre-Chorus)
+We’re gonna make this all night
+Let’s keep it going till sunlight.
+They try and stop us, we gonna fight
+Let’s do it all the way wrong till it’s all the way right.
+
+(Chorus)
+So lose yourself in it and say ayo
+If you’re down with it say ayo
+DJ keep spinning like ayo
+Cause we ain’t finished, ayo.
+
+(Verse)
+Know you don’t wanna miss this, right
+I see the burning in your eyes.
+Your body’s giving me the signs
+No use in you trying to fight it.
+
+(Pre-Chorus)
+We’re gonna make this all night
+Let’s keep it going till sunlight.
+They try and stop us, we gonna fight
+Let’s do it all the way wrong till it’s all the way right.
+
+(Chorus)
+So lose yourself in it and say ayo
+If you’re down with it say ayo
+DJ keep spinning like ayo
+Cause we ain’t finished, ayo.
+
+(Bridge)
+Now I hope you ain’t tired,
+Cause this fire’s taking over the floor.
+So throw your hands in the air,
+Let me hear you say ayo.
+
+(Pre-Chorus)
+We’re gonna make this all night
+Let’s keep it going till sunlight.
+They try and stop us, we gonna fight
+Let’s do it all the way wrong till it’s all the way right.
+
+(Chorus)
+So lose yourself in it and say ayo
+If you’re down with it say ayo
+DJ keep spinning like ayo
+Cause we ain’t finished, ayo.

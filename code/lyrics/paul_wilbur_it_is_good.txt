@@ -1,0 +1,20 @@
+Artist: paul_wilbur
+Title: it_is_good
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Contemporary Pop/Rock', u'Soft Rock', u'Singer/Songwriter', u'Adult Contemporary', u'Rock & Roll', u'AM Pop', u'Film Score', u'Choral', u'Orchestral']
+
+Song:
+
+It Is Good To Praise The Lord
+And Make Music To Your Name
+O God Most High
+To Proclaim Your Love And Faithfulness
+All The Day And Through The Night
+
+Lai Lai Lai
+Lai Lai Lai Lai Lai...
+
+May I Dwell In Your Courts O Lord
+Then To Flourish Like The Trees Of Lebanon
+Planted In The House Of Adonai
+There To Live Forever more

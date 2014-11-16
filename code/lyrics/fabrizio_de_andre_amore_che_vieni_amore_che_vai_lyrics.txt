@@ -1,0 +1,27 @@
+Artist: fabrizio_de_andre
+Title: amore_che_vieni_amore_che_vai_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Italian Pop', u'Singer/Songwriter', u'Italian Music', u'Western European Traditions']
+
+Song:
+
+Quei giorni perduti a rincorrere il vento
+A chiederci un bacio e volerne altri cento
+Un giorno qualunque li ricorderai
+Amore che fuggi da me tornerai
+Un giorno qualunque li ricorderai
+Amore che fuggi da me tornerai
+
+E tu che con gli occhi di un altro colore
+Mi dici le stesse parole d'amore
+Fra un mese fra un anno scordate le avrai
+Amore che vieni da me fuggirai
+Fra un mese fra un anno scordate le avrai
+Amore che vieni da me fuggirai
+
+Venuto dal sole o da spiagge gelate
+Perduto in novembre o col vento d'estate
+Io t'ho amato sempre, non t'ho amato mai
+Amore che vieni, amore che vai
+Io t'ho amato sempre, non t'ho amato mai
+Amore che vieni, amore che vai

@@ -1,0 +1,28 @@
+Artist: muse
+Title: animals
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Post-Grunge', u'Britpop', u'Neo-Prog', u'Prog-Rock']
+
+Song:
+
+Animal, you're an animal
+Don't take anything less
+Out of control, you're out of control
+Strike those in distress
+
+Analyze, Advertise, Expand
+Add more rules,
+And buy yourself and island
+
+Animals, we're animals
+Buy when blood is on the street
+Out of control, we're out of control
+Crush those who beg at your feet
+
+Analyze, Franchise, Spread out
+Kill the competition
+And buy yourself an ocean
+
+Advertise, Downsize, and layoff
+Kill yourself
+Come on and do us all a favor

@@ -1,0 +1,28 @@
+Artist: in_this_moment
+Title: a_star_crossed_wasteland
+Genre: Pop/Rock
+Subgenres: [u'Metalcore', u'Heavy Metal']
+
+Song:
+
+The dust is clearing, the desert is calm.
+The skies are all quiet and I can't make a sound.
+An I just wait for you.
+
+I'm calling for a savior to show me where to start.
+And all who still remain are whispering in the dark.
+And we just wait for a sign.
+
+So this is my once upon at time.
+So this is my star-crossed wasteland.
+
+The wolves are ascending, the vultures are near.
+And I'm still here waiting for you to reappear.
+And you just wait for a sign
+
+So this is my once upon at time.
+So this is my star-crossed wasteland.
+
+And you'll never know what it is you've done to me.
+And we all wail for a sign.
+And we just wait for a sign.

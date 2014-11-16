@@ -1,0 +1,13 @@
+Artist: emarosa
+Title: breather_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Emo', u'Post-Hardcore']
+
+Song:
+
+You will forgive your foes
+Pardon all transgressions
+Prepare for an ascension
+Love your last
+And in an attempt to save yourself from what is at hand
+You will pray

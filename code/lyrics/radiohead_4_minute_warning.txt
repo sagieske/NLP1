@@ -1,0 +1,32 @@
+Artist: radiohead
+Title: 4_minute_warning
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Britpop', u'Experimental Rock', u'Indie Electronic']
+
+Song:
+
+This is just a nightmare
+Soon I'm gonna wake up
+Someones gonna bring me round
+
+Running from the bombers
+Hiding in the forest
+Running through the fields
+
+Laying flat on the ground
+Just like everybody
+Stepping over heads
+Running from the underground
+
+And this is your warning
+4 minute warning
+
+I don't wanna hear it
+I don't wanna know
+I just wanna run and hide
+This is just a nightmare
+But soon I'm gonna wake up
+Someone's gonna bring me round
+
+This is a warning
+4 minute warning

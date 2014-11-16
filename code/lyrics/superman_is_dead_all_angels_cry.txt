@@ -1,0 +1,23 @@
+Artist: superman_is_dead
+Title: all_angels_cry
+Genre: Pop/Rock
+Subgenres: [u'Punk-Pop', u'Punk Revival', u'Punk/New Wave', u'Alternative Pop/Rock', u'Skatepunk']
+
+Song:
+
+Can you tell me why, the world is so ugly
+And there ain't no pretty pictures everywhere I go
+Spend some of your time, and think of the answer
+Why must people get so scared most of their life
+
+Now tell me why
+Why the angels gonna cry
+To see the way we live our lives, where this, the heart goes?
+And tell me why
+Why the angels gonna cry
+I close my eyes and a better place will it come true
+
+Walking down the street, in one bloody cold night
+Where everyone is blind, they show you how to feed your hate
+Education now, war for tomorrow
+And I do believe we're living on a time bomb!

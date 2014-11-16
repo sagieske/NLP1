@@ -1,0 +1,16 @@
+Artist: ultra_bra
+Title: ents_nyt
+Genre: Jazz
+Subgenres: [u'Avant-Garde Music', u'Contemporary Jazz', u'Vocal Jazz']
+
+Song:
+
+Hдn sanoi ettei vertaistani naista,
+En hдnelle ollut tдstд maailmasta,
+Vaan talvipдivдn lohdullinen valo
+Ja hurja laulu synnyinseudulta.
+Kun kuolen, ei hдn vaivu murheeseen,
+Ei huuda suunniltaan: "Herдд kuolleista!"
+Vaan дkkiд tajuaa ettei ruumis elд
+Ilman aurinkoa, eikд henki ilman laulua.
+Entдs nyt?

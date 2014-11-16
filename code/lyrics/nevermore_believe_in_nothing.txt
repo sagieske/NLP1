@@ -1,0 +1,24 @@
+Artist: nevermore
+Title: believe_in_nothing
+Genre: Pop/Rock
+Subgenres: [u'Heavy Metal', u'Power Metal', u'Progressive Metal', u'Alternative Metal']
+
+Song:
+
+Into a strange new world, into the after
+All your tears might find you've fallen too far
+And I still believe in nothing
+Take another look, take another ride
+Can't we make them leave the hate behind
+Will we ever see the shape of tomorrow?
+Into the empty storm, into the formless loss of hope,
+
+Will we ever see the cure for our sorrow
+
+And I still believe in nothing
+Where we can forget the game
+Nothing is sacred when no one is saved
+Nothing's forever so count your days
+Nothing is final and no one is real
+
+Nothingpray for tomorrow and find your empty still

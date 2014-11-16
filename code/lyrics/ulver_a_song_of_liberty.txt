@@ -1,0 +1,10 @@
+Artist: ulver
+Title: a_song_of_liberty
+Genre: Electronic
+Subgenres: [u'Ambient', u'Art Rock', u'Experimental', u'Black Metal', u'Heavy Metal', u'Improvisation', u'Progressive Metal', u'Scandinavian Metal']
+
+Song:
+
+[plates 25-27]
+[1] The eternal female groan'd! It was heard all over the earth.
+[2] Albion's coast is sick silent

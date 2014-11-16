@@ -1,0 +1,40 @@
+Artist: lobo
+Title: another_hill_to_climb
+Genre: Pop/Rock
+Subgenres: [u'AM Pop', u'Soft Rock', u'Contemporary Pop/Rock']
+
+Song:
+
+You say you don't like
+Where we call home
+The way we live
+Is bad and wrong
+Travellin around instead
+Of settling down
+Our peace on mind
+Is the highway sound
+
+Another hill to climb
+Another meal to find
+A little air to breathe
+That's all we need and we
+Will be completely free
+
+You say we don't care
+What lies up ahead
+
+There's money to save
+Mouths to be fed
+We're saving enough
+To get away from this town
+Lend us ten friend
+We'll see you around
+
+We don't see why
+You're concerned about us
+The way you worry friend
+Got hang ups enough
+Why not leave it all
+And join us on the road
+Life is beautiful
+Free from the load

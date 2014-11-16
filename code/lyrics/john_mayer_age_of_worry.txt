@@ -1,0 +1,40 @@
+Artist: john_mayer
+Title: age_of_worry
+Genre: Pop/Rock
+Subgenres: [u'Adult Alternative Pop/Rock', u'Alternative/Indie Rock', u'Contemporary Pop/Rock', u'Contemporary Singer/Songwriter', u'Alternative Pop/Rock']
+
+Song:
+
+Close your eyes and close yourself
+Danger hiding in all the world
+Soothe your tears, your innocence
+While you do everything wrong
+
+Don't be scared to walk alone
+Don't be scared to like it
+There's no time that you must be home
+So sleep where your darkness falls
+
+Alive in the age of worry
+Smile in the age of worry
+Go wild in the age of worry
+And sing Worry, why should I care?
+
+No you fight is not within
+
+Yours is with your timing
+Dream your dreams but don't pretend
+Be friends with what you are
+Give your heart then change your mind
+You're allowed to (throw) it
+Cause God knows it's been done to you
+And somehow you got through it
+
+Alive in the age of worry
+Rage in the age of worry
+Sing out in the age of worry
+And sing Worry, why should I care?
+
+Rage in the age of worry
+Act your age in the age of worry
+And sing Worry, get out of here

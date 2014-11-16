@@ -1,0 +1,23 @@
+Artist: frank_sinatra
+Title: a_foggy_day_lyrics
+Genre: Vocal
+Subgenres: [u'Standards', u'Swing', u'Traditional Pop', u'Vocal Pop', u'Big Band', u'Vocal Jazz', u'Show Tunes', u'AM Pop', u'Vocal Music']
+
+Song:
+
+A foggy day,
+In london town,
+It had me low,
+And it had me down
+I viewed the morning,
+With much alarm,
+The british museum,
+Had lost it's charm
+How long I wondered,
+Could this thing last,
+But the age of miracles,
+It hadnt past
+And suddenly,
+I saw you standing right there
+And in foggy london town,
+The sun was shining everywhere

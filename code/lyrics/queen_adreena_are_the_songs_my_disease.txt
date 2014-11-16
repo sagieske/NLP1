@@ -1,0 +1,24 @@
+Artist: queen_adreena
+Title: are_the_songs_my_disease
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Art Rock', u'Contemporary Pop/Rock', u'Glam Rock', u'Hard Rock', u'Arena Rock', u'Dance-Rock', u'British Metal', u'Heavy Metal']
+
+Song:
+
+(K. J. Garside C. Gray)
+I used to know this wretched girl,
+I made her open for me,
+I took her heart,
+And I kissed it clean,
+But she still kicks against me.
+Are the songs my disease?
+Are the songs my disease?
+Maybe she's creating me,
+Mistaken accidentally,
+For a girl I used to know,
+In darkness permanently,
+If I find her the perfect line,
+My sickness might desert me.
+Are the songs my disease?
+Are the songs my disease?
+[

@@ -1,7 +1,7 @@
 Artist: curse_one
 Title: mahal_kita
 Genre: Pop/Rock
-Subgenres: [u'Dance-Pop', u'Pop', u'Teen Pop', u'Contemporary Pop/Rock', u'Pop Idol']
+Subgenres: [u'Pop', u'Teen Pop', u'Contemporary Pop/Rock', u'Dance-Pop', u'Pop Idol']
 
 Song:
 

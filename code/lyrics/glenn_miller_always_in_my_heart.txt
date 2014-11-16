@@ -1,0 +1,26 @@
+Artist: glenn_miller
+Title: always_in_my_heart
+Genre: Jazz
+Subgenres: [u'Big Band', u'Sweet Bands', u'Swing']
+
+Song:
+
+You are always in my heart
+Even though you're far away
+I can hear the music of
+The song of love
+I sang with you
+You are always in my heart
+And when skies above are grey
+I remember that you care
+And then and there
+The sun breaks through
+
+Just before I go to sleep
+There's a rendezvous I keep
+And a dream I always meet
+Helps me forget were far apart
+I don't know exactly when, dear,
+But I'm sure well meet again, dear,
+And my darling, till we do
+You are always in my heart!

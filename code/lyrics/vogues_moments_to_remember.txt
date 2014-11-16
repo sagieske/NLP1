@@ -1,0 +1,23 @@
+Artist: vogues
+Title: moments_to_remember
+Genre: Pop/Rock
+Subgenres: [u'Brill Building Pop', u'Early Pop/Rock', u'AM Pop']
+
+Song:
+
+January to December
+We'll have moments to remember
+
+The New Year's Eve we did the town
+The day we tore the goalpost down
+We will have these moments to remember
+The quiet walks, the noisy fun
+The ballroom prize we almost won
+We will have these moments to remember
+Though summer turns to Winter
+And the present disappears
+The laughter we were glad to share
+Will echo through the years
+When other nights and other days
+May find us gone our separate ways
+We will have these moments to remember

@@ -1,0 +1,22 @@
+Artist: mgmt
+Title: an_orphan_of_fortune
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Indie Electronic', u'Indie Pop', u'Neo-Psychedelia']
+
+Song:
+
+It can’t stop now
+The signs keep changing on me
+Like a shimmering bell
+Long waves enveloping me
+And my plastic mind,
+So chewed and shrieking all the time
+Feels it whirling by
+Morning, afternoon then night,
+And I can’t get down
+If I don’t feel right
+Polishing off the sand,
+Lay by me
+And we’ll erode
+As gently as we can,
+Into twilight

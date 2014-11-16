@@ -1,0 +1,21 @@
+Artist: pendulum
+Title: blood_sugar
+Genre: Electronic
+Subgenres: [u'Club/Dance', u"Industrial Drum'n'Bass", u"Jungle/Drum'n'Bass", u'Ambient Techno', u'Electronica', u'Techno', u'Trance']
+
+Song:
+
+Ladies and gentlemen,
+We understand that you,
+Have come tonight,
+To bear witness to the sound of Drum and Bass.
+We regret to announce,
+That this is not the case,
+As instead, we come tonight to bring you,
+The sonic recreation of the end of the world.
+Ladies and gentlemen,
+Prepare to hold your colour.
+
+Okay, f**k it, I lied.
+It's Drum and Bass.
+What you gonna do?

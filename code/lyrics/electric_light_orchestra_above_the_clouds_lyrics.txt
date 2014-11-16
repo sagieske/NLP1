@@ -1,0 +1,38 @@
+Artist: electric_light_orchestra
+Title: above_the_clouds_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Art Rock', u'Contemporary Pop/Rock', u'Prog-Rock']
+
+Song:
+
+Oh in the heat of the night
+Well when things ain't going right
+No no no no no no, you were in memory
+
+I came along to see your face
+But the only thing I got from you
+Was telling me it's fantasy
+That you would always be with me
+I can tell you that it's true
+(I can tell you that it's true)
+(Well yes it's true)
+
+I'm waiting here
+But it's alright
+It's alright, it's alright
+But it's alright with me
+You better believe me now
+
+I guess it's like a mountain side
+You gotta climb it to the top
+Floating in the sea of dreams
+The only thing that you can see
+Is the view above the clouds
+(Is the view above the clouds)
+(Above the clouds)
+
+I'm waiting here
+But it's alright
+It's alright, it's alright
+Still it's alright with me
+You better believe me now

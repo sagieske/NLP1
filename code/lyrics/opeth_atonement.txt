@@ -1,0 +1,16 @@
+Artist: opeth
+Title: atonement
+Genre: Pop/Rock
+Subgenres: [u'Heavy Metal', u'Progressive Metal', u'Scandinavian Metal', u'Symphonic Black Metal', u'Death Metal', u'Goth Metal']
+
+Song:
+
+Clear the fog that was veiled around me
+And blurred my sights
+Suddenly, I'm no longer aching
+To honor my plights
+
+Rising moon and my skin is peeling
+Past undone
+Suddenly, I can't justify
+What I had become

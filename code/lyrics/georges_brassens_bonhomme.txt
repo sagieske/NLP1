@@ -1,0 +1,41 @@
+Artist: georges_brassens
+Title: bonhomme
+Genre: Vocal
+Subgenres: [u'French Pop', u'French', u'Vocal Music', u'Western European Traditions']
+
+Song:
+
+Malgrй la bise qui mord
+La pauvre vieille de somme
+Va ramasser du bois mort
+Pour chauffer Bonhomme
+Bonhomme qui va mourir
+De mort naturelle
+
+Mйlancolique, elle va
+A travers la forкt blкme
+Oщ jadis elle rкva
+De celui qu'elle aime
+Qu'elle aime et qui va mourir
+De mort naturelle
+
+Rien n'arrкtera le cours
+De la vieille qui moissonne
+Le bois mort de ses doigts gourds
+Ni rien ni personne
+Car Bonhomme va mourir
+De mort naturelle
+
+Non, rien ne l'arrкtera
+Ni cette voix de malheur
+Qui dit: " Quand tu rentreras
+Chez toi, tout а l'heure
+Bonhomm' sera dйjа mort
+De mort naturelle "
+
+Ni cette autre et sombre voix
+Montant du plus profond d'elle
+Lui rappeler que, parfois
+Il fut infidиle
+Car Bonhomme, il va mourir
+De mort naturelle.

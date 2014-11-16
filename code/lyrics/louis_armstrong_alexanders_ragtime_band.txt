@@ -1,0 +1,32 @@
+Artist: louis_armstrong
+Title: alexanders_ragtime_band
+Genre: Jazz
+Subgenres: [u'Dixieland', u'Early Jazz', u'New Orleans Jazz', u'Vocal Jazz', u'Swing', u'Traditional Pop', u'Jazz Instrument', u'Trumpet Jazz']
+
+Song:
+
+Come on and hear... come on and hear
+Alexander's ragtime band
+Come on and hear... come on and hear
+It's the best band in the land
+They can play a bugle call like you never heared before
+So natural that you wanna go to war
+That's just the bestest band what am... oh honey lamb
+
+Come on along... come on along
+Let me take you by the hand
+Up to the man... I said the man
+Who's the leader of the band
+If you care to hear that swanee river played in ragtime
+Come on and hear... come on and hear
+Alexander's ragtime band
+
+(instrumental break)
+
+Come on and hear... come on and hear
+Alexander's ragtime band
+Come on and hear... come on and hear
+It's the best band in the land
+And if you want to hear that swanee river played in ragtime
+Come on and hear... come on and hear
+Alexander's ragtime band

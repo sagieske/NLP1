@@ -1,0 +1,15 @@
+Artist: donnie_mcclurkin
+Title: carribean_medley
+Genre: Religious
+Subgenres: [u'Black Gospel', u'Contemporary Gospel', u'Urban', u'Gospel']
+
+Song:
+
+I've got my mind made up and I wont turn back
+Cause I want to see my Jesus someday - Repeat x4
+
+Goodbye world, I stay no longer with you,
+Goodbye pleasures of sin, I stay no longer with you,
+I made up my mind to go the other way, the rest of my life
+
+Born Born Born again to God I am born again.......

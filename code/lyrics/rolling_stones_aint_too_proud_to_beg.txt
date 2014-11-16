@@ -1,0 +1,52 @@
+Artist: rolling_stones
+Title: aint_too_proud_to_beg
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'British Invasion', u'Contemporary Pop/Rock', u'Hard Rock', u'Regional Blues', u'Rock & Roll', u'British Psychedelia', u'Psychedelic/Garage', u'Blues-Rock', u'British Blues', u'Dance-Rock', u'Early Pop/Rock', u'AM Pop']
+
+Song:
+
+I know you wanna leave me; I refuse to let you go.
+If I have to beg, plead for sympathy,
+I don't mind, 'cause it means that much to me.
+Ain't too proud to beg, sweet darlin;
+Please don't leave me, don't you go.
+Ain't too proud to plead, baby, baby;
+Please don't leave me, don't you go.
+
+Well I heard a quiet man, is half a man, with no sense of pride,
+If I have to cry to keep ya I don't mind weepin'
+If weepin' gonna keep ya by my side.
+Ain't too proud to beg, sweet darlin;
+Please don't leave me, don't you go.
+Ain't too proud to plead, baby, baby;
+Please don't leave me, don't you go.
+
+If I have to sleep on your door step all night and day,
+Just to keep you from walkin' away;
+Let my friends laugh, for this I can stand
+Just so long as I keep from going up for grabs.
+
+Ain't too proud to beg, sweet darlin;
+Please don't leave me, don't you go.
+Ain't too proud to plead, baby, baby;
+Please don't leave me, don't you go.
+
+Ain't too proud to beg, sweet darlin;
+Please don't leave me, don't you go.
+Ain't too proud to plead, baby, baby;
+Please don't leave me, don't you go.
+
+Well your love's so deep in the pit of my heart,
+Ev'ry day it grows more and more.
+I'm not ashamed to come and plead with you, baby,
+If pleadin' keeps you from walkin' out the door.
+
+Ain't too proud to beg, sweet darlin;
+Please don't leave me, don't you go.
+Ain't too proud to plead, baby, baby;
+Please don't leave me, don't you go.
+
+Ain't too proud to beg, sweet darlin;
+Please don't leave me, don't you go.
+Ain't too proud to plead, baby, baby;
+Please don't leave me, don't you go.

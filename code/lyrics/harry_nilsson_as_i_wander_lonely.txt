@@ -1,0 +1,30 @@
+Artist: harry_nilsson
+Title: as_i_wander_lonely
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'AM Pop', u'Contemporary Pop/Rock', u'Singer/Songwriter', u'Soft Rock', u'Baroque Pop', u'Psychedelic Pop', u'Show/Musical', u'Brill Building Pop', u'Sunshine Pop', u'Film Score']
+
+Song:
+
+Clear air and sparkling city
+Crisp cloud lines crystal pretty
+Wind sweeps the streets and swirl by lovers
+Strolling through their own world
+Basking in each others glow
+While I wander lonely
+I hear the church bells ringing
+Mixed choirs of Sunday singing
+I wander down the sidewalk
+Wondering wondering what will spring be
+Whether spring will comfort me
+While I wander lonely
+Soon I'll find a change
+Watching hours pass I walk away the day
+Hiding from the room where my memory keeps
+Replaying scenes
+Of shattered dreams
+Cars pass reflective windows
+Night falls and still the wind blows
+I turn to home and think tomorrow
+That's the day I'll meet her
+That's the day my love will turn
+While I wander lonely.

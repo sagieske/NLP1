@@ -1,0 +1,28 @@
+Artist: talk_talk
+Title: a_new_jerusalem
+Genre: Religious
+Subgenres: [u'Alternative CCM', u'Contemporary Christian', u'CCM', u'Gospel', u'Adult Alternative Pop/Rock', u'Alternative/Indie Rock', u'Christian Rap']
+
+Song:
+
+And I'm home again
+But alone my child
+For the emptiness of war remains
+One among five
+But I'm dead to love
+A pawn the same
+
+And I'm home again
+Run along my child
+For the water's blood
+And so the sea
+
+Summer unwinds
+But no longer kind
+
+Heaven burn me
+Should I swear to fight once more
+
+D'you see
+Wise words
+Wild words

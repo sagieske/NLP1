@@ -1,0 +1,19 @@
+Artist: the_little_mermaid
+Title: daughters_of_triton
+Genre: Country
+Subgenres: [u'Contemporary Country', u'Neo-Traditionalist Country']
+
+Song:
+
+Oh, we are the daughters of Triton
+Great father who loves us and named us well
+Aquata
+Andrena
+Arista
+Attina
+Adella
+Alana
+And then there is the youngest in her musical debut
+A seventh little sister, we're presenting her to you
+To sing a song Sebastian wrote, her voice is like a bell
+She's our sister Ari-...

@@ -1,0 +1,18 @@
+Artist: macklemore
+Title: bombom
+Genre: Rap
+Subgenres: [u'Alternative Rap', u'West Coast Rap', u'Underground Rap']
+
+Song:
+
+(Piano)
+
+Uh, uh, uh... Uh, uh, uh...
+
+(Drums)
+Dumdumdumdumdumdumdum
+Duh-tukituh, duh-tukituh...
+
+[Skip rest of song]
+
+(Instrumental)

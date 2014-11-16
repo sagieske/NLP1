@@ -1,0 +1,31 @@
+Artist: judy_garland
+Title: after_youve_gone
+Genre: Vocal
+Subgenres: [u'Cast Recordings', u'Show Tunes', u'Standards', u'Traditional Pop', u'Vocal Pop', u'American Popular Song', u'Show/Musical']
+
+Song:
+
+After you've gone and left me cryin'
+After you've gone there's no denyin'
+You'll feel blue, you'll feel sad
+You'll miss the dearest pal you've ever had
+
+There'll come a time, now don't forget it
+There'll come a time when you'll regret it
+Someday, when you grow lonely
+Your heart will break like mine and you'll want me only
+After you've gone, after you've gone away
+
+After you've gone and left me cryin'
+After you've gone there's no denyin'
+You're gonna feel blue, and you're gonna feel sad
+You're gonna feel bad
+And you'll miss, and you'll miss,
+And you'll miss the bestest pal you ever had
+
+There'll come a time, now don't forget it
+There'll come a time when you'll regret it
+But baby, think what you're doin'
+I'm gonna haunt you so, I'm gonna taunt you so
+It's gonna drive you to ruin
+After you've gone, after you've gone away.

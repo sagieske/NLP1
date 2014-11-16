@@ -1,0 +1,39 @@
+Artist: kenny_loggins
+Title: a_lovers_question
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Pop/Rock', u'Soft Rock', u'Adult Contemporary', u'AM Pop']
+
+Song:
+
+Does she love me, with all her heart
+Should I worry, when were apart
+It's a lover's question, I'd like to know.
+
+Does she need me, as she pretends
+Is this a game, well then will I win
+It's a lover's question, I'd like to know
+
+I'd like to know when she's not with me
+If she's still true to me
+I'd like to know when we're kissing
+Does she feel just how I feel, 
+And how am I to know it's really real.
+
+Oh, tell me where, the answer lies
+Is it in her kiss or in her eyes
+It's a lover's question I'd like to know.
+
+I'd like to know when she's not with me
+If she's still true to me
+I'd like to know when we're kissing
+Does she feel just how I feel, 
+And how am I to know it's really real.
+
+Oh, tell me where, the answer lies
+Is it in her kiss or in her eyes
+It's a lover's question I'd like to know.
+
+I'd like to know.
+Oh, I'd like to know.
+
+Answer my, lover's question

@@ -1,0 +1,40 @@
+Artist: plain_white_ts
+Title: airplane
+Genre: Pop/Rock
+Subgenres: [u'Punk-Pop', u'Alternative/Indie Rock', u'Emo-Pop']
+
+Song:
+
+Airplane, airplane
+Put me to sleep again
+Take me away
+Off to a dream
+And then I'll fly
+So high across the sky
+And wake in a new place
+Where mistakes of my past are erased
+
+Don't drop me
+Don't stop me
+Just hold me
+So cosy
+
+Airplane, airplane
+Don't you go down today
+Take me away
+Off to a better place
+You know just where I'd like to go
+Please get me there on time
+Don't delay me from losing my mind
+
+Don't drop me
+Don't stop me
+Just hold me
+
+Airplane, airplane
+Don't you go down today
+Take me away
+Off to a better place
+You know just where I'd like to go
+Please get me there real soon
+I've important things that I must do

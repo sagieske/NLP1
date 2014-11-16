@@ -1,0 +1,26 @@
+Artist: hank_williams
+Title: a_mansion_on_the_hill
+Genre: Country
+Subgenres: [u'Outlaw Country', u'Southern Rock', u'Urban Cowboy', u'Country-Rock', u'Traditional Country']
+
+Song:
+
+Tonight down here in the valley
+I'm lonesome and o how I feel
+As I sit here alone in my cabin
+I can see your mansion on the hill
+
+Do you recall when we parted
+The story to me you revealed
+You said you could live without loving
+In your loveless mansion on the hill
+
+I've waited all through the years love
+To give you a heart true and real
+Cause I know you're living in sorrow
+In your loveless mansion on the hill
+
+The light shine bright from yer window
+The trees stand so silent and still
+I know you're alone with your pride dear
+In your loveless mansion on the hill

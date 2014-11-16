@@ -1,0 +1,14 @@
+Artist: richard_marx
+Title: alleluia
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Pop/Rock', u'Rock & Roll']
+
+Song:
+
+May all alleluias when spoken and heard
+Be heartfelt thanks to thee dear Lord
+And not just lovely words
+And with each passing moment 'til the ending of our days
+Be filled to overflowing with our never ending praise
+
+Alleluia, Alleluia, Alleluia

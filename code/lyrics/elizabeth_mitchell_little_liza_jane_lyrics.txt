@@ -1,0 +1,26 @@
+Artist: elizabeth_mitchell
+Title: little_liza_jane_lyrics
+Genre: Pop/Rock
+Subgenres: [u"Children's Folk", u'Alternative/Indie Rock', u'Indie Rock', u'Adult Alternative Pop/Rock']
+
+Song:
+
+I've got a friend in Baltimore, little Liza Jane
+Streetcars running by her door, little Liza Jane
+Oh little Liza, little Liza Jane
+Oh little Liza, little Liza Jane
+
+I've got a friend in San Antone, little Liza Jane
+Tumbleweeds and cactus grow, little Liza Jane
+I've got a friend in Providence, little Liza Jane
+Bluebird sitting on the fence, little Liza Jane
+
+I've got a friend in Chicago, little Liza Jane
+Walk and feel the cold winds blow, little Liza Jane
+I've got a friend in Sioux falls, little Liza Jane
+Where sunflowers grow so tall, little Liza Jane
+
+I've got a friend in Cape Cod, little Liza Jane
+Bullfrogs singing in the pond, little Liza Jane
+I've got a friend in Tokyo, little Liza Jane
+Springtime ume blossoms grow, little Liza Jane

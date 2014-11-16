@@ -1,0 +1,16 @@
+Artist: judy_garland
+Title: alexanders_ragtime_band
+Genre: Vocal
+Subgenres: [u'Cast Recordings', u'Show Tunes', u'Standards', u'Traditional Pop', u'Vocal Pop', u'American Popular Song', u'Show/Musical']
+
+Song:
+
+Come on and hear (2x), Alexander's Ragtime Band,
+Come on and hear (2x), it's the best band in the land!
+They can play a bugle call like you never heard before,
+So natural that you want to go to war--
+That's just the bestest band what am, Honey Lamb!
+Come on along (2x), let me take you by the hand
+Up to the man (2x), who's the leader of the band,
+And if you want to hear the Swanee River played in ragtime
+Come on and hear (2x), Alexander's Ragtime Band!

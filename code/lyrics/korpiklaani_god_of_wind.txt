@@ -1,0 +1,32 @@
+Artist: korpiklaani
+Title: god_of_wind
+Genre: Pop/Rock
+Subgenres: [u'Black Metal', u'Finnish Folk', u'Folk-Rock', u'Heavy Metal', u'Nordic Traditions', u'Psychedelic/Garage', u'Scandinavian Metal']
+
+Song:
+
+Let me tell you a story
+Story of a man
+Who wants to be a god
+God of the wind
+He dressed to brown
+Brown leather clothes
+He used a bone mace
+And ate mushrooms
+He lived in the woods
+There trees are huge
+Only friends were trolls
+Who were all the time drunk
+He saw nightmare
+There big bad bear
+Ran behind him
+And shouted these words:
+[Chorus:]
+If you want to be a god of wind
+You have to beat me
+If you want to be a god of wind
+You must take my skin
+If you want to be a god of wind
+You must use my nails
+If you want to be a god of wind
+You must be like me, must be like bear

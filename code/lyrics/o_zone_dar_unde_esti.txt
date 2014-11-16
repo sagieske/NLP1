@@ -1,0 +1,56 @@
+Artist: o_zone
+Title: dar_unde_esti
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Contemporary Pop/Rock', u'Rock & Roll', u'Singer/Songwriter', u'AM Pop']
+
+Song:
+
+[Refren:]
+Dar, unde esti?
+Dar, unde esti?
+Te caut in somn -
+Unde esti?
+Dar, unde esti?
+Dar, unde esti?
+In vis ma urmaresti?
+Unde esti?
+
+Te caut in visele mele,
+Sa-ti spun cat imi doresc,
+Sa ma privesti ca-nainte
+Cand incercai sa iubesti.
+
+Te vreau aici langa mine
+Sa te-ncalzesc numai eu.
+Cu-o aripa zbor fara tine
+Te caut mereu...
+
+[Refren:]
+Dar, unde esti?
+Dar, unde esti?
+Te caut in somn -
+Unde esti?
+Dar, unde esti?
+Dar, unde esti?
+In vis ma urmaresti?
+Unde esti?
+
+Dar, unde esti, iubito?
+Unde sa te gasesc?
+Inima-mi arde zdrobita
+Cand ochii tai nu-mi vorbesc.
+
+Te vreau aici langa mine
+Sa te-ncalzesc numai eu.
+Cu-o aripa zbor fara tine
+Te caut mereu...
+
+[Refren:]
+Dar, unde esti?
+Dar, unde esti?
+Te caut in somn -
+Unde esti?
+Dar, unde esti?
+Dar, unde esti?
+In vis ma urmaresti?
+Unde esti?

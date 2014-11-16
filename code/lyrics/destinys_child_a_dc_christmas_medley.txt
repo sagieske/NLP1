@@ -1,0 +1,70 @@
+Artist: destinys_child
+Title: a_dc_christmas_medley
+Genre: R&B
+Subgenres: [u'Pop', u'Teen Pop', u'Contemporary R&B', u'Dance-Pop']
+
+Song:
+
+Dashing through the snow
+On a one-horse open sleigh,
+Over the fields we go,
+Laughing all the way;
+Bells on bob-tails ring,
+Making spirits bright,
+What fun it is to ride and sing
+A sleighing song tonight.
+
+Jingle bells, jingle bells,
+Jingle all the way!
+O what fun it's to ride
+In a one-horse open sleigh.
+
+[x6]
+Santa Claus is coming to town!
+
+Frosty the snowman was a merry happy soul,
+With a smokey pipe and a button nose
+And two eyes made out of coal.
+Frosty the snowman is a fairy tale, they say,
+He was made of snow but the children
+Know how he came to life one day.
+
+Thumpity, thump, thump
+Thump, thump
+Thumpity, thump,
+Look at Frosty go
+Thumpity, thump, thump
+Thumpity, thump, thump
+Over the hills of snow.
+
+[x8]
+Santa Claus is coming to town!...
+
+Have a holly, jolly Christmas
+It's the best time of the year
+Oh by golly, jolly have a holly,
+Christmas this year.
+Have a holly, jolly Christmas
+It's the best time of the year
+Oh by golly, jolly have a holly,
+Christmas this year.
+
+[x8]
+Santa Claus is coming to town!...
+
+Deck the halls with boughs of holly
+Fa-la-la-la-la, la-la-la-la
+'Tis the season to be jolly
+Fa-la-la-la-la, la-la-la-la
+Don we now our g** apparel.
+Fa-la-la, la-la-la, la-la-la
+Troll the ancient Yuletide carol.
+Fa-la-la-la-la, la-la-la-la
+
+[x8]
+Santa Claus is coming to town!...
+
+[x2]
+Here comes Santa Claus!
+Here comes Santa Claus!
+There he goes, there he goes, go Santa

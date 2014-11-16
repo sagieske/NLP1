@@ -1,0 +1,16 @@
+Artist: orishas
+Title: al_que_le_guste
+Genre: Rap
+Subgenres: [u'Latin Rap', u'Alternative Latin']
+
+Song:
+
+Usted, usted y usted
+P? Nganse de pie compa? Eros, esto empieza as?
+
+Al que le guste que lo pruebe
+Al que le guste que lo pruebe
+Al que le guste que lo pruebe
+Y al que no, que no le pruebe
+
+Hac? A gala de bueno, de serio y auto-control

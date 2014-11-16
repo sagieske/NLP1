@@ -1,0 +1,23 @@
+Artist: ramon_ayala
+Title: sin_sangre_en_las_venas
+Genre: Latin
+Subgenres: [u'Mexican Traditions', u'Norteno']
+
+Song:
+
+Quisiera ser como tu que no siente las penas,
+Quisiera ser como tu sin sangre en las venas,
+Vivir feliz como vives llevando una vida,
+Que todo el mundo te eloje, que todo el mundo te admira,
+Pero la buena suerte no es para mi,
+Porgue con todo el alma me enamore de ti,
+Y tener gue aguantarme sin respetar mi orgullo,
+Porgue aungue tu no guieras yo sigo siendo tuyo,
+Quisiera ser como tu gue lla nada te importa,
+Y andar buscando el amor con una y con otra,
+Hacer feliz a la gente con una mentira,
+Y ser el amo del mundo y ser el rey de la vida,
+Pero la buena suerte no es para mi,
+Porgue con todo el alma me enamore de ti,
+Y tener gue aguantarme sin respetar mi orgullo,
+Porque aunque tu no quieras yo sigo siendo tuyo.

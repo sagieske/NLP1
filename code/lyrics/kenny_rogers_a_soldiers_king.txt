@@ -1,0 +1,44 @@
+Artist: kenny_rogers
+Title: a_soldiers_king
+Genre: Country
+Subgenres: [u'Adult Contemporary', u'Country-Pop', u'Soft Rock', u'Urban Cowboy', u'AM Pop', u'Contemporary Pop/Rock']
+
+Song:
+
+No one seemed to notice the man beside the road
+He was just a ragged soldier out there in the cold
+But he seemed to have a purpose only known to him
+As he walked along the streets that night through the town of Bethlahem.
+
+In his head he held a memory of all the wars he'd known
+In his hand he clutched a medal for the bravery he'd shown
+And the weight of every battle he caried in his heart
+But his eyes were clear and searching for a manger in the dark.
+
+Chorus:
+Some are born to greatness, some are born to fall
+Some are bound to be forgotten like they never lived at all
+But we're all born to know Him and stand before His light
+Like the soldier who found his king tonight.
+
+He had marched for politicians, served under their command
+And he fought for all the causes that he did not understand
+But it was something deep inside him now that led him on his way
+With a single star to guide him to where the baby lay.
+
+Chorus:
+Some are born to greatness, some are born to fall
+Some are bound to be forgotten like they never lived at all
+But we're all born to know Him and stand before His light
+Like the soldier who found his king tonight.
+
+He stood before the Son of God, come to pay our debt
+He smiled up at the soldier that the world would soon forget
+So he held out his medal and said this for you I bring
+There he swore aligiance to the newborn baby King.
+
+Chorus:
+Some are born to greatness, some are born to fall
+Some are bound to be forgotten like they never lived at all
+But we're all born to know Him and stand before His light
+Like the soldier who found his king tonight...

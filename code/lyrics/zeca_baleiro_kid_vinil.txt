@@ -1,0 +1,14 @@
+Artist: zeca_baleiro
+Title: kid_vinil
+Genre: Latin
+Subgenres: [u'Brazilian Pop', u'MPB', u'Brazilian Traditions']
+
+Song:
+
+O cara nais underground que eu conheo o diabo
+Que no inferno toca cover das canes celestiais
+Com sua banda formada s por anjos decados
+A platia pega fogo quando rolam os festivais
+Equanto isso deus brinca de gangorra no playground
+Do cu com os santos que j foram homens de pecado
+De repente os santos falam

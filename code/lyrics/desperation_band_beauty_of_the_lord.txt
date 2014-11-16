@@ -1,0 +1,20 @@
+Artist: desperation_band
+Title: beauty_of_the_lord
+Genre: Religious
+Subgenres: [u'Alternative CCM', u'Contemporary Christian', u'Christian Rock', u'CCM', u'Gospel']
+
+Song:
+
+Jesus Your love
+Has come one step closer
+I will trust
+That You will never let me go
+Jesus Your love
+Has won me over
+All my trust
+Has found no other
+I will declare the beauty of the Lord
+Nothing compares to the beauty of the Lord
+Jesus Your love takes my breath away
+I'm living everyday for the beauty of the Lord
+Jesus Your love takes my breath away

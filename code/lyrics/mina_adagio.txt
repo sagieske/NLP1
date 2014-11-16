@@ -1,0 +1,38 @@
+Artist: mina
+Title: adagio
+Genre: Pop/Rock
+Subgenres: [u'Euro-Pop', u'Italian Pop', u'Adult Contemporary']
+
+Song:
+
+Adagio
+parla piano stasera
+o gli altri capiranno di noi
+balliamo,
+ma non stringermi ancora
+nel buio vedo gli occhi di lei.
+Adagio
+no, non farle capire
+che il cuore scoppia dentro di noi
+non deve cominciare a soffrire
+se t'amo non ? colpa di lei.
+Amore non guardarmi
+cos? non puoi guardarmi
+oppure non ce la far?.
+Sul collo il tuo respiro
+ormai mi fa impazzire
+ti prego non lo fare, no
+o morir?! Morir?.
+Lontano sento battere l'ora
+il mondo ? l? fuori e lo sai.
+Adagio
+piango adagio stasera
+nel mondo tu ritorni con lei.
+Amore non guardarmi
+cos? non puoi guardarmi
+oppure non ce la far?
+Sul collo il tuo respiro
+ormai mi fa impazzire
+ti prego non lo fare, no
+o morir?!
+Morir?, morir?

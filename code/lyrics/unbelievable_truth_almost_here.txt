@@ -1,0 +1,22 @@
+Artist: unbelievable_truth
+Title: almost_here
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Britpop']
+
+Song:
+
+When I was alone,
+I felt so cold,
+Its hard to keep from shaking.
+I found someone and I couldn't move.
+I couldn't breathe.
+And you try to tell me
+That were almost here.
+That weve almost made it.
+How can I be somebody new,
+When I see my own reflection?
+And you try to tell me
+That weve almost made it.
+That were almost here.
+How can I be somebody new,
+When I see my own reflection?

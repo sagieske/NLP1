@@ -1,0 +1,15 @@
+Artist: stanley_brothers
+Title: a_few_more_years
+Genre: Country
+Subgenres: [u'Traditional Bluegrass', u'Bluegrass', u'Bluegrass-Gospel', u'Close Harmony', u'Gospel', u'Old-Timey', u'Traditional Country', u'Country-Pop']
+
+Song:
+
+A few more years shall roll, a few more seasons shall come
+Then we shall be with those at rest asleep within the tomb
+
+Then Oh my Lord prepare my soul for that great day
+Wash me in Thy precious blood and take my sins all away
+
+A few more meetings here shall cheer us on our way
+And we shall reach that endless rest on that eternal day

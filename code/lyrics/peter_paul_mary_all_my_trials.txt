@@ -1,0 +1,28 @@
+Artist: peter_paul_mary
+Title: all_my_trials
+Genre: Folk
+Subgenres: [u'Contemporary Folk', u'Folk Revival', u'Folk-Pop', u'Political Folk', u'Traditional Folk', u"Children's Folk", u'Protest Songs', u'Folk-Rock']
+
+Song:
+
+All my trials Lord, soon be over.
+
+I had a little book was given to me,
+And ev'ry page spelled Liberty,
+All my trials Lord, soon be over.
+
+If religion were a thing that money could buy,
+The rich would live, and the poor would die,
+All my trials Lord, soon be over.
+
+Too late my brothers, too late, but never mind,
+All my trials Lord, soon be over.
+
+There is a tree in Paradise,
+The Pilgrims call it The Tree of Life,
+All my trials Lord, soon be over.
+
+Too late my brothers, too late, but never mind,
+All my trials Lord, soon be over.
+
+All my trials Lord, soon be over.

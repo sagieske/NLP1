@@ -1,0 +1,30 @@
+Artist: zedd
+Title: follow_you_down
+Genre: Electronic
+Subgenres: [u'Club/Dance', u'Dance-Pop', u'EDM', u'House']
+
+Song:
+
+[Verse 1]
+Fading, so slow, black hole
+I feel it slipping away
+We're all we've got
+If you're lost I'm diving in after you
+I would touch the sun I'd come undone
+It's true, I'd fall for you
+
+[Bridge]
+Wherever you go, whatever you do
+You know I'll follow you down
+Wherever you go, if ever you lose your ground
+I'll follow you down
+I'll follow you
+Down
+
+[Verse 2]
+You're lost, worn out, face down
+Don't know where you're headed to
+Right here, right now, somehow I
+I'll light the way up for you
+I would touch the sun I'd come undone
+It's true, I'd fall for you

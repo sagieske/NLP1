@@ -1,0 +1,30 @@
+Artist: peter_cetera
+Title: alone_for_the_holidays
+Genre: Pop/Rock
+Subgenres: [u'Adult Contemporary', u'Contemporary Pop/Rock', u'Soft Rock']
+
+Song:
+
+She said she always loved this time of year
+And how used to celebrate when he was here
+Then he went away - nothing more to say
+He's not coming home
+She's gonna be alone for the holidays
+
+She wrote down every word in her diary
+She reads it now and then
+To remind her of how it used to be
+He's not here today - there's nothing more to say
+She's gonna be alone for the holidays
+
+She cries all night on Christmas Eve
+She just gets by on Christmas day
+She's lost her will but kept her faith
+But he's not coming home
+She's gonna be alone for the holidays
+
+She cries all night on New Year's Eve
+She just gets by on New Year's Day
+She's lost her will but kept her faith
+He's never coming home
+Alone for the holidays

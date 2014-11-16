@@ -1,0 +1,28 @@
+Artist: 5th_dimension
+Title: aquarius
+Genre: Pop/Rock
+Subgenres: [u'AM Pop', u'Pop-Soul', u'Sunshine Pop', u'Soul']
+
+Song:
+
+When the moon is in the seventh house
+And Jupiter aligns with Mars
+Then peace will guide the planets
+And love will steer the stars
+This is the dawning of the age
+Of a Aquarius, the age of Aquarius
+Aquarius, Aquarius
+Harmony and understanding
+Sympathy and trust abounding
+No more falsehoods or derisions
+Golden living dreams of visions
+Mystic crystal revelation
+And the minds true liberation
+Aquarius, Aquarius
+When the moon is in the seventh house
+And Jupiter aligns with Mars
+Then peace will guide the planets
+And love will steer the stars
+This is the dawning of the age
+Of a Aquarius, the age of Aquarius
+Aquarius, Aquarius

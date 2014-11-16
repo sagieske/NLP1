@@ -1,0 +1,25 @@
+Artist: europe
+Title: america_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Arena Rock', u'Hair Metal', u'Hard Rock', u'Heavy Metal', u'Contemporary Pop/Rock', u'Pop-Metal', u'Scandinavian Metal']
+
+Song:
+
+You'd think by now I've learned to fake it
+You'd think by now I'd find my peace
+And there's no risk for me worth taking
+You'd think that I'd go quietly
+But the journey's still on for my America
+
+You'd think by now I'd take the easy way
+And be content with what I've seen
+You'd think by now I'd get it in to my head
+I'm the same boy I have always been
+So the journey's still on for my America
+
+You'd think by now I'd be to jaded
+To feel what love can do
+You'd think by now that I've done everything I can
+In finally reaching you
+
+But the journey's still on for my America

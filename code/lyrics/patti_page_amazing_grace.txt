@@ -1,0 +1,24 @@
+Artist: patti_page
+Title: amazing_grace
+Genre: Vocal
+Subgenres: [u'Nashville Sound/Countrypolitan', u'Traditional Pop', u'Vocal Pop', u'Country-Pop']
+
+Song:
+
+Amazi-ing Grace
+How sweet the sound
+That saved a-a wretch like me
+I o-once wa-as lost but now-ow I-I'm found
+Was blind, but now, I see
+T'was Grace tha-at taught my heart to fear
+And Grace, my-y fears relieved
+How pre-ecious did that Gra-ace a-appear
+The hour I-I first believed
+Through many-y dangers, toils and snares
+I have a-already come
+T'is Gra-ace tha-at brought me sa-afe thu-us far
+And Grace wi-ill lead me home
+When we've bee-een there ten thousand years
+Bright shini-ing as the sun
+We've no-o le-ess days to si-ing Go-od's praise
+Then when we-ee first begun

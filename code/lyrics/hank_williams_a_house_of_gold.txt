@@ -1,0 +1,22 @@
+Artist: hank_williams
+Title: a_house_of_gold
+Genre: Country
+Subgenres: [u'Outlaw Country', u'Southern Rock', u'Urban Cowboy', u'Country-Rock', u'Traditional Country']
+
+Song:
+
+Chorus
+I had rather be in a dark cold grave, and know that my poor soul was saved,
+Than to live in this world in a house of gold, and deny my God and doom my soul.
+
+Then he sung these two other verses:
+
+Jesus said come unto me, I'll break sins chains and set you free,
+Ill carry you to a home on high, where you'll never never did.
+
+Repeat chorus
+
+Jesus died there on the cross, so this world would not be lost,
+Sinner hear now what I say, for someday you'll have to pay.
+
+Repeat chorus

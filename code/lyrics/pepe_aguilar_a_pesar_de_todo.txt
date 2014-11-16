@@ -1,0 +1,44 @@
+Artist: pepe_aguilar
+Title: a_pesar_de_todo
+Genre: Latin
+Subgenres: [u'Mexican Traditions', u'Tejano', u'Norteno', u'Ranchera', u'Corrido', u'Latin Pop']
+
+Song:
+
+Apesar de todo
+De todo lo que yo sufr?
+Todavia lamento aque d? A cuando te perd?
+Apesar de todo
+De todo lo que tuve que pasar
+Todavia te amo y me paro un minuto
+No te puede olvidar
+Todavia te amo y me paro un minuto
+No te pude olvidar
+
+Apesar de saber
+Que el amor de los dos
+Siempre estuvo prohibido
+Y todo lo que hicimos
+Fue muy escondido
+Para no hacer sufrir a quien vive contigo
+
+Apesar de saber
+Que vivimos un d? A
+Un amor dividido
+Sin embargo mi amor
+Haberte conocido fue la cosa m? S linda
+Que a m? Me sucedi?
+
+Apesar de saber
+Que el amor de los dos
+Siempre estuvo prohibido
+Y todo lo que hicimos
+Fue muy escondico
+Para no hacer sufrir a quien vive contigo
+
+Apesar de saber
+Que vivimos un d? A
+Un amor dividido
+Sin embargo mi amor
+Haberte conocido fue la cosa m? S linda
+Que a m? Me sucedi?

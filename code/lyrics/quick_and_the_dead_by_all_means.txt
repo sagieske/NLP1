@@ -1,0 +1,35 @@
+Artist: quick_and_the_dead
+Title: by_all_means
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Dream Pop', u'Indie Rock', u'Alternative Pop/Rock']
+
+Song:
+
+[Verse 1]
+Everybody think that I am nuts
+By all means I am
+'Cause I am crazy and out of my head
+Everybody think that I'll flip out
+By all means I will
+'Cause I am unstable and I need help
+[Pre-chorus]
+Everybody knows (Won't get the best of me)
+I will ignore
+Those words they speak will not get the best of me
+[Chorus]
+Haven't we shed enough blood?
+I know there's got to be something better
+Haven't we lost what was ours?
+What was ours (Ours, ours, ours)
+[Verse 2]
+Everybody thinks that I gave up
+By all means I did
+'Cause I am stupid and on the edge
+Everybody thinks that I am wrong
+By all means I am
+'Cause I am unhealthy but I move on
+[Pre-chorus]
+[Chorus]
+[2x]
+Because we've got to figure this out
+(We've got to figure this out)

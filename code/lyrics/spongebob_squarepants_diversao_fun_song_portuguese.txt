@@ -1,0 +1,19 @@
+Artist: spongebob_squarepants
+Title: diversao_fun_song_portuguese
+Genre: Children's
+Subgenres: [u"Children's Pop", u"Children's Rock", u'Sing-Alongs', u'Stories']
+
+Song:
+
+Fazer brincadeiras entre amigos
+Entre voce e eu
+Brincar em qualquer
+Lugar e em qualquer hora
+O fundo do mar e meu
+
+Legal e brincar
+No meio das flores
+Tocar e danзar ula-ula
+E cortar o nariz,
+Dividir o chiclete
+Brincar tanto que o coraco pula

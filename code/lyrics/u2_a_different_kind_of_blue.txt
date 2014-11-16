@@ -1,0 +1,29 @@
+Artist: u2
+Title: a_different_kind_of_blue
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'College Rock', u'Contemporary Pop/Rock', u'Post-Punk', u'Dance-Rock']
+
+Song:
+
+Those cars
+On you
+So small
+Down there
+From here
+So high
+We drift
+We fly
+Twilight breaks through
+A different kind of blue
+More lights
+Blue signs
+All gold
+All new
+So small
+So high
+Down there
+Tonight
+With twilight breaking through
+It's a different kind of blue
+Twilight breaking through
+It's a different kind of blue

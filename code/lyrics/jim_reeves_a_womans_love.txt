@@ -1,0 +1,28 @@
+Artist: jim_reeves
+Title: a_womans_love
+Genre: Country
+Subgenres: [u'Country-Pop', u'Nashville Sound/Countrypolitan', u'Traditional Country']
+
+Song:
+
+There's nothin' like a woman's love
+For a man when he's lonesome and blue
+If your loved carressed by a woman
+If you need her be thankful you do.
+
+Remind her you need her forever
+Be true and don't drive her away
+For you'll need the love of a woman
+At the close of each long dreary day.
+
+--- Instrumental ---
+
+There's nothin' like a woman's love
+For a man when the long day is through
+If you have a chance to be unfaithful
+No doubt she has had them too.
+
+Her heart will know if your faithful
+For if you found a love young and new
+There's nothin' like a womans love
+So be thankful your love can be true...

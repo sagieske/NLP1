@@ -1,0 +1,40 @@
+Artist: nek
+Title: a_contramano
+Genre: Pop/Rock
+Subgenres: [u'Italian Pop', u'Euro-Pop']
+
+Song:
+
+Dame la mano y esc? Pate de tus "porqu?s",
+Juntos, huyamos, conmigo ven en ese tren,
+Como en un film veamos pasar el a? O que queda atr? S.
+
+Viviremos con lo que vendr?
+Y lo haremos solos,
+Ahora todo habla de los dos.
+Por la v? A de la realidad,
+Caminamos juntos,
+Piensa que esto es lo que hay.
+
+Duerme algo, que el alba ya llegar?,
+Hazme un regalo, sonr? Eme, qu? Guapa est? S,
+Despierta que nos vamos, que el mundo a contramano se va.
+
+Viviremos con lo que vendr?
+Y lo haremos solos,
+Ahora todo habla de los dos.
+Por la v? A de la realidad,
+Caminamos juntos,
+Piensa que esto es lo que hay.
+
+Lo que quieras t? Tendr? S,
+Por dos d? As reir? S,
+Ver? S
+Que en nada pensar? S.
+
+Viviremos con lo que vendr?
+Y lo haremos solos,
+Ahora todo habla de los dos.
+Por la v? A de la realidad,
+Caminamos juntos,
+Piensa que esto es lo que hay.

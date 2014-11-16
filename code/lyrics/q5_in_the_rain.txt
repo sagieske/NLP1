@@ -1,0 +1,48 @@
+Artist: q5
+Title: in_the_rain
+Genre: Pop/Rock
+Subgenres: [u'Adult Alternative Pop/Rock', u'Alternative/Indie Rock', u'Contemporary Pop/Rock', u'Pop']
+
+Song:
+
+Secret shadows, watch them shimmer
+Soft reflections in your eyes
+
+Will you see me?
+Will you touch me?
+In the rain.
+
+Restless feelings as I watch you
+Try to hold them deep inside
+
+Will you love me?
+Will you hold me?
+Why can't you tell me if you want me
+In the rain.
+
+Touching softly in the darkness
+Your lips tasting passions rise
+
+Will you love me?
+Will you leave me?
+In the rain.
+
+Secret shadows, still reflections
+Drawing me into your eyes
+
+Will you love me?
+Will you leave me?
+Why can't you tell me if you want me
+In the rain, in the rain.
+
+Breathless waiting, as I wonder
+Tasting passions, kiss goodbye
+
+Will you love me?
+Will you leave me?
+In the rain, in the rain.
+
+Will you love me?
+Will you leave me?
+Why can't you tell me if you want me
+In the rain, in the rain.

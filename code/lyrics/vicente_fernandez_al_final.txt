@@ -1,0 +1,41 @@
+Artist: vicente_fernandez
+Title: al_final
+Genre: Latin
+Subgenres: [u'Mexican Traditions', u'Ranchera', u'Latin Pop', u'Mariachi', u'Tejano']
+
+Song:
+
+Al Final,
+Me dejas solo desangrando de llorar,
+Sin primaveras en mis manos para dar
+La vida se me va, sin tu querer.
+
+Al Final,
+Me cubres todo de angustiosas soledad,
+Porque presagio que jamas regresaras
+Y yo sin tu mirar que voy a hacer.
+
+Sabes bien,
+Que tu me motivaste para amar
+Que yo invente de ti la intimidad
+Cuando te provocava ser mujer.
+.
+Y ya vez,
+Que aun siendo de tu noche el trobador
+Le niegas a mis noches la ilucion
+De ver un nuevo dia amanecer.
+
+Donde estes,
+Solo te pido que no vayas a olvidar
+Que por amarte como un cristo
+Me quede con los brazoz abiertos al final.
+
+Y ya vez,
+Que aun siendo de tu noche el trobador
+Le niegas a mis noches la ilucion
+De ver un nuevo dia el amanecer.
+
+Donde estes,
+Solo te pido que no vayas a olvidar
+Que por amarte como un cristo me quede
+Con los brazos abiertos al final.

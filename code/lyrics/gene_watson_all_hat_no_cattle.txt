@@ -1,0 +1,37 @@
+Artist: gene_watson
+Title: all_hat_no_cattle
+Genre: Country
+Subgenres: [u'Country-Pop', u'Honky Tonk', u'Traditional Country']
+
+Song:
+
+He's dressed up like a cowboy
+Right out of Hollywood
+And he's got his sights on you
+'Cross the room
+His line are well rehersed and
+If he gets lucky soon
+He'll have you believein'
+That he can milk the moon.
+'Cause, he's all hat and no cattle
+He'll break you heart just for fun
+And ride of into the settin' sun
+He'll try to make you think
+He's ridin' high in the saddle
+He's all hat and no cattle.
+--- Instrumental ---
+Under that ten gallon
+There's nothin' really there
+Those boot have never been
+Far from town
+He's never rode a tractor
+Or been behind a plow
+He shoots a lot of bull,
+But he's never milked a cow.
+And, he's all hat and no cattle
+He'll break you heart just for fun
+And ride of into the settin' sun
+He'll try to make you think
+He's ridin' high in the saddle
+He's all hat and no cattle.
+He's all hat and no cattle...

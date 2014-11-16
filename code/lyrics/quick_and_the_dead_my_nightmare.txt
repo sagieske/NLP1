@@ -1,0 +1,33 @@
+Artist: quick_and_the_dead
+Title: my_nightmare
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Dream Pop', u'Indie Rock', u'Alternative Pop/Rock']
+
+Song:
+
+[Verse:]
+My nightmare's never ending
+Of sin-filled frustration gone
+But not alone
+Darkness falls around me
+But I still hear them sing
+The angels call to me
+[Chorus:]
+Caught in a nightmare
+And I can't get out on my own
+And I can't get out on my own
+[Verse 2:]
+I'm feeling so cold and I know that
+It's killing me inside
+I don't have much more time
+To try to find out what's with my life
+[Chorus:]
+Why?
+Why did we stop trying?
+Why did we stop trying?
+[2x]
+Things could be perfect now
+Why did we stop trying
+Why did we
+This could be perfect
+This could be perfect for us

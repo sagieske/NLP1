@@ -1,0 +1,64 @@
+Artist: foo_fighters
+Title: a_matter_of_time_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Grunge', u'Post-Grunge']
+
+Song:
+
+Let's change the subject to someone else.
+You know lately I've been subject to change.
+Normally I reel in the strange.
+Hangover, I'm older.
+
+You're one to talk, the heart is a clock.
+Just like a bomb it keeps on ticking away.
+Counting down to denotate.
+You will need, an army to summon me.
+
+It doesn't matter much to me.
+If it doesn't matter much to you.
+It doesn't matter much to me.
+If it doesn't matter much to you.
+
+It's just a matter of time. (Before, before)
+It's just a matter of time. (Before, before)
+And though I hate to rewind (Before, before)
+It's just a matter of time.
+
+My past is getting us nowhere fast.
+I was never one for taking things slow.
+Nowhere seems like somewhere to go.
+Come over, and over.
+
+Doing my time for line after line.
+When will I learn to sing these crimes to myself?
+Prisoners to share a cell with.
+I'm holding, still holding.
+Holding you in.
+
+It doesn't matter much to me.
+If it doesn't matter much to you.
+It doesn't matter much to me.
+If it doesn't matter much to you.
+
+It's just a matter of time. (Before, before)
+It's just a matter of time. (Before, before)
+And though I hate to remind. (Before, before)
+It's just a matter of time.
+
+Where the hell are you?
+Where the hell are you?
+Where the hell are you?
+
+It's just a matter of time. (Before, before)
+It's just a matter of time. (Before, before)
+And though I hate to revise. (Before, before)
+It's just a matter of time.
+
+What does it matter now?
+What does it matter now?
+
+What does it matter now?
+What does it matter now?
+It's just a matter of time.
+Time!

@@ -1,0 +1,13 @@
+Artist: juanita_bynum
+Title: change
+Genre: Religious
+Subgenres: [u'CCM', u'Contemporary Christian', u'Contemporary Gospel', u'Gospel']
+
+Song:
+
+[Verse 1:]
+I'm so glad that trouble don't last always.
+I'm so glad that my burdens, they won't last always.
+
+You may be down today,
+But it won't last always

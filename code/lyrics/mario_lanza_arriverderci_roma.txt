@@ -1,0 +1,21 @@
+Artist: mario_lanza
+Title: arriverderci_roma
+Genre: Vocal
+Subgenres: [u'Traditional Pop', u'Vocal Music', u'American Popular Song', u'Opera', u'Standards', u'Cast Recordings', u'Musical Theater']
+
+Song:
+
+Arrivederci Roma, goodbye, goodbye to Rome
+City of a million moonlit places
+City of a million warm embraces
+Where I found the one above the faces far from home
+
+Arriverderci Roma, it's time for us to part
+Save the wedding bells for my returning
+Keep my lover's arms outstretched and yearning
+Please be sure, the flame of love keeps burning in her heart
+
+Arriverderci Roma, it's time for us to part
+Save the wedding bells for my returning
+Keep my lover's arms outstretched and yearning
+Please be sure the flame of love keeps burning in her heart

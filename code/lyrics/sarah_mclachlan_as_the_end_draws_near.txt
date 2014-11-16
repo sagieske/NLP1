@@ -1,0 +1,34 @@
+Artist: sarah_mclachlan
+Title: as_the_end_draws_near
+Genre: Pop/Rock
+Subgenres: [u'Adult Alternative Pop/Rock', u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Contemporary Singer/Songwriter', u'Contemporary Pop/Rock']
+
+Song:
+
+Into the valleys,
+The shadow of death,
+Greifs silently across the darkened sea.
+
+This is it, we stand alone,
+We can see it all from here,
+The starless night across the mountainside.
+No one left to talk to,
+There's nothing left to say.
+
+Into the valleys...
+
+You and me, we stand alone,
+We can see it all from here,
+Stretched far and wide,
+The barren skies,
+Fighting a silence,
+From deep inside.
+
+Into the valleys...
+
+You and me...
+
+Into the valleys,
+The shadow of death,
+Griefs silently it's in you and me,
+It's in you and me...

@@ -1,0 +1,32 @@
+Artist: jos_alfredo_jimnez
+Title: cantinero
+Genre: Latin
+Subgenres: [u'Mexican Traditions', u'Ranchera']
+
+Song:
+
+Cantinero que todo lo sabes
+He venido a pedirte un consejo
+Pero quiero que tu no me enganes
+No medigas que no eres parejo
+lla tome mil votellas con tigo me
+has dicho las cosas mas crueles
+no medigas que no soy tu amigo
+y confiesa tambien que la quieres
+yo no voy a matarme por nadie
+yo mi vida la vivo borracho
+si cambia por ti que bonito tomaremos
+los dos a lo macho.
+
+Cantinero que todo lo puede
+no me tengas respeto ni miedo
+tu me das un balaso si quieres
+yo aunque quiera pegarte no puedo.
+Se me doblan las pernas de sueno
+dame pues otra mugre votella
+pero dime que tu eres su dueno
+y brindemos contentos por ella
+yo no voy a matarme por nadie
+te la dejo por dios te la dejo
+pero choca tu copa conmigo
+y me das o te doy un consejo.

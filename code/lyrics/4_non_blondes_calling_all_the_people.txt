@@ -1,0 +1,44 @@
+Artist: 4_non_blondes
+Title: calling_all_the_people
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Adult Alternative Pop/Rock', u'Contemporary Pop/Rock']
+
+Song:
+
+How can you tell
+When your wellness is not well
+Make no mistakes now
+Please do excuse
+My itchy attitude
+I'm feelin' righteous
+Why, why are we always asking why
+To lamely try to justify
+For what it is a lack of drive
+Calling all the people
+Have you nothin' brewin'
+Time to flap your big fat mouth
+Let's rap how we be doin'
+Say might what you say
+That's really all it takes to break through
+Where is it at
+When your moral is a hat
+Full of money
+Can you explain
+Why the messy kitchen sink
+Is so confusing
+Why, why are we always asking why
+To lamely try to justify
+For what it is a lack of drive
+Calling all the people
+Have you nothin' brewin'
+Time to flap your big fat mouth
+Let's rap how we be doin'
+Say might what you say
+That's really all it takes
+Calling all the people
+Have you nothin' brewin'
+Time to flap your big fat mouth
+Let's rap how we be doin'
+Say might what you say
+That's really all it takes to break through
+Calling all the people

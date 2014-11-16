@@ -1,0 +1,44 @@
+Artist: humble_pie
+Title: as_safe_as_yesterday
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Blues-Rock', u'Boogie Rock', u'Hard Rock', u'Arena Rock', u'British Blues', u'Regional Blues']
+
+Song:
+
+Can I face tomorrow
+With the, with the news you bring me
+My soul feels cold like ice
+A pinprick makes no pain
+Oh, hear me, listen, help me
+I felt our thing change
+From love to something else
+Well, how can it plague my mind
+A pinprick makes no pain
+Oh, hear me, listen, help me
+I shall find myself
+But I must have the time
+To sow the seeds of something new
+Farmer, farmer plough the field
+Harvest, harvest all you can
+A corn field smells so sweet
+A pinprick makes no pain
+Hear me, listen, help me
+But to follow the weaver of dreams
+Behind the sun that knows, it seems that
+I'm foresworn--a naked troubadour
+I sit at court and I sing
+To the Princess of Beauty and Light
+She favours me though I'm merely
+A minstrel of the night
+There on my right
+Sits the King with his clowns
+He pays to laugh
+While his queen lives on downs
+And the smile on his brow is the crown
+Morning bird sing, fill my ears
+With the joy of our sorrow unmasked
+Lend me your wings for the sunrays of dawn
+Are here to last
+I take my leave, as I leave I must take
+All I have seen in my dreams--then I wake
+And it is as safe as yesterday is

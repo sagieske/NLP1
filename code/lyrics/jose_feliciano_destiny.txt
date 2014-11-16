@@ -1,0 +1,27 @@
+Artist: jose_feliciano
+Title: destiny
+Genre: Vocal
+Subgenres: [u'AM Pop', u'Folk-Rock', u'Soft Rock', u'Latin Pop']
+
+Song:
+
+I love you
+You love him
+There's nothing I can do
+It was in my destiny to fall for you.
+
+You say why
+Don't I try
+To find someone new
+It was in my destiny to fall for you.
+
+And There's ain't a thing I can do about it
+You know I can't live without it
+All I can say is hey, hey, hey, woman!
+
+You say you
+Could never give neater
+Love that's true
+It was in my destiny to fall for you
+To fall for you,
+Baby to fall for you.

@@ -1,0 +1,53 @@
+Artist: irving_berlin
+Title: always
+Genre: Stage & Screen
+Subgenres: [u'American Popular Song', u'Cast Recordings', u'Show Tunes', u'Tin Pan Alley Pop', u'Traditional Pop', u'Vocal Music', u'Film Music', u'Show/Musical', u'Soundtracks', u'Standards']
+
+Song:
+
+{this intro is not used in the ella version; it's included here for completeness}
+Intro:
+Everything went wrong,
+And the whole day long
+I'd feel so blue.
+For the longest while
+I'd forget to smile,
+Then I met you.
+Now that my blue days have passed,
+Now that I've found you at last -
+{end intro}
+
+I'll be loving you always
+With a love that's true always.
+When the things you've planned
+Need a helping hand,
+I will understand always.
+
+Always.
+
+Days may not be fair always,
+That's when I'll be there always.
+Not for just an hour,
+Not for just a day,
+Not for just a year,
+But always.
+
+I'll be loving you, oh always
+With a love that's true always.
+When the things you've planned
+Need a helping hand,
+I will understand always.
+
+Always.
+
+Days may not be fair always,
+That's when I'll be there always.
+Not for just an hour,
+Not for just a day,
+Not for just a year,
+But always.
+
+Not for just an hour,
+Not for just a day,
+Not for just a year,
+But always.

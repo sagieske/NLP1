@@ -1,0 +1,36 @@
+Artist: harry_chapin
+Title: and_the_baby_never_cries
+Genre: Pop/Rock
+Subgenres: [u'Singer/Songwriter', u'AM Pop', u'Contemporary Folk', u'Contemporary Pop/Rock', u'Soft Rock']
+
+Song:
+
+Well, I've sung out one more evening,
+And I'm wrung out, feeling beat.
+I walk on out the door once more
+To an empty city street.
+A Good guitar will serve you well
+When you're living in the lights
+But it's never going to warm you
+In the middle of the night.
+And so I come and go with her in whispers.
+Each and every time she says she dies.
+When she is reborn again
+I kiss her.
+And the baby never cries.
+She works in the daytime,
+She leave her baby with a friend.
+I sing every evening,
+I only see her now and then.
+I come to her at midnight,
+When 'bout half the world's asleep,
+And she puts me back together,
+In the hours before I leave.
+Her apartment is down on Perry Street,
+There's a tree in her backyard
+And it rubs the bedroom window
+When the wind is blowing hard.
+Her old man had left her,
+He just took off for the coast,
+And I caught her on the rebound
+When I needed her the most.

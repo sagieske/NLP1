@@ -1,0 +1,36 @@
+Artist: incredible_string_band
+Title: adam_and_eve
+Genre: Folk
+Subgenres: [u'British Folk', u'British Folk-Rock', u'Folk-Rock', u'Singer/Songwriter']
+
+Song:
+
+Once before the world began
+God was sitting in the sky
+He began to get some mud together
+O I wonder why
+
+First he made a man
+And then he made a woman
+Mr. Adam and miss Eve
+They began to be quite good friends
+As I can well believe
+
+O remember that morning
+Remember that time
+Take a warning
+When you see the sign
+
+Eve was sitting in the garden
+When in came a serpent
+Miss Eve take this apple
+Give it to your man
+Give it to your man
+I don't want it
+O Adam give it a try
+O give it a try
+
+Friends if you're travelling
+Never go taking an apple from a snake
+If you do I'll tell you true
+You make a big mistake

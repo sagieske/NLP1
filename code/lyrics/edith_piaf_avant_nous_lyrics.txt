@@ -1,0 +1,41 @@
+Artist: edith_piaf
+Title: avant_nous_lyrics
+Genre: Vocal
+Subgenres: [u'Cabaret', u'French Pop', u'Torch Songs', u'Vocal Pop']
+
+Song:
+
+Un printemps meurt, en vient un autre
+Et tout change, et tout est pareil.
+Le bonheur n'est pas le n? Tre,
+Pas plus que le soleil.
+? Coute, ? Coute dans le monde
+Cet orchestre de c? Urs battants.
+De partout ils se are? Pondent
+Depuis combien de temps?
+
+Avant nous,
+D'autres amants ont dit: "Je t'aime."
+Comme nous...
+Avant nous,
+D'autres ont souffert, ont trahi m? Me,
+Comme...
+Non! Ne crois pas? A! Ne crois pas? A!
+L'amour n'est pas cette mis? Re.
+L'amour, c'est toi entre mes bras...
+Avant nous,
+D'autres ont dans? Sur des "Je t'aime."
+Comme nous...
+Avant nous,
+D'autres se sont quitt? S quand m? Me
+Comme...
+Non! Pas comme nous... Ne crois pas? A!
+On a dans? Sur toute la terre
+Et l'on dansera sur ces mots-l?.
+
+Aimons-nous
+Comme ceux-l? Qui tant s'aim? Rent,
+Comme nous
+Et comme ceux qui nous suivront,
+Et comme ceux qui s'aimeront...
+Apr? S nous...

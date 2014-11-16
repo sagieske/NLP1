@@ -1,0 +1,26 @@
+Artist: 10_things_i_hate_about_you
+Title: i_hate_poem
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Electro', u'Hard Rock', u'Punk-Pop']
+
+Song:
+
+I hate the way you talk to me
+And the way you cut your hair
+I hate the way you drive my car
+I hate it when you stare
+
+I hate your big dumb combat boots
+And the way you read my mind
+I hate you so much that it makes me sick
+It even makes me ryhme
+
+I hate the way you're always right
+I hate it when you lie
+I hate it when you make me laugh
+Even worse when you make me cry
+
+I hate the way you're not around
+And the fact that you didn't call
+But mostly I hate the way I don't hate you
+Not even close, not even a little bit, not even at all.

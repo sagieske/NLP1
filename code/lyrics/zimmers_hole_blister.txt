@@ -1,0 +1,14 @@
+Artist: zimmers_hole
+Title: blister
+Genre: Pop/Rock
+Subgenres: [u'Comedy Rock', u'Hard Rock', u'Heavy Metal']
+
+Song:
+
+What are you fuckin lookin at?
+I'm gonna rip out your fuckin eye
+Blister! Blistered eye
+What are you fuckin lookin at?
+I'm gonna rip out your fuckin other eye
+Blister! Blistered eye
+Eye

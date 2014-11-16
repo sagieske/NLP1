@@ -1,0 +1,27 @@
+Artist: filter
+Title: clouds_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Heavy Metal', u'Industrial', u'Industrial Metal', u'Post-Grunge', u'Alternative Metal']
+
+Song:
+
+I dreamt I flew away with you tonight, across the universe at light speed.
+Alright.
+And just as soon as we arrived I woke to something wrong: the crystal glimmer of your eyes had vanished; you were gone! 
+
+I thought you'd take me to higher places.
+I thought you'd take me to the clouds.
+As soon as we got there was as soon as I had realized heaven had just abandoned us.
+
+I dreamt of life without mistakes tonight.
+I woke to fined us out at our wake tonight.
+The pages of our diary were stained with blood and tears.
+The passages that we had wrote were haunted writings of two ghosts.
+
+I thought you'd take me to higher places.
+I thought you'd take me to the clouds.
+As soon as we got there was as soon as I had realized heaven had just abandoned us.
+
+I thought you'd take me to higher places.
+I thought you'd take me to the clouds.
+As soon as we got there was as soon as I had realized heaven had just abandoned us.

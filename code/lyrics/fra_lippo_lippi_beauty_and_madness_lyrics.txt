@@ -1,0 +1,23 @@
+Artist: fra_lippo_lippi
+Title: beauty_and_madness_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Euro-Pop', u'Alternative/Indie Rock', u'New Wave', u'Punk/New Wave']
+
+Song:
+
+Over there, just beneath the moon
+There's a man with a burden to keep
+No sleep will fall washouts rags 'n' paperbags
+Home and life passing by
+
+Chorus
+
+Who will see the beauty in your life
+And who will be there to hear you when you call
+Who will see the madness in your life
+And who will be there to catch you if you fall
+
+Now dreams run wild, as lovers find their way
+Through the night, not a care in the world
+And over there, the twinkling of the lights
+Harbor lights say goodnight one more time

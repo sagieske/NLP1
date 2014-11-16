@@ -1,0 +1,18 @@
+Artist: hank_thompson
+Title: always_late_with_your_kisses
+Genre: Country
+Subgenres: [u'Bakersfield Sound', u'Honky Tonk', u'Traditional Country', u'Western Swing', u'Country Boogie']
+
+Song:
+
+ALWAYS LATE (WITH YOUR KISSES)
+(Lefty Frizzell - Blackie Crafford)
+" © '50 Hill & Range Songs "
+Always late with your kisses
+Won't you come to my arms sweet darling and stay
+Always late with your kisses why oh why do you want to do me this way
+How long do you think I can wait when you know you're always late
+Always late with your kisses why oh why do you want to do me this way
+Always late with your kisses
+Won't you come to my arms sweet darling and stay
+Always late with your kisses why oh why do you want to do me this way

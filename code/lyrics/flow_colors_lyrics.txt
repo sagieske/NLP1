@@ -1,0 +1,41 @@
+Artist: flow
+Title: colors_lyrics
+Genre: Rap
+Subgenres: [u'Political Rap', u'Underground Rap']
+
+Song:
+
+Jibun wo sekai saemo kaete shimaesouna
+Shunkan wa itsumo sugu sobani
+
+Kakusenu iratachi to
+Tachitsukusu jibun wo mitsume
+
+Mayoi nagara nayami nagara kuyami nagara
+Kimerebaii sa
+Kimiga kureta kotoba hitotsu tomadoi wa kiesari
+
+Karappo datta boku no heya ni hikari ga sashita
+
+Miageta oozora ga aoku sumikitte yuku
+Tozashita mado wo hiraku koto wo kimeta
+Jibun wo sekai saemo kaete shimae souna
+Shunkan wa itsumo sugu sobani?
+
+Mitase nu nichijou ni
+Aru hazu no kotae wo sagashi te
+
+Asahi ni hitori yawaraka na koe ni furimuke ba
+
+Mabayui hizashi no naka futo kimi ga hohoemu
+Tozashi ta mado ga hiraki sou ni naru
+
+Jibun wo sekai sae mo kae te shimae sou na
+Sonzai wa boku no me no mae ni?
+Miageta oozora ga aoku sumikitte yuku
+Tozashita mado wo hiraku koto wo kime ta
+Jibun wo sekai sae mo kaete shimae sou na
+Shunkan wo kanjiru ima koko ni?
+Hikari e to ryoute o nobashi te?
+
+Kokoro wo fukinukeru sora no iro kaoru kaze

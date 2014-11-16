@@ -1,0 +1,21 @@
+Artist: seekers
+Title: all_over_the_world
+Genre: Pop/Rock
+Subgenres: [u'AM Pop', u'Folk-Rock', u'Psychedelic/Garage', u'Early Pop/Rock', u'Folk-Pop']
+
+Song:
+
+All over the world, people must meet and part;
+There's someone like me feeling the pain in their heart.
+Some may meet again under that same white star,
+If maybe some night you come back from afar.
+Who cares if tonight I don't know where you are?
+Are you thinking of me now,
+Missing having me around?
+If you have forgotten me,
+My world will come tumbling down.
+All over the world, others are sad tonight;
+There's someone like me watching the sun's fading light.
+All over the sky there is the same warm glow;
+Here under that star I'm wanting you to know,
+Wherever you are, that I still love you so.

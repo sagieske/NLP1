@@ -1,0 +1,23 @@
+Artist: peggy_lee
+Title: baubles_bangles_and_beads
+Genre: Vocal
+Subgenres: [u'Swing', u'Torch Songs', u'Traditional Pop', u'Vocal Jazz', u'Show Tunes', u'Vocal Pop', u'Cast Recordings']
+
+Song:
+
+Baubles, Bangles And Beads
+Peggy Lee
+
+Baubles, bangles,
+Hear how they jing, jing-a-ling-a,
+Baubles, bangles,
+Bright, shiny beads.
+Sparkles, spangles,
+My heart will sing, sing-a-ling-a,
+Wearing baubles, bangles and beads.
+I'll glitter and gleam so,
+Make somebody dream so,
+That someday he may buy me,
+A ring, ring-aling-a,
+I've heard that's where it leads,
+Wearing baubles and bangles and beads.

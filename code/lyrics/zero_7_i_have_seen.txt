@@ -1,0 +1,25 @@
+Artist: zero_7
+Title: i_have_seen
+Genre: Electronic
+Subgenres: [u'Downbeat', u'Trip-Hop', u'Adult Alternative Pop/Rock', u'Alternative/Indie Rock', u'Downtempo', u'Electronica', u'Ambient Techno', u'Techno', u'Ambient Pop']
+
+Song:
+
+Old man there people stare
+Thinking back to God knows where
+Always back to where he's been
+I have seen I have seen
+
+Time goes so slow
+Days come and go
+But I know, yes I know
+
+New born son
+Life has won
+Take this turn then he'll run
+Run away from all that's been
+I have done, I have seen
+
+Time goes so slow
+Days come and go
+But I know, yes I know

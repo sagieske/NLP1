@@ -1,0 +1,16 @@
+Artist: hank_locklin
+Title: act_naturally
+Genre: Country
+Subgenres: [u'Nashville Sound/Countrypolitan', u'Honky Tonk', u'Traditional Country', u'Country-Pop']
+
+Song:
+
+They're gonna put me in the movies they're gonna make a big star out of me
+We'll make a film about a man that's sad and lonely
+And all I gotta do is act naturally
+Well I'll bet you I'm a gonna be a big star might win an Oscar you can never tell
+This movie's gonna make me a big star cause I can play the part so well
+I hope you'll come to see me in the movies
+For then I know that you will plainly see
+The biggest fool that's ever hit the big time and all I gotta do is act naturally
+And all I gotta do is act naturally

@@ -1,0 +1,64 @@
+Artist: youme
+Title: byul
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Indie Pop', u'Alternative Singer/Songwriter', u'Indie Folk']
+
+Song:
+
+(200 Pound Beauty ost)
+
+Param-kyori cha-ngeu-rheun-teul-go
+Nae kiman-han cha-gun naye bang wi-ro
+Arum-taun-ke pyul-bit-durun
+Kaduk chae-wo-chuneyo
+Sel-su-obshi manhunt pyul-tu-reun
+Ji-chyo-in-nun na-reul oru-man-chimyo
+Nae mam-soge katok tamun
+Nun-mul tak-ka shu-neyo
+
+Man-hyi apa-ha-ji-ma
+Nal kkung anun-chae
+Tado-kyojumyo chal-jara
+Wero-hae ju-neyo
+
+Goshi mo-thal man-kum
+Hime gyowa apa-wado
+Nun-muri a-peul kar-yowado
+Gatchi-mothan nae sarang apedo
+Na usul-lae-yu
+Cham-shira-do gyote
+Haeng-bo-khaet-don giok-turul
+Ga-sume gan-ji-khal-kkeyo
+Tunune sunoh-a-jin
+Cho pyol-deul-cho-rom yongwonhi
+
+Kkumul kku-deut taka-uneyo
+Yu-nu-nhi-do balkun naye byol hana
+Nunbu-shi-mi panjja-gimyo
+Okkae-wiro naer-yo-wa
+
+Jakku sulpo-hajima
+Son kkong chabun-chae
+Nal manchyo-jumyo
+Tta-seu-hi nal kamssa-shu-neyo
+
+Goshi mo-thal man-kum
+Hime gyowa apa-wado
+Nun-muri a-peul kar-yowado
+Gatchi-mothan nae sarang apedo
+Na usul-lae-yu
+Cham-shira-do gyote
+Haeng-bo-khaet-don giok-turul
+Ga-seum-soge gan-chikhal-kke-yo
+Tunune sunoh-ajin
+Cho pyol-deul-chorom ooohhhh
+
+Na onul-manun anu-royu
+Nun-muri kadokchowado
+Chogi cho byol-deul-chorom
+Na you-seul-lae-yo ooohhhh
+Haeng-bokhaet-don giok-modu
+Ga-sume gan-ji-khal-kkeyo
+Tunune sunoh-a-jin
+Cho pyon-deul-cho-rom
+Yongwonhi

@@ -1,0 +1,33 @@
+Artist: george_michael
+Title: a_last_request
+Genre: Pop/Rock
+Subgenres: [u'Dance-Pop', u'Contemporary Pop/Rock', u'Adult Contemporary', u'Dance-Rock', u'Urban']
+
+Song:
+
+It's late
+Time for bed
+So I sit, and wait
+For that gin and tonic
+To go to your head
+
+I know
+It's a devious plan
+But it's the only way that I know
+To get those big bad carkeys
+Out of your habd
+
+You know
+That I remain a gentle man
+But even so
+There's only so much
+A gentleman can stand
+Sleep with me
+Oh sleep with me tonight
+
+My cards are on your table
+My dreams are in your bed
+If I was able
+I'd be there instead
+
+Sleep with me tonight

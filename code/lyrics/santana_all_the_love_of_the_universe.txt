@@ -1,0 +1,29 @@
+Artist: santana
+Title: all_the_love_of_the_universe
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Blues-Rock', u'Fusion', u'Hard Rock', u'Latin Rock', u'Psychedelic/Garage', u'Contemporary Pop/Rock', u'Jazz-Rock']
+
+Song:
+
+All the love of the universe
+
+Oo, oo, do...
+New thoughts
+Will purify my mind
+And clean my body
+New lives
+Will fall together like an endless story
+
+All the love of the universe
+Will be shared by all that's living
+
+And I don't really care
+About tomorrow
+Today
+Is all I really need to find the answers
+
+Ill find the constant flow
+Of all the harmony
+
+Everybody needs a helpin hand
+Everybody needs a helpin hand

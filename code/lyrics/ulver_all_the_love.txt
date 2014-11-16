@@ -1,0 +1,33 @@
+Artist: ulver
+Title: all_the_love
+Genre: Electronic
+Subgenres: [u'Ambient', u'Art Rock', u'Experimental', u'Black Metal', u'Heavy Metal', u'Improvisation', u'Progressive Metal', u'Scandinavian Metal']
+
+Song:
+
+We fear the things
+We don't understand
+
+The powers
+Of good
+And evil
+
+Of the world
+
+The past
+The future
+
+The promises
+
+The folly
+Of those who died
+
+For nothing
+
+Leaving their wives
+And their children
+
+For love
+
+The only thing
+That makes us human

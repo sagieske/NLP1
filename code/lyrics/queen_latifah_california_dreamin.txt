@@ -1,0 +1,23 @@
+Artist: queen_latifah
+Title: california_dreamin
+Genre: Rap
+Subgenres: [u'Pop-Rap', u'Alternative Rap', u'Adult Contemporary', u'Contemporary R&B', u'House', u'Golden Age']
+
+Song:
+
+[Inspired by Jose Feliciano's 1968 cover of The Mamas And The Papas hit of 1966]
+All the leaves are brown and the sky is gray.
+I've been for a walk on a winter's day.
+I'd be safe and warm if I was in L. A.;
+California dreamin' on such a winter's day.
+Stopped in to a church I passed along the way.
+Well I got down on my knees and I pretend to pray.
+You know the preacher liked the cold;
+He knows I'm gonna stay.
+California dreamin' on such a winter's day.
+All the leaves are brown and the sky is gray.
+I've been for a walk on a winter's day.
+If I didn't tell her I could leave today;
+California dreamin' on such a winter's day.
+California dreamin' on such a winter's day.
+California dreamin' on such a winter's day.

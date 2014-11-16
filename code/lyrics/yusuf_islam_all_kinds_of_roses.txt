@@ -1,0 +1,25 @@
+Artist: yusuf_islam
+Title: all_kinds_of_roses
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Pop/Rock', u'Psychedelic/Garage', u'Singer/Songwriter', u'Soft Rock', u'AM Pop', u'Album Rock', u'Psychedelic Pop']
+
+Song:
+
+All kinds of roses (x2)
+All kinds of roses, grow in my garden,
+All kinds of creatures (x2)
+All kinds of creatures, run on my land,
+All kinds of children (x2)
+All kinds of children, play in my yard,
+So many feelings, so many feelings, flow through my blood
+
+All kinds of people (x2)
+All kinds of people, make up my life,
+All kinds of faces (x2)
+All kinds of faces, show me their love,
+All kinds of lanterns (x2)
+All kinds of lanterns, light up the dark,
+But there's only one God, only one God, has a place in my heart
+
+All kinds of roses (x2)
+All kinds of roses, grow in my garden

@@ -1,0 +1,31 @@
+Artist: steve_green
+Title: find_us_faithful
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Post-Grunge', u'Punk Revival', u'Punk-Pop']
+
+Song:
+
+We're pilgrims on the journey
+Of the narrow road
+And those who've gone before us line the way
+Cheering on the faithful, encouraging the weary
+Their lives a stirring testament to God's sustaining grace
+Surrounded by so great a cloud of witnesses
+Let us run the race not only for the prize
+But as those who've gone before us
+Let us leave to those behind us
+The heritage of faithfulness passed on through godly lives
+CHORUS:
+Oh may all who come behind us find us faithful
+May the fire of our devotion light their way
+May the footprints that we leave
+Lead them to believe
+And the lives we live inspire them to obey
+Oh may all who come behind us find us faithful
+After all our hopes and dreams have come and gone
+And our children sift through all we've left behind
+May the clues that they discover and the memories they uncover
+Become the light that leads them to the road we each must find
+REPEAT CHORUS
+Oh may all who come behind us find us faithful
+Oh may all who come behind us find us faithful

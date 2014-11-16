@@ -1,0 +1,21 @@
+Artist: zornik
+Title: dreams_dont_come_easy
+Genre: Pop/Rock
+Subgenres: [u'Hard Rock']
+
+Song:
+
+Album: One-Armed Bandit
+Track: 13
+Something caught my eye
+We just turn back and run
+We didn't realise how lovely it was
+And we dig our own graves..
+But the sand crawles back
+In my eyes and my mind, there's a black hole..
+Something caught my eye
+We just turn back and run
+We didn't realise how lovely it was
+And we dig our own graves..
+But the sand crawles back
+In my eyes and my mind, there's a black hole..

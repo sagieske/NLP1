@@ -1,0 +1,26 @@
+Artist: diana_krall
+Title: all_night_long
+Genre: Jazz
+Subgenres: [u'Contemporary Jazz', u'Torch Songs', u'Traditional Pop', u'Vocal Jazz', u'Neo-Bop', u'Film Score']
+
+Song:
+
+Never knew the softness of his tender kiss
+Don't know if he's weak or strong
+All I know is that he's every dream I dream
+All night long
+
+Never heard him say a single word of love
+Don't know his fate or his soul
+Cause he only speaks to me in dreams I've dreamed
+All night long
+
+When I sleep he tells me he's in love with me
+And how much he needs me to be near
+But at best my dreams is just a fantasy
+If I touch his hand he'll disappear
+
+I don't want a love that's just a memory
+Fate how could you be so warm
+Now I've got to find the man who's haunting me
+All night long

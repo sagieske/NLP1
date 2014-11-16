@@ -1,0 +1,30 @@
+Artist: grease
+Title: alma_mater_parody
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Garage Punk', u'Punk Revival']
+
+Song:
+
+"I saw a dead skunk on the highway
+And I was goin' crazy from the smell
+Cause when the wind was blowin' my way
+It smelled just like the halls of old Rydell
+And if you've gotta use the toilet
+And later on you start to scratch like hell
+Take off your underwear and boil it
+Cause you've got memories of old Rydell
+Girls:
+I can't explain Rydell, this pain Rydell
+Is it ptomaine Rydell gave me
+Guys"
+Is it V. D. Rydell
+Could be Rydell
+All:
+You outta see the faculty
+
+If Mister Clean, Rydell
+Had seen Rydell
+He'd just turn green and disappear
+I'm outta luck Rydell
+Dead duck Rydell
+I'm stuck Rydell, right here"

@@ -1,0 +1,23 @@
+Artist: zolof_the_rock_roll_destroyer
+Title: crazycute
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Punk-Pop']
+
+Song:
+
+All I think I need is
+An affirmation of
+An idea or an inkling
+Of where we started from
+You make me look like I sound like I'm crazy
+Every time I see you near me
+I feel ashamed I feel shy
+Every time I see you nearby
+I wanna scream and hide
+I don't think I'm willing to impersonate
+The normalcy that I'd need to get throught every day with you
+You make me look like I sound like I'm crazy
+Every time I see you near me
+I feel ashamed I feel shy
+Every time I see you nearby
+I wanna scream and hide

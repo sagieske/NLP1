@@ -1,0 +1,27 @@
+Artist: quicksilver_messenger_service
+Title: dinos_song
+Genre: Pop/Rock
+Subgenres: [u'Acid Rock', u'Psychedelic/Garage']
+
+Song:
+
+I don't ever want to see you crying,
+And I don't ever want to see you blue,
+Oh no, all I ever wanted to do was know you
+And maybe hope you could know me too.
+Well I don't ever want to make you sorry
+For anything you've ever said or done,
+Oh no, all I ever wanted to do was love you,
+And maybe hope you could love me too.
+And it's all right baby, I'm in love with you,
+And it's all right, I would never make you blue or try to play with you,
+Well I don't ever want to spoil your party, babe,
+Or tell you where to go or what to do,
+Oh no, all I ever wanted to do was know you,
+There may be hope you could know me too.
+And it's all right baby, I'm in love with you,
+And it's all right, I would never make you blue or try to play with you,
+Well I don't ever want to spoil your party, babe,
+Or tell you where to go or what to do,
+Oh no, all I ever wanted to do was love you,
+There may be hope you could love me too

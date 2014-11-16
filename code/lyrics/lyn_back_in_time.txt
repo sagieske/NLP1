@@ -1,0 +1,42 @@
+Artist: lyn
+Title: back_in_time
+Genre: Pop/Rock
+Subgenres: [u'Heavy Metal', u'N\xfc Metal']
+
+Song:
+
+Gureume bicheun heuryeo jigo
+Changgae yoranhi naerineun
+Bitmulsori mankkeum shirin gieokdeuri
+Nae maeum butjabgo inneunde
+
+Galsurok jiteo jyeogan
+Geuri ume jamgyeo
+Shiganeul geoseulleo galsun eopnayo
+Geuttae cheoreomman
+Geudae nal anajumyeon
+Gwaenchanheul tende ijen
+
+Jeojeodeun bitgireul ttaraga
+Hamkkehan chueogeul dorabwa
+Heuryeojin bitmure tteooreun geudaega
+Nae nunmul sogeseo chaollawa
+
+Galsurok jiteo jyeogan
+Geuri ume jamgyeo
+Shiganeul geoseulleo galsun eopnayo
+Geuttae cheoreomman
+Geudae nal anajumyeon
+Gwaenchanheul tende ijen
+
+Heuteo jyeoga
+Nawa isseojudeon
+Geu shigando
+Geu moseubdo
+
+Dashi geuttae cheoreomman
+Geudaereul anaseo
+Shiganeul geoseulle galsu eopnayo
+Hanbeon irado
+Majimak iljirado
+Gwaenchanheul tende

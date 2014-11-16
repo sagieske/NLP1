@@ -1,0 +1,41 @@
+Artist: iris_dement
+Title: banks_of_marble
+Genre: Country
+Subgenres: [u'Alt-Country', u'Alternative/Indie Rock', u'Contemporary Country', u'Contemporary Folk', u'Country-Folk', u'Neo-Traditional Folk', u'Neo-Traditionalist Country', u'Americana']
+
+Song:
+
+I've traveled 'round this country
+From shore to shining shore
+It really made me wonder
+The things I heard and saw
+
+I saw the weary farmer
+Plowing sod and loam
+L heard the auction hammer
+Just a-knocking down his home
+
+But the banks are made of marble
+With a guard at every door
+And the vaults are stuffed with silver
+That the farmer sweated for
+
+I've seen the weary miner
+Scrubbing coal dust from his back
+I heard his children cryin'
+"Got no coal to heat the shack"
+
+But the banks are made of marble
+With a guard at every door
+And the vaults are stuffed with silver
+That the miner sweated for
+
+I've seen my brothers working
+Throughout this mighty land
+L prayed we'd get together
+And together make a stand
+
+Then we might own those banks of marble
+With a guard at every door
+And we might share those vaults of silver
+That we have sweated for

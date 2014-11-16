@@ -1,0 +1,12 @@
+Artist: valentines_day
+Title: a_hug_from_you
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Post-Grunge', u'Punk Revival', u'Punk-Pop']
+
+Song:
+
+It's nice to get to a hug from you,
+Hug from you, Hug from you.
+It's nice to get a hug from you,
+So, let's give one right now.
+(Hug a friend)

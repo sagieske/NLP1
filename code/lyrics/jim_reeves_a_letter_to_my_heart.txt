@@ -1,0 +1,26 @@
+Artist: jim_reeves
+Title: a_letter_to_my_heart
+Genre: Country
+Subgenres: [u'Country-Pop', u'Nashville Sound/Countrypolitan', u'Traditional Country']
+
+Song:
+
+Dear heart, there is something I must tell you
+Something sad and so hard for me to say
+For I know how much you always loved her
+And how you always hoped that she'd come back someday
+
+But day after day my hopes grow dimmer
+As I watched life and love passing me by
+And the life I live is empty and so lonely
+But you just lived for her and slowly let me die
+
+You know she left me for another
+So give her up, let her go, let it be
+Dear heart, if you won't stop beating for her
+Then dear heart, stop beating for me
+
+You know she left me for another
+So give her up, let her go, let it be
+Dear heart, if you won't stop beating for her
+Then dear heart, stop beating for me

@@ -1,0 +1,23 @@
+Artist: zizi_possi
+Title: a_vida_corre_anema_a_core
+Genre: Latin
+Subgenres: [u'Brazilian Jazz', u'MPB', u'World Fusion', u'Brazilian Traditions']
+
+Song:
+
+Amor nгo vб embora
+A Vida corre
+Й sol de novo agora
+E ainda chove
+
+Amor, o belo й breve
+E a dor nгo morre
+Se nгo estбs
+E se nгo hб
+Como te ver
+
+Amor nгo haverб um outro dia
+Que possa me trazer tanta alegria
+A vida me sorri nesse teu riso
+Й tudo o que eu preciso
+Nгo vб embora.

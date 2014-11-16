@@ -1,0 +1,31 @@
+Artist: sesame_street
+Title: a_the_sound_of_the_letter_a
+Genre: Children's
+Subgenres: [u'Educational', u'Sing-Alongs', u"Children's Rock", u'Contemporary Pop/Rock']
+
+Song:
+
+Alligators and Acrobats, Antelopes and Alleycats,
+Those are words that begin with... The "A" sound!
+Animals living in the zoo, the Alphabet, and an Apple too,
+Those are words that begin with... The "A" sound!
+
+And if by chance, it happens your name is Alice...
+Or Ann, or Albert,
+Then you can say...
+To everybody
+
+"My name is Alice, Ann, or Al-bert,
+And my name begins with the sound of the letter 'a'! "
+
+(conversation with Ant named Ambercrombe)
+
+And if by chance it happens your name is Alice...
+Or Ann or Albert,
+Than you can say...
+To everybody
+
+"My name is Alice, Ann, or Al-bert,
+And my name begins with the sound of the letter 'a'! "
+The letter "A"
+The letter "A!"

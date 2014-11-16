@@ -1,0 +1,31 @@
+Artist: israel_new_breed
+Title: come_and_let_us_sing
+Genre: Pop/Rock
+Subgenres: [u'CCM', u'Contemporary Christian', u'Praise & Worship', u'Inspirational', u'Contemporary Gospel', u'Urban', u'Gospel']
+
+Song:
+
+Come and let us sing
+Come and let us sing
+Come and let us sing
+To the King of kings
+
+Enter his gates with thanksgiving
+Enter his courts with praise
+
+He's worthy to be praised
+Exalt his holy name
+Glory and honor
+Majesty and power
+
+Come and let us shout
+Come and let us shout
+Come and let us shout
+To the Lord our God
+
+Come and let us dance
+Come and let us dance
+Come and let us dance
+Lift up holy hands
+
+Hallelujah Hallelujah Hallelujah

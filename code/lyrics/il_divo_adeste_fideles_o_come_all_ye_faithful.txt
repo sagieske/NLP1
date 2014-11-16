@@ -1,0 +1,51 @@
+Artist: il_divo
+Title: adeste_fideles_o_come_all_ye_faithful
+Genre: Vocal
+Subgenres: [u'Classical Crossover', u'Classical Pop', u'Vocal Pop', u'Vocal Music']
+
+Song:
+
+[Sebastien:]
+O Come All Ye Faithful
+Joyful and triumphant,
+O come ye, O come ye to Bethlehem.
+
+[David, Carlos, Urs:]
+Come and behold Him,
+Born the King of Angels;
+
+[Urs:]
+O come, let us adore Him,
+O come, let us adore Him,
+O come, let us adore Him,
+Christ the Lord.
+
+[Carlos:]
+Adeste fideles,
+Laeti triumphantes,
+Venite, venite in Bethlehem!
+
+[David:]
+Natum videte,
+Regem angelorum
+
+[Sebastien:]
+Venite adoremus,
+
+[Urs:]
+Venite adoremus,
+
+[Carlos:]
+Venite adoremus
+Dominum.
+
+Adeste fideles,
+Laeti triumphantes,
+Venite, venite in Bethlehem!
+
+Natum videte,
+Regem angelorum
+Venite adoremus,
+Venite adoremus,
+Venite adoremus
+Dominum.

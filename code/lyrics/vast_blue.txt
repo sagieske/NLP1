@@ -1,0 +1,25 @@
+Artist: vast
+Title: blue
+Genre: Pop/Rock
+Subgenres: [u'Alternative Metal', u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Heavy Metal', u'Post-Grunge', u'Goth Rock', u'Hard Rock', u'Industrial']
+
+Song:
+
+Will you turn my mind away from
+Everything that I haven't done
+Hope is falling away from me
+Hope is falling away from me
+Lets go down with the ship
+Lets slip into oblivion
+Lets go down with the ship
+Lets slip into, lets slip into
+The blue
+Will you turn my mind away from
+Everything that I haven't done
+Hope is falling away from me
+Hope is falling away from me
+Lets go down with the ship
+Lets slip into oblivion
+Lets go down with the ship
+Lets slip into, lets slip into
+The blue

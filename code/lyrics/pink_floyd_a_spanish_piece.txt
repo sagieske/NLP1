@@ -1,0 +1,17 @@
+Artist: pink_floyd
+Title: a_spanish_piece
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Art Rock', u'British Psychedelia', u'Prog-Rock', u'Psychedelic/Garage', u'Mixed Media', u'Hard Rock']
+
+Song:
+
+Bath of tequila, Manuel
+Listen Gringo
+Laugh at my lisp and kill you
+I think
+This Spanish music
+It sets my soul on fire
+Lovely seniorita
+Your eyes are like stars
+Your teeth are like pearls
+Your ruby lips seniorita

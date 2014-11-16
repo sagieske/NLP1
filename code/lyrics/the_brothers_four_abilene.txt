@@ -1,0 +1,44 @@
+Artist: the_brothers_four
+Title: abilene
+Genre: Folk
+Subgenres: [u'Folk Revival', u'Traditional Folk']
+
+Song:
+
+Abilene, Abilene
+Prettiest town I've ever seen.
+Woman there, they don't treat you mean
+In Abilene.
+
+I sit alone, every night
+Watch the trains roll out of sight
+How I wish they'd carry me back
+To Abilene.
+
+Wish I could go there
+The girl that I know there
+Would love me all of my day
+Why did I leave her
+Never to see her
+Oh, What a price to pay.
+
+Abilene, Abilene
+Prettiest town I've ever seen.
+Woman there, they don't treat you mean
+In Abilene.
+
+--- Whistles with Instrumental ---
+
+Wish I could go there
+The girl that I know there
+Would love me all of my day
+Why did I leave her
+Never to see her
+Oh, What a price to pay.
+
+Abilene, (Oh Abilene), Abilene, (My Abilene)
+Prettiest town I've ever seen.
+Woman there, never treat you mean
+In Abilene.
+
+--- Whistles with Instrumental to fade ---

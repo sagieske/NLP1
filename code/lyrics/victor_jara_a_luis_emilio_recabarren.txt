@@ -1,0 +1,27 @@
+Artist: victor_jara
+Title: a_luis_emilio_recabarren
+Genre: Folk
+Subgenres: [u'Chilean', u'Contemporary Folk', u'Latin Folk', u'Political Folk', u'Singer/Songwriter', u'South American Traditions', u'Nueva Cancion']
+
+Song:
+
+Pongo en tus manos abiertas mi guitarra de cantor
+Martillo de los mineros, arado del labrador
+
+Recabarren, Luis Emilio Recabarren,
+Simplemente doy las gracias por tu luz.
+Con el viento, con el viento de la pampa,
+Tu voz sopla por el centro y por el Sur.
+
+Rbol de tanta esperanza, naciste en medio del sol.
+Tu fruto madura y canta, hacia la liberacin.
+
+Recabarren, Luis Emilio Recabarren,
+Simplemente doy las gracias por tu luz.
+Con el viento, con el viento de la pampa,
+Tu voz sopla por el centro y por el Sur.
+
+Recabarren, Luis Emilio Recabarren,
+Simplemente doy las gracias por tu luz.
+Con el viento, con el viento de la pampa,
+Tu voz sopla por el centro y por el Sur.

@@ -1,0 +1,82 @@
+Artist: ft_island
+Title: a_name_called_love_lyrics
+Genre: Jazz
+Subgenres: [u'Third Stream', u'World Fusion', u'Classical Crossover', u'Chamber Music', u'New Acoustic']
+
+Song:
+
+Sarangira hajyo
+Na keudael bureunun ireum
+Sesang modu dajiwojinda haedo
+Namgyeojil ireum
+Sarangira hajyo
+Na keudael bureunun ireum
+Sesangei naegen hanabbunin saram
+Keudael bureunun ireum
+
+Sarangira hajyo
+Keudae nal bureunun ireum
+Eonjena keudae gyeotul jikil saram
+Nal bureunun ireum
+
+Aljyo naemam keudaenun aljyo
+Eolmana saranghago eetnunji
+Nun gamado boinun
+Nae sarangi keudaeran geol
+
+Aljyo nado keudae mam aljyo
+Eolmana narul aggyeojununji
+Hangsang keudae du nunein
+Na hanaman keuryeoitjyo
+
+Sarangira hajyo
+Nae keudael bureunun ireum
+Sesange naegen hanabbunin saram
+Keudael bureunun ireum
+
+Sarangira hajyo
+Keudae nal bureunun ireum
+Eonjena keudae gyeoteul jikil saram
+Nal bureunun ireum
+
+Let's go with us
+Keudaenun nae salm sogui bit
+Eodubdeon nae geelul bahlhim
+Only one for me
+Neonun nae salm sokui mmunshin gipge bakhin
+Jaul su eobnun nae sarangui munshin
+Neonun nae salm soge baein hyangi neonun
+Nae salm sok eonjena 0sunwei Right
+You make me laugh
+Eonjena ni gyeoten naega eeseo
+Don; t forget this
+
+Keujyo keudaemam nanun aljyo
+Darun saramun eobdanun geotdo
+Cheoumija majimak
+Sarangi keudaeranun geot
+
+Sarangira hajyo
+Nae keudael sae gyeonohun ireum
+Gasum sok gipi saegyeonohun saram
+Keudael bureunun ireum
+
+Sarangira hajyo
+Keudae nal gieokhal ireum
+Nun gamun sungan hamkke haejul saram
+Nail geoya
+
+Ddaeron sesangui shigie
+Eoryeoumdo eetgessjiman
+Keudaewa hamkke handamyun
+Eodidunji gal su eeseo
+
+Sarangira hajyo
+Na keudael bureunun ireum
+Sesange naegen hana bbunin saram
+Keudael bureunun ireum
+
+Sarangira hajyo
+Keudae nal bureunun ireum
+Eonjena keudae gyeotul jikil saram
+Nal bureunun ireum

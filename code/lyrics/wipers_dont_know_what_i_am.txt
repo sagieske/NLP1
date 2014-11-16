@@ -1,0 +1,19 @@
+Artist: wipers
+Title: dont_know_what_i_am
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'American Underground', u'Hardcore Punk', u'Indie Rock', u'Punk', u'Punk/New Wave']
+
+Song:
+
+I don't know what I am
+So just go put on another sham
+What do you do when your always subjected
+What do you do when your always neglected
+Try to run but there's now way
+To find a sanctuary
+Do you know what you are
+I had the feeling we could go far
+What do we do when were always rejected
+What we feel when were always suspected
+Try to run but there's no where
+To find a sanctuary

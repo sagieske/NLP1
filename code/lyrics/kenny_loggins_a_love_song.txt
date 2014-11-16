@@ -1,0 +1,39 @@
+Artist: kenny_loggins
+Title: a_love_song
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Pop/Rock', u'Soft Rock', u'Adult Contemporary', u'AM Pop']
+
+Song:
+
+There's a wren in a willow wood
+Flies so high, sings so good
+And he brings to you, what he sings to you
+And the love in his lullaby
+Seems to tell me if I try
+I could fly for you
+Lover I wanna try for you cause
+
+I wanna sing you a love song
+I wanna rock you in my arms all night long
+I wanna get to know you
+I wanna show you the peaceful feeling of my home
+
+Summer thunder on moon-bright days
+Northern lights in the skys ablaze
+I'll bring to you, if you let me sing to you
+Silver wings in a firery sky
+Show the trail of our love and
+I wanna sing to you, love is what i bring to you
+I wanna sing to you
+
+Oh, I wanna sing you a love song
+I wanna rock you in my arms all night long
+I wanna get to know you
+I wanna show you the peaceful feeling of my home
+
+{vocalizations}
+
+Oh, I wanna sing you a love song
+I wanna rock you in my arms all night long
+I wanna get to know you
+I wanna show you the peaceful feeling of my home

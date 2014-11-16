@@ -1,0 +1,21 @@
+Artist: passenger
+Title: always_forever_now
+Genre: Pop/Rock
+Subgenres: [u'Adult Alternative Pop/Rock', u'Alternative Pop/Rock', u'Alternative/Indie Rock']
+
+Song:
+
+Always, always
+Always forever now
+Always, always
+Always forever now
+
+Always forever
+Always forever now
+Always forever
+Always forever now
+
+Always forever now
+Always forever now
+Always forever now
+Always forever

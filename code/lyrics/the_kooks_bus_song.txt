@@ -1,0 +1,29 @@
+Artist: the_kooks
+Title: bus_song
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Indie Rock']
+
+Song:
+
+Do do do...
+
+You know today I stayed on the bus
+Oh yeah I waited and waited until I was at your stop
+The driver said to me just don't make a fuss
+And I said in the end you've taken all my money, my friend
+
+But ow ow, yes you love it as I take you on when you down
+And ow ow, something happened and now I can't sing along
+And ow ow, yes you hate it as I try to get under your skin
+And ow ow, something happened and now you can't sing along
+
+Do do do...
+
+But you know today I stayed on the train
+Oh yes I waited and waited until I could not refrain
+The driver said to me just don't make a fuss like you did on the bus
+In the end you've taken all my money, you're not my friend
+
+But ow ow, yes you love it as you take me on when I'm down
+And ow ow, something happened and now I can't sing along
+And ow ow, yes you love it as you try to get under my skin

@@ -1,0 +1,33 @@
+Artist: nick_lowe
+Title: 36_inches
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Pop/Rock', u'New Wave', u'Power Pop', u'Pub Rock', u'Punk/New Wave', u'Rock & Roll', u'Singer/Songwriter', u'Americana', u'Roots Rock', u'Country-Rock', u'Contemporary Singer/Songwriter']
+
+Song:
+
+Once I was a soldier
+I rode on a big white horse
+Silver pistols at my side
+Carryin' the flags of war
+
+And I lost track of the men who fell
+In the canon's roar
+I never got over bein' a soldier
+
+Once I was a tax man
+Collectin' dollars and dimes
+I heard the rich man grumble
+I heard the poor man cry
+
+Some few couldn't afford to pay
+Were put to a shackle and key
+I never got over bein' a tax man
+
+Once I was a ruler
+About twelve inches long
+Three times me made a yardstick
+36 inches high
+
+36 inches high was I
+36 inches high
+I never got over 36 inches high

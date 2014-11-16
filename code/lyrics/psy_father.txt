@@ -1,0 +1,63 @@
+Artist: psy
+Title: father
+Genre: Pop/Rock
+Subgenres: [u'Korean Pop', u'Comedy Rap', u'Pop', u'Asian Pop', u'Party Rap']
+
+Song:
+
+Neomu amman bomyeo saraosyeonne 
+Eoneusae jasikdeul meorikeoseo maldo an deutne 
+Hanpyeongsaeng cheo jasik bapgeureuse cheongchun geolgo
+Saekkideul sajin bomyeo han punirado deo beolgo 
+
+Nunmul meokgo moksum geolgo himdeureodo teolgo ireona 
+Ireoda sseureojimyeon eojjeona 
+Appaneun syupeomaeniya yaedeura geokjeong ma 
+
+Wieseo jitnulleodo ti nael sudo eopgo 
+Araeeseo chigo ollawado pihal su eomne 
+Museomne sesang domanggago sipne 
+Jenjang geuraedo chamgo inne maennal 
+Amugeotdo moreun chae nae pumeseo dwinggulgeorineun 
+Saekkideurui jangnan ttaemune naneun sanda 
+Himdeureodo ganda yeobo yaedeura appa chulgeunhanda 
+
+Abeoji ijeya kkaedarayo 
+Eojji geureoke sasyeonnayo 
+Deo isang sseulsseulhae haji mayo 
+Ije nawa gachi gayo 
+
+Eoneusae haksaengi doen aideurege 
+Appaneun baraneun geo ttak hana 
+Jeongjikhago geonganghan chakhan ai bareun ai 
+Dareun appabodan jal hal teni 
+Hakgyo oee hagwon gwaoe dareun appadeulgwaui gyeongjaengeseo 
+Igigoja mueosideunji da haejwoya hae 
+Goro manhi beoreoya hae neone appahante jalhae 
+
+Aideureun chingudeureul sagwigo manheun yaegi nanugo 
+Bogo deutgo deo manheun geoseul haejuneun namui appawa bigyo 
+Deo joheun geoseul sajuneun namui appawa nareul bigyo 
+Galsurok ssagaji eobseojineun aideulgwa 
+Bagajiman geurngneun ansaramui deungsare oerowodo ganda 
+Yeobo yaedeura (yaedeura) appa chulgeunhanda 
+
+Abeoji ijeya kkaedarayo 
+Eojji geureoke sasyeonnayo 
+Deo isang sseulsseulhae haji mayo 
+Ije nawa gachi gayo 
+
+Yeobo eoneusae sewori manhi heulleossso 
+Cheotjjaeneun sahoero duljjae nomeun daehangno 
+Ijen on gajogi hamkke hago sipjiman 
+Abeojigi ttaemune yaegihagi eoryeopguman 
+Seworui musanghame nunmuri goigo 
+Aideureun bappa boigo aigo 
+Sanchaegina gayagessso yeobo 
+Hamkke gajusio 
+
+Abeoji ijeya kkaedarayo 
+Eojji geureoke sasyeonnayo 
+Deo isang sseulsseulhae haji mayo 
+Ije nawa gachi gayo oo~ 
+Dangsineul ttaragallaeyo

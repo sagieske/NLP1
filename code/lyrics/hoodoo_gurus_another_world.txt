@@ -1,0 +1,30 @@
+Artist: hoodoo_gurus
+Title: another_world
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Aussie Rock', u'College Rock', u'Power Pop', u'Dance-Rock']
+
+Song:
+
+God only knows how far you've come
+It must be light years from here
+Some distant star you call the sun
+Does someone miss you back there?
+
+Another world is calling you
+Another world is coming through
+
+You look like me, you talk like me
+I could believe you're human
+But late at night, I catch your eye
+And I know what you're thinking
+
+Another world is calling you
+Another world is coming through
+Calling you to come home
+
+You can't escape from gravity
+For you, this earth's a prison
+What I would call human in me
+For you would be perversion
+
+Another world is calling you

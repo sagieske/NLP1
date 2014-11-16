@@ -1,0 +1,18 @@
+Artist: zakk_wylde
+Title: been_a_long_time
+Genre: Pop/Rock
+Subgenres: [u'Southern Rock', u'Hard Rock', u'Heavy Metal', u'Doom Metal']
+
+Song:
+
+The death, the lies, in lies the truth
+All that it is, what was, ain't true
+I was down but now I can see
+The pain, the hurt, the misery
+
+Oh lord, it's been a long time
+Doing my best I'll try and get it next time
+
+This cross you bare I've come to carry for you
+This cross you bare I've come to break it in two
+I was down but now I can see

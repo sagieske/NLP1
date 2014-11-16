@@ -1,0 +1,36 @@
+Artist: u_turn
+Title: make_it_real
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'College Rock', u'Contemporary Pop/Rock', u'Post-Punk', u'Dance-Rock']
+
+Song:
+
+[Intro:]
+
+Tonight its been a year
+We met each other here,
+Hear I am all alone
+As thought of you go on
+
+[Refrain:]
+Hear me cryin out to you
+You said, never, never
+Would I leave
+Heres a tear from me to you
+And maybe it will make you hear me
+
+[Chorus:]
+I love you
+You didn't feel the same
+Though were apart, Youre in my heart
+Give me one more chance to
+Make it real
+
+In a dream, you are here
+You smile and hold are here
+And in my heart ill pretend
+That you are here again
+
+(Repeat refrain)
+(Repeat chorus)
+(Repeat chorus)

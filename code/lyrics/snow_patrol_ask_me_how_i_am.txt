@@ -1,0 +1,19 @@
+Artist: snow_patrol
+Title: ask_me_how_i_am
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Adult Alternative Pop/Rock']
+
+Song:
+
+Has nobody asked you how you are?
+You look like you might not last the day
+I wouldn't have made it very far
+So we'd make a good team right away
+I've not made amends for yesterday
+My lip won't get me out of it
+Waking up dreading hearing tales
+Of all my nightmares being true
+I take a breath and grab the phone
+Secretly hoping you're not home
+I'd leave a message - I was out
+Out of my mind on drink and drugs

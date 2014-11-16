@@ -1,0 +1,28 @@
+Artist: phoenix
+Title: bankrupt
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Indie Electronic', u'Indie Rock', u'Alternative Dance']
+
+Song:
+
+Justice done
+
+People in fashion
+Rattle don't hesitate
+A look of my own
+Your chances are slim
+Victory lap
+Formal with feathery eyes
+Dating vendetta win small
+Spray pesticide
+
+Justice done
+
+Caledonian rich and young
+Self-entitled portrait
+Court in session, justice done
+We'll rush into it anyway
+Forever is for everyone else
+We’re off a couple secrets
+Another lonely Tuesday home
+Stolen kisses, is anyone near?

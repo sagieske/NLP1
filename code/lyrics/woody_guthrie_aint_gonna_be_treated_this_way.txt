@@ -1,0 +1,26 @@
+Artist: woody_guthrie
+Title: aint_gonna_be_treated_this_way
+Genre: Folk
+Subgenres: [u'Political Folk', u'Traditional Folk', u'Field Recordings', u'Protest Songs']
+
+Song:
+
+I'm a-going down this old dusty road
+I'm a-going down this old dusty road
+O Lord God
+And I ain't gonna be treated this way
+
+I'm a-going where the dust storms never blow
+I'm a-going where the dust storms never blow
+O Lord God
+And I ain't gonna be treated this way
+
+My children need three square meals a day
+My children need three square meals a day
+O Lord God
+And I ain't gonna be treated this way
+
+I'm a-looking for a job and honest pay
+I'm a-looking for a job and honest pay
+O Lord God
+And I ain't gonna be treated this way

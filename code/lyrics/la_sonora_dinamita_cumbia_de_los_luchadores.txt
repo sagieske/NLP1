@@ -1,0 +1,25 @@
+Artist: la_sonora_dinamita
+Title: cumbia_de_los_luchadores
+Genre: Latin
+Subgenres: [u'Salsa', u'Son', u'Cumbia', u'South American Traditions', u'Tropical']
+
+Song:
+
+Respetable publico, lucharan dos de tres caidas
+Sin limite de tiempo
+En esta esquina El Santo y el Cavernario,
+Y en esta otra Blue Demon y el Bulldog
+
+La arena estaba de bote en bote,
+La gente loca de la emocion
+En el ring luchaban los cuatro rudos
+Idolos de los aficion
+
+Coro
+El santo, el cavernario, blue demon y el bulldog,
+El santo, el cavernario, blue demon y el bulldog,
+Y la gente comenzaba a gritar,
+Se sentia enardecida sin cesar
+
+Metele la wilson, metele la nelson, la quebradora y el tirabuzon
+Quitale el candado, picale los ojos, jalale los pelos, sacalo del ring

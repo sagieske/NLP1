@@ -1,0 +1,65 @@
+Artist: indochine
+Title: 7000_danses
+Genre: Pop/Rock
+Subgenres: [u'French Rock', u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Euro-Rock', u'New Wave', u'Punk/New Wave']
+
+Song:
+
+(Nicola Sirkis / Dominique Nicolas)
+7000 danses
+Une decadence
+Un monde entier va exploser
+Le temoin
+Que l'on assaille
+D'un son au loin des montagnes
+La naissance
+Dans le silence
+Rien ne bouge a part la foret
+Parmi les oiseaux
+Cries au dos
+L'ultime lumiere des terres vierges
+J'ai mal au csur
+L'etat d'un sens
+Une horreur face a l'impuissance
+La nuit va tomber
+Sur les marecages
+Les cheveux dans les yeux
+Cachent nos visages
+Le soleil orange
+A tout jamais
+Les yeux fermes
+L'ame envoutee
+Comme avant
+L'etat d'un sens
+Sa majeste des 7000 danses
+A part la haine ou le mepris
+Il est trop tard en Barbarie
+Mais par pitie, arretez-les
+Un jour d'espoir qui nous separe
+La nuit est tombee
+Sur les marecages
+Le ciel est mauve
+Comme eternel
+Les yeux fermes
+L'ame envoutee
+Le piege et la beaute
+D'un paysage
+Des larmes aux yeux
+Une terre de feu
+La nuit est tombee
+Sur les marecages
+Les cheveux dans les yeux
+Cachent son visage
+Les yeux fermes
+L'ame envoutee
+Le ciel est mauve
+Comme eternel
+Des larmes aux yeux
+Une terre de feu
+Au son des 7000 danses
+D'une decadence
+Un monde entier va exploser
+A part la haine ou le mepris
+Il est trop tard en Barbarie
+Mais par pitie, arretez-les
+Un jour d'espoir au hasard

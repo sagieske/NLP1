@@ -1,0 +1,13 @@
+Artist: qntal
+Title: anc_non_lo_vi
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Goth Rock', u'Industrial Dance']
+
+Song:
+
+Anc non lo vi e am lo fort,
+anc no n'aic dreyt ni no'm fes tort;
+quan non lo vey, be m'en deport,
+no'm pretz un jau,
+qu'ien sai gensor et bellazor,
+e que mais vau.

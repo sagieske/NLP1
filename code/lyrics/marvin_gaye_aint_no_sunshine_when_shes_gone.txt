@@ -1,0 +1,31 @@
+Artist: marvin_gaye
+Title: aint_no_sunshine_when_shes_gone
+Genre: R&B
+Subgenres: [u'Motown', u'Soul', u'Smooth Soul', u'Quiet Storm', u'Urban', u'Blaxploitation', u'Funk', u'Soundtracks', u'AM Pop', u'Contemporary Pop/Rock', u'Doo Wop', u'Pop-Soul', u'Early Pop/Rock', u'Psychedelic Soul', u'Early R&B']
+
+Song:
+
+Ain't no sunshine when she's gone.
+It's not warm when she's away.
+Ain't no sunshine when she's gone.
+And she's always gone too long.
+Anytime she goes away.
+
+Wonder this time where she's gone.
+Wonder if she's gone to stay.
+Ain't no sunshine when she's gone.
+And this house just ain't no home.
+Anytime she goes away.
+
+I know x 16
+Gotta leave the young thing alone
+There ain't no sunshine when she's gone
+
+Ain't no sunshine when she's gone.
+Only darkness every day.
+Ain't no sunshine when she's gone.
+And this house just ain't no home.
+Anytime she goes away.
+Anytime she goes away.
+Anytime she goes away.
+Anytime she goes away.

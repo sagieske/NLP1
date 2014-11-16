@@ -1,0 +1,17 @@
+Artist: chris_isaak
+Title: auld_lang_syne
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'College Rock', u'Contemporary Pop/Rock', u'Roots Rock']
+
+Song:
+
+Should auld acquaintance be forgot
+And never brought to mind?
+
+Should auld acquaintance be forgot
+And days of Auld Lang Syne.
+
+And days of Auld Lang Syne, my friend,
+And days of Auld Lang Syne.
+We'll drink a cup of kindness yet
+To days of Auld Lang Syne.

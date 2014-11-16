@@ -1,0 +1,17 @@
+Artist: iron_butterfly
+Title: filled_with_fear
+Genre: Pop/Rock
+Subgenres: [u'Psychedelic/Garage', u'Acid Rock', u'Album Rock', u'Hard Rock', u'Heavy Metal']
+
+Song:
+
+Know that the end of my mind is so near,
+My mind is just churning and burning with fear.
+
+Why did I in-a-vite it here?
+
+God, why did I in-a-vite it here?
+
+Why did I in-a-vite it here?
+
+God, why did I in-a-vite it here?

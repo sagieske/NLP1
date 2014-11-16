@@ -1,0 +1,31 @@
+Artist: eurythmics
+Title: a_whiter_shade_of_pale_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Pop/Rock', u'New Wave', u'Punk/New Wave', u'Synth Pop', u'Dance-Rock']
+
+Song:
+
+We skipped the light fandango
+Turned cartwheels cross the floor
+I was feeling kind of seasick
+The crowd called out for more
+The room was humming harder
+As the ceiling flew away
+When we called out for another drink
+But the waiter brought a tray
+*And so it was later
+As the miller told his tale
+That her face at first just ghostly
+Turned a whiter shade of pale
+You said there is no reason
+And the truth is plain to see
+But I wander through my playing cards
+And would not let it be
+I'm one of the sixteen virgins
+Who are leaving for the coast
+And although my eyes were open
+They might just as well been closed
+(*Repeat)
+A whiter shade of pale
+Turned a whiter shade of pale
+A whiter shade of pale

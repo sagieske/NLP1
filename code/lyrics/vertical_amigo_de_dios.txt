@@ -1,0 +1,20 @@
+Artist: vertical
+Title: amigo_de_dios
+Genre: Pop/Rock
+Subgenres: [u'American Trad Rock', u'Post-Grunge', u'Adult Alternative Pop/Rock', u'Alternative Pop/Rock', u'Alternative/Indie Rock']
+
+Song:
+
+Siendo yo como soy tu me amas
+Si te llamo responderas
+En verdad cuando ya no me oyes
+Como me amas, es grandioso
+
+Amigo es en verdad
+Amigo es en verdad
+Amigo es en verdad
+Su amigo soy
+
+Dios de poder
+Dios de gloria
+Tu amigo soy

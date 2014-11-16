@@ -1,0 +1,39 @@
+Artist: the_wiggles
+Title: balla_balla_bambina
+Genre: R&B
+Subgenres: [u'Contemporary R&B', u'Pop']
+
+Song:
+
+Balla balla o balla bambina
+Balla balla fina mattina
+Balla balla o balla piccina
+Balla balla e non ti fermar
+Sette stelle alla mattina
+Balla pure con tua cugina
+Balla balla o balla bambina
+Balla balla e non ti fermar
+Balla balla o balla bambina
+Balla balla fina mattina
+Balla balla o balla piccina
+Balla balla e non ti fermar
+Balla balla o balla bambina
+Balla balla fina mattina
+Balla balla o balla piccina
+Balla balla e non ti fermar
+L’atro giomo mi sono svegliato
+E ti ho chiesto cosa puoi far
+L’atro giomo mi sono svegliato
+Tu mi hai detto andiamo ballar
+Balla balla o balla bambina
+Balla balla fina mattina
+Balla balla o balla piccina
+Balla balla e non ti fermar
+La, la, la, lai, lai, la, la, la, lai, lai
+Lai, lai, la la la, lai
+La, la, la, lai, lai, la, la, la, lai, lai
+Lai, lai, la la la, lai
+La, la, la, lai, lai, la, la, la, lai, lai
+Lai, lai, la la la, lai
+La, la, la, lai, lai, la, la, la, lai, lai
+Lai, lai, la la la, lai

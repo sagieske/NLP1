@@ -1,0 +1,35 @@
+Artist: zard
+Title: change_my_mind
+Genre: Pop/Rock
+Subgenres: [u'J-Pop', u'Japanese Traditions']
+
+Song:
+
+Gogo no hi ga sasu doressaa
+Hoo no sobakasu ga ki ni naridashita
+[Ato juppun nemurasete] kare ha tsukarete beddo no naka
+Kanojo to watashi no hazama de anata ha itsumo chissoku shisou
+Kono koro futo kangaeru no
+Hakushi ni modosoukatte
+
+Ijiwaru ni tell you
+Kanojo no koto najittara kitto kirai ni naru wa
+Tabun watashi ha tell you
+"I can change my mind"
+Hidoi yatsu da to semete
+
+Bootto shite futtou shita yakan no oto ni sae
+Kizukanakatta
+Funukena jibun wo mou hitori no jibun ga azawarau
+
+Shinkokyuu tell you
+Mou nido to awanai to heisei wo yosootta
+Uso nano ni... Tell you
+"I can change my mind"
+Anata wo kurushimasetakunai
+
+Shinkokyuu tell you
+Mou nido to awanai to heisei wo yosootta
+Uso nano ni... Tell you
+"I can change my mind"
+Kattena yatsu da to semete

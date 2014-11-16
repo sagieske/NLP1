@@ -1,0 +1,39 @@
+Artist: walter_hawkins
+Title: dear_jesus_i_love_you
+Genre: Religious
+Subgenres: [u'Contemporary Gospel', u'Traditional Gospel', u'Black Gospel', u'Gospel']
+
+Song:
+
+Soloist: Dear Jesus, I love you
+You're a friend of mine
+You supply my every need
+My hungry soul you feed
+I'm aware you are my source
+From which all blessings flow___
+And with this thought in mine
+I know___, ooo, just where, where to go
+
+Choir: Dear Jesus, I love you
+Soloist: Jesus I love you, yes I do
+Choir: you're a friend of mine__
+Soloist: You supply my every need yes you do
+Soloist/Choir: My hungry soul you feed
+Soloist: I'm aware you are my source
+Choir: I'm aware you are my source
+Soloist: From which everyone of my blessings flow
+Choir: From which all blessings flow
+Soloist: And__ with___ this thought__ in mine
+Choir: I know_ just where___, I know just where___, I know___ where,
+Soloist: I just know where to go____
+
+1. Choir: Go___ I just know where
+Soloist: Where to go____
+2. Choir: Go___ I just know where
+Soloist: When there's no food on my table, I know where
+3. Choir: Go___ I just know where
+Soloist: When there's no shoe's on my feet, I know where, oh yes I do
+4. Choir: Go___ I just know where
+Soloist: Where to go
+5. Choir: Go___ I just know where ______
+End: Soloist: Where to go

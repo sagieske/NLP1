@@ -1,6 +1,6 @@
 Artist: dewa_19
 Title: aku_di_sini_untukmu
-Genre: unknown
+Genre: Pop/Rock
 Subgenres: []
 
 Song:

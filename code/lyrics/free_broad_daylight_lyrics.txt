@@ -1,0 +1,35 @@
+Artist: free
+Title: broad_daylight_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Acappella']
+
+Song:
+
+FRASER/RODGERS
+
+Broad daylight
+Broad daylight
+Broad daylight.
+See the smoke fills my room
+Curl and whisper in the gloom
+Then I long for the day
+When the sun comes out to say
+Broad daylight
+Broad daylight
+Broad daylight
+Broad daylight.
+Now the clock says it's time for bed
+Time for sleep the moon just said
+Time for tears in your dreams
+Will the tears all disappear come
+Broad daylight
+Broad daylight
+Broad daylight
+Broad daylight
+
+Broad daylight
+Broad daylight
+Broad daylight
+Broad daylight
+Let me feel the morning
+When the sun is downing

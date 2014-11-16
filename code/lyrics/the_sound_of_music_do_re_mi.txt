@@ -1,0 +1,32 @@
+Artist: the_sound_of_music
+Title: do_re_mi
+Genre: unknown
+Subgenres: []
+
+Song:
+
+let's start at the very beginning
+a very good place to start
+when you read you begin with abc
+when you sing you begin with do re mi
+do re mi
+the first three notes just happen to be
+do re mi do re mi
+do re mi fa so la te
+do- a deer, a female deer
+re- a drop of golden sun
+mi- a name i call myself
+fa- a long long way to run
+so- a needle pulling thread
+la- a note to follow so
+te- a drink with jam and bread
+that'll bring us back to do oh oh oh
+do- a deer, a female deer
+re- a drop of golden sun
+mi- a name I call myself
+fa- a long long way to run
+so- a needle pulling thread
+la- a note to follow so
+te- a drink with jam and bread
+that'll bring us back to
+do oh oh oh

@@ -1,0 +1,40 @@
+Artist: do_as_infinity
+Title: another
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Pop/Rock', u'J-Pop']
+
+Song:
+
+Kuroi kemuri haku kodou to
+Bon'Yari kieteku hikari
+Tsutaekirenai omoi de
+Iki mo dekinai
+Sameta me de surechigatteku
+Hito no mure nani nozonde
+Doko ni mukatte iku no ka
+Oitsumeru yo ni mabataki mo sezu
+Erabu koto sae yurusarenu you ni
+Yume mo mizu iki
+Nani mo kikoezu
+Yorokobi sae mo
+Kanjizu ni ita
+Watashitachi wa
+Ikutsu mono mado no akari ga
+Hitotsu zutsu kiete yuku yo ni
+Tozasareta kabe no naka dewa
+Nokosareta inochi
+Mitsukaranai mama jikan no
+Sabita kusari de tsunagareta
+Kokoro wo jitto mitsumete
+Meguraseta omoi mitosanu you ni
+Kakiutsushiteku ima mita mama
+Shinjitsu sae mo
+Miushinau nara
+Kono mama zutto
+Tamashii sasage
+Inoru you ni
+Kono yo ni ikite
+Donna fuu ni shite
+Watashi dearu ka
+Mitsukeraretara
+Umarekawaru

@@ -1,0 +1,19 @@
+Artist: vast
+Title: all_i_found_was_you
+Genre: Pop/Rock
+Subgenres: [u'Alternative Metal', u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Heavy Metal', u'Post-Grunge', u'Goth Rock', u'Hard Rock', u'Industrial']
+
+Song:
+
+Rocket ship to a place real far away
+From the field where I have lost my way
+A million people with a million souls
+On the rocket ship that lost control
+All I found was you
+All I found was you
+Rocket ship to a place real far away
+From the field where I have lost my way
+A million people with a million souls
+On the rocket ship that lost control
+All I found was you
+All I found was you

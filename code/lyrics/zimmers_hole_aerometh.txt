@@ -1,0 +1,27 @@
+Artist: zimmers_hole
+Title: aerometh
+Genre: Pop/Rock
+Subgenres: [u'Comedy Rock', u'Hard Rock', u'Heavy Metal']
+
+Song:
+
+Faith and fire
+Cinder forsaken
+Lust and greed
+The satyr untamed
+Slain god
+Ritual and dogme
+Old blood
+The kingdome must fall
+Why should i be one of the normals?
+Why should i have faith in a lie?
+Why should i accept the deception?
+
+Turn away... anointed fools
+Hollow shrines... follow the blind
+
+Why should i accept the deception?
+Why should i have faith in a lie?
+
+Open eyes... will is my own
+Blind of faith... reap what you've sown...

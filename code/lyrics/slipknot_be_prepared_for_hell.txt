@@ -1,0 +1,17 @@
+Artist: slipknot
+Title: be_prepared_for_hell
+Genre: Pop/Rock
+Subgenres: [u'Alternative Metal', u'Heavy Metal', u'N\xfc Metal', u'Rap-Metal']
+
+Song:
+
+I can't get out or I'll die, just let me be
+I'll never be never
+
+Be prepared for hell, I say ow now
+Just tell me when I can open my eyes
+Realize I have died
+
+Be prepared for hell, I say ow now
+Just tell me when I can open my eyes
+Realize I have died

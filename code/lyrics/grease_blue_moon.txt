@@ -1,0 +1,22 @@
+Artist: grease
+Title: blue_moon
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Garage Punk', u'Punk Revival']
+
+Song:
+
+Blue moon, you saw me standing alone
+Without a dream in my heart, without a love of my own
+
+Blue moon, you knew just what I was there for
+You heard me saying a prayer for someone I really could care for
+
+And then suddenly appeared before me, the only one my arms could ever hold
+I heard somebody whisper 'please adore me'
+But when I looked, that moon had turned to gold - oh oh oh
+
+Blue moon, now I'm no longer alone
+Without a dream in my heart, without a love of my own
+Without a love of my own
+
+(Blue moon)

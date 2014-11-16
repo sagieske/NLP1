@@ -1,0 +1,27 @@
+Artist: george_thorogood
+Title: as_the_years_go_passing_by
+Genre: Pop/Rock
+Subgenres: [u'Blues-Rock', u'Boogie Rock', u'Hard Rock', u'Slide Guitar Blues', u'Rock & Roll', u'Album Rock']
+
+Song:
+
+There is nothing I can do
+If you leave me here to cry
+There is nothing I can do
+If you leave me here to cry
+Baby my love will follow you
+As the years go passing by
+
+I give you all that I own
+That's one thing you can't deny
+I give you all that I own
+That's one thing you can't deny
+You know my love will follow you
+As the years go passing by
+
+I'm gonna leave it up to you
+So long baby goodbye
+Yes I'm gonna leave it up to you
+So long baby goodbye
+Baby my love will follow you
+Yes as the years go passing by

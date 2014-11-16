@@ -1,0 +1,65 @@
+Artist: she
+Title: ai_shang_ni
+Genre: Pop/Rock
+Subgenres: [u'Alternative Singer/Songwriter', u'Alternative/Indie Rock', u'Adult Alternative Pop/Rock', u'Indie Pop', u'Alternative Pop/Rock']
+
+Song:
+
+[Rap 1]
+Ru guo shuo zhe shi jie bu gou wan mei bu gou hao
+Yi ding shi zai deng wo men qin shou gei ta bian de mei hao
+Jiu xiang ai kan qi lai hui na me shao yi ding shi
+Zai deng wo men yi qi yong gan xun zhao yi qi zhao dao
+
+[Verse]
+Yi pian pian luo ye wei kai chu ge hua yuan
+Shou qian shou ai guo zheng ge dong tian
+Mei zhi hu die wei le fei wei le pian pian qi wu
+Xian zuo yi ge jian
+Zui mei hai an xian zong shi yao hen wan yan
+Cai zu gou rang ren wang fan liu lian
+Ni de shen bian yao bu shi bi tian bian hai yao yuan
+Yong qi zen me chu xian
+Dang wo zhong yu zhu jin ni de xin li fen xiang tong yi ge shi jie
+Shen hou cuo guo tong guo man zhang qing jie dou bian tian mei
+
+[Chorus:]
+Zhi you wo le jie zhe xing fu gan jue
+Mei de zhi de qu fu chu yi qie
+Neng gou yu jian ni ren shi ni xi huan ni ai shang ni
+Gan xie wo mei di yan lei
+Zhi you ni ming bai wo you duo zhen gui
+Hao de zhi de ni wei wo gai bian
+Qing ni ji xu wen rou jiao huan wo can lan xiao rong yi tian yi tian
+Dao yong yuan na yi tian
+
+[Rap 2]
+Yeh ai shang ni you duo xing yun xiang shi tian shi de li wu
+Wo men bu yao gu fu zhe xing fu yi ding yao geng jia xing fu
+Ru guo ai zhen de shi na me de shao wo men jiu
+Yi qi shou hu wo men de lai bu yi de ai bu bei da rao
+
+[Repeat Verse]
+
+Dang ni zhong yu zou dao wo de mian qian
+Wan cheng suo you de hua mian
+Jiu suan ku la suan tian chang guo yi bian
+Zhi sheng xi yue
+
+[Repeat Chorus]
+
+Xiang shi da yu guo hou qing lang de tian kuan kuo er yao yan
+Mei ge li ming dou xu yao you ye cheng quan
+Wang hui kan mei dou yi ge quan
+Mei yi tiao yu hui de qu xian
+Dou shi wei ai shang ni bi xu liu de fu xian
+Zhi you wo le jie zhe xing fu gan jue
+Mei de zhi de qu fu chu yi qie
+Neng gou yu jian ni ren shi ni xi huan ni ai shang ni
+Gan xie wo mei di yan lei
+Zhi you ni ming bai wo you duo zhen gui
+Hao de zhi de ni wei wo gai bian
+Qing ni ji xu wen rou jiao huan wo can lan xiao rong yi tian yi tian
+Dao yong yuan na yi tian
+
+[Repeat Rap 1]

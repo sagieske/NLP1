@@ -1,0 +1,58 @@
+Artist: supertramp
+Title: a_soapbox_opera
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Art Rock', u'Contemporary Pop/Rock', u'Prog-Rock', u'Arena Rock', u'Soft Rock']
+
+Song:
+
+" I want to tell you something;
+Listen to me,
+I'm trying to say, I'm better than you,
+I am only what I am"
+
+" We must not stand still,
+For the night is coming,
+Every man, every woman and child,
+Everybody help me"
+
+I hear, only what I want to hear,
+But, I have to believe in something,
+Have to believe in just one thing.
+I said Father Washington, you're all mixed up,
+Collecting sinners in an old tin cup.
+Well, spare a listen for a restless fool,
+There's something missing when I need your rule.
+
+Well, hey there;
+You tell me you're a holy man, But, although I am just a beginner,
+I don't see you as a winner.
+I said, Sister Washington, you're all washed up,
+Collecting teardrops in a paper cup;
+If I could tell you what you need to know;
+If I could tell you to get on with the show.
+
+I'd rather never leave her,
+There's a storm in my head,
+Makes me hear what you say;
+Just was it true?
+So, what have I to do?
+-Well, what has he to do?-
++Oh, what is there to-oo do+
+What oh-oh-ohoh
+
+"All creatures great and small,
+All things wise and wonderful, the lord god made them all"
+
+Mary, oh tell me what I'm living for,
+'Cause I feel like I'm tossed in the river,
+Oh' have you a son to deliver.
+
+I said, Father Washington, you're all mixed up,
+Collecting sinners in an old tin cup,
+You tell the children what you need to know,
+But, will they listen when it's time to go.
+
+Oh, Sister Robinson, you're all washed up,
+Collecting teardrops in a paper cup,
+Can someone tell me what I need to know,
+Can someone help me to get on with the show.

@@ -1,0 +1,44 @@
+Artist: udo_lindenberg
+Title: bodo_ballermann
+Genre: Pop/Rock
+Subgenres: [u'Euro-Rock', u'Contemporary Pop/Rock']
+
+Song:
+
+Ein kleines Liedchen geht von Mund zu Mund
+Es ist beliebt
+Und das hat seinen Grund
+Denn es besingt den Liebling vieler Damen
+Die ihm zuliebe fielen aus dem Rahmen.
+Gott Amor selber hat es komponiert
+Hat er den schnen Frauen dediziert
+Und weil's bezaubernd klingt und s
+Singt man in ganz Paris:
+Du hast Glck bei den Frau'n
+Bel ami
+So viel Glck bei den Frau'n
+Bel ami.
+Bist nicht schn
+Doch charmant
+Bist nicht klug
+Doch sehr galant
+Bist kein Held
+Nur ein Mann
+Der gefllt.
+Du verliebst jeden Tag dich auf's neu
+Alle kt du und bleibst keiner treu.
+Doch die Frau
+Die dich liebt
+Machst du glcklich wie noch nie -
+Bel ami! Bel ami! Bel ami!
+Ich kenne einen netten jungen Mann
+Der gar nichts ist
+Und nichts Besond'res kann
+Und den die Damen dennoch hei verehren - wie sie ihn begehren!
+Er macht die andern mnner ganz nervs
+Mit seiner tollen chronique scandaleuse
+Er nimmt die Frauen wie er will
+Bei ihm hlt jede still.
+Du hast Glck bei den Frau'n
+Bel ami
+...

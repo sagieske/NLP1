@@ -1,0 +1,39 @@
+Artist: george_thorogood
+Title: baby_please_set_a_date
+Genre: Pop/Rock
+Subgenres: [u'Blues-Rock', u'Boogie Rock', u'Hard Rock', u'Slide Guitar Blues', u'Rock & Roll', u'Album Rock']
+
+Song:
+
+Oh baby, honey, please set a date
+Baby, please set a date
+Don't say tomorrow
+Tomorrow might be too late
+
+Oh baby, honey, please set a date
+Baby, baby, please set a date
+Oh, don't say tomorrow
+Tomorrow might be too late
+
+Yeah, when I need your loving, baby
+I really need it, baby
+When I get to you, baby
+It really makes me mad
+
+But, oh baby, baby, please set a date
+Don't say tomorrow
+Tomorrow might be too late
+
+Yeah, when it's late on in the evening, baby
+The sun is sinking low
+When I see [Incomprehensible]
+I don't know what to do
+
+But, oh baby, baby, please set a date
+Don't say tomorrow
+Tomorrow might be too late
+
+Oh baby, baby, please set a date
+Baby, honey, please set a date
+Don't say tomorrow
+Tomorrow might be too late

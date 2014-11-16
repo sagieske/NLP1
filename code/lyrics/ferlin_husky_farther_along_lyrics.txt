@@ -1,0 +1,15 @@
+Artist: ferlin_husky
+Title: farther_along_lyrics
+Genre: Country
+Subgenres: [u'Bakersfield Sound', u'Country Comedy', u'Country-Pop', u'Honky Tonk', u'Nashville Sound/Countrypolitan', u'Traditional Country']
+
+Song:
+
+Tempted and tried we're oft made to wonder why it should be thus all the day long
+While there are others living about us never molested though in the wrong
+Farther along we'll know all about it farther along we'll understand why
+Cheer up my brother live in the sunshine we'll understand it all by and by
+[ piano ]
+When death has come and taken our loved ones it leaves our home so lonely and drear
+While they are others living about us living so wicked year after year
+Farther along we'll know all about it...

@@ -1,0 +1,58 @@
+Artist: utada_hikaru
+Title: 1000_words
+Genre: Pop/Rock
+Subgenres: [u'J-Pop', u'Adult Alternative Pop/Rock', u'Alternative/Indie Rock', u'Contemporary Pop/Rock', u'Dance-Pop', u'Club/Dance']
+
+Song:
+
+Kimi no kotoba wa
+Yume no yasashisa kana?
+USO wo zenbu
+Oikakushiteru
+ZURUI yo ne
+
+Tabidatsu kimi ni
+Sameta senaka misete
+Kiiteita yo
+Hitori tatakau no?
+ZURUI yo ne
+
+"Kaettekuru kara"
+Oikoshiteyuku kimi no koe
+Iji hatte
+Tsuyoi FURI
+Toki wo modoshite
+Sakebeba yokatta?
+Ikanai de to namida koboshitara?
+Ima wa dekiru
+Donna koto mo
+
+Kikoeteru?
+1000 no kotoba wo
+Mienai
+Kimi no senaka ni okuru yo
+Tsubasa ni kaete
+
+Kikoeteru?
+1000 no kotoba wa
+Tsukareta
+Kimi no senaka ni yorisoi
+Dakishimeru
+
+Kikoeteru?
+1000 no kotoba wo
+Mienai
+Kimi no senaka ni okuru yo
+Tsubasa ni kaete
+
+Ienakatta
+1000 no kotoba wo
+Lalalala..
+Kimi no senaka ni okuru yo
+Tsubaksa ni kaete
+
+Kikoeteru?
+1000 no kotoba wa
+Lalalala..
+Kimi no senaka ni yorisoi
+Lalalalala....

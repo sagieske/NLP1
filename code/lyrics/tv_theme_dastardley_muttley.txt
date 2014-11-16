@@ -1,0 +1,46 @@
+Artist: tv_theme
+Title: dastardley_muttley
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Indie Rock', u'Post-Rock']
+
+Song:
+
+Muttley, you snickering, floppy eared hound.
+When courage is needed, you're never around.
+Those medals you wear on your moth-eaten chest
+Should be there for bungling at which you are best.
+
+So, stop that pigeon
+Stop that pigeon
+Stop that pigeon
+Stop that pigeon
+Stop that pigeon
+Stop that pigeon
+Stop that pigeon
+Howwww!
+
+Nab him
+Jab him
+Tab him
+Grab him
+Stop that pigeon now.
+
+You, Zilly, stop sneaking, it's not worth the chance.
+For you'll be returned by the seat of your pants.
+And Clunk, you invent me a thingamabob
+That catches that pigeon or I lose my job.
+
+So, stop that pigeon
+Stop that pigeon
+Stop that pigeon
+Stop that pigeon
+Stop that pigeon
+Stop that pigeon
+Stop that pigeon
+Howwww!
+
+Nab him
+Jab him
+Tab him
+Grab him
+Stop that pigeon now.

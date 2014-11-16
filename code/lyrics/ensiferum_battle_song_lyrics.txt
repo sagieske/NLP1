@@ -1,0 +1,22 @@
+Artist: ensiferum
+Title: battle_song_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Black Metal', u'Heavy Metal', u'Power Metal']
+
+Song:
+
+Hear the sound of swords fulfill the night
+Feel the winds of death on your skin
+See the arrows fly, flaming in the sky
+Hear the screams of men, as they die
+
+We won this battle with might and fearless hearts
+We came and we fulfilled our prophecy
+So now we shall march back towards our kingdom
+With heads up high and glimmering eyes
+We returned with our glory
+
+Silence now falls upon this blood red field
+Vultures feasting with the flesh of dead bodies
+"This is a great moment for all of us
+But now it's time to head back home victorious"

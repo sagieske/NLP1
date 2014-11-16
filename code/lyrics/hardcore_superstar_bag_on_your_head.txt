@@ -1,0 +1,25 @@
+Artist: hardcore_superstar
+Title: bag_on_your_head
+Genre: unknown
+Subgenres: [u'Hair Metal', u'Heavy Metal', u'Hard Rock']
+
+Song:
+
+So we got to go together
+The party is so important
+We'll split up forever
+Even though you don't know why
+You 're not on my side
+Still we got to go together
+
+Bag on your head
+Beautiful inside
+Bag on your head
+Wake me up I'm alive
+
+So you say you don't remember
+Happy hour from five to September
+When I bite my hand I'm fine
+When you scream that's when you shine
+Still gone
+Still don't remember

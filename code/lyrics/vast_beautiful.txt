@@ -1,0 +1,26 @@
+Artist: vast
+Title: beautiful
+Genre: Pop/Rock
+Subgenres: [u'Alternative Metal', u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Heavy Metal', u'Post-Grunge', u'Goth Rock', u'Hard Rock', u'Industrial']
+
+Song:
+
+Stay with us my darling
+Tomorrow is a brighter day
+Stay with us my darling
+There are so many things to love
+
+You are so beautiful to me
+You are so beautiful to everyone
+There are so many things to see
+You are so beautiful to me
+
+Heaven is a place I cannot see
+When I'm beside you it's so close to me
+These are the reasons you should stay
+There is so much that you can give
+
+You're a diamond I can't buy
+You're a sin I can forgive
+And when you sink into the dark
+Know that I am there with you

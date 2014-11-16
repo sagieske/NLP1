@@ -1,0 +1,44 @@
+Artist: yano
+Title: esem
+Genre: Jazz
+Subgenres: [u'Vocal Music', u'Jazz Instrument', u'Piano Jazz']
+
+Song:
+
+Patingin-tingin, di naman makabili
+Patingin-tingin, di makapanood ng sine
+Walang ibang pera, kundi pamasahe
+Nakayanan ko lang, pambili ng dalawang yosi
+
+Paamoy-amoy, di naman makakain
+Busog na sa tubig
+Gutom ay lilipas din
+Patuloy ang laboy
+Walang iisipin
+Kailangang magsaya, kailangang magpahangin
+
+Nakakainip ang ganitong buhay
+Nakakainis ang ganitong buhay
+Nakakainip ang ganitong buhay
+Nakakainis ang ganitong buhay
+(Repeat)
+
+Gumagabi na
+Ako'y uuwi na
+Tapos na ang saya
+Balik sa problema
+At bukas ng umaga
+Uulitin ko pa ba ang kahibangang ito
+Sa tingin ko hindi na
+
+Nakakainip ang ganitong buhay
+Nakakainis ang ganitong buhay
+Nakakainip ang ganitong buhay
+Nakakainis ang ganitong buhay
+
+Nakakabaliw ang ganitong buhay
+Di nakakaaliw ang ganitong buhay
+Nakakabaliw ang ganitong buhay
+Di nakakaaliw ang ganitong buhay
+
+No... no no no

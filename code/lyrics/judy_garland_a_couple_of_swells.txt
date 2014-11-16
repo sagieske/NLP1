@@ -1,0 +1,45 @@
+Artist: judy_garland
+Title: a_couple_of_swells
+Genre: Vocal
+Subgenres: [u'Cast Recordings', u'Show Tunes', u'Standards', u'Traditional Pop', u'Vocal Pop', u'American Popular Song', u'Show/Musical']
+
+Song:
+
+We're a couple of swells
+We stop at the best hotels
+But we prefer the country far away from the city smells
+We're a couple of sports
+The pride of the tennis courts
+In June, July and August we look cute when we're dressed in shorts
+The Vanderbilts have asked us up for tea
+We don't know how to get there, no siree
+No, siree
+
+We would drive up the Avenue, but we haven't got the price
+We would skate up the Avenue, but there isn't any ice
+We would ride on a bicycle, but we haven't got a bike
+So we'll walk up the Avenue
+Yes, we'll walk up the Avenue
+And to walk up the Avenue's what we like
+
+Wall Street bankers are we
+With plenty of currency
+We'd open up the safe but we forgot where we put the key
+We're the favorite lads
+Of girls in the picture ads
+We'd like to tell you who we kissed last night but we can't be cads
+The Vanderbilts are waiting at the club
+But how are we to get there, that's the rub
+That's the rub
+
+We would sail up the Avenue, but we haven't got a yacht
+We would drive up the Avenue, but the horse we had was shot
+We would ride on a trolley car but we haven't got the fare
+So we'll walk up the Avenue
+Yes, we'll walk up the Avenue
+Yes, we'll walk up the Avenue till we're there
+
+We would swim up the Avenue but we haven't any lake
+So we'll walk up the Avenue
+Yes, we'll walk up the Avenue
+Yes, a walk up the Avenue's what we'll take

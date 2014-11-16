@@ -1,0 +1,20 @@
+Artist: vamp
+Title: der_borte
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Dance-Rock', u'Alternative Dance']
+
+Song:
+
+Tekst: Tore Jamne / Musikk: Jan I. Toft
+Eg kan skimta det s vidt.
+Det ligge lngt der framme.
+Eg nrme meg skritt for skritt.
+Eg vil aldri bli den samme.
+Det har vrt mitt holdepunkt
+Som mest av alt eg skjerme.
+Kvrt skritt va s hardt og tungt.
+Eg har aldri vrt s nrme.
+Eg har mongen gonger flt
+At veien fram va vie.
+Men ofta s har eg nlt.
+Eg har aldri vrt s frie.

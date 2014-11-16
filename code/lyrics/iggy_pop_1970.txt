@@ -1,0 +1,26 @@
+Artist: iggy_pop
+Title: 1970
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Detroit Rock', u'Hard Rock', u'Proto-Punk', u'Dance-Rock', u'Contemporary Pop/Rock', u'Punk', u'Punk/New Wave']
+
+Song:
+
+Out of my mind on saturday night
+1970 rollin' in sight
+Radio burnin' up above
+Beautiful baby, feed my love
+
+All night till I blow away
+All night till I blow away
+I feel alright, I feel alright
+
+Baby oh baby, burn my heart
+Baby oh baby, burn my heart
+Fall apart baby, fall apart
+Baby oh baby, burn my heart
+
+All night till I blow away
+All night till I blow away
+
+I feel alright
+I feel alright

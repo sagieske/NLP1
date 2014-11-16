@@ -1,0 +1,36 @@
+Artist: smokie
+Title: all_alone
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Pop/Rock', u'AM Pop', u'Euro-Rock', u'Soft Rock']
+
+Song:
+
+When evening is drawing nigh
+And the moon dances in the sky
+And you've nothing to believe in
+At all
+
+When your room's full of emtiness
+Just the memory of her caress
+And you've nothing to believe in
+At all
+
+When you're all alone
+When you're on your own
+And you've always known
+You were all alone
+
+When you lie in your lonely room
+Warm traces of her perfume
+No reason for your being
+At all
+
+And when you wake into another day
+And you remember she's gone away
+No reason for your being
+At all
+
+When you're all alone
+When you're on your own
+And you've always known
+You were all alone

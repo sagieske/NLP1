@@ -1,0 +1,28 @@
+Artist: hayley_westenra
+Title: all_i_have_to_give
+Genre: Classical
+Subgenres: [u'Classical Crossover', u'Classical Pop', u'Orchestral/Easy Listening', u'Traditional Pop', u'Vocal Music', u'Choral']
+
+Song:
+
+Music: James Hall
+Lyrics: James Hall/Boh Runga
+
+Just one bell rang on Christmas day.
+Just one sound kept the cold away.
+Just one hope that it's part might play.
+On this frosty morning.
+
+Oh! What gifts might the angels bring,
+If their choice was of everything?
+Maybe just that more bells might ring,
+On this frosty morning.
+
+Oh! But I wish for you at Christmas,
+A song that is open and true.
+To light up your world through your darkest hour,
+And last the whole year through.
+
+And all that I hope for you is laughter and joy
+Throughout all the days you live.
+If that's brought with love, then my gift of love,

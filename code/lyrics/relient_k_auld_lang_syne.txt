@@ -1,0 +1,24 @@
+Artist: relient_k
+Title: auld_lang_syne
+Genre: Pop/Rock
+Subgenres: [u'Alternative CCM', u'Alternative/Indie Rock', u'Christian Punk', u'Contemporary Christian', u'Punk-Pop', u'Alternative Pop/Rock']
+
+Song:
+
+Should auld acquaintance be forgot
+And never brought to mind?
+Should auld acquaintance be forgot
+And days of auld lang syne?
+
+For auld lang syne, my dear
+For auld lang syne
+For auld lang syne
+
+May auld acquaintance be forgot
+And days of auld lang syne?
+For auld lang syne, my dear
+For auld lang syne
+For auld lang syne
+
+May auld acquaintance be forgot
+And days of auld lang syne?

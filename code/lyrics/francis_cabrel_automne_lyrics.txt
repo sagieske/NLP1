@@ -1,0 +1,46 @@
+Artist: francis_cabrel
+Title: automne_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Folk', u'French Pop', u'Singer/Songwriter']
+
+Song:
+
+Colchiques dans les prиs
+Fleurissent, fleurissent
+Colchiques dans les prиs
+C'est la fin de l'йtй
+La feuille d'automne
+Emportйe par le vent
+En rondes monotones
+Tombe en tourbillonnant
+
+Nuage dans le ciel
+S'йtire, s'йtire
+Nuage dans le ciel
+S'йtire comme une aile
+La feuille d'automne
+Emportйe par le vent
+En rondes monotones
+Tombe en tourbillonnant
+
+Chвtaignes dans les bois
+Se fendent, se fendent
+Chвtaignes dans les bois
+Se fendent sous nos pas
+La feuille d'automne
+Emportйe par le vent
+En rondes monotones
+Tombe en tourbillonnant
+
+Et ce chant dans mon cњur
+Murmure, murmure
+Et ce chant dans mon cњur
+Murmure le bonheur
+La feuille d'automne
+Emportйe par le vent
+En rondes monotones
+Tombe en tourbillonnant
+La feuille d'automne
+Emportйe par le vent
+En rondes monotones
+Tombe en tourbillonnant

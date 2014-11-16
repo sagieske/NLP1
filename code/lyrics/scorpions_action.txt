@@ -1,0 +1,28 @@
+Artist: scorpions
+Title: action
+Genre: Pop/Rock
+Subgenres: [u'Hard Rock', u'Heavy Metal', u'Album Rock', u'Contemporary Pop/Rock', u'Hair Metal', u'Arena Rock']
+
+Song:
+
+Yeah, count to five
+And I will start my car for a ride
+Yeah, a hundred miles
+And I will be at speed satisfied
+Yeah, I'll miss my life
+Behind my driving wheel once it's fine
+Yeah, action time
+One only can obtain with it's style
+Yeah, I'll miss my life
+Behind my driving wheel once it's fine
+Yeah, action time
+One only can obtain with it's style
+Yeah, it's a good time
+Time knows wish it's mile
+Yeah, about time my
+Gotta speed in my life
+Yeah
+Yeah
+Yeah
+Yeah
+Go ...

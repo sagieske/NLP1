@@ -1,0 +1,41 @@
+Artist: muddy_waters
+Title: baby_please_dont_go
+Genre: Blues
+Subgenres: [u'Blues Revival', u'Chicago Blues', u'Delta Blues', u'Electric Blues', u'Electric Chicago Blues', u'Regional Blues', u'Slide Guitar Blues']
+
+Song:
+
+Baby, please don't go
+Baby, please don't go
+Baby, please don't go, down to New Orleans
+You know I love you so
+
+Before I be your dog
+Before I be your dog
+Before I be your dog
+I get you way'd out here, and let you walk alone
+
+Turn your lamp down low
+Turn your lamp down low
+Turn your lamp down low
+I beg you all night long, baby, please don't go
+
+You brought me way down here
+You brought me way down here
+You brought me way down here
+'bout to Rolling Forks, you treat me like a dog
+
+Baby, please don't go
+Baby, please don't go
+Baby, please don't go, back the New Orleans
+I beg you all night long
+
+Before I be your dog
+Before I be your dog
+Before I be your dog
+I get you way'd out here, and let you walk alone
+
+You know your man down gone
+You know your man down gone
+You know your man down gone
+To the country farm, with all the shackles on

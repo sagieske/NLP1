@@ -1,0 +1,24 @@
+Artist: h2o
+Title: cool_do_the_bop
+Genre: Pop/Rock
+Subgenres: [u'Hardcore Punk', u'Punk/New Wave', u'Alternative/Indie Rock', u'Punk Revival', u'Alternative Pop/Rock']
+
+Song:
+
+Yeah...
+Come on...
+Let's do this...
+
+Ooooohhhhh...
+
+Jho, jho, jho, jho, jho, jho, jho, jho
+
+Everybody go...
+
+Jho, jho, jho, jho, jho, jho, jho, jho
+
+One more time...
+
+Jho (yeah), jho (yeah), jho (yeah), jho (yeah), jho (yeah), jho (yeah), jho (yeah), jho (yeah)
+
+Break down...

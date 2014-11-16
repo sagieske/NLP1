@@ -1,0 +1,56 @@
+Artist: dropkick_murphys
+Title: a_pub_with_no_beer
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Punk Revival', u'Celtic Rock']
+
+Song:
+
+Chorus:
+Well it's lonesome away from your kindred and all
+By the camp fire at night,
+Where the wild dingos call.
+But there's nothin' so lonesome
+Morbid or drear,
+Than to stand in the bar of a pub with no beer.
+
+Now the publican's anxious for the quota to come
+And there's a far away look on the face of the bum
+The maids got all cranky and
+And the cooks acting q****
+What a terrible place, is a pub with no beer.
+
+Then the stockman rides up with his dry dusty throat
+He presses up to the bar and pulls a wad from his coat.
+But the smile on his face quickly turns to a snear
+As the barman says sadly,
+"The pubs got no beer."
+
+Then the swaggy comes in smoothered in dust and flies
+He throws down his roll and rubs the sweat from his eyes
+But when he is told he says "what's this I hear"
+I've trudged fifty flamin' miles
+To a pub with no beer
+
+Now there's a dog on the veranda for his master he waits
+But the boss is inside drinkin' wine with his mates.
+He hurries for cover and he cringes with fear
+It's no place for a dog,
+Round a pub with no beer.
+
+And old Billie the Blacksmith, the first time in his life
+Why he's gone home cold sober to his darling wife
+He walks in the kitchen she says your early Bill dear
+But then he breaks down and he tells her
+The pub's got no beer.
+
+Well its hard to believe that there's customers still
+But the money's still tinkling in the old ancient til
+The wine dots are happy and I know they're sincere
+When they say they don't care if the pubs got no beer
+
+So it's a lonesome away from your kindred and all
+By the camp fire at night,
+Where the wild dingos call.
+But there's nothin' so lonesome
+Morbid or drear,
+Than to stand in the bar of that pub with no beer.

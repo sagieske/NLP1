@@ -1,0 +1,66 @@
+Artist: georges_brassens
+Title: chanson_pour_lauvergnat
+Genre: Vocal
+Subgenres: [u'French Pop', u'French', u'Vocal Music', u'Western European Traditions']
+
+Song:
+
+Elle est а toi cette chanson
+Toi l'Auvergnat qui, sans faзon,
+M'a donnй quatre bouts de bois
+Quand dans ma vie il faisait froid.
+
+Toi qui m'a donnй du feu quand
+Les croquantes et les croquants
+Tous les gens bien intentionnйs
+M'avaient fermйs la porte au nez.
+
+Ce n'йtait rien qu'un feu de bois
+Mais il m'avait chauffй le corps
+Et dans mon вme, il brыle encore
+А la maniиre d'un feu de joie...
+
+Toi, l'Auvergnat quand tu mourras
+Quand le croc-mort t'emportera
+Qu'il te conduise а travers ciel
+Au pиre йternel.
+
+Elle est а toi cette chanson
+Toi l'hфtesse qui, sans faзon,
+M'a donnй quatre bouts de pain
+Quand dans ma vie il faisait faim.
+
+Toi qui m'ouvrit ta huche quand
+Les croquantes et les croquants
+Tous les gens bien intentionnйs
+S'amusaient а me voir jeuner.
+
+Ce n'йtait rien qu'un peu de pain
+Mais il m'avait chauffй le corps
+Et dans mon вme, il brыle encore
+А la maniиre d'un grand festin...
+
+Toi, l'hфtesse quand tu mourras
+Quand le croc-mort t'emportera
+Qu'il te conduise а travers ciel
+Au pиre йternel.
+
+Elle est а toi cette chanson
+Toi l'йtranger qui, sans faзon,
+D'un air malheureux m'a sourit
+Lorsque les gendarmes m'ont pris.
+
+Toi qui n'a pas applaudi quand
+Les croquantes et les croquants
+Tous les gens bien intentionnйs
+Riaient de me voir emmenй.
+
+Ce n'йtait rien qu'un peu de miel
+Mais il m'avait chauffй le corps
+Et dans mon вme, il brыle encore
+А la maniиre d'un grand soleil...
+
+Toi, l'йtranger quand tu mourras
+Quand le croc-mort t'emportera
+Qu'il te conduise а travers ciel
+Au pиre йternel.

@@ -1,0 +1,49 @@
+Artist: paul_mccartney
+Title: a_fine_day
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Contemporary Pop/Rock', u'Soft Rock', u'Singer/Songwriter', u'Adult Contemporary', u'Rock & Roll', u'AM Pop', u'Film Score', u'Choral', u'Orchestral']
+
+Song:
+
+Now the weekend's here
+I plan to have some fun
+Take you out in my Oldsmobile
+And head for the country, hon
+
+Say, hey, hey, it's a fine day
+Hey, hey, such a fine day
+Hey, hey, it's a fine day
+I hope to hear you headin' my way
+
+Hey, hey, it’s a fine day
+Checkbook on another fine day
+Hey, hey, it’s a fine day
+I’m glad to see you headin’ my way
+
+Friday night I took you dancin’
+We danced all the way
+Sunday mornin’ we relaxin’
+At your mother’s home
+
+Hey, it’s a fine day
+Sha-yay-yeh-yeh-yeh-yeh-yeh
+It’s a fine day, oh yeah, it’s a fine day
+I’m glad to see you headin’ my way
+Oh yeah, yeah, yeah, yeah, yeah
+
+Well, should leave, I took her to the evenin' classes
+Where you learn to read a book
+Wednesday mornin' took me to the playground
+Where you lead to take a look
+
+Hey, it’s a fine day
+Hey, hey, ha, ha, ha, oh, such a fine day
+Ha, ha, ha, hey, hey, it’s a fine day
+I’m glad to see you headin’ my way
+
+Oh hey, hey, it’s a fine day
+Hey, hey, such a fine day
+Hey, hey, it’s a fine day
+I’m glad to see you headin’ my way
+Hey, hey, a fine day
+Hey, such a fine day

@@ -1,0 +1,12 @@
+Artist: while_she_sleeps
+Title: reunite
+Genre: Pop/Rock
+Subgenres: [u'Death Metal', u'Grindcore', u'Heavy Metal']
+
+Song:
+
+The north still stands for nothing,
+But the streets don't feel the same.
+We are the keepers of broken promise,
+In a nation that will never change.
+[X3]

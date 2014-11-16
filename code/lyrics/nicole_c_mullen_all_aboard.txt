@@ -1,0 +1,9 @@
+Artist: nicole_c_mullen
+Title: all_aboard
+Genre: Religious
+Subgenres: [u'CCM', u'Contemporary Christian', u'Gospel']
+
+Song:
+
+All aboard here we go, all aboard here we go
+And we'll be comin atcha, comin on atcha, comin on atcha woa woa were comin on atcha comin on atcha ahhh yeah yeah were comin on atcha, comin on atcha comin on atcha woa woa were comin on atcha, comin on atcha ahhh. double time, all aboard here we go, all aboard here we go.

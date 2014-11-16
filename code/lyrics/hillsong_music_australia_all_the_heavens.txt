@@ -1,0 +1,19 @@
+Artist: hillsong_music_australia
+Title: all_the_heavens
+Genre: Religious
+Subgenres: [u'Gospel']
+
+Song:
+
+Holy, holy are You Lord
+The whole earth is filled with Your glory
+Let the nations rise to give
+Honor and praise to Your name
+
+Let Your face shine on us
+And the world will know You live
+
+All the heavens shout Your praise
+Beautiful is our God
+The universe will sing
+Hallelujah to You our King

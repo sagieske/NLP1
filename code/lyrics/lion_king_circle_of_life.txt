@@ -1,0 +1,35 @@
+Artist: lion_king
+Title: circle_of_life
+Genre: Blues
+Subgenres: [u'Modern Electric Blues', u'Soul-Blues', u'Early R&B', u'Memphis Blues', u'Regional Blues']
+
+Song:
+
+From the day we arrive on this planet
+And blinking, step into the sun
+There's more to see than can ever be seen
+More to do than can ever be done
+
+There is far too much to take in here
+More to find than can ever be found
+But the sun rolling high
+Through the sapphire sky
+Keeps great and small on the endless round
+
+It's the circle of life
+And it moves us all
+Through despair and hope
+Through faith and love
+Till we find our place
+On the path unwinding
+In the circle
+The circle of life
+
+It's the circle of life
+And it moves us all
+Through despair and hope
+Through faith and love
+Till we find our place
+On the path unwinding
+In the circle
+The circle of life

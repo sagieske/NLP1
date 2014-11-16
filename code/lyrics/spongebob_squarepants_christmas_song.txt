@@ -1,0 +1,32 @@
+Artist: spongebob_squarepants
+Title: christmas_song
+Genre: Children's
+Subgenres: [u"Children's Pop", u"Children's Rock", u'Sing-Alongs', u'Stories']
+
+Song:
+
+It's shaping up to be a wonderful holiday,
+Not your normal, average, everyday.
+Sounds like someone filled my old coral tree.
+Spongebob, Patrick, why'd you do this to me?
+The world feels like it's in loverly.
+Go away before I harm you bodily.
+This Christmas feels like the very first Christmas to me.
+There'll be shopping, decorating, and plenty of snow.
+Hey, Patrick, who's that under the mistletoe?
+What? Who, me?
+Would you look at the time, I should go!
+People seem a little more brotherly.
+Here's a little something to you from me.
+Even all the trash, on Christmas it smells so sweetly.
+This Christmas feels like the very first Christmas to me.
+La, la, la, la, la, la, la, la,
+La, la, la, la, la, la, la, la.
+What do you want? Can't you see that I'm busy?
+Step outside, we've got something for you to see.
+Spongebob, take this stuff down immediately!
+Chestnuts roasting and burns in the third degree.
+Tonight things are as good as they seem to be.
+A star on top will complete all the scenery.
+This Christmas feels like the very first Christmas to me.
+This Christmas feels like the very first Christmas to me.

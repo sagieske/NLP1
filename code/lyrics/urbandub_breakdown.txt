@@ -1,0 +1,23 @@
+Artist: urbandub
+Title: breakdown
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock']
+
+Song:
+
+I believe in you
+I've been thinking about all the things that you do
+Your eyes when they stare leaves me weak
+I like the way you sweep me off my feet
+Now I can't speak...
+
+I breakdown when you're not around.
+
+I believe in dreams
+I've been taking my time to see,
+If we'll ever meet
+Baby your eyes when they stare leaves me weak
+I like the way you sweep me off my feet
+Love I can't speak...
+
+I breakdown when you're not around.

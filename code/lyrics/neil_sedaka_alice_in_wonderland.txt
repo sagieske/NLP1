@@ -1,0 +1,32 @@
+Artist: neil_sedaka
+Title: alice_in_wonderland
+Genre: Pop/Rock
+Subgenres: [u'Brill Building Pop', u'Early Pop/Rock', u'AM Pop', u'Soft Rock', u'Teen Idols']
+
+Song:
+
+Alice, pretty little Alice
+Pretty little Alice in Wonderland
+
+Alice in wonderland
+Won't you take me by the hand
+And lead me to your wonderland of love
+
+I took one look at you
+And that was all I had to do
+Alice, you're the girl I'm dreamin of
+
+Tweedle dum, tweedle dee
+You have made my life a fantasy
+You don't know what you're doin to me
+My heart goes pitter patter cause I'm mad as a hatter for
+
+Alice my little girl
+There is no other in this whole wide world
+Take me by the hand, tell me you understand
+Alice, Alice in wonderland
+
+Repeat last two verses
+
+Oh Alice, pretty little Alice
+Pretty little Alice in wonderland

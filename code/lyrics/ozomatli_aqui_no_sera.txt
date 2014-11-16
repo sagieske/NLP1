@@ -1,0 +1,18 @@
+Artist: ozomatli
+Title: aqui_no_sera
+Genre: Pop/Rock
+Subgenres: [u'Alternative Latin', u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Rock en Espa\xf1ol', u'Alternative Rap', u'Latin Pop', u'Salsa']
+
+Song:
+
+Desde las malvinas hasta la
+Mision ambos medisanos en lucha y cancion
+Salvadoreño pequeño gigante
+Señala a todos aqui no sera
+Salvadoreño pequeño gigante
+Señala a todos aqui no sera
+
+Aqui no sera facil ocasion
+Aqui no sera tan solo un vietnam
+L'america entera no permitira
+Otra intervencion en el salvador

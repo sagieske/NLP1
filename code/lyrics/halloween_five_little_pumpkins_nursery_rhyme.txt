@@ -1,0 +1,16 @@
+Artist: halloween
+Title: five_little_pumpkins_nursery_rhyme
+Genre: Pop/Rock
+Subgenres: []
+
+Song:
+
+Five little pumpkins sitting on a gate.
+The first one said, "Oh my it's getting late."
+The second one said, "There are witches in the air."
+The third one said, "But we don't care!"
+The fourth one said, "Let's run and run and run."
+The fifth one said, "We are ready for some fun!"
+Then OOOhh OOOhh went the wind
+And out went the lights
+And the five little pumpkins rolled out of sight.

@@ -1,0 +1,24 @@
+Artist: uk_subs
+Title: all_i_want_to_know
+Genre: Pop/Rock
+Subgenres: [u'British Punk', u'Punk', u'Punk/New Wave', u'Oi!']
+
+Song:
+
+Here comes heart beat
+Picked up on every street
+She knows what it's for
+Like she said she knows the score
+
+All I wanna know, All I wanna know
+Does she suck
+
+See her on your tv screen
+Prettiest little thing that you've ever seen
+Is she good has she got a brain
+I can teach her but it's such a pain
+
+She's coming out of school
+About to break a rule
+Going out getting excited
+There'll be no homework done tonight

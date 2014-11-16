@@ -1,0 +1,30 @@
+Artist: eurythmics
+Title: a_cat_with_a_tale_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Pop/Rock', u'New Wave', u'Punk/New Wave', u'Synth Pop', u'Dance-Rock']
+
+Song:
+
+Three thirty on a sick summer's day
+I round myself staring at a Newcastle bus stop
+A total stranger in a herringbone suit
+Asked me the time through his cigarette lighter
+Fifteen years later on a Wednesday night
+L round myself dreaming in a Manchester night-club
+A total stranger in a luminous tracksuit
+Gives me a kiss and he tastes of aluminium
+Then he's gone
+And in his place a cat with green eyes
+A cat with no tall at all
+Just a very sad expression on his race
+Mandarin quotes on a wrought iron gate
+I'm ringing the doorbell, but the petrol keeps leaking
+A total stranger in a cashmere coat
+Tells me politely, "Your wife is on fire"
+A family outing at the Gosforth Park Hotel
+The girl in the kitchen is working a job scheme
+L told my wife I'm sure I've seen her before
+She told me I kissed her al a Newcastle bus stop
+Then I was gone
+And in my place a cat with green eyes
+A cat with a tale to tell

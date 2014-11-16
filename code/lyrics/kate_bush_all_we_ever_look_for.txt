@@ -1,0 +1,43 @@
+Artist: kate_bush
+Title: all_we_ever_look_for
+Genre: Pop/Rock
+Subgenres: [u'Art Rock', u'Alternative/Indie Rock', u'College Rock', u'Alternative Pop/Rock']
+
+Song:
+
+Just look at your father
+And you'll see how you took after him.
+Me, I'm just another
+Like my brothers
+Of my mother's genes.
+
+All they really want for you
+Are the things they didn't do.
+All they ever wanted--a little clue.
+All they ever wanted--the truth.
+All they ever wanted--a little bit of you.
+All they ever wanted,
+But they never did get.
+
+The whims that we're weeping for
+Our parents would be beaten for
+Leave the breast
+And then the nest
+And then regret you ever left.
+
+All we're really looking for
+Is another open door.
+All we ever look for--another womb.
+All we ever look for--our own tomb.
+All we ever look for--ooh, la lune.
+All we ever look for--a little bit of you, too.
+All we ever look for,
+But we never do score.
+
+All we ever look for--a god.
+All we ever look for--ooh, a drug.
+All we ever look for--a great big hug.
+All we ever look for--a little bit of you.
+All we ever look for--a little bit of you, too.
+All we ever look for,
+But we never do score.

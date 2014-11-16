@@ -1,0 +1,20 @@
+Artist: one_way
+Title: i_love_you_jesus
+Genre: Pop/Rock
+Subgenres: [u'Pop', u'Teen Pop', u'Contemporary Pop/Rock', u'Dance-Pop', u'Pop Idol']
+
+Song:
+
+I love You, Jesus.
+I love Your light.
+Shine down, Jesus.
+Shine so bright.
+
+I need Your love
+To show the way.
+I need You to save the day.
+
+You are my God.
+My God, I love Thee.
+God of wonders, God of Heaven,
+God of me.

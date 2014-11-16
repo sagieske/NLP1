@@ -1,0 +1,19 @@
+Artist: unleashed
+Title: and_the_laughter_has_died
+Genre: Pop/Rock
+Subgenres: [u'Death Metal', u'Heavy Metal', u'Scandinavian Metal']
+
+Song:
+
+[Dec '90]
+
+Man of fashions flow - die
+Time has come to say - goodbye
+We spit on your - grave
+Slay all in sight - rage
+All their power's gone
+A battle we have won
+No more trust to them
+This is the end
+So is the utterdark - revenge
+And now the laughter has - died

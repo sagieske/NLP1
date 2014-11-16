@@ -1,0 +1,30 @@
+Artist: slade
+Title: all_join_hands
+Genre: Pop/Rock
+Subgenres: [u'Glam Rock', u'Glitter', u'Hard Rock']
+
+Song:
+
+[1] I remember the time when I saw you
+Standing there all alone in a crowd
+I remember the time
+Cos we drank too much wine
+
+Chorus We all join hands
+And we all join hands
+So let's all join hands
+Here and now
+
+[2] All the girls getting kissed in the ballroom
+All the boys Brahms and Liszt on the floor
+I remember the time
+When we sang Auld Lang Syne
+
+Chorus are E P E A T[3] Have the time of your life when you're younger
+Have the time of your life when you're old
+Drink the wine, feeling fine
+As we sang Auld Lang Syne
+
+Chorus are E P E A T (2 times)
+
+Here and now, here and now - yeah...

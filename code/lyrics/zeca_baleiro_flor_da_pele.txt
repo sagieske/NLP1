@@ -1,0 +1,20 @@
+Artist: zeca_baleiro
+Title: flor_da_pele
+Genre: Latin
+Subgenres: [u'Brazilian Pop', u'MPB', u'Brazilian Traditions']
+
+Song:
+
+No importa a noite
+De qualquer maneira ns vamos brincar
+Preparem seus coraes
+Para essas emoes
+Que trago de Axix
+O importante que cheguei agora
+Alegre como sempre feliz a cantar
+Canta comigo amor
+Dana comigo
+Balanceia meu cordo
+Eu sei que voc vai gostar
+Eu quero ver o vento louco
+Teus cabelos balanar

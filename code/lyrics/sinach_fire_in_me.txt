@@ -1,0 +1,18 @@
+Artist: sinach
+Title: fire_in_me
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Screamo', u'Emo', u'Punk-Pop', u'Punk Revival']
+
+Song:
+
+You are the fire in me
+You are the power at work in me
+You are my ever present helper
+Holy Spirit I adore
+
+Precious Holy Ghost
+I worship You [X2]
+Precious Holy Ghost
+You're precious in my life
+
+Father I adore You, Father I adore [X3]

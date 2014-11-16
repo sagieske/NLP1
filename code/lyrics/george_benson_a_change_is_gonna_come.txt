@@ -1,0 +1,41 @@
+Artist: george_benson
+Title: a_change_is_gonna_come
+Genre: Jazz
+Subgenres: [u'Contemporary Jazz', u'Crossover Jazz', u'Hard Bop', u'Jazz-Pop', u'Smooth Jazz', u'Fusion', u'Guitar Jazz', u'Jazz Instrument', u'Quiet Storm']
+
+Song:
+
+I was born by the river
+In a little tent, and o
+Just like that river
+I've been running ever since
+
+It's been a long time coming, but I know
+A change is gonna come, oh yes it will
+
+It's been too hard living
+But I'm afraid to die
+'Cause I don't know what's up there
+Beyond the sky
+
+It's been a long time coming, but I know
+A change is gonna come, oh yes it will
+
+I go to the movie and I go downtown
+Somebody keep tellin me
+Don't hang around
+
+It's been a long time coming, but I know
+A change is gonna come, oh yes it will
+
+Then I go to my brother
+And I say brother help me please
+But he wind up (knocking) me
+Back down on my knees
+
+There have been times that I thought
+I couldn't last for long
+But now I think I'm able to carry on
+
+It's been a long time, but I know
+A change is gonna come, oh yes it will

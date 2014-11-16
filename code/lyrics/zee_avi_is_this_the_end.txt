@@ -1,0 +1,27 @@
+Artist: zee_avi
+Title: is_this_the_end
+Genre: Pop/Rock
+Subgenres: [u'Adult Alternative Pop/Rock', u'Alternative/Indie Rock', u'Contemporary Singer/Songwriter']
+
+Song:
+
+Is this the end?
+Then why does it feel
+We'd only just begun
+I thought we were done
+
+I think I'll hang on
+If you still want me
+But if you don't
+I guess I'll move on
+
+And if you need me
+Close your eyes and dream
+I'll give you back your key
+But will you be happy?
+Will you be happy?
+
+Said we'll leave it alone
+But I wont be here long
+And when I'm gone
+I guess then we'll know

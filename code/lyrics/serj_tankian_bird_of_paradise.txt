@@ -1,0 +1,35 @@
+Artist: serj_tankian
+Title: bird_of_paradise
+Genre: Pop/Rock
+Subgenres: [u'Hard Rock', u'Heavy Metal', u'Industrial Metal', u'Neo-Prog', u'Progressive Metal', u'Prog-Rock']
+
+Song:
+
+Just a kiss from your lips and I'm.. Gone
+Just a smile from your touch and I'm.. Gone
+Just a touch from your words makes me whole
+And the glance from your eyes says home.
+I see what you're doing, you're piling it all up one by one,
+Pulling from the stars, drinking the teas,
+I see what you'Re doing, you'Re piling it all up one by one,
+Pulling the eyes, pulling the teas,
+And crossing them all out!
+.. Just a kiss from your lips,
+Just a smile from your touch and I'm gone
+Just a touch from your words makes me whole
+And the glance from your eyes says home.
+I see what you're doing, you're piling it all up one by one,
+Pulling from the stars, drinking from the seas,
+I see what you'Re doing, you'Re piling it all up one by one,
+Pulling the stars, pulling the seas,
+And crossing them all out!
+Don't you want to be my love?
+Can't we suddenly elope?
+Try and cross the sea above
+Can't we suddenly elope
+Don't you want to be my love?
+Can't we suddenly elope?
+Try and cross the sea above
+Can't we suddenly elope?
+Just a kiss, a kiss from your lips
+And I...

@@ -1,0 +1,15 @@
+Artist: dance_gavin_dance
+Title: 12_hours_630_miles
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Post-Hardcore', u'Emo']
+
+Song:
+
+Starting or ending.
+Feeding a flame.
+I am cold tonight.
+I am your break.
+Were all scared of something.
+Just don't run from me.
+I'll follow you only,
+Till' you give in.

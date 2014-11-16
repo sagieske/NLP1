@@ -1,0 +1,36 @@
+Artist: gipsy_kings
+Title: a_ti_a_ti
+Genre: Latin
+Subgenres: [u'Contemporary Flamenco', u'Ethnic Fusion', u'Western European Traditions', u'Flamenco', u'Spanish Folk', u'Worldbeat']
+
+Song:
+
+En pasen por la rambla
+De la rambla de barcelona
+Encuentre a une chiquita
+Y la llevo a mi casa
+
+Yo te quiero a ti a ti
+Bem bem bem
+Yo te quiero a ti a ti
+Bem bem bem
+Yo te quiero a ti a ti
+Solamente a ti a ti
+Sabe bien que yo te quiero mujer
+Tu eres par mi
+Tu eres par mi
+
+En pasen por la rambla
+De la rambla de barcelona
+Encuentre a une chiquita
+Y la llevo a mi casa
+
+Yo te quiero a ti a ti
+Bem bem bem
+Yo te quiero a ti a ti
+Bem bem bem
+Yo te quiero a ti a ti
+Solamente a ti a ti
+Sabe bien que yo te quiero mujer
+Tu eres par mi
+Tu eres par mi

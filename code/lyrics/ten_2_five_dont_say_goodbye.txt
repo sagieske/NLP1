@@ -1,0 +1,24 @@
+Artist: ten_2_five
+Title: dont_say_goodbye
+Genre: Classical
+Subgenres: [u'Keyboard']
+
+Song:
+
+I stood in the rain
+Packed up and ready to go
+My tears are falling again
+Its because of you
+
+Will you call me when you get there?
+Will you miss me every day?
+Cause i'll be waiting here at home
+Till you knock on my door again
+
+Baby, Please don't say goodbye
+I love you too much
+Just to let you fly
+I need you to be my only one
+Even if you're a thousand miles
+Away from here
+Away from here

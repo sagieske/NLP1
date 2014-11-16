@@ -1,0 +1,22 @@
+Artist: hole
+Title: angels_took_him_away
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Grunge']
+
+Song:
+
+Angels took him away
+Angels took him away
+They couldn't let him stay
+The angels took him away
+
+He said I have to leave
+I have to leave
+I have to leave
+I have to leave
+
+Angels never go away
+We'll make each other control the land
+They take you
+Use once and destroy
+They know it's all about our love

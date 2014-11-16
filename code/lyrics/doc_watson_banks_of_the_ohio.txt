@@ -1,0 +1,44 @@
+Artist: doc_watson
+Title: banks_of_the_ohio
+Genre: Folk
+Subgenres: [u'Traditional Folk', u'Appalachian', u'Bluegrass', u'Old-Timey', u'North American Traditions', u'Traditional Country', u'Traditional Bluegrass']
+
+Song:
+
+(break)
+
+I asked my love to take a walk
+Just a little ways with me
+And as we walked and we would talk
+All about our weddingday
+
+[Chorus:]
+Darling say that you'll be mine
+In our home we'll happy be
+Down beside where the waters flow
+On the banks of the Ohio
+
+(break)
+
+I took her by her pretty white hand
+I let her down that bank of sand
+I pushed her in where she would drown
+Lord, I saw her as she floated down
+
+[Chorus:]
+
+Returning home about twelve or one
+Thinking "Lord, what a deed I've done?"
+I killed the girl I love, you see
+Because she would not marry me
+
+[Chorus:]
+
+(break)
+
+The very next day at half past four
+The sherrif walked right to my door
+And he says "Young man, don't you try to run
+You'll pay for this awful crime you've done"
+
+[Chorus:]

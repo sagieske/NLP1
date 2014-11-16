@@ -1,0 +1,17 @@
+Artist: orphaned_land
+Title: asalk
+Genre: Pop/Rock
+Subgenres: [u'Heavy Metal', u'Progressive Metal']
+
+Song:
+
+"A'salk ya chur aganani
+Lama Lama Ad Betney
+Ve'ana ahrach raim zmani
+Takrim liman hu haii"
+
+[Translation:]
+"I beseech you, King of Kings
+Why, Why do you torture me?
+In my faith lies eternally
+Have mercy upon your forsaken"

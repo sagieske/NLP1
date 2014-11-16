@@ -1,0 +1,22 @@
+Artist: muddy_waters
+Title: big_leg_woman
+Genre: Blues
+Subgenres: [u'Blues Revival', u'Chicago Blues', u'Delta Blues', u'Electric Blues', u'Electric Chicago Blues', u'Regional Blues', u'Slide Guitar Blues']
+
+Song:
+
+Big leg women, keep your dresses down
+You got stuff to make a bulldog hug a hound
+
+If you roll your belly like you roll your dough
+People, they's crying
+They want some more
+Roll your belly like you roll your dough
+Hey, people, they's crying
+People, they're crying for more
+
+Big leg women sure got something good
+People, they's crying about it in the neighborhood
+Big leg women sure got something good
+Now, if you don't believe me, ask everybody in my
+Neighborhood

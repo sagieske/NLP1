@@ -1,0 +1,15 @@
+Artist: ray_price
+Title: am_i_that_easy_to_forget
+Genre: Country
+Subgenres: [u'Country-Pop', u'Honky Tonk', u'Nashville Sound/Countrypolitan', u'Traditional Country', u'Country Gospel', u'Gospel']
+
+Song:
+
+They say you've found somebody new but that won't stop my loving you
+I just can't let you walk away forget the love I had for you
+Yes I could find somebody too but I don't want no one but you
+How could you leave without regrets am I that easy to forget
+Before you leave be sure you find you want his love much more than mine
+Cause I'll just say we've never met if I'm that easy to forget
+[ guitar ]
+Before you leave be sure you find...

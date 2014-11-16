@@ -1,0 +1,97 @@
+Artist: orange_caramel
+Title: aing
+Genre: Pop/Rock
+Subgenres: []
+
+Song:
+
+[All]
+Hana! Dul!
+Hana, dul, set, net!
+
+[Nana]
+Geudaeye ibsuri da heumyeon
+Ganjil ganjil maeumi ganjireo
+Jakkuman Aing! Aing!
+Gippeoseo Aing! Aing!
+Yeminhae yeminhae
+
+[Lizzy]
+Geudaereul ilchoman mot bwado
+Nunmul saeme shinho ga tteo beoryeo
+Jakkuman Kkeoi! Kkeoi!
+Bogopa Kkeoi! Kkeoi!
+Yeminhae yeminhae
+
+[Raina]
+Alleoji gateun nae sarang
+Meoljjeong hadeon nal
+Shikeun hage huljjeok georige
+Jwotda pyeotda watda gatda
+
+[Nana]
+Oh meot jimyeon daya jalsaeng gimyeon daya
+Jinggeul jinggeul jinggeul hage
+Oh Wah~ Joha seo
+Michyeo michyeo, bbajyeo bbajyeo
+[Raina]
+On momi jeoryeo bbyeossok kkaji jeoyeo
+Jjirit jjirit jjirit hage
+Oh Wah~ Eotteohke?
+Deobsseok deobsseok
+Nae mam jibe sam kineun neo
+
+[Lizzy]
+Nananana Nanana
+Nananana Nanana
+
+[Lizzy]
+Geudaega tuk deonjin nong damdo
+Bamsae dorok nae mameul gwaerob hyeo
+Gung geumhae Oing! Oing!
+Saenggakhae Oing! Oing!
+Yeminhae yeminhae
+
+[Raina]
+Alleoji gateun nae sarang
+Yamjeon hadeon nal
+Jeongshin eobtge puljjak georige
+Ajjil hage jjarit hage
+
+[Nana]
+Oh meot jimyeon daya jalsaeng gimyeon daya
+Jinggeul jinggeul jinggeul hage
+Oh Wah~ Joha seo
+Michyeo michyeo, bbajyeo bbajyeo
+[Raina]
+On momi jeoryeo bbyeossok kkaji jeoyeo
+Jjirit jjirit jjirit hage
+Oh Wah~ Eotteohke?
+Deobsseok deobsseok
+Nae mam jibe sam kineun neo
+
+[Raina]
+Nal kkomjjak mottage
+Hae beoryeot jwo~ Oh~
+
+[Lizzy]
+Namanye sarang namja junge namja
+Eojjeom eojjeom eojjeom irae
+[Nana]
+Oh Wah~ Wanbyeokhae
+Meori buteo, bbalkkeut kkaji
+
+[All]
+Neol salmye boseok nae insaengye gijeok ([Raina] Oh~)
+Orae orae orae torok ([Raina] Oh~)
+Oh Wah~ Yeongwonhi
+Naman naman naman naman saranghae jwo ([Raina] Jwo~)
+
+[Lizzy]
+Nananana Nanana
+Nananana Nanana
+Nananana Nanana
+Nananana Nanana
+
+[Lizzy]
+Aing!

@@ -1,0 +1,33 @@
+Artist: lady_gaga
+Title: anything_goes
+Genre: Pop/Rock
+Subgenres: [u'Pop', u'Dance-Pop', u'Club/Dance']
+
+Song:
+
+Times have changed
+And we've often rewound the clock
+Since the Puritans got a shock
+When they landed on Plymouth Rock.
+If today, any shock they should try to stem, 
+‘Stead of landing on Plymouth Rock, 
+Plymouth Rock would land on them.
+
+In olden days a glimpse of stocking
+Was looked on as something shocking
+Now heaven knows, anything goes
+
+Good authors too who once knew better words
+Now only use four letter words writing prose
+Anything goes
+
+The world has gone mad today
+And good's bad today
+And black's white today
+And day's night today
+When most guys today that women prize today
+Are just silly gigolos
+
+So though I'm not a great romancer
+I know that you're bound to answer
+When I propose, anything goes

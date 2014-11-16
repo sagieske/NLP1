@@ -1,0 +1,40 @@
+Artist: eros_ramazzotti
+Title: ad_un_amico_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Italian Pop', u'Adult Alternative Pop/Rock', u'Alternative/Indie Rock', u'Latin Pop', u'Adult Contemporary']
+
+Song:
+
+Il cielo si fa grande sopra di noi
+? tempo di partire, tempo di andare via
+grandi nuvole bianche sparse un po' qua e la'
+c'? qualcuno che parte e in un attimo vola via
+se ne va
+se ne va
+proprio adesso ? stato deciso, se ne va...
+e te ne vai
+amico vai
+hai detto di andare lontano pi? sicuro che mai
+e te ne vai
+ma dove andrai
+hai detto di andare lontano pi? lontano che puoi
+notti chiare passate a parlare di noi
+di una vita triste di periferia
+un orizzonte rosa, un amore e poi
+tanta voglia di vivere e di andare via
+ora va'
+ora va'
+caro amico...ciao...non voltarti
+ora va'
+e te ne vai
+amico vai
+hai detto di andare lontano pi? sicuro che mai
+e te ne vai
+ma dove andrai
+hai detto di andare lontano pi? lontano che puoi
+e te ne vai
+amico vai
+hai detto di andare lontano pi? sicuro che puoi
+e te ne vai
+ma dove andrai
+hai detto di andare lontano pi? lontano che puoi

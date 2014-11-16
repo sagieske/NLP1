@@ -1,0 +1,36 @@
+Artist: donovan
+Title: as_i_recall_it
+Genre: Pop/Rock
+Subgenres: [u'British Invasion', u'British Psychedelia', u'Folk-Rock', u'Psychedelic Pop', u'Psychedelic/Garage', u'British Folk', u'Singer/Songwriter']
+
+Song:
+
+As I recall it, the sun was high,
+Yellow in the blue, blue sky.
+You couldn't quite make out this boy,
+He used life as a toy.
+In a Marie-Antoinette room
+We were introduced soon,
+I was me and you were you,
+How do you do?
+Raggedy and tousle-haired
+He looked as though he never cared
+To run a comb where a comb should run,
+Freckles from the sun.
+Many good times we have had,
+We been happy, we been sad,
+But I think we both feel glad
+That this life is so mad, mad, mad.
+As I recall it, the sun was high,
+If I remember, the sun was high,
+You couldn't quite make out this boy,
+He used life as a toy.
+Many good times we have had,
+We been happy, baby, we been sad,
+But I think we both feel glad
+That this life is so mad.
+As I recall it, the sun was high,
+Yellow in the blue, blue sky,
+You couldn't quite make out this boy,
+He used life as a toy.
+Yeah!

@@ -1,0 +1,20 @@
+Artist: oingo_boingo
+Title: bachelor_party
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'New Wave', u'Punk/New Wave', u'Dance-Rock', u'College Rock', u'Contemporary Pop/Rock', u'Dance-Pop', u'Synth Pop']
+
+Song:
+
+It's the last time, it's the last chance
+
+It's a fond farewell to a golden age
+And it's hard to tell until it's gone away
+It's a long goodbye to carefree life
+It's the last chance to get out of line
+What's going on here?
+
+It's the end of an era
+It's a precious moment
+And the moment's gonna last
+It's gonna last all night
+It's a bachelor party, gonna pull out the plugs

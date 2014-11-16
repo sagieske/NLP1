@@ -1,0 +1,39 @@
+Artist: lord_of_the_rings
+Title: gollums_song
+Genre: Pop/Rock
+Subgenres: [u'Alternative Metal', u'Doom Metal', u'Heavy Metal', u'Stoner Metal', u'Sludge Metal']
+
+Song:
+
+Where once was light
+Now darkness falls
+Where once was love
+Love is no more
+Don't say goodbye
+Don't say I didn't try
+
+These tears we cry
+Are falling rain
+For all the lies you told us
+The hurt, the blame
+And we will weep to be so alone
+We are lost
+We can never go home
+
+So in the end
+I'll be what I will be
+No loyal friend
+Was ever there for me
+Now we say goodbye
+We say you didn't try
+
+These tears you cry
+Have come too late
+Take back the lies
+The hurt, the blame
+And you will weep
+When you face the end alone
+You are lost
+You can never go home
+You are lost
+You can never go home

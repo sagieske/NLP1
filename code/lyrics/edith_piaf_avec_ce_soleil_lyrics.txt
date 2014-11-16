@@ -1,0 +1,47 @@
+Artist: edith_piaf
+Title: avec_ce_soleil_lyrics
+Genre: Vocal
+Subgenres: [u'Cabaret', u'French Pop', u'Torch Songs', u'Vocal Pop']
+
+Song:
+
+Avec ce soleil, on avait envie
+De ne pas parler,
+De boire de la vie
+A petites goul? Es.
+Sous le ciel superbe
+Le long du talus, m? Chant un brin d'herbe
+Et jupe coll? E, elle regardait
+D'un air triomphant
+Ce jeune homme imberbe
+Ou encore presqu'enfant
+Qui la d? Sirait.
+Il aurait fallu presque rien, peut-? Tre,
+Un geste de lui,
+Un sourire d'elle qui lui dise "viens".
+Il aurait fallu presque rien, peut-? Tre,
+Qu'un oiseau s'enfuie
+Avec un bruit d'ailes pour que tout soit bien...
+
+Pour que par-dessus le toit de l'usine,
+Le long des murs gris,
+Pour que par-dessus la route voisine
+Et ses pav? S gris,
+Pour que par-dessus toutes les collines,
+Pour que par-dessus toutes les for? Ts,
+Pour que monte au ciel, sans cloches et sans noces,
+Un amour de gosses
+Qui purifierait...
+Mais c'? Tait d? J? Deux enfants durcis
+Qui ne croyaient plus d'avoir? Se dire
+Que les mots des grands...
+Que la vie d? J?, broyait sans merci,
+Qui ne savaient plus ni are? Ver, ni rire
+C? Ur indiff? Rent...
+
+Et ce jour encore
+Le long du talus
+Le coquelicots avec les bleuets
+En vain attendirent
+Une main cruelle
+Qui les cueillerait...

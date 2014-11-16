@@ -1,0 +1,30 @@
+Artist: weezer
+Title: a_fortunate_mistake
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Punk-Pop', u'Emo']
+
+Song:
+
+I tried and I failed
+I tried and I failed
+It was the best thing that could have happened
+There's nothing left here
+Nothing to care for
+No one to talk with
+No one to listen
+
+I tried and I failed
+I tried and I failed
+It was the best thing
+That could have happened
+Too bad you find it all so impressive
+Too bad you see it as something precious
+
+I tried and I failed
+I tried and I failed
+It was the best thing
+That could have happened
+There's nothing left here
+Nothing to care for
+No one to talk with
+No one to listen

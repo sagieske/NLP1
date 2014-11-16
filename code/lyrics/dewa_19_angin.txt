@@ -1,6 +1,6 @@
 Artist: dewa_19
 Title: angin
-Genre: unknown
+Genre: Pop/Rock
 Subgenres: []
 
 Song:

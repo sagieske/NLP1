@@ -1,0 +1,30 @@
+Artist: selena
+Title: a_million_to_one
+Genre: Pop/Rock
+Subgenres: [u'Pop', u'Teen Pop', u'Club/Dance', u'Dance-Pop']
+
+Song:
+
+A million to one, that's what our folks
+Think about this love of ours
+A million to one, they say thar our love
+Will fade like yesterday's clouds
+They're betting everything
+That our love, won't survive
+They're hoping in time
+We'll forget each other's lives
+A million to one, they say that we're
+Too young to know the meaning of love
+A million to one, that they've forgotten
+The dreams that we're dreaming of
+But we'll forgive them, because we love them
+After all that's said and done
+There's one in a million: a million to one
+A million to one, they say that we're
+Too young to know the meaning of love
+A million to one, that they've forgotten
+The dreams that we're dreaming of
+But we'll forgive them, because we love them
+After all that's said and done
+There's one in a million: a million to one
+A million to one, a million to one

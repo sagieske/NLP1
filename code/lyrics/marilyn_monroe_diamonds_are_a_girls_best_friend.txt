@@ -1,0 +1,41 @@
+Artist: marilyn_monroe
+Title: diamonds_are_a_girls_best_friend
+Genre: Vocal
+Subgenres: [u'Vocal Pop', u'Celebrity', u'Traditional Pop', u'American Popular Song', u'Film Score', u'Show/Musical']
+
+Song:
+
+"The French are glad to die for love,
+They delight in fighting duels,
+But I prefer a man who lives and gives
+Expensive jewels.
+
+A kiss on the hand may be quite continental
+But diamonds are a girl's best friend
+A kiss may be grand... but it won't pay the rental on your humble flat
+Or help you at the automat
+Men grow cold as girls grow old
+And we all lose our charms in the end
+But square cut or pear shape these rocks don't lose their shape
+Diamonds are a girl's best friend
+
+... Tiffany's!
+... Cartier!
+Black star Frost Gorham
+Talk to me Harry Winston tell me all about it!
+There may come a time when a lass needs a lawyer
+But diamonds are a girl's best friend
+There may come a time when a hard boiled employer thinks you're awful nice
+But get that ice or else no dice
+He's your guy when stocks are high but beware when they start to descend
+It's then that those louses go back to their spouses
+Diamonds are a girl's best friend
+
+I've heard of affairs that are strictly platonic
+But diamonds are a girl's best friend
+And I think affairs that you must keep masonic are better bets
+If little pets get big baguettes,
+Time rolls on and youth is gone and you can't straighten up when you bend
+But stiff back or stiff knees you stand straight at... Tiffany's...
+
+Diamonds... diamonds... I don't mean rhinestones... but diamonds... are a girls best... best friend"

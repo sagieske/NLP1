@@ -1,0 +1,29 @@
+Artist: sam_cooke
+Title: all_of_my_life
+Genre: R&B
+Subgenres: [u'Soul', u'Black Gospel', u'Early R&B', u'Gospel']
+
+Song:
+
+All of my life, yes all of my life
+I've waited, waited, waited for you
+I dreamed and dreamed and thought and schemed
+For someone, someone, someone like you
+
+Now that you're here, please my dear
+Don't ever, ever, ever go
+
+All of my life, yes all of my life
+I've dreamed and longed for you so
+
+Once a voice whispered inside me
+Wait for someone who's true
+Don't love another for love is forever
+And no one else will do
+
+Now that you're here, I'm happy my dear
+I've waited, waited, waited, waited for you
+All of my life, yes all of my life
+I've dreamed and dreamed of you
+
+I've waited for you all of my life

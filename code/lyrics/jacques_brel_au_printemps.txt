@@ -1,0 +1,83 @@
+Artist: jacques_brel
+Title: au_printemps
+Genre: Vocal
+Subgenres: [u'Cabaret', u'French Pop', u'Vocal Pop', u'Show/Musical']
+
+Song:
+
+Au printemps au printemps
+Et mon cњur et ton cњur
+Sont repeints au vin blanc
+Au printemps au printemps
+Les amants vont prier
+Notre-Dame du bon temps
+Au printemps
+Pour une fleur un sourire un serment
+Pour l'ombre d'un regard en riant
+
+Toutes les filles
+Vous donneront leurs baisers
+Puis tous leurs espoirs
+Vois tous ces cњurs
+Comme des artichauts
+Qui s'effeuillent en battant
+Pour s'offrir aux badauds
+Vois tous ces cњurs
+Comme de gentils mйgots
+Qui s'enflamment en riant
+Pour les filles du mйtro
+
+Au printemps au printemps
+Et mon cњur et ton cњur
+Sont repeints au vin blanc
+Au printemps au printemps
+Les amants vont prier
+Notre-Dame du bon temps
+Au printemps
+Pour une fleur un sourire un serment
+Pour l'ombre d'un regard en riant
+
+Tout Paris
+Se changera en baisers
+Parfois mкme en grand soir
+Vois tout Paris
+Se change en pвturage
+Pour troupeaux d'amoureux
+Aux bergиres peu sages
+Vois tout Paris
+Joue la fкte au village
+Pour bйnir au soleil
+Ces nouveaux mariages
+
+Au printemps au printemps
+Et mon cњur et ton cњur
+Sont repeints au vin blanc
+Au printemps au printemps
+Les amants vont prier
+Notre-Dame du bon temps
+Au printemps
+Pour une fleur un sourire un serment
+Pour l'ombre d'un regard en riant
+
+Toute la Terre
+Se changera en baisers
+Qui parleront d'espoir
+Vois ce miracle
+Car c'est bien le dernier
+Qui s'offre encore а nous
+Sans avoir а l'appeler
+Vois ce miracle
+Qui devait arriver
+C'est la premiиre chance
+La seule de l'annйe
+
+Au printemps au printemps
+Et mon cњur et ton cњur
+Sont repeints au vin blanc
+Au printemps au printemps
+Les amants vont prier
+Notre-Dame du bon temps
+Au printemps
+
+Au printemps
+Au printemps

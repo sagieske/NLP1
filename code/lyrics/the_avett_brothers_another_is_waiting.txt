@@ -1,0 +1,38 @@
+Artist: the_avett_brothers
+Title: another_is_waiting
+Genre: Pop/Rock
+Subgenres: [u'Progressive Folk', u'Alternative Folk', u'Progressive Country', u'Alt-Country', u'Alternative/Indie Rock']
+
+Song:
+
+It's a fake, it's a hoax
+It's a nowhere road where no one goes
+Anywhere, anyhow
+Where you follow when your heart rate down
+She's a rose, she's a queen
+But she's starin' at a magazine
+In the dark, on the path
+Where they doctor every photograph
+
+[Chorus]
+Another is waiting
+She isn't saying anything
+
+If you care, if you like
+Well, I'm standing in the lantern light
+With our weapons and our love
+And I use them both to cover up
+
+[Chorus]
+
+But I love you and I care
+So you got to get off that conveyor belt
+If I could
+I would come right in and take you off myself
+
+It's a fake, it's a con
+The nature of the road you're on
+Lets me see your skeleton
+Well before your life is done
+
+[Chorus]

@@ -1,0 +1,36 @@
+Artist: hillsong
+Title: all_about_you
+Genre: Religious
+Subgenres: [u'Contemporary Christian', u'Praise & Worship', u'Alternative CCM', u'Gospel']
+
+Song:
+
+Hear our praises
+Hear your people sing
+Hear our hearts cry
+Your love is everything
+
+And all will hear this shout
+As the nations turn to you
+And this will be your anthem
+
+'cause we're all about you
+And the world you promise
+And all we have will give you praise
+'cause we're all about you
+And the world can't stop us
+Living your way, always
+
+Let our hearts break as we praise your name
+Let the earth shake
+This is the sound of faith
+
+And the walls will fall down
+And religion will break
+And the nations will hear this shout
+Can you hear the sound of faith?
+
+All the walls are falling down
+As all the nations praaise
+And all the world will hear this shout
+Can you hear the sound of faith?

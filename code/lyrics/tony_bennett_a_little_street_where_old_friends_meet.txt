@@ -1,0 +1,24 @@
+Artist: tony_bennett
+Title: a_little_street_where_old_friends_meet
+Genre: Vocal
+Subgenres: [u'Traditional Pop', u'Vocal Jazz', u'Vocal Pop', u'Cast Recordings', u'Show Tunes']
+
+Song:
+
+It's just a little street where old friends meet
+I'd love to wander back someday
+To you, it may be old and sort of tumbled down
+But it means a lot to folks in my hometown
+
+Although I'm rich or poor, I still feel sure
+I'm welcome as the flowers in May
+It's just a little street where old friends meet
+And treat you in the same old way
+
+Although I'm rich or poor, I still feel sure
+I'm welcome as the flowers in May
+It's just a little street where old friends meet
+And treat you in the same old way
+
+It's not fashion street or even easy street
+It's just a little street where old friends meet

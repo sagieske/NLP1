@@ -1,0 +1,25 @@
+Artist: wipers
+Title: d_7
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'American Underground', u'Hardcore Punk', u'Indie Rock', u'Punk', u'Punk/New Wave']
+
+Song:
+
+Straight as an arrow
+Defect, defect
+Not straight, not so straight
+Reject, reject
+Twards anti-social
+Dull dull, so dull
+Standing on the stairs
+Cold cold morning
+Ghostly image of fear
+May day may day
+Gonna leave this region
+They'll take me with them
+Dimension 7 Past astro borders
+Zeno lies waiting
+Past gascous remains
+Intrigue such intrigue
+Gonna leave this region
+There taking me with them

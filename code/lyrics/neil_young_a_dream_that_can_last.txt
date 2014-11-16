@@ -1,0 +1,28 @@
+Artist: neil_young
+Title: a_dream_that_can_last
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Country-Rock', u'Folk-Rock', u'Hard Rock', u'Psychedelic/Garage', u'Singer/Songwriter', u'Contemporary Pop/Rock', u'Film Score']
+
+Song:
+
+I feel like I died and went to Heaven
+The cupboards are bare
+But the streets are paved with gold
+
+I saw a young girl who didn't die
+I saw a glimmer from in her eye
+I saw the distance, I saw the past
+And I know I won't awaken, it's a dream that can last
+
+I feel like I died and went to Heaven
+The cupboards are bare
+But the streets are paved with gold
+
+And all the lights were turned down low
+And no one wondered or had to go
+Out on the corner the angels say
+There is a better life for me someday
+
+I feel like I died and went to Heaven
+The cupboards are bare
+But the streets are paved with gold

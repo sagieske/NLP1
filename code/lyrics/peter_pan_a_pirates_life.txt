@@ -1,0 +1,18 @@
+Artist: peter_pan
+Title: a_pirates_life
+Genre: Pop/Rock
+Subgenres: []
+
+Song:
+
+Pirates:
+Oh, a pirate's life is a wonderful life,
+A-rovin' over the sea,
+Give me a career as a buccaneer
+It's the life of a pirate for me
+Oh, the life of a pirate for me!
+Oh, a pirate's life is a wonderful life,
+They never bury you're bones,
+For when it's all over a jolly sea rover
+Drops in on his friend, Davey Jones
+Oh, my good friend, Davey Jones!

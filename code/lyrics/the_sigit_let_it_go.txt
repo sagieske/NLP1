@@ -1,0 +1,30 @@
+Artist: the_sigit
+Title: let_it_go
+Genre: R&B
+Subgenres: [u'Contemporary R&B', u'Pop']
+
+Song:
+
+His mouth's whole lot of dirty words
+The church sings out of mighty chords
+Rather speak none clue
+Than make a world a zoo
+
+He drank whole lot of lot of booze
+Nerve strips on the marbles blues
+In a poor old Reagan views
+I'm fighting while I'm confused
+
+Just say no
+Let it go
+Say no just let it go
+
+He lost whole lot of honesty
+Mosque spread new prophecy
+In a poor old Reagan views
+I'm fighting while I'm confused
+
+He drank whole lot of lot of booze
+Nerve strips on the marbles blues
+In a poor old Reagan views
+I'm fighting while I'm confused

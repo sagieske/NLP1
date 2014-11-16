@@ -1,0 +1,16 @@
+Artist: fugazi
+Title: back_to_base_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'American Underground', u'Indie Rock', u'Post-Hardcore']
+
+Song:
+
+Autonomy is a world of difference
+They're creeping round but they know they can't come in
+Back from the front with observation it's still there
+Across from me an extreme example
+Bringing you what they want twenty four hours a day
+Whole lot of not but it's convenient pray for fire
+They'll tell you anything
+It's speculation pure speculation
+Bringing you back to base

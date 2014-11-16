@@ -1,0 +1,63 @@
+Artist: gary_allan
+Title: a_showmans_life
+Genre: Country
+Subgenres: [u'Contemporary Country', u'Neo-Traditionalist Country', u'New Traditionalist']
+
+Song:
+
+A showman's life,
+Is a smokey bar,
+And the fevered chase,
+Of a tiny star,
+It's a hotel room,
+And a lonely wife,
+From what I've seen,
+Of a showman's life
+
+Nobody told me about this part,
+They told me all about the pretty girls,
+And the wine,
+And the money,
+And the good times,
+There's no mention of,
+All the wear and tear,
+On an old honky tonker's heart,
+Well I might of known it,
+But nobody told me about this part
+
+A boy will dream,
+As children do,
+Of a great white way,
+Until the dream comes true,
+And a phony smile,
+In a colored light,
+Is all there is,
+To a showman's life,
+Nobody told me about this part
+
+Nobody told me about this part,
+They told me all about the pretty girls,
+And the wine,
+And the money,
+And the good times,
+There's no mention of,
+All the wear and tear,
+On an old honky tonker's heart,
+Well I might of known it,
+But nobody told me about this part
+
+But nobody told me about this part
+
+Nobody told me about this part,
+They told me all about the pretty girls,
+And the wine,
+And the money,
+And the good times,
+There's no mention of,
+All the wear and tear,
+On an old honky tonker's heart,
+Well I might of known it,
+But nobody told me about this part
+
+Well I might of known it,
+But nobody told me about this part

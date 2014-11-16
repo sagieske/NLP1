@@ -1,0 +1,36 @@
+Artist: kris_kristofferson
+Title: aguila_del_norte
+Genre: Country
+Subgenres: [u'Outlaw Country', u'Progressive Country', u'Singer/Songwriter', u'Country-Rock', u'Soft Rock', u'Traditional Country']
+
+Song:
+
+Did anybody see them?
+I heard there was a baby
+Somebody heard her crying
+Weaker through the night
+
+They beat her mama bloody
+And shot her with her daddy
+It was the terror from above
+El Aguila Del Norte
+
+Down in Nicaragua
+Running from the shadows
+Striking holy terror
+Deeper in the heart
+
+You believe in Freedom
+And you believe in justice
+But not in Nicaragua
+Not in Nicaragua
+
+Aguila Del Norte
+We can see your power
+And the beauty of your freedom
+What is in your heart?
+
+You believe in honor
+And you believe in Jesus
+But not in Nicaragua
+Not in Nicaragua

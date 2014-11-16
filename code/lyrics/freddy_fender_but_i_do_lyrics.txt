@@ -1,0 +1,26 @@
+Artist: freddy_fender
+Title: but_i_do_lyrics
+Genre: Country
+Subgenres: [u'Cajun', u'Mexican Traditions', u'North American Traditions', u'Tex-Mex', u'Contemporary Pop/Rock', u'Country-Pop', u'Rock & Roll', u'Traditional Country', u'Roots Rock']
+
+Song:
+
+I don't know why I love you but I do
+I don't know why I cry so, but I do
+I only know I'm lonely
+And that I want you only
+I don't know why I love you but I do.
+I can't sleep nights because I feel so restless
+I don't know what to do~ I feel so helpless
+And since you've been away
+I cry both night and day
+I don't know why I love you but I do.
+My days have been so lonely
+My nights have been so blue
+I don't know how I stand it, but I do~~
+Each night I sit alone and tell myself
+That I will fall in love with someone else
+I guess I'm wastin' time
+But I've got to clear my mind
+I don't know why I love you but I do
+I don't know why I love you but I do.

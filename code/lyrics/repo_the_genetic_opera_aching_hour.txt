@@ -1,0 +1,26 @@
+Artist: repo_the_genetic_opera
+Title: aching_hour
+Genre: R&B
+Subgenres: [u'Contemporary R&B', u'Pop']
+
+Song:
+
+Mag:
+In my aching hour
+As I stand to face myself
+In this final hour
+Bitter fate I accept
+
+This must be my - my aching hour
+(This must be my aching hour)
+This must be my - my aching hour
+(This must be my aching hour)
+
+Tonight I will settle all my debts
+Tonight I will sever ties
+Tonight I am coming to collect
+Tonight I will sing my life
+
+I've made my peace
+All debts are paid
+At the opera tonight

@@ -1,0 +1,29 @@
+Artist: teresa_teng
+Title: furusatowa_dokodesuka
+Genre: Pop/Rock
+Subgenres: [u'C-Pop']
+
+Song:
+
+Furusato wa doko desu ka to
+Anata wa kiita
+Kono machi no umare desu yo to watashi wa kotaeta
+Aa soshite anata ga itsu no hi ka
+Anata no furusato e
+Tsurete itte kureru hi wo yume mita no
+Umareta te no kono ai no
+Yukue wo inotta no
+
+Furusato wa doko desu ka to watashi wa kiita
+Minami no umi no machi to anata wa kotaetta
+Aa soshite osanai hi no koto wo
+Hitomika ga yakase
+Uta no youni yume no youni hana shita wa
+Futari shite ikanai ka to
+Watashi ni wa kikoeta no
+
+Aa dakedo ima de wa omoide ne
+Anata wa furusato e
+Tada hitori tada hitori kaeru no ne
+Furusato wa sonnani mo
+Atatakai mo no na no ne

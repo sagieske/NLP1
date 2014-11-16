@@ -1,0 +1,16 @@
+Artist: mazzy_star
+Title: before_i_sleep_alternate_version
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Dream Pop', u'Adult Alternative Pop/Rock']
+
+Song:
+
+The light that was
+Is now the last
+I go
+For you
+If it's the truth
+That's all
+I'll stay near the edge
+And waste my time
+Just waste my time

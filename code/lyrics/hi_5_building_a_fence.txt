@@ -1,0 +1,21 @@
+Artist: hi_5
+Title: building_a_fence
+Genre: Pop/Rock
+Subgenres: [u'Adult Alternative Pop/Rock', u'Alternative/Indie Rock', u'Contemporary Pop/Rock', u'Pop']
+
+Song:
+
+You want the cows over here
+You want the sheep staying near
+Don't want the horses munching on the yard
+Shooing off the goats is much too hard
+You need the pigs staying in their pens
+You need a place for the hens
+Only one thing that makes any sense
+You need to build a big long fence
+Building a fence
+Building a fence
+That's the only thing that makes any sense
+Building a fence
+Building a fence
+That's the only thing that makes any sense

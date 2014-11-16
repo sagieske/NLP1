@@ -1,0 +1,25 @@
+Artist: michael_buble
+Title: all_i_do_is_dream_of_you
+Genre: Vocal
+Subgenres: [u'Adult Contemporary', u'Vocal Jazz', u'Standards', u'Vocal Pop']
+
+Song:
+
+All I do is dream of you
+The whole night through
+With the dawn I still go on
+Dreamin' of you
+
+You're every thought, you're everything
+You're every song I ever sing
+Summer, winter, (scat) and spring
+
+And were there more than twenty-four hours a day
+They'd be spent in sweet content dreamin' away
+
+Sky's are gray, sky's are blue
+Morning, noon and nighttime, too
+All I do the whole day through is dream of you
+
+All I do the whole day through
+Is dream of you

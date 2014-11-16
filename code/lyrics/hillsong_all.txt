@@ -1,0 +1,28 @@
+Artist: hillsong
+Title: all
+Genre: Religious
+Subgenres: [u'Contemporary Christian', u'Praise & Worship', u'Alternative CCM', u'Gospel']
+
+Song:
+
+You're the one who give shelter
+And you're the light that leads me home
+You're the love that gave forever...
+Lord you're all that I know
+
+And all that I am... Unto you I surrender....
+Lord there is none like you
+And I know that I stand.... In the arms of forever...
+Lord there is none like you
+
+There is none like you
+
+With the world upon your shoulders....
+Lord you gave your life away
+If the world I know was over....
+I know I'd have life in the price you paid
+
+And I will stand.... And I will worship you forever...
+For all you are
+And I will stand.... And all to you I will surrender...
+I'll worship you forever

@@ -1,0 +1,17 @@
+Artist: xiu_xiu
+Title: all_we_ever_wanted_was_everything
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Experimental Rock', u'Indie Rock', u'Post-Punk']
+
+Song:
+
+All we ever wanted was everything
+All we ever got was cold
+Get up, eat jelly
+Sandwich bars, and barbed wire
+Squash every week into a day
+The sound of drums is calling
+The sound of the drum has called
+Flash of youth shoot out of darkness
+Factorytown
+Oh, to be the cream

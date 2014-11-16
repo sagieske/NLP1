@@ -1,0 +1,22 @@
+Artist: you_am_i
+Title: aint_gone_and_open
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Aussie Rock', u'Grunge', u'Indie Rock', u'Neo-Psychedelia']
+
+Song:
+
+Wide eyes show white
+White enough to shoot
+But if you ain't got the strength to fight it
+And you just can't hide it
+And I ain't gonna open my eyes anymore
+Ain't gonna open my eyes anymore
+
+Pale faces burn.
+I would've thought by now we'd learn
+But every fool still waits their turn in
+The rotisseries turning
+
+Well I ain't gonna open my eyes anymore
+I ain't gonna open my eyes anymore
+I ain't gonna open my eyes anymore

@@ -1,0 +1,71 @@
+Artist: chess
+Title: endgame_2
+Genre: Pop/Rock
+Subgenres: []
+
+Song:
+
+Chorus:
+1866--Wilhelm Steinitz.
+1894--Emmanuel Lasker.
+
+Molokov:
+How straightforward the game, 
+When one has trust in one's player! 
+
+Chorus:
+1921--Jose Capablanca.
+
+Molokov:
+And how great the relief, working for one who believes in--
+Loyalty, heritage, true to his kind, come what may.
+
+Chorus:
+1927--Alex Alekhine.
+
+Frederick:
+How straightforward the game, 
+When one is free from distraction! 
+
+Chorus:
+1935--Euwe.
+1948--Mikhail Botvinnik.
+
+Frederick:
+When your only concern, is laid out so clearly before you.
+64 squares--They are the reason you know you exist.
+
+Chorus:
+1957--Vasily Smylov.
+1960--Tal.
+
+Molokov:
+It is the weak, who accept tawdry untruths about freedom.
+
+Chorus:
+1963--Tigran Petrosian.
+
+Molokov:
+Prostituting themselves, chasing a spurious starlight.
+Trinkets in airports, sufficient to lead them astray.
+
+Chorus:
+1969--Boris Spassky.
+
+Florence:
+Does the player exist in any human endeavor?
+
+Chorus:
+1972--.
+1975--Anatoly Karpov.
+
+Florence:
+Who has been known to resist, 
+Sirens of fame and possessions?
+They will destroy you--not rivals, not age, not success.
+
+Chorus:
+1956--Budapest is rising.
+1956--Budapest is fighting! 
+1956--Budapest is falling.
+1956--Budapest is dying!

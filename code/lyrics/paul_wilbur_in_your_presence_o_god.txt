@@ -1,0 +1,14 @@
+Artist: paul_wilbur
+Title: in_your_presence_o_god
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Contemporary Pop/Rock', u'Soft Rock', u'Singer/Songwriter', u'Adult Contemporary', u'Rock & Roll', u'AM Pop', u'Film Score', u'Choral', u'Orchestral']
+
+Song:
+
+In your presence that's where I belong,
+In your presence of the lord our god,
+In your presence that's where I am strong,
+Seeking your face,
+Touching your grace,
+In the breath of your love,
+In your presence O God

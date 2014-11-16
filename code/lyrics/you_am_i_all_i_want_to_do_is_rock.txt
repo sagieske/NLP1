@@ -1,0 +1,10 @@
+Artist: you_am_i
+Title: all_i_want_to_do_is_rock
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Aussie Rock', u'Grunge', u'Indie Rock', u'Neo-Psychedelia']
+
+Song:
+
+All I want to do is rock. All I want to do is roll.
+Oh, I need your love as well.
+Oh, pretty baby now, can't you tell?

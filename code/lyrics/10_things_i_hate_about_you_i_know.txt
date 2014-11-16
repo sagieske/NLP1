@@ -1,0 +1,31 @@
+Artist: 10_things_i_hate_about_you
+Title: i_know
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Electro', u'Hard Rock', u'Punk-Pop']
+
+Song:
+
+My momma said to stay away from guys like you...
+She said they were nasty, make me do things I don't wanna do...
+Stay away from bad boys, they've got one thing on their mind...
+Their hormones are raging... And they want it all the time!!
+
+Chorus:
+And I know, know cuz she said so
+And I can't just let you go
+And I know, know cuz she said so
+And I can't just let you go
+
+I love you very much, you're nice to see and nice to touch
+And I'll never ever ever treat you wrong,
+I've been waiting for you all along
+
+Chorus:
+And I know, know cuz she said so
+And I can't just let you go
+And I know, know cuz she said so
+And I can't just let you go
+
+Never let go. Never let go. I said I want you to know.
+I said I want you to know right now. I want you to know
+I said I want you to know......

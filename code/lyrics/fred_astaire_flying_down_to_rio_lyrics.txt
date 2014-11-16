@@ -1,0 +1,27 @@
+Artist: fred_astaire
+Title: flying_down_to_rio_lyrics
+Genre: Vocal
+Subgenres: [u'Show Tunes', u'Tin Pan Alley Pop', u'Traditional Pop', u'Cast Recordings', u'Standards', u'Vocal Jazz', u'Vocal Music', u'Show/Musical']
+
+Song:
+
+Flying Down to Rio
+Fred Astaire
+Words by Gus Kahn and Edward Eliscu; music by Burton Lane.
+
+Introduced by Fred Astaire and chorus in the motion picture "Flying Down to
+Rio. "
+
+My Rio, Rio by the Sea-o,
+Flying down to Rio where there's rhythm and rhyme.
+Hey feller, twirl that old propeller,
+Got to get to Rio and we've got to make time.
+You'll love it, soaring high above it,
+Looking down on Rio from a heaven of blue.
+Send a radio to Rio de Janeiro,
+With a big hello just so they'll know and stand by there,
+We'll fly there.
+Hey, Rio, ev'rything will be okay,
+We're singing and winging our way to you.
+
+From: "Montcomags"

@@ -1,0 +1,29 @@
+Artist: hank_williams_jr
+Title: after_you
+Genre: Country
+Subgenres: [u'Outlaw Country', u'Southern Rock', u'Urban Cowboy', u'Country-Rock', u'Traditional Country']
+
+Song:
+
+So September follows August
+I don't mind so three and four and five come after two
+Will anything mean anything?
+Do I care what tomorrow brings?
+
+I only wonder what comes after you
+After you when someone smiles at me
+I'll wonder what's the price after you
+I'll be suspicious of anything that's nice
+
+I don't know that I'll get over you but if I ever do
+I'll never love this much again, not after you
+
+Loving you it was just too good to last forever
+So the world could end tomorrow I won't care
+After you when someone tells me
+There's no heaven on this earth
+
+I can say that I know better I've been there
+After you when someone smiles
+I'll wonder what's the price after you
+I'll be suspicious of anything that's nice

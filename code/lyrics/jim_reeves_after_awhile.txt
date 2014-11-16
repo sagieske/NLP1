@@ -1,0 +1,13 @@
+Artist: jim_reeves
+Title: after_awhile
+Genre: Country
+Subgenres: [u'Country-Pop', u'Nashville Sound/Countrypolitan', u'Traditional Country']
+
+Song:
+
+After awhile after awhile I'll learn to smile after awhile
+I'll love again when my heart mends
+I'll leave heartbreaks out high after awhile
+Some day you'll learn just how I feel
+When love brings you heartache only time can heal
+After awhile after awhile I'll learn to smile after awhile

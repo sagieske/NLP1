@@ -1,0 +1,21 @@
+Artist: hope
+Title: still
+Genre: Classical
+Subgenres: [u'Chamber Music', u'Concerto']
+
+Song:
+
+You will suffer enough in your years
+And I don't want to bring you more pain
+The skies turn light and dark and dark and light again
+But you're the only sky I see
+Will you be with me when the storm the rolls by?
+Will you still need me when you're doing fine?
+Will you still love me?
+I have given my whole heart once before
+And you know how that's a thrill
+See I have loved and lost and lost and loved again still
+You're the only love I need
+Will you be with me when the storm rolls by?
+Will you still need me when you're doing fine?
+Will you still love me?

@@ -1,0 +1,36 @@
+Artist: electric_light_orchestra
+Title: a_better_life_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Art Rock', u'Contemporary Pop/Rock', u'Prog-Rock']
+
+Song:
+
+Hush little baby, don't you cry
+Oh-oh, don't you cry
+Maybe tomorrow's, a better life
+Oh-oh, if you try
+
+Rain is falling all around
+Storm came, it brings you down
+But if you lose your mind
+Weatherman, in his overcoat
+
+Look up in the sky now, the weatherman cry now
+Oh-oh, the window pane
+Damp in the valley, up in the alley
+Oh-oh, it's pouring rain
+
+Rain is falling all around
+Storm came, it brings you down
+So let your mind roll on
+Weatherman, dry's the lonely tears
+
+Early in the morning, while the sun's still yawning
+Oh-oh, smiles on you
+Maybe today is, a better life
+Oh-oh, if we try
+
+Sun is shining all around
+It warms your heart and melts the cloud
+But if your mind can see
+Weatherman, smiles a lonely smile

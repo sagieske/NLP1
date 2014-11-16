@@ -1,0 +1,36 @@
+Artist: vicente_fernandez
+Title: a_pesar_de_todo
+Genre: Latin
+Subgenres: [u'Mexican Traditions', u'Ranchera', u'Latin Pop', u'Mariachi', u'Tejano']
+
+Song:
+
+A pesar de todo, de todo lo que yo sufri
+Todavia lamento, aquel dia cuando te perdi
+
+A pesar de todo, de todo lo que tuvo que pasar
+Todavia te amo
+Y ni por un minuto, yo te puedo olvidar
+
+Todavia te amo
+Y ni por un minuto, yo te puedo olvidar
+
+A pesar de saber, que el amor de los dos
+Siempre estuvo prohibido
+Y todo lo que hicimos fue muy escondido
+Para no ser sufrir, a quien vive conmigo
+
+A pesar de saber, que vivimos un dia
+Un amor dividido,
+Sin embargo mi amor, haberte conocido
+Fue la cosa mas linda, que ami me sucedio
+
+A pesar de saber, que el amor de los dos
+Siempre estuvo prohibido
+Y todo lo que hicimos, fue muy escondido
+Para no ser sufrir, a quien vive contigo
+
+A pesar de saber, que vivimos un dia
+Un amor dividido
+Sin embargo mi amor, haberte conocido
+Fue la cosa mas linda, que a mi me sucedio

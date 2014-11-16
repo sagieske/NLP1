@@ -1,0 +1,36 @@
+Artist: iron_butterfly
+Title: fields_of_sun
+Genre: Pop/Rock
+Subgenres: [u'Psychedelic/Garage', u'Acid Rock', u'Album Rock', u'Hard Rock', u'Heavy Metal']
+
+Song:
+
+Fields of sun-blossomed flowers
+Ever so gently movin' about
+
+Fields of life-givin' sun
+Plant the Earth
+And bring the new young in sprout
+
+This is the never-ending story
+Of life which goes on
+Day in and day out
+
+Mountains of evergreen trees
+Standing tall and straight
+Like soldiers about
+
+Fields of sun-blossomed flowers
+Ever so gently movin' about
+
+Fields of life-givin' sun
+Plant the Earth
+And bring the new young in sprout
+
+This is the never-ending story
+Of life which goes on
+Day in and day out
+
+Mountains of evergreen trees
+Standing tall and straight
+Like soldiers about

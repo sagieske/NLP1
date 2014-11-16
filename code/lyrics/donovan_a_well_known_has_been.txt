@@ -1,0 +1,33 @@
+Artist: donovan
+Title: a_well_known_has_been
+Genre: Pop/Rock
+Subgenres: [u'British Invasion', u'British Psychedelia', u'Folk-Rock', u'Psychedelic Pop', u'Psychedelic/Garage', u'British Folk', u'Singer/Songwriter']
+
+Song:
+
+Tonight my life is heavy, I'm weak and down at heel
+The prisoner in the dungeon will know just how I feel.
+I'm a well known has-been, a well known has-been,
+I've got a brand on me.
+When I look at my tomorrows, sorrow's all I see,
+Sorrow's all I see, sorrow's all I see, sorrow's all I see.
+How sad my disposition, how long can it I bear ?
+How deep my melancholy, can anybody care ?
+For the well known has-been, the well known has-been,
+I've got a brand on me, yeah
+When I look at my tomorrows, sorrow's all I see,
+Sorrow's all I see, sorrow's all I see, sorrow's all I see.
+Well known has-been
+Well known has-been
+Well known has-been, ooh, ooh, ooh
+I pretend I'm unaffected by the chains that bear me down
+And when only those who love me can see behind the frown.
+I'm the well known has-been, the well known has-been,
+I got a brand on me.
+When I look at my tomorrows, sorrow's all I see,
+Sorrow's all I see, sorrow's all I see, sorrow's all I see.
+>From these broken days of anguish, some day soon I'm gonna rise,
+I'm gonna raise my head to Heaven, I'm gonna fly the starry skies.
+And the well known has-been, the well known has-been,
+I'll lose the brand on me, yeah.
+Today's all I see, today's all I see, today's all I see.

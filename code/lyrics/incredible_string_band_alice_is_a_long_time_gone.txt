@@ -1,0 +1,40 @@
+Artist: incredible_string_band
+Title: alice_is_a_long_time_gone
+Genre: Folk
+Subgenres: [u'British Folk', u'British Folk-Rock', u'Folk-Rock', u'Singer/Songwriter']
+
+Song:
+
+White rabbit smile, white rabbit smile
+Cry not so loud my lover frowns
+I'm a grown up lady from London town
+Yet ever more he sang his sad song-
+Sweet Alice is a long time gone
+
+Oh Alice is gone, gone
+Alice is gone, gone
+Sweet Alice is a long time gone
+
+She was pretty, oh yes
+With her flaxen hair, her eyes so fair
+Her sweet voice and her snow white dress
+
+Oh Alice is gone, gone
+Alice is gone, gone
+Sweet Alice is a long time gone
+
+It's seven long years
+Since last I seen your face
+No-one in Wonderland
+Could take your place
+But when I see you again
+That sets me back apace
+Sweet Alice is a long time gone
+
+I would exchange my coat of fur
+If time would turn or waters burn
+I'd wish you back the way you were
+
+Oh Alice is gone, gone
+Alice is gone, gone
+Sweet Alice is a long time gone.

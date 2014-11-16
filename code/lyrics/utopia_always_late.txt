@@ -1,0 +1,32 @@
+Artist: utopia
+Title: always_late
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Art Rock', u'Contemporary Pop/Rock', u'Prog-Rock', u'Arena Rock', u'Power Pop', u'Soft Rock', u'New Wave', u'Punk/New Wave']
+
+Song:
+
+Hello honey, I just missed the train
+My watch must have stopped I guess
+Dinner is cold and the kids are asleep
+I didn't mean to get you out of bed.
+
+Always late (always late)
+Yes, it's always the same
+Procrastination is my middle name
+But the rest of the world is ahead of the game
+And that's why I'm always late.
+
+Won't somebody give me a ride
+I've been out of gas for hours
+My mother-in-law's flying in from the coast
+She's probably in an ambulance by now.
+
+Willie, it's time to get up
+Willie, you get out of that bed,
+You'll be late for work again
+Willie, willie!!!
+
+Come on honey, give me a chance
+I promise to mend my ways
+Let's go out for an anniversary dance
+You say our anniversary's yesterday?

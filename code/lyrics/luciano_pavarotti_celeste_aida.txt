@@ -1,0 +1,34 @@
+Artist: luciano_pavarotti
+Title: celeste_aida
+Genre: Classical
+Subgenres: [u'Classical Crossover', u'Opera', u'Vocal Music']
+
+Song:
+
+Se quel guerriero io fossi
+Se il mio sogno si avverasse!...
+Un esercito di prodi da me guidato...
+E la vittoria
+E il plauso di Menfi tutta!
+E a te, mia dolce Aida,
+Tornar di lauri cinto...
+Dirti, per te ho pugnato,
+E per te ho vinto!
+
+Celeste Aida, forma divina,
+Mistico serto di luce fior,
+Del mio pensiero tu sei regina,
+Tu di mia vita sei lo splendor.
+Il tuo bel cielo vorrei ridarti,
+Le dolci brezze del patrio suol,
+Un regal serto sul crin posarti,
+Ergerti un trono vicino al sol.
+
+Celeste Aida, forma divina,
+Mistico raggio di luce fior,
+Del mio pensiero tu sei regina,
+Tu di mia vita sei lo splendor.
+Il tuo bel cielo vorrei ridarti,
+Le dolci brezze del patrio suol,
+Un regal serto sul crin posarti,
+Ergerti un trono vicino al sol.

@@ -1,0 +1,20 @@
+Artist: isaac_hayes
+Title: do_your_thing
+Genre: R&B
+Subgenres: [u'Film Score', u'Funk', u'Soul', u'Blaxploitation', u'Soundtracks', u'Memphis Soul', u'Southern Soul', u'Smooth Soul', u'Disco']
+
+Song:
+
+If the music make you move, cause you can really groove
+Then groove on, groove on
+If you feel like you wanna make love under the stars above
+Love on, love on
+If there's something you wanna say, and talkin is the only way
+Rap on, oh, rap on
+Cause whatever you do, oh, youve got to do your thing
+
+If you feel like you wanna scream cause that's your way of lettin off
+Steam Scream on, scream on If you feel like you wanna sing cause singing
+Is your thing Sing on, sing on If you wanna make love all night and you
+Feel it's right Right on, right on Cause whatever you do, oh, youve got
+To do your thing Do your thing...

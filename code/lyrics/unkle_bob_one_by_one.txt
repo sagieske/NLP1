@@ -1,0 +1,32 @@
+Artist: unkle_bob
+Title: one_by_one
+Genre: Reggae
+Subgenres: [u'Roots Reggae']
+
+Song:
+
+One by One
+I suffer you gladly
+One by One
+You're all I don't need
+
+And you couldn't see,
+The wood from the tree
+You're eyes are unkind,
+So don't look at me.
+
+One by One
+I suffer you badly,
+One by One
+You're all I don't need
+
+And life on the road,
+It makes you feel old,
+Remember the time when friends were around,
+When friends were around when we were all friends¦
+
+Is this the way to be?
+Is this the way to be?
+
+One by One
+One by One

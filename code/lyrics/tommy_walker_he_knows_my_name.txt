@@ -1,0 +1,21 @@
+Artist: tommy_walker
+Title: he_knows_my_name
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Baroque Pop', u'Experimental Rock', u'Soft Rock', u'AM Pop']
+
+Song:
+
+I have a Maker
+He formed my heart
+Before even time began
+My life was in his hands
+
+I have a Father
+He calls me His own
+He'll never leave me
+No matter where I go
+
+He knows my name
+He knows my every thought
+He sees each tear that falls
+And He hears me when I call

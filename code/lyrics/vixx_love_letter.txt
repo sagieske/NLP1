@@ -1,0 +1,57 @@
+Artist: vixx
+Title: love_letter
+Genre: International
+Subgenres: [u'Dance-Pop', u'Contemporary Pop/Rock', u'Pop', u'Asian Pop', u'Korean Pop', u'Teen Pop']
+
+Song:
+
+[N] Maljubyeoni eobseodo nal ihaehae jwoyo
+Damadwotdeon jinsimeul da yaegihalgeyo
+
+[Hyuk] Uriga cheoeum mannan geu nal gieok hanayo
+[Hyuk/N] Yeppeun geu ipsullo naege useojudeon
+
+[Ken] Geunal ihuro nan dajimhaesseoyo
+[Leo] Jeoldae nae pumeseo geudael noki sirtago
+Kkeutkkaji gagetdago
+
+[Ken] Saranghandan mal malloneun bujokhagetjiman
+Geuraedo oneul nan gobaekhalgeyo
+[Leo] I wanna be with you
+Hangsang geudae han georeum dwien
+Geudael jikyeojul geureon saram itdan geol itji mayo
+
+[Ken/N] Geudael mannan hubuteo hal iri saenggyeotjyo
+[Ravi] Nan maeil maeil geudaeui harul utge haneun il
+
+[Hongbin] Hoksina naega manhi bappeul ttaedo itjiman
+[Ken/Leo] Nae meorissogen ojik neo
+[Leo] Ontong geudae
+Saenggakppuningeollyo
+
+[Ken] Saranghandan mal malloneun bujokhagetjiman
+Geuraedo oneul nan gobaekhalgeyo
+[Leo] I wanna be with you
+Hangsang geudae han georeum dwien
+Geudael jikyeojul geureon saram itdan geol
+
+[Ken] Naege himnaeraneun geudae geu hanmadiga
+[N] Nareul baraboneun geudaeui geu nunbichi
+[Ken] Jigeumui nal itge han geojyo
+[Leo] I mal
+[Ken/Leo] bakke naneun hal su eobseoyo
+[Leo] Saranghae
+
+[Ken] Neomu gomawo kkeutkkaji nal gidaryeojwoseo
+Heundeullim eobsi nal barabwajwoseo
+[Leo] Naege gidaeyo nae sarangeul mideojwoyo
+Eonjekkajina yeongwonhi hamkkehaeyo
+
+[All] I love you, I need you.
+I love you, I need you.
+[Leo] Nan hangsang geudaeppunijyo
+
+[Ken] Nae gyeote isseo jwo
+[Ken/Leo] Naega wiroga doelgeyo
+[Ken] Uri idaero sesangi meomchun deusi saranghae
+Geudaeraseo gomawo

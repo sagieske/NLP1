@@ -1,0 +1,23 @@
+Artist: zizi_possi
+Title: a_vucchella
+Genre: Latin
+Subgenres: [u'Brazilian Jazz', u'MPB', u'World Fusion', u'Brazilian Traditions']
+
+Song:
+
+Si, comm'a nu sciorillo
+Tu tiene na vucchella
+Nu poco pocorillo
+Appassuiliatella.
+Meh, dammillo, dammillo,
+
+Й comm'a na rusella
+Dammillo nu vasillo,
+Dammillo, cannetella!
+Dammillo e pigliatillo.
+Nu vaso piccerillo
+Nu vaso piccerillo
+Comm'a chesta vucchella.
+Che pare na rusella
+Nu poco pocorillo
+Appassuliatella...

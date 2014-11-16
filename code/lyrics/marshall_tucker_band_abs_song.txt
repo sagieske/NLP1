@@ -1,0 +1,24 @@
+Artist: marshall_tucker_band
+Title: abs_song
+Genre: Pop/Rock
+Subgenres: [u'Boogie Rock', u'Country-Rock', u'Southern Rock']
+
+Song:
+
+If I die at 23
+Won't you bury me
+In the sunshine?
+Please let me know
+That you're still mine.
+Though I'm gone,
+My love for you
+Is, oh, so strong.
+
+And when the grass grows over me,
+Let me know
+You still love me.
+Never put nobody else
+Above me.
+Then i'll know
+My love for you
+Will always grow.

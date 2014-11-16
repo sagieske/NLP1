@@ -1,0 +1,16 @@
+Artist: england_dan_john_ford_coley
+Title: holocaust_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Pop/Rock', u'Singer/Songwriter', u'Soft Rock', u'AM Pop', u'Country-Rock']
+
+Song:
+
+The time has come when all of us,
+Have to give something for the all of us.
+And we can turn back the holocaust,
+And we can live and let live.
+
+Everywhere, it seems very clear,
+There's a reason, a reason why we all are here.
+If we believe that the world is one,
+We can live and let live

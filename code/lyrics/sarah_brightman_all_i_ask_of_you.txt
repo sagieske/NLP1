@@ -1,0 +1,60 @@
+Artist: sarah_brightman
+Title: all_i_ask_of_you
+Genre: Vocal
+Subgenres: [u'Adult Contemporary']
+
+Song:
+
+From the phantom of the opera raoul
+No more talk of darkness,
+Forget these wide-eyed fears;
+Im here, nothing can harm you,
+My words will warm and calm you.
+Let me be your freedom,
+Let daylight dry your tears;
+Im here, with you, beside you,
+To guard you and to guide you.
+
+Christine
+Say you'll love me evry waking moment;
+Turn my head with talk of summertime.
+Say you need me with you now and always;
+Promise me that all you say is true,
+That's all I ask of you.
+
+Raoul
+Let me be your shelter,
+Let me be your light;
+Youre safe, no one will find you,
+Your fears are far behind you.
+
+Christine
+All I want is freedom,
+A world with no more night;
+And you, always beside me,
+To hold me and to hide me.
+
+Raoul
+Then say you'll share with me one love, one lifetime;
+Let me lead you from you solitude.
+Say you want me with you, here beside you,
+Anywhere you go, let me go too,
+That's all I ask of you.
+
+Christine
+Say you'll share with me one love, one lifetime.
+
+Together
+Say the word and I will follow you.
+Share each day with me, each night, each morning.
+
+Christine
+Say you love me...
+
+Raoul
+You know I do.
+
+Together
+Love me, that's all I ask of you.
+Love me...
+That's all I ask of you.

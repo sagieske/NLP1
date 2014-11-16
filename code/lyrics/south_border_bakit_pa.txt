@@ -1,0 +1,35 @@
+Artist: south_border
+Title: bakit_pa
+Genre: Electronic
+Subgenres: [u'Club/Dance', u'EDM', u'House']
+
+Song:
+
+Parang 'di ko yata kaya
+Pag sa buhay ko'y wala ka
+Aanhin ang pag-ibig kung puso ay nag-iisa
+
+Sinong aking tatawagin
+Sinong aking hahanapin
+Sino ang magpupuno sa 'king paglalambing
+
+Chorus:
+
+Bakit ka pa nakita
+Kung ang puso ko ay iiwan lang at sasaktan
+Kung si'yay higit sa akin
+Naro'n man ang pagdaramdam
+Ito ay aking kakayanin
+
+Repeat All:
+
+Adlib:
+
+Kung ang puso ko ay iiwan lang at sasaktan
+Kung si'yay higit sa akin
+Naro'n man ang pagdaramdam
+Ito ay aking kakayanin
+
+Repeat Chorus (2x):
+
+Ito ay aking kakayanin

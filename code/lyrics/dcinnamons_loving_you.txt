@@ -1,7 +1,7 @@
 Artist: dcinnamons
 Title: loving_you
 Genre: Pop/Rock
-Subgenres: [u'Contemporary Pop/Rock']
+Subgenres: [u'Alternative/Indie Rock', u'Indie Pop']
 
 Song:
 

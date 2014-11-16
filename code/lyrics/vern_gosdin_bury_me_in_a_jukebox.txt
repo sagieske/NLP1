@@ -1,0 +1,29 @@
+Artist: vern_gosdin
+Title: bury_me_in_a_jukebox
+Genre: Country
+Subgenres: [u'Bluegrass', u'Contemporary Country', u'Neo-Traditionalist Country', u'Progressive Bluegrass', u'Traditional Bluegrass', u'Traditional Country']
+
+Song:
+
+I've been hanging in here every night
+Since you've been gone
+This old honky tonk has become
+My home away from home.
+
+I even got my favorite chair, it always sits right here
+There by the jukebox where I don't feel so alone
+Every time I put my money in I hear the sadest songs
+My friends around the jukebox don't mind if I sing along.
+
+So bury me in a jukbox when I die
+Every time I think of her I get so lonesome I could cry
+And it takes me up to heaven when they play made in heaven
+Bury me in a jukebox when I die.
+
+We used to have our favorite songs to listen too
+Till I came home with no one home to come home too
+Now I turn my radio on, there's all my favorite songs
+Just like me they all lost someone just like you.
+
+Those dj friends of mine are keeping me from dying
+Knowing I don't hurt alone is what keeps me alive...

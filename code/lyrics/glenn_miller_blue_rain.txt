@@ -1,0 +1,25 @@
+Artist: glenn_miller
+Title: blue_rain
+Genre: Jazz
+Subgenres: [u'Big Band', u'Sweet Bands', u'Swing']
+
+Song:
+
+Blue Rain
+Glenn Miller
+
+Blue Rain, falling down on my window pane
+But when you return there'll be a rainbow
+After the blue, blue rain
+And there's a blue star
+Looking down asking where you are
+But when you return there'll be a sunbeam
+Hiding the blue, blue star
+Skies will be much brighter than they were before
+When you and love come strolling through the door
+Then there'll be no more blue rain
+Just the sound of my heart's refrain
+Singing like a million little blue birds
+After the blue, blue rain
+
+From: Lynncw@aol. Com

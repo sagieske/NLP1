@@ -1,0 +1,15 @@
+Artist: ernest_tubb
+Title: all_those_yesterdays_lyrics
+Genre: Country
+Subgenres: [u'Honky Tonk', u'Traditional Country']
+
+Song:
+
+What will I do with all those yesterdays where will I go what will I say
+How can I live since you have gone away what will I do with all those yesterdays
+Tomorrow never bothers me I know what it will bring
+It is just another day and it won't mean a thing
+But when nighttime falls and mem'ries come to play
+What will I do with all those yesterdays
+[ guitar ]
+Tomorrow never bothers me...

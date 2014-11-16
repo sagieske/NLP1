@@ -1,0 +1,39 @@
+Artist: exterminador
+Title: amor_lyrics
+Genre: Latin
+Subgenres: [u'Latin Pop', u'Mexican Traditions', u'Norteno', u'Tejano', u'Conjunto']
+
+Song:
+
+Tu me miras de ese modo
+Que me ase suspirar
+Cuando estoy entre tus brazos
+Me siento tan dichoso
+Por la paz que tu me das, amor.
+
+Pideme lo que mas quieras
+Que yo todo te dare,
+Es tan grande mi locura
+Que este amor no tiene duda
+Te quiero tanto que amor.
+
+Amor dependo cada dia mas de ti,
+Mis sueсos tienen alas y es por ti,
+Que pena que me da perderte amor.
+
+Si, si un dia te enamoras de otro amor
+No queiro ni pensarlo mas yo se,
+Perdona por sentir selos asi amor.
+
+Me parece hasta mentira
+Al sentirme tan feliz,
+En mi cuarto hago figuras
+Con tu cuerpo, con tu pelo
+Hasta verte otra vez amor.
+
+Amor dependo cada dia mas de ti,
+Mis suenos tienen alas y es por ti,
+Que pena que me da perderte amor.
+
+Si, dependo cada dia mas de ti
+Dependo cada dia mas de ti.

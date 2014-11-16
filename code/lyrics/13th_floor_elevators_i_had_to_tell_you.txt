@@ -1,0 +1,36 @@
+Artist: 13th_floor_elevators
+Title: i_had_to_tell_you
+Genre: Pop/Rock
+Subgenres: [u'Garage Rock', u'Psychedelic/Garage']
+
+Song:
+
+Chaos all around me,
+With it's finger clinging,
+But I can hear you singing,
+In the corners of my brain.
+
+Every doubt has found me.
+Every sound of riot.
+Everything is quiet.
+But the song that keeps me sane.
+
+I can hear your voice,
+Echoing my voice softly.
+I can feel your strength,
+Reinforcing mine.
+
+If you fear I'll lose my spirit,
+Like a drunkard's wasted wine,
+Don't you even think about it,
+I'm feelin' fine.
+
+I can hear your voice,
+Echoing my voice softly.
+I can feel your strength,
+Reinforcing mine.
+
+If you fear I'll lose my spirits,
+Like a drunkard's wasted wine,
+Don't you even think about it,
+I'm feelin' fine...

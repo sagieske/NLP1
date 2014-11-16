@@ -1,0 +1,44 @@
+Artist: fx
+Title: and_i_love_you_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Asian Pop', u'Korean Pop', u'Pop', u'Teen Pop']
+
+Song:
+
+[Yesung] Man-il geudaereul jinachyeogatdamyeon
+Ireon nunmul nan ama mollasseulgeoya
+Saranghaebwatdeon gaseumirajiman
+Ibyeol mankeumeun mudyeojijianha
+
+Dashi oji anhgetjyo
+Michildeut saranghaneun-il
+Neoro gudeojin nae gaseumeun
+Gidarimi jeonbuingabwa
+
+Neoreul saranghago bamsae jiugo
+Ape dugo dagaseol su eobtgo
+Neol mot-ijeoseo niga geuriwoseo
+Sumeul swineun-ge jugeum-gata
+Cham deuryeowojyeo
+
+[Luna] Man-il geudae-ga nae harul bondamyeon
+Maeumi apa gogael ddeolgulji molla
+Myeotbeonyi gyejeol geochigo geochyeoya
+Seulpeun kkeumeseo jamkkael-su itnayo
+
+Dashi ireorireun eobtgetjyo
+Bogoshipeo nunmul jitneun-il
+Geobi manhajin nae gaseumeun
+Dareun sarang mothal geot gata
+
+Neoreul saranghago bamsae jiugo
+Ape dugo dagaseol-su eobtgo
+Neol mot-ijeoseo niga geuriwoseo
+Sumeul swineun-ge jugeum gata
+Deuryeowojyeo
+
+[Both] Gidarilge noryeokhae bolkke
+Nal wihae ddeonagandan mal hajima
+Saranghandamyeon gateun mamiramyeon
+Gyeote isseojwo nae shimjangi
+Ddwilddaekkaji

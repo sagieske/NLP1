@@ -1,0 +1,52 @@
+Artist: woody_guthrie
+Title: ach_htte_ich_ein_bierchen_freie_bersetzung
+Genre: Folk
+Subgenres: [u'Political Folk', u'Traditional Folk', u'Field Recordings', u'Protest Songs']
+
+Song:
+
+Ach hдtte ich ein Bierchen,
+Ich trдnke es am Morgen,
+Ich trдnke es am Abend,
+Ьberall in diesem Land.
+
+Ein Bierchen fьr den Frieden,
+Ein Birechen fьr die Freiheit,
+Ein Bierchen fьr die Liebe
+Zwischen meinen Schwestern und Brьdern,
+Uhuuuu, ьberall in diesem Land.
+
+Ach hдtte ich ein Tьtchen,
+Ich rauchte es am Morgen,
+Ich rauchte es am Abend,
+Ьberall in diesem Land.
+
+Ein Tьtchen fьr den Frieden,
+Ein Tьtchen fьr die Freiheit,
+Ein Tьtchen fьr die Liebe
+Zwischen meinen Schwestern und Brьdern,
+Uhuuuu, ьberall in diesem Land.
+__
+
+Ach hдtte ich ein Mдdchen,
+Ich nдhme es am Morgen,
+Ich nдhme es am Abend,
+Ьberall und immerzu.
+
+Ne Nummer fьr den Frieden,
+Ne Nummer fьr die Freiheit,
+Ne Nummer fьr die Liebe
+Zwischen meinen Schwestern und Brьdern,
+Uhuuuu, ьberall in diesem Land.
+__
+
+Ach hдtte ich ein Bierchen,
+Und hдtte ich ein Tьtchen,
+Und hдtte ich ein Tьtchen fein,
+Ich wдr der Glьcklichste im Land.
+
+Doch leider gibt's kein Bierchen,
+Und erst recht kein Tьtchen,
+Und das Mдdchen,
+Das gibt es nur in meinen Trдumen,
+Und mir bleibt nur die rechte Hand.

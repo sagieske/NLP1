@@ -1,0 +1,16 @@
+Artist: terry_macalmon
+Title: even_so
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Noise Pop', u'Punk-Pop', u'Garage Punk', u'Alternative/Indie Rock']
+
+Song:
+
+Even so
+Come Lord Jesus come
+Even so
+Take your bride away
+How my soul
+Longs to be with you my Lord
+Even so
+Even so
+Come Lord Jesus come

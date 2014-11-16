@@ -1,0 +1,35 @@
+Artist: rory_gallagher
+Title: aint_too_good
+Genre: Blues
+Subgenres: [u'Blues-Rock', u'British Blues', u'Regional Blues']
+
+Song:
+
+Well, it ain't too good,
+The way you treat your man,
+It's less than good,
+It sure ain't kind,
+It's your mistake,
+You'll see in time,
+When I'm gone, when I'm gone.
+
+Well, it's been so long,
+Since I felt that glow,
+The flame was bright,
+But it's burning low,
+I should be gone,
+But I'm slow to go,
+Serves me right, serves me.....
+
+It doesn't seem clear,
+What happens from here and now,
+You've called the tune, but maybe soon,
+Someone must pay for the piper.
+
+Well, it ain't too late,
+To change your mind,
+For it's time you knew,
+Just where I stand,
+Well, let me know,
+'Cause I got plans,
+From now on, from now on, from now on.

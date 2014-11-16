@@ -1,0 +1,23 @@
+Artist: paul_mccartney
+Title: 222
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Contemporary Pop/Rock', u'Soft Rock', u'Singer/Songwriter', u'Adult Contemporary', u'Rock & Roll', u'AM Pop', u'Film Score', u'Choral', u'Orchestral']
+
+Song:
+
+Look at that
+Look at her walking
+Turning my head
+Taking my breath away
+
+Look at that
+Look at her walking
+Turning my head
+Taking my breath away
+
+Look at that
+Look at her walking
+Turning my head
+Taking my breath away
+
+Come on to me

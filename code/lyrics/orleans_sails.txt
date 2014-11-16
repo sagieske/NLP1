@@ -1,0 +1,16 @@
+Artist: orleans
+Title: sails
+Genre: Pop/Rock
+Subgenres: [u'Klezmer', u'Jewish Music']
+
+Song:
+
+Sails are just like wings, you can fly from things
+Run before the wind, Lord, let it blow
+Let it rock me slow while I sleep below
+Dreaming dreams that only sailors know
+
+And it will soothe your mind, smooth away your lives
+Set your clock back on your own time
+If you sail with me, we will find the sea
+We will find our love over again

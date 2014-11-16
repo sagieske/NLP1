@@ -1,0 +1,31 @@
+Artist: xo
+Title: stars
+Genre: Electronic
+Subgenres: [u'Club/Dance', u'Pop']
+
+Song:
+
+Do you know why Im here?
+I cant take it anymore.
+Ive got a blanket for two,
+All we need is the moon.
+
+Be careful and hold my hand,
+You can put your trust in me.
+I never want this to end,
+So kiss me once again.
+
+Come with me,
+Far away.
+Well let the stars,
+Guide our way.
+
+The grass seems greener,
+Since you came along.
+And I cant get you out of my head,
+Youve been there all day long.
+
+Come with me,
+Far away.
+Well let the stars,
+Guide our way

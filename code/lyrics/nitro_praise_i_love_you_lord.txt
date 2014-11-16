@@ -1,0 +1,46 @@
+Artist: nitro_praise
+Title: i_love_you_lord
+Genre: Religious
+Subgenres: [u'CCM', u'Contemporary Christian', u'Contemporary Gospel', u'Gospel']
+
+Song:
+
+I love you Lord,
+And I lift my voice
+To worship you.
+
+All my soul rejoices.
+Take joy my King
+In what you hear.
+Let it be a sweet,
+Sweet sound in your ear.
+
+I love you Lord,
+And I lift my voice
+To worship you.
+
+All my soul rejoices.
+Take joy my King
+In what you hear.
+Let it be a sweet,
+Sweet sound in your ear.
+
+Open our eyes, Lord.
+We want to see Jesus.
+To reach out and touch Him,
+And say that we love Him.
+
+Open our ears, Lord.
+And teach us to listen.
+Open our eyes, Lord.
+We want to see Jesus.
+
+Open our eyes, Lord.
+We want to see Jesus.
+To reach out and touch Him.
+And say that we love Him.
+
+Open our ears, Lord.
+And teach us to listen.
+Open our eyes, Lord,
+We want to see Jesus.

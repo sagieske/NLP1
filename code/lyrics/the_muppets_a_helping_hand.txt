@@ -1,0 +1,30 @@
+Artist: the_muppets
+Title: a_helping_hand
+Genre: R&B
+Subgenres: [u'Contemporary R&B', u'Pop']
+
+Song:
+
+Ever since my life began,
+There've been times I need somebody here,
+To help me understand.
+I can find my plan with a helping hand from you.
+Your help will do.
+And I'll be here to help you too.
+Ever since my time was new,
+There's been things I need somebody here,
+To help me try and do.
+I can see them through with a helping hand from you.
+Your help will do.
+And I'll be here to help you through.
+And I'll be here to help you too.
+Ever since the world was made,
+There's been times a person needs to find a friend who's not afraid,
+And I know I'll do the things I got to do workin' with you.
+I've got a helping hand,
+Waiting to hold your hand.
+I've got a helping hand for you.
+I've got a helping hand,
+Waiting to hold your hand.
+I've got a helping hand for you.
+I've got a helping hand for you.

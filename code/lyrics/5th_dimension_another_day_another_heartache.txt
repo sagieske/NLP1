@@ -1,0 +1,45 @@
+Artist: 5th_dimension
+Title: another_day_another_heartache
+Genre: Pop/Rock
+Subgenres: [u'AM Pop', u'Pop-Soul', u'Sunshine Pop', u'Soul']
+
+Song:
+
+[CHORUS]
+Another day
+Another heartache
+Sometimes it just don't pay
+To get up out of bed
+Another day
+Another heartache
+Got to try to keep from
+Going out of my head, oh, yeah
+
+Since you left me by myself
+I spend my lonely nights
+Wondering why (why)
+Why you've gone
+
+And though I try (try)
+I just can't go on
+Knowing every minute
+Of my life is going to be
+
+[Repeat CHORUS]
+
+I try to keep you off my mind
+But it's so hard to do
+Because it hurts (hurts)
+Hurts so deep
+
+I can't stop crying (crying)
+To get my sleep
+It's so lonely being
+Chained to a memory
+
+[Repeat CHORUS]
+
+Another day
+Another heartache
+Another day
+Another heartache...

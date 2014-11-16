@@ -1,0 +1,47 @@
+Artist: tom_petty_the_heartbreakers
+Title: about_to_give_out
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Heartland Rock', u'Rock & Roll', u'Bar Band', u'Contemporary Pop/Rock', u'Hard Rock']
+
+Song:
+
+By Tom Petty
+
+Rickey and Dickey
+Standing in the sun
+Out there on that highway and the dog wouldn't run
+Rickey rolled a number
+Dickey raised the hood
+Time we hit Daytona I was feeling pretty good
+
+Oh, mama I'm about to give out
+Oh, mama I'm about to give out
+I'm Davey Crockett in a coonskin town
+Oh, mama I'm about to give out
+
+Karaoke Katie drove the crowd wild
+Every time she'd sing they'd come in for miles
+Curtain came up
+Katie came on
+Drinking like a lumberjack
+And singing Delta Dawn
+
+Oh, mama I'm about to give out
+Oh, mama I'm about to give out
+I'm Davey Crockett in a coonskin town
+Oh, mama I'm about to give out
+
+Yeah, I hit town hard last night
+Abraham and Moses
+Some other friends of mine
+Moses started drinkin' he got a little rude
+We woke up in the bushes
+Beat to Hell and nude
+
+Oh, mama I'm about to give out
+Oh, mama I'm about to give out
+I'm Davey Crockett in a coonskin town
+Oh, mama, I'm about to give out
+I'm Roy Rogers in a one horse town
+Oh, mama I'm about to give out
+I'm about to give out

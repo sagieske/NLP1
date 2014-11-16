@@ -1,0 +1,23 @@
+Artist: frank_turner
+Title: back_to_sleep_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Alternative Singer/Songwriter', u'Alternative/Indie Rock']
+
+Song:
+
+Slumber-blind I speak my mind
+When I'm out cold (or so I'm told)
+And so I'm scared to rest my head in company.
+You're not scared of words unsaid,
+You close your eyes, say your goodbyes
+And so I'm left to watch you drift away from me
+So peacefully.
+
+And I'm just looking for the person
+Who will smile at all my questions,
+Who will tell me I'm just tired, and then send me
+Back to sleep.
+
+You stole the covers in the night,
+You turned away, turned out the light,
+But it's ok because I'm already miles away.

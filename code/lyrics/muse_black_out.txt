@@ -1,0 +1,24 @@
+Artist: muse
+Title: black_out
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Post-Grunge', u'Britpop', u'Neo-Prog', u'Prog-Rock']
+
+Song:
+
+Don't kid yourself
+And don't fool yourself.
+This love's too good to last,
+And I'm too old to change.
+
+Don't grow up too fast
+And don't embrace the past.
+This life's too good to last,
+And I'm too young to care.
+
+[Interlude:]
+
+Don't kid yourself
+And don't fool yourself.
+This life could be the last
+And you're too young to see.
+Woah...

@@ -1,0 +1,19 @@
+Artist: glen_hansard
+Title: broken_hearted_hoover_fixer_sucker_guy
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Contemporary Singer/Songwriter', u'Adult Alternative Pop/Rock', u'Indie Rock']
+
+Song:
+
+Ten years ago
+I fell in love with an Irish girl
+She took my heart
+
+But she went and screwed some guy she knew
+And now I'm in Dublin with a broken heart
+
+Oh broken hearted Hoover fixer sucker guy
+Oh broken hearted Hoover fixer sucker, sucker guy
+
+One day I'll go there and win her once again
+But until then I'm just a sucker of a guy

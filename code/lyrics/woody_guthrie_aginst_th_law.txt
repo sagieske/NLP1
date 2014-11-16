@@ -1,0 +1,38 @@
+Artist: woody_guthrie
+Title: aginst_th_law
+Genre: Folk
+Subgenres: [u'Political Folk', u'Traditional Folk', u'Field Recordings', u'Protest Songs']
+
+Song:
+
+It's aginst th' law to walk, It's aginst th' law to talk
+It's against th' law to loaf, It's aginst th' law to work
+It's aginst th' law to read, It's aginst th' law to write
+It's aginst th' law to be a black or brown or white.
+
+Ever'thing's aginst th' law
+I'm a low pay daddy singing th' high price blues
+
+It's aginst th' law to eat, It's aginst th' law to drink
+It's aginst th' law to worry, It's aginst th' law to think
+It's aginst th' law to marry or to try to settle down
+It's aginst th' law to ramble like a bum from town to town
+
+Ever'thing's aginst th' law
+I'm a low pay daddy singing th' high price blues
+
+It's aginst th' law to come, It's against th' law to go
+It's against th' law to ride, It's against th' law to roll
+It's aginst th' law to hug, It's against th' law to kiss
+It's against th' law to shoot, It's against th' law to miss
+
+Ever'thing's aginst th' law
+I'm a low pay daddy singing th' high price blues
+
+It's aginst th' law to gamble, It's aginst th' law to roam
+It's aginst th' law to organize or try to build a home
+It's aginst th' law to sing, It's aginst th' law to dance
+It's aginst th' law to tell you th' trouble on my hands
+
+Ever'thing in Winston Salem is aginst th' law
+I'ma low pay daddy singin' th' high price blues.

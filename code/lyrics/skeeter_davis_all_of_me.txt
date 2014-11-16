@@ -1,0 +1,23 @@
+Artist: skeeter_davis
+Title: all_of_me
+Genre: Country
+Subgenres: [u'Country-Pop', u'Early Pop/Rock', u'Nashville Sound/Countrypolitan', u'Country-Rock', u'Traditional Country']
+
+Song:
+
+All of me why not take all of me
+Can't you see I'm no good without you
+Take my lips I want to lose them
+Take my arms I'll never use them.
+
+Your goodbye left me with eyes that cry
+How can I go on without you
+You took the part that once was my heart
+So why not take all of me.
+
+--- Instrumental ---
+
+Your goodbye left me with eyes that cry
+How can I go on without you
+You took the part that once was my heart
+So why not take all of me...

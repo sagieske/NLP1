@@ -1,0 +1,45 @@
+Artist: yonder_mountain_string_band
+Title: a_fathers_arms
+Genre: Country
+Subgenres: [u'Progressive Bluegrass', u'Contemporary Bluegrass', u'Jam Bands', u'Bluegrass', u'Old-Timey', u'String Bands']
+
+Song:
+
+The news it came to me as a surprise
+And I knew that I would have to deal in time
+And as the messanger walked right off the porch
+A memory came to me from times before
+
+I remember when my dad was called away
+My mother put his pictures all away
+And now the time had come for me to go
+To my love my tears I tried not to show
+
+Chorus:
+With tear drops on my face
+Thinking 'bout that old homeplace
+Riding across the planes in the rain
+
+The letters from my dad described the war
+His food was canned, his boots they made him sore
+And one letter from my dad spoke of a friend
+Who got lost between the water and the land
+
+Now I'm the one writing letters to my son
+I'll be home as soon as the fightin's done
+With my gun in hand I guess it's hard to see
+What it was that used to be inside of me
+
+[ Chorus ]
+
+Today we moved in sight of the enemy
+Though I didn't even know what they had done
+The general yelled to me, when I count to three
+Get on your feet and start to run
+
+That's the last event I can recall
+The tent was big but could not hold us all
+Though I'll never know what got the best of me
+I swear I felt my dad looking over me
+
+[ Chorus - x2 ]

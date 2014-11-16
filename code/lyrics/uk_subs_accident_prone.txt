@@ -1,0 +1,25 @@
+Artist: uk_subs
+Title: accident_prone
+Genre: Pop/Rock
+Subgenres: [u'British Punk', u'Punk', u'Punk/New Wave', u'Oi!']
+
+Song:
+
+Don't you worry.
+Don't you moan.
+We're all living in a casualty zone.
+Drink yourself silly.
+Were you a victim of your own neurosis?
+Did you band your head?
+Are you accident prone?
+
+Name your poison. Is it your religion?
+Name your poison. Drowned in the system.
+
+Got you on a misdemeanor.
+Don't want no derogatory remarks.
+So we are the dregs of your society.
+Disenfranchised we fell through the net.
+
+Name your poison. Practice your religion.
+Name your poison. Bow to the system.

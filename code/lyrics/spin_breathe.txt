@@ -1,0 +1,17 @@
+Artist: spin
+Title: breathe
+Genre: Pop/Rock
+Subgenres: [u'American Trad Rock', u'Contemporary Pop/Rock', u'Jam Bands', u'Alternative Pop/Rock', u'Alternative/Indie Rock']
+
+Song:
+
+They have destoyed your whole life
+Ever since you were born they've
+Dragged you down
+
+They have decided that you wont
+Have a chance in this shitty world
+Not knowing what's on the outside
+Can't understand right or wrong
+
+Breathe in the poisoned air

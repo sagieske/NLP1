@@ -1,0 +1,10 @@
+Artist: demis_roussos
+Title: amazing_grace
+Genre: International
+Subgenres: [u'Vocal Pop', u'Classical Crossover', u'Euro-Pop', u'French Pop', u'Greek', u'Mediterranean Traditions', u'Vocal Music']
+
+Song:
+
+Amazing grace! How sweet the sound
+That saved a wretch like me!
+I once was lost, but now am found

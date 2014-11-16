@@ -1,0 +1,29 @@
+Artist: cheap_trick
+Title: all_we_need_is_a_dream
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Pop/Rock', u'Hard Rock', u'Power Pop', u'Album Rock', u'Arena Rock', u'New Wave', u'Punk/New Wave']
+
+Song:
+
+Hello, hello
+Is there anyone?
+You don't know
+How I've searched, searched the world for you
+Hello, hello
+Is there any place
+A thousand hearts, a million miles of dreams and thoughts of you
+All right
+It's been a long time [comin' / gettin'] to you
+All right
+I'm a-comin' for you, well
+All we need, we need is a dream
+All we neeed is a night
+All we need is a night to call our own
+All we need, we need is a dream
+All we need is one night
+All we need is a dream to call our own
+All we need...
+Hello, hello
+It's for everyone
+That you know who needs someone
+To help you make it through

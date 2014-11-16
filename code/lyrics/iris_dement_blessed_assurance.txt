@@ -1,0 +1,15 @@
+Artist: iris_dement
+Title: blessed_assurance
+Genre: Country
+Subgenres: [u'Alt-Country', u'Alternative/Indie Rock', u'Contemporary Country', u'Contemporary Folk', u'Country-Folk', u'Neo-Traditional Folk', u'Neo-Traditionalist Country', u'Americana']
+
+Song:
+
+Blessed assurance, Jesus is mine!
+O what a foretaste of glory divine!
+Heir of salvation, purchase of God,
+I'm born of his Spirit, washed in his blood.
+
+Refrain:
+This is my story, this is my song,
+Praising my Savior all the day long

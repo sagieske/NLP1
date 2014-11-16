@@ -1,0 +1,33 @@
+Artist: natasha_bedingfield
+Title: backyard
+Genre: Pop/Rock
+Subgenres: [u'Pop', u'Dance-Pop', u'Teen Pop', u'Adult Contemporary']
+
+Song:
+
+It's been too long
+Don't think I've seen you smile at me for quite a while
+And we're too busy doing things
+We haven't noticed what's missing
+Where's the fun we used to have?
+My childish ways and your sarcasm
+Silly jokes and fairy tales
+Where did we leave them?
+Lost in the backyard
+Your lasso my tiara
+My wand, your plastic bazooka
+Why can't we be how we were
+In the backyard
+Your cowboy hat, my tutu
+You hide and seek, I catch you
+Why can't we be how we were in the backyard
+Simple days of hand in hand
+And drawing our names in the sand
+Somehow life just complicates
+Our buried treasure it just waits
+Lost in the backyard
+You can still meet me in the garden
+You and I and hide behind the rosebed
+You and I
+You and I
+Lost in the backyard again

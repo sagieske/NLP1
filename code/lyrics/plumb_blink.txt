@@ -1,0 +1,35 @@
+Artist: plumb
+Title: blink
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'CCM', u'Christian Rock', u'Contemporary Christian', u'Alternative CCM', u'Adult Alternative Pop/Rock', u'Post-Grunge']
+
+Song:
+
+I'd like to remember
+I'd like to know how you are
+I'd like to know everything you'll be
+
+Wherever you go, what will you do?
+When the world's right in front of you
+
+When I think of us, slowly life passes by
+And I blink and you're growing, no longer a child
+What I can do to capture this moment in time
+Is to sing you a lullaby
+
+I like to watch you dream
+I like to touch your face
+I like to hold you in a sweet embrace
+
+Whenever you laugh, whenever you cry
+And when you need a special place to hide
+
+When I think of us, slowly life passes by
+And I blink and you're growing, no longer a child
+What I can do to capture this moment in time
+Is to sing you a lullaby
+
+When I think of us, slowly life passes by
+And I blink and you're growing, no longer a child
+What I can do to capture this moment in time
+Is to sing you a lullaby

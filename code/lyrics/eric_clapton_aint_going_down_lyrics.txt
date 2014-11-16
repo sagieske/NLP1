@@ -1,0 +1,32 @@
+Artist: eric_clapton
+Title: aint_going_down_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Blues-Rock', u'British Blues', u'Contemporary Pop/Rock', u'Regional Blues', u'Adult Contemporary', u'Hard Rock']
+
+Song:
+
+By eric clapton
+
+It aint no big deal, were all lucky to be alive,
+I myself don't believe in luck, or taking chances, I will survive.
+Every move I make, every twist every turn,
+You scandalize and humble me, I may be slow but I will learn.
+
+Cause I aint going down anymore.
+Cause I aint going down anymore.
+Cause I aint going down anymore.
+Cause I aint going down anymore.
+
+If I had my way, I would probably just sit and stare.
+Watch the T. V. Or read a book, I'd have no reason to be aware,
+But I aint got time, I just could not live that way.
+I've got to step outside myself, I've still got something left to say.
+
+Chorus
+
+Chorus
+
+Channelled in my groove, part of another space and time.
+Please allow me to introduce another good friend of mine.
+Some call him fear, some call him righteousness.
+I myself aint clear, and you can't force me to make a guess.

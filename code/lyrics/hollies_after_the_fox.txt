@@ -1,0 +1,42 @@
+Artist: hollies
+Title: after_the_fox
+Genre: Pop/Rock
+Subgenres: [u'British Invasion', u'Contemporary Pop/Rock', u'Merseybeat', u'AM Pop', u'Early Pop/Rock']
+
+Song:
+
+Who is the fox - I am the fox
+Who are you - I am me
+Who is me - Me is a thief
+You'll bring your poor, poor mother grief
+
+So after the fox, after the fox
+Off to the hunt with chains and locks
+So after the fox, after the fox
+Someone is always chasing after the fox
+
+Where is the gold - It's on the truck
+Where's the truck - I won't tell
+You must tell - Then I will lie
+You'll make your poor, poor sister cry
+
+So after the fox, after the fox
+Off to the hunt with chains and locks
+So after the fox, after the fox
+Someone is always chasing after the fox
+
+Why do you steal - So I'll be rich
+Why not work - Work is hard
+You'll be caught - I never fail
+All little crooks wind up in jail - Not me not me
+
+So after the fox, after the fox
+Off to the hunt with chains and locks
+So after the fox, after the fox
+Someone is always chasing after the fox
+
+After the fox
+
+After the fox
+
+After the fox

@@ -1,0 +1,26 @@
+Artist: vanessa_da_mata
+Title: bem_da_vida
+Genre: Latin
+Subgenres: [u'Brazilian Pop', u'MPB', u'Adult Alternative Pop/Rock', u'Alternative/Indie Rock', u'Brazilian Traditions']
+
+Song:
+
+Viva a felicidade
+Abolindo quase toda a maldade
+Como se o amor trouxesse
+O gozo da infância
+
+Bem que volta à inocência
+Bem de ter carinho e delicadeza
+Viva o que nos torna
+O bem maior da natureza
+
+Eu era sem primavera
+Dessas que o ano não principia
+Poesia não me dizia
+Ternura em mim não havia
+
+Faltava encanto na melodia
+Não parava uma saudade
+Velha de pouca idade
+Ia vivendo a necessidade

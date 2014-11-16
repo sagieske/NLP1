@@ -1,0 +1,12 @@
+Artist: little_richard
+Title: boo_hoo_hoo_hoo
+Genre: Pop/Rock
+Subgenres: [u'Early R&B', u'Rock & Roll', u'New Orleans R&B', u'Black Gospel', u'Gospel']
+
+Song:
+
+Boo a-hoo a-hoo a-hoo, I cried over you,
+I love you so, I'll never let you go.
+
+Oh baby, baby, please, set my poor heart at ease,
+I love you so, I'll never let you go.

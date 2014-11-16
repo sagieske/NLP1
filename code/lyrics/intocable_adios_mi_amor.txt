@@ -1,0 +1,41 @@
+Artist: intocable
+Title: adios_mi_amor
+Genre: Latin
+Subgenres: [u'Mexican Traditions', u'Tejano', u'Tex-Mex', u'Latin Pop']
+
+Song:
+
+Adios mi amor
+en el libro de mi vida
+quedo tu nombre
+no entendiste mi razon.
+
+Adios mi amor
+en mi pecho esta grabado
+el recuerdo de tus besos
+que encendian mi pasion.
+
+Se fue de mi
+esa risa de mis ojos
+para darle paso al llanto
+ya no quiero ni vivir.
+
+Te llevaste mi alegria
+me dejaste en la agonia
+no tuviste compasion
+hay momentos que la vida
+nos golpea de tal manera
+que reniego del amor.
+
+(coro)
+Ojala y te vaya bien
+que se cumplan tus deseos
+que encuentres otro querer
+que te llene igual de besos.
+Yo muy triste esperare
+a encontrar
+por fin consuelo
+y si no puedo aguantar
+que me lleve Dios al cielo.
+
+(se repite coro)

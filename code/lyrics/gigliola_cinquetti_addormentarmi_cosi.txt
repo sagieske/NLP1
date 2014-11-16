@@ -1,0 +1,37 @@
+Artist: gigliola_cinquetti
+Title: addormentarmi_cosi
+Genre: Pop/Rock
+Subgenres: [u'Italian Pop', u'Latin Pop', u'Italian Music', u'Western European Traditions']
+
+Song:
+
+Addormentami cosi,
+Fra le tue braccia,
+Mentre tu mi baci
+Mi baci sempre piu.
+
+Addormentami cosi,
+Sul tuo respiro,
+Labbra sulle labbra
+E non svegliarmi piu.
+
+Bocca a bocca,
+Cuore a cuore,
+Soffrire insieme
+Morire insieme.
+
+Addormentami cosi
+E non svegliarmi piu.
+
+Addormentami cosi,
+Sul tuo respiro,
+Labbra sulle labbra
+E non svegliarmi piu.
+
+Bocca a bocca,
+Cuore a cuore,
+Soffrire insieme
+Morire insieme.
+
+Addormentami cosi
+E non svegliarmi piu

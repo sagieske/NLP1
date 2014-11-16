@@ -1,0 +1,46 @@
+Artist: nitty_gritty_dirt_band
+Title: american_dream
+Genre: Country
+Subgenres: [u'Bluegrass', u'Country-Rock', u'Progressive Bluegrass', u'Progressive Country', u'Contemporary Pop/Rock', u'New Acoustic', u'AM Pop']
+
+Song:
+
+I beg your pardon, mama, what did you say?
+My mind was drifting off on martinique bay.
+It's not that I'm not interested, you see;
+Augusta, georgia is just no place to be.
+
+I think jamaican in the moonlight.
+Sandy beaches, drinking rum every night.
+We got no money, mama, but we can go;
+We'll split the difference, go to coconut grove.
+
+Keep on talking, mama, I can hear
+Your voice, it tickles down inside of my ear.
+I feel a tropical vacation this year,
+Might be the answer to this hillbilly fear.
+
+I think jamaican in the moonlight.
+Sandy beaches, drinking rum every night.
+We got no money, mama, but we can go;
+We'll split the difference, go to coconut grove.
+
+Voila! An american dream.
+Well, we can travel girl, without any means.
+When it's as easy as closing your eyes
+And dream jamaica is a big neon sign.
+
+Just keep talking, mama, I like that sound.
+It goes so easy with that rain falling down.
+I think a tropical vacation this year,
+Might be the answer to this hillbilly fear.
+
+Voila! An american dream.
+Yeah, we can travel, girl, without any means.
+When it's as easy as closing your eyes
+And dream jamaica is a big neon sign.
+
+Just think jamaican in the moonlight.
+Sandy beaches, drinking rum every night.
+We got no money, mama, but we can go;
+We'll split the difference, go to coconut grove.

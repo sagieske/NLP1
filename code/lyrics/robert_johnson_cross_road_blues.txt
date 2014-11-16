@@ -1,0 +1,22 @@
+Artist: robert_johnson
+Title: cross_road_blues
+Genre: Blues
+Subgenres: [u'Country Blues', u'Delta Blues', u'Pre-War Blues', u'Pre-War Country Blues', u'Regional Blues', u'Slide Guitar Blues']
+
+Song:
+
+By Robert Johnson
+Recording of November 27, 1936
+San Antonio, Texas
+I went to the crossroad, fell down on my knees
+I went to the crossroad, fell down on my knees
+Asked the lord above "Have mercy, save poor Bob, if you please"
+Mmmmm, standin' at the crossroad, I tried to flag a ride
+Standin' at the crossroad, I tried to flag a ride
+Didn't nobody semm to know me, everybody pass me by
+Mmmm, the sun goin' down, boy, dark gon' catch me here
+Oooo, eeee, boy, dark gon' catch me here
+I haven't got no lovin' sweet woman that love and feel my care
+You can run, you can run, tell my friend-boy Willie Brown
+You can run, tell my friend-boy Willie Brown
+Lord I'm standin' at the crossroad, babe, I believe I'm sinkin' down

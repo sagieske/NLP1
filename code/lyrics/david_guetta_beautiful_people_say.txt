@@ -1,7 +1,7 @@
 Artist: david_guetta
 Title: beautiful_people_say
 Genre: Electronic
-Subgenres: [u'Club/Dance', u'EDM', u'House', u'Progressive House']
+Subgenres: [u'Club/Dance', u'EDM', u'House', u'Progressive House', u'Left-Field Pop', u'Pop']
 
 Song:
 

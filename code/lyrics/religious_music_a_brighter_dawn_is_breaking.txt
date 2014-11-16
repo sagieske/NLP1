@@ -1,0 +1,26 @@
+Artist: religious_music
+Title: a_brighter_dawn_is_breaking
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Indie Rock', u'Alternative Singer/Songwriter', u'Lo-Fi']
+
+Song:
+
+A brighter dawn is breaking
+And earth with praise is waking
+For thou, O King most highest
+The power of death defiest.
+
+And thou hast come victorious
+With risen Body glorious
+Who now for ever livest
+And life abundant givest.
+
+O free the world from blindness
+And fill the world with kindness
+Give sinners resurrection
+Bring striving to perfection.
+
+In sickness give us healing
+In doubt thy clear revealing
+That praise to thee be give
+In earth as in thy heaven...

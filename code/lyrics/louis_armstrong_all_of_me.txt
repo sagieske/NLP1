@@ -1,0 +1,30 @@
+Artist: louis_armstrong
+Title: all_of_me
+Genre: Jazz
+Subgenres: [u'Dixieland', u'Early Jazz', u'New Orleans Jazz', u'Vocal Jazz', u'Swing', u'Traditional Pop', u'Jazz Instrument', u'Trumpet Jazz']
+
+Song:
+
+All of me... Why not take all of me
+Can't you see... I'm no good without you
+Take my lips..... I want to lose them
+Take my arms.... I'll never use them
+
+Your goodbye... Left me with eyes that cry
+How can i.... Go on dear without you
+You took the part.... That once was my heart
+So why not take all of me
+
+[Instrumental]
+
+All of me... Now please take all of me
+Can't you see... I'm no good without you
+Take my lips..... I'd rather lose them
+Take these arms.... I'll never, never, never, ever use them
+
+Your goodbye... Left me with eyes that cry
+How can i.... Go on dear without you
+You took that part.... What once was my heart
+So why not take all of me
+
+Baby please take all of me

@@ -1,0 +1,33 @@
+Artist: doc_watson
+Title: blues_stay_away_from_me
+Genre: Folk
+Subgenres: [u'Traditional Folk', u'Appalachian', u'Bluegrass', u'Old-Timey', u'North American Traditions', u'Traditional Country', u'Traditional Bluegrass']
+
+Song:
+
+Blues stay away from me
+Blues why don't you let me be
+Don't know why
+A You keep on hounting me
+
+Love was never meant for me
+True love was never meant for me
+It seems somehow
+We never can agree
+
+(break)
+
+Blues stay away from me
+Blues why don't you let me be
+Don't know why
+You keep on hounting me
+
+Life is full of misery
+Tears so many I can't see
+Seems somehow
+I never can be free
+
+Blues stay away from me
+Blues why don't you let me be
+Don't know why
+You keep on hounting me

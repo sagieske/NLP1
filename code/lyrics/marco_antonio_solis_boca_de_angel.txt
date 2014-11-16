@@ -1,0 +1,22 @@
+Artist: marco_antonio_solis
+Title: boca_de_angel
+Genre: Latin
+Subgenres: [u'Mexican Traditions', u'Norteno', u'Tejano']
+
+Song:
+
+Boca, boca roja,
+Boca de mi fantasia,
+Cuando sera boquita hermosa, que te choques con la mia,
+Boca, boca grande, con sonrisa de pecado
+Como sin decir mi nombre, he acudido a tu llamado
+Aunque sea en un mormullo,
+Boquita quiero escucharte,
+Decirme que son tan tuyos
+Los besos que pueda darte.
+Labios de mi paraiso,
+De mi destino prihibido,
+Yo soy la sed que se hizo para apagarse,
+En tu nido
+Aunque sea en un mormullo...
+Yo soy la sed que hizo...

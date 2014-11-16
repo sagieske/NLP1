@@ -1,0 +1,39 @@
+Artist: george_gershwin
+Title: do_do_do
+Genre: Stage & Screen
+Subgenres: [u'American Popular Song', u'Cast Recordings', u'Show Tunes', u'Standards', u'Tin Pan Alley Pop', u'Traditional Pop', u'Concerto', u'Film Score', u'Keyboard', u'Modern Composition', u'Show/Musical']
+
+Song:
+
+Oh, do, do, do
+What you've done
+Done, done before, baby
+Do, do, do
+What I do
+Do, do adore, baby
+
+Let's try again
+Sigh again
+Fly again to heaven
+Baby, see
+It's A, B, C
+I love you
+And you love me
+
+I know, know, know
+What a beau, beau, beau
+Should do, baby
+
+So don't, don't, don't
+Say it won't, won't, won't
+Come true, baby
+
+My heart begins to hum
+Dum, de, dum
+De, dum, dum, dum
+
+So do, do, do
+What you've done
+Done, done before
+
+(Repeat lyrics)

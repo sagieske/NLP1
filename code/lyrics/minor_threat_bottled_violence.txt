@@ -1,0 +1,22 @@
+Artist: minor_threat
+Title: bottled_violence
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'American Punk', u'American Underground', u'Hardcore Punk', u'Punk/New Wave', u'Straight-Edge']
+
+Song:
+
+Get your bravery from a six pack
+Get your bravery from a half-pint
+Drink your whiskey, drink your grain
+Bottoms up and you don't feel pain
+
+Go out and fight, fight
+bottled violence
+
+Lose control of your body
+Beat the s**t out of somebody
+Half-shut eyes don't see who you hit
+But you don't take any s**t
+
+Go out and fight, fight
+bottled violence

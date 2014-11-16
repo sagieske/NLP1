@@ -1,0 +1,40 @@
+Artist: ella_fitzgerald
+Title: a_woman_is_a_sometime_thing_lyrics
+Genre: Vocal
+Subgenres: [u'Bop', u'Standards', u'Swing', u'Traditional Pop', u'Vocal Jazz', u'American Popular Song']
+
+Song:
+
+(To Clara)
+What, that chile ain`t asleep yet? Give him to me.
+I`ll fix him for you.
+(Jake takes the baby from Clara)
+
+Lissen to yo` daddy warn you,
+`Fore you start a-travelling,
+Woman may born you, love you and mourn you,
+But a woman is a sometime thing,
+Yes, a woman is a sometime thing.
+
+Oh, a woman is a sometime thing.
+
+Yo` mammy is the first to name you,
+Then she`ll tie you to her apron string,
+Then she`ll shame you and she`ll blame you
+Till yo` woman comes to claim you,
+`Cause a woman is a sometime thing,
+Yes, a woman is a sometime thing.
+
+Oh, a woman is a sometime thing.
+
+Don`t you never let a woman grieve you
+Just 'cause she got yo` weddin` ring.
+She`ll love you and deceive you,
+Take yo` clothes and leave you
+`Cause a woman is a sometime thing.
+
+Yes, a woman is a sometime thing.
+Yes, a woman is a sometime thing,
+Yes, a woman is a sometime thing.
+
+There now, what I tells you; he`s asleep already.

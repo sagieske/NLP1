@@ -1,0 +1,16 @@
+Artist: quasi
+Title: birds
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Indie Pop', u'Indie Rock']
+
+Song:
+
+Birds fighting in midair
+And all the sky is theirs
+There's all of the sky
+Yet they peck anothers eyes
+
+Free as a bird!
+Or is that just a word?
+Up to be free
+To free myself from me

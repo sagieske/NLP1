@@ -1,0 +1,24 @@
+Artist: paul_simon
+Title: a_heart_in_new_york
+Genre: Pop/Rock
+Subgenres: [u'Adult Contemporary', u'Contemporary Pop/Rock', u'Folk-Rock', u'Singer/Songwriter', u'Soft Rock', u'Worldbeat', u'Album Rock', u'AM Pop']
+
+Song:
+
+New York -- to that tall skyline I come 
+Flyin' in from London to your door 
+New York -- lookin' down on Central Park 
+Where they say you should not wander after dark 
+
+New York -- like a scene from all those movies 
+But you're real enough to me, for there's a heart 
+A heart that lives in New York 
+
+A heart in New York arose on the street 
+I write my song to that city heartbeat 
+A heart in New York -- the love in her eyes 
+An open door and a friend for the night 
+
+New York -- you got money on your mind 
+And my words won't make a dime's worth of difference 
+So here's to you, New York

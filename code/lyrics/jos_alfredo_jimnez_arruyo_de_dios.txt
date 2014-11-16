@@ -1,0 +1,45 @@
+Artist: jos_alfredo_jimnez
+Title: arruyo_de_dios
+Genre: Latin
+Subgenres: [u'Mexican Traditions', u'Ranchera']
+
+Song:
+
+Esta casa la compro sin fortuna
+Esta casa la compro con amor
+Paґque jueguen mis hijos
+Con la luna
+Paґque jueguen mis hijos
+Con el sol.
+
+Yo les quiero dejar
+Lo que no tuve
+Yo los quiero mirar
+Poco a poco crecer
+Y alcanzar una nube.
+
+Yo quisiera que Dios
+Que Dios los arruyara
+Y un maсana distinto
+Y un distinto maсana
+Tambien
+Que Dios les regalara.
+
+Duermase mi niсo
+Duermase ya.
+
+Yo les quiero dejar
+Lo que no tuve
+Yo los quiero mirar
+Poco a poco crecer
+Y alcanzar una nube.
+
+Yo quisiera que Dios
+Que Dios los arruyara
+Y un maсana distinto
+Y un distinto maсana
+Tambien
+Que Dios los despertara.
+
+Duermase mi niсo
+Duermase ya.

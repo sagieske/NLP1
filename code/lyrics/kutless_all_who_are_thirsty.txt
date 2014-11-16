@@ -1,0 +1,24 @@
+Artist: kutless
+Title: all_who_are_thirsty
+Genre: Pop/Rock
+Subgenres: [u'Post-Grunge', u'Alternative CCM', u'Contemporary Christian', u'CCM']
+
+Song:
+
+All who are thirsty
+All who are weak
+Come to the fountain
+Dip your heart in the stream of life
+Let the pain and the sorrow
+Be washed away
+In the waves of his mercy
+As deep cries out to deep (we sing)
+
+Come Lord Jesus come
+[repeat 3 times]
+
+Holy Spirit come
+[repeat 3 times]
+
+As deep cries out to deep
+[repeat 2 times]

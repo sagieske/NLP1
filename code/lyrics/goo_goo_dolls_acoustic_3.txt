@@ -1,0 +1,64 @@
+Artist: goo_goo_dolls
+Title: acoustic_3
+Genre: Pop/Rock
+Subgenres: [u'Adult Alternative Pop/Rock', u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Post-Grunge', u'Hard Rock', u'Contemporary Pop/Rock']
+
+Song:
+
+They painted up your secrets
+
+With the lies they told to you
+
+And the least they ever gave you
+
+Was the most you ever knew
+
+
+
+And I wonder where these dreams go
+
+When the world gets in your way
+
+What's the point in all this screaming
+
+No one's listening anyway
+
+
+
+Your voice is small and fading
+
+And you hide in here unknown
+
+And your mother loves your father
+
+'Cause she's got nowhere to go
+
+
+
+And she wonders where these dreams go
+
+'Cause the world got in her way
+
+What's the point in ever trying
+
+Nothing's changing anyway
+
+
+
+They press their lips against you
+
+And you love the lies they say
+
+And I tried so hard to reach you
+
+But you're falling anyway
+
+
+
+And you know I see right through you
+
+'Cause the world gets in your way
+
+What's the point in all this screamin'
+
+You're not listening anyway

@@ -1,0 +1,34 @@
+Artist: eric_clapton
+Title: aint_that_lovin_you_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Blues-Rock', u'British Blues', u'Contemporary Pop/Rock', u'Regional Blues', u'Adult Contemporary', u'Hard Rock']
+
+Song:
+
+By jimmy reed
+
+You don't know me, baby,
+Like I know myself.
+I just want to love you, baby,
+But you leave me on the shelf.
+
+Aint that lovin you, baby?
+Aint that lovin you, baby?
+Aint that lovin you, baby?
+But you don't even know my name.
+
+Let me tell you something,
+I swear to God it's true.
+If you give your love to me,
+Im gonna give it all to you.
+
+You know it's true.
+
+Chorus
+
+They may kill me, baby,
+And bury me like they do.
+My body will lie, but my spirits gonna find
+Only you.
+
+Chorus

@@ -1,0 +1,20 @@
+Artist: q_and_not_u
+Title: a_line_in_the_sand
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Post-Hardcore', u'Indie Rock']
+
+Song:
+
+The first time.
+The second time.
+Let's stop this clock from starting.
+Wrong, the time's spelled wrong.
+Why won't you ever start?
+Why won't you?
+Time ticking spell it right.
+Understand.
+It's 1974, '73, '72.
+Cape tight fit on from here out.
+"kiss and ride."
+"twist and shout."
+"lights out."

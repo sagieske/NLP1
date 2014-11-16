@@ -1,0 +1,38 @@
+Artist: 10_years
+Title: alabama
+Genre: Pop/Rock
+Subgenres: [u'Alternative Metal', u'Heavy Metal', u'Post-Grunge']
+
+Song:
+
+Oh I know your kind.
+You would kill your kin for the right price.
+Well water thicker than blood.
+Oh I know your type.
+
+Use us to get what you wanted.
+You can't finish what you started.
+Find it kind of funny how you try to rectify the damage.
+
+Your failure to find compramize.
+The walls are coming down.
+Will you survive sacrafise or tummble to the ground?
+
+Your lying to yourself.
+And to everyone that knows your name.
+You play the part of the fool so well.
+Oh I know your type.
+
+Use us to get what you wanted.
+You can't even finish what you started.
+Find it kind of funny how you try to rectify the damage.
+
+Your failure to find compramize.
+The walls are coming down.
+Will you survive sacrafise or tummble to the ground?
+
+Oh I know your type.
+
+Your failure to find compramize.
+The walls are coming down.
+Will you survive sacrafise or tummble to the ground?

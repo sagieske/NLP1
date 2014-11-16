@@ -1,0 +1,28 @@
+Artist: kitchie_nadal
+Title: iniibig_kita
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Singer/Songwriter']
+
+Song:
+
+Ano ang nasa isip mo
+Ito ba'ng damdamin ko
+Naghihinalang may nararamdaman
+
+Isang tanong, isang sagot
+Lumiliko, lumalayo
+Panalangin ko'y matagpuan
+
+[Chorus]
+Iniibig, iniibig, iniibig
+Iniibig kita
+
+Hanggang sa dulo ng mundo
+Buong pagkatao ko
+Hahamunin, mapasaiyo lamang
+
+[repeat Chorus]
+
+Mula noon hanggang ngayon
+Pati kinabukasan ko
+Patutunayan, iniibig kita

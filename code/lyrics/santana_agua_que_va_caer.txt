@@ -1,0 +1,25 @@
+Artist: santana
+Title: agua_que_va_caer
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Blues-Rock', u'Fusion', u'Hard Rock', u'Latin Rock', u'Psychedelic/Garage', u'Contemporary Pop/Rock', u'Jazz-Rock']
+
+Song:
+
+Malo tiempo yo no quiero
+Que me traigan.... Desa fino
+En mi soledad
+Anagel divino yo no quiero
+En mi camino la fatalidad
+Cuando veo al cielo
+Que se esta nublando
+Cuando veo al cielo
+Que se esta nublando
+
+Chorus
+
+Agua que va caer
+Te juro que va mohar
+
+Adios
+Mis amigos adios
+Hasta manana

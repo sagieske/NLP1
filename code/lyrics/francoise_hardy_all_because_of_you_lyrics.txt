@@ -1,0 +1,22 @@
+Artist: francoise_hardy
+Title: all_because_of_you_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Early Pop/Rock', u'French Pop', u'Girl Groups', u'Vocal Pop', u'AM Pop', u'Contemporary Pop/Rock', u'French', u'Western European Traditions']
+
+Song:
+
+Shades of wine, love keeps dancing through my mind
+No I can't escape this time all because of you
+Yesterday, love was just a word to say
+Overnight a holiday, all because of you
+
+So unreal, life was just a ferris wheel
+Till you told me how to feel things I never knew, darlin'
+
+Summer rain, echoing a sweet refrain
+Love is such a tender pain, all because of you
+So unreal, life was just a ferris wheel
+Till you told me how to feel things I never knew, darlin'
+Summer rain, echoing a sweet refrain
+Love is such a tender pain, all because of you
+All because of you, all because of you.

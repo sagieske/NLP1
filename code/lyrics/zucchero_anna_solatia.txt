@@ -1,0 +1,14 @@
+Artist: zucchero
+Title: anna_solatia
+Genre: Pop/Rock
+Subgenres: [u'Adult Contemporary', u'Political Folk', u'Blues-Rock']
+
+Song:
+
+Anna Solatia, dolce e palese,
+Ti amo ancora, cos? Come sempre.
+L'amore sia lodato.
+
+Anna Solatia, dolce e palese,
+Ti amo ancora, tuttavia,
+Cos? Come sempre.

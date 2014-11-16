@@ -1,0 +1,34 @@
+Artist: dion
+Title: abraham_martin_and_john
+Genre: Pop/Rock
+Subgenres: [u'Doo Wop', u'Early Pop/Rock', u'Rock & Roll', u'Teen Idols', u'Early R&B', u'AM Pop', u'Folk-Rock', u'Psychedelic/Garage']
+
+Song:
+
+Has anybody here seen my old friend Abraham?
+Can you tell me where he's gone?
+He freed a lot of people,
+But it seems the good they die young.
+You know, I just looked around and he's gone.
+
+Anybody here seen my old friend John?
+Can you tell me where he's gone?
+He freed a lot of people,
+But it seems the good they die young.
+I just looked around and he's gone.
+
+Anybody here seen my old friend Martin?
+Can you tell me where he's gone?
+He freed a lot of people,
+But it seems the good they die young.
+I just looked 'round and he's gone.
+
+Didn't you love the things that they stood for?
+Didn't they try to find some good for you and me?
+And we'll be free
+Some day soon, and it's a-gonna be one day...
+
+Anybody here seen my old friend Bobby?
+Can you tell me where he's gone?
+I thought I saw him walkin' up over the hill,
+With Abraham, Martin and John.

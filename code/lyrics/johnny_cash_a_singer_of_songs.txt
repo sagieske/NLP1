@@ -1,0 +1,30 @@
+Artist: johnny_cash
+Title: a_singer_of_songs
+Genre: Country
+Subgenres: [u'Country Gospel', u'Country-Pop', u'Cowboy', u'Gospel', u'Rockabilly', u'Traditional Country', u'Rock & Roll', u'Country-Folk']
+
+Song:
+
+I'm not a savior, and I'm not a saint.
+The man with the answers I certainly aint.
+I wouldn't tell you what's right or what's wrong.
+I'm just a singer of songs.
+
+But I can take you for a walk along a little country stream.
+I can make you see through lovers eyes and understand their dreams.
+I can help you hear a babys laugh and feel the joy it brings.
+Yes, I can do it with the songs I sing.
+I'm not a prophet, and I'm not a priest.
+I'm not a wise man whos come from the East.
+I wouldn't tell you what's right or what's wrong.
+I'm just a singer of songs.
+
+But I can take you to a city where a man was crucified.
+I can tell you how He lived, and I can tell you why He died.
+I can help proclaim the glory of this mighty king of kings.
+Yes, I can do it with the songs I sing.
+I'm not a great man. I don't claim to be.
+But when I meet my Maker and He questions me,
+I wont hang my head. Ill stand proud and strong
+And say, I was a singer. Lord, I was a singer.
+Yes, I was a singer of songs.?

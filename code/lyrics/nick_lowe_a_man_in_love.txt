@@ -1,0 +1,36 @@
+Artist: nick_lowe
+Title: a_man_in_love
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Pop/Rock', u'New Wave', u'Power Pop', u'Pub Rock', u'Punk/New Wave', u'Rock & Roll', u'Singer/Songwriter', u'Americana', u'Roots Rock', u'Country-Rock', u'Contemporary Singer/Songwriter']
+
+Song:
+
+Like a man in love I’m walkin’ around
+Tryin’ to figure out why you put me down
+I've traveled over mountains, valleys too
+Tryin’ to find a way to get to you
+
+Everyone says you’re just a flirt
+But I know you love to see me hurt
+There’s no more glow in the moon above
+To shine down on a man in love
+
+Well, if you get lonesome and your blue
+Call me up and I’ll come to you
+I won’t come runnin’, I’ll be flyin’
+I’ll be laughin’ and I won’t be cryin’
+
+Everyone says you’re just a flirt
+But I know you love to see me hurt
+There’s not enough glow in the moon above
+To shine down on a man in love
+
+Everyone says you’re just a flirt
+But I know you love to see me hurt
+There’s not enough glow in the moon above
+To shine down on a man in love
+
+To shine down on a man in love
+To shine down on a man in love
+I said there's no more glow
+To shine down on a man in love

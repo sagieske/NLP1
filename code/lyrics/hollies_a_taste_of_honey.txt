@@ -1,0 +1,56 @@
+Artist: hollies
+Title: a_taste_of_honey
+Genre: Pop/Rock
+Subgenres: [u'British Invasion', u'Contemporary Pop/Rock', u'Merseybeat', u'AM Pop', u'Early Pop/Rock']
+
+Song:
+
+A taste of honey
+
+Tastin' much sweeter than wine
+
+
+
+Yours was the kiss that awoke my heart
+
+And lingers still, though we're far apart
+
+A taste of honey (honey, honey)
+
+Tastin' much sweeter
+
+
+
+I dream of your first kiss, and then
+
+I feel upon your lips and then
+
+A taste of honey (honey, honey)
+
+Tastin' much sweeter
+
+
+
+I will return, yes I will return
+
+I'll come back for the honey
+
+
+
+break
+
+
+
+Well I will return, yes I will return
+
+I'll come back
+
+For the honey
+
+And you
+
+Whoa, whoa, whoa, whoa, whoa, whoa you
+
+Whoa, whoa, whoa, whoa, whoa, whoa you
+
+Whoa, whao, whoa, whoa, whoa, whoa you

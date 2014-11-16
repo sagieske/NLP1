@@ -1,0 +1,27 @@
+Artist: hair
+Title: air
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Indie Electronic', u'Noise Pop']
+
+Song:
+
+Welcome sulphur dioxide,
+Hello carbon monoxide
+The air, the air is everywhere
+Breathe deep, while you sleep, breathe deep
+
+Bless you alcohol bloodstream,
+Save me nicotine lungsteen
+Incense, incense is in the air
+Breathe deep, while you sleep, breathe deep
+
+Cataclysmic, cataplasm
+Fall out atomic o****m
+Vapor and fume at the stone of my tomb
+Breathe like a solemn perfume
+Eating at the stone of my tomb
+
+Welcome sulphur dioxide,
+Hello carbon monoxide
+The air, the air is everywhere
+Breathe deep, while you sleep, breathe deep

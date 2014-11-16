@@ -1,0 +1,31 @@
+Artist: exterminador
+Title: como_olvidarte_lyrics
+Genre: Latin
+Subgenres: [u'Latin Pop', u'Mexican Traditions', u'Norteno', u'Tejano', u'Conjunto']
+
+Song:
+
+Si supieras comprender lo que yo siento
+Entenderias que para mi no es un juego,
+Esto es algo que he formado aqui dentro, ohuoh,
+Y que brota cuando digo te quiero.
+
+Yo no tube que buscarte tan siquiera
+Tu ya estabas en mi vida desde antes
+Te sonaba como sonar un angel, ohuoh,
+Mi ilusion, mi anelo eres tu.
+
+Ahora dime como olvidarte
+Si tu ya vives en el fondo de mi alma.
+Si tu eres para mi todo y yo soy para ti nada
+Ahora dime como olvidarte.
+
+Yo no tube que buscarte tan siquiera
+Tu ya estabas en mi vida desde antes
+Te sonaba como sonar un angel, ohuoh,
+Mi ilusion, mi anelo eres tu.
+
+Ahora dime como olvidarte
+Si tu ya vives en el fondo de mi alma.
+Si tu eres para mi todo y yo soy para ti nada
+Ahora dime como olvidarte.

@@ -1,0 +1,26 @@
+Artist: edgar_winter
+Title: back_in_the_blues_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Boogie Rock', u'Hard Rock', u'Contemporary Pop/Rock', u'Rock & Roll', u'Blues-Rock', u'Arena Rock']
+
+Song:
+
+I may not be your way back in the blues
+But the blues is back in me
+I may not be the same as you
+But I'm the same as I can be
+
+I may not walk the way I talk
+But I get there just the same
+Lord, I mean I play the same as You
+Yet I don't play the game
+
+I may not be the sound of blues
+But I can live that sound
+I may not be around the world
+But I can make the world be round, yeah
+
+I can't dig the sound of blues
+I can't dig the sound
+I can't make the world be round
+Make the world be round

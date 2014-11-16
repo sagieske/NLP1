@@ -1,0 +1,29 @@
+Artist: quantum_jump
+Title: blue_mountain
+Genre: Pop/Rock
+Subgenres: [u'Prog-Rock']
+
+Song:
+
+Blue mountain
+Aloo ha green sea
+Dream on the waves
+Lost and found me
+Ooooh wild pepper sands reach the sky
+When the sea catches young eyes
+Stay by blue mountain with me
+Starlight rain
+Moonwish wind
+Warmer walking
+Water friends
+Child of light
+Swim the sea
+So you missed winter
+Far away
+Miles and more
+Vanished days
+On honey shore
+Scarlet skies
+Fading light
+Mercy sails that
+Meet the night

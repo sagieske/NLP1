@@ -1,0 +1,36 @@
+Artist: firehouse
+Title: cant_stop_the_pain_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Hair Metal', u'Hard Rock', u'Heavy Metal', u'Pop-Metal']
+
+Song:
+
+It's been a long time since I saw you
+Been so long since I touched your face
+You know there's nothing I can do
+That will help to get me through
+'Cause I know you wont be there for me again
+
+Chorus:
+If I could dream about tomorrow
+If I could dream the night away
+You know there's nothing I could do
+To get me over you
+
+You used to be there every morning
+You had that smile upon your face
+But now that smile is turned around
+And my world is upside down
+'Cause I know you won't be there for me again
+
+Chorus
+
+Bridge:
+I know I'll miss you, but you will never hurt again
+I know you're happy, but now I feel such emptiness inside
+
+Solo
+
+Chorus
+
+Can't stop the pain

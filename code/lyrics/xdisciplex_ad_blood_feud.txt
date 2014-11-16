@@ -1,0 +1,17 @@
+Artist: xdisciplex_ad
+Title: blood_feud
+Genre: Pop/Rock
+Subgenres: [u'Adult Alternative Pop/Rock', u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'College Rock', u'Alternative Singer/Songwriter', u'Celtic Rock', u'Contemporary Singer/Songwriter', u'Contemporary Pop/Rock']
+
+Song:
+
+Take a good look at yourself.
+Your eyes always glaring always comparing
+You can't stop your starring because there's always something wrong
+Pull apart my heart, Scratch out my soul
+Silence my dreams, When you see fit
+This blood feud of chains and ice,
+This blood feud has gone on too long
+Cast your judgement somewhere else
+Cast your judgement on yourself
+Burn my idols but what about yours

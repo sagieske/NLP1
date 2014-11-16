@@ -1,0 +1,42 @@
+Artist: hedley
+Title: a_song
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Punk-Pop']
+
+Song:
+
+They put us to work
+The anvilbrigade
+The angels lost track when
+We started to fade
+Believing is seeing you're seeming okay
+It seems we lose our love
+At the end of the rain
+More than a fighting chance I've got
+Seems like I'm losing out a lot
+Maybe the sun still knows my name
+I'll walk on my own to feet again
+I'm just a clean cut individual
+This ain't no second class residual
+And from the bottom
+I can feel you screaming
+You turn your face to the rain
+I see you smiling again
+Maybe there'll be no more pain
+The day we all go insane
+They made us create they made us
+Run farther they made us believe there
+Was no one to bother
+It feels like I'm old
+It seems like I'm colder
+She came in a box I loved
+And I sold her
+More than a fighting chance I've got
+Seems like I'm losing out a lot
+Maybe the sun still knows my name
+I'll walk on my own to feet again
+My body and brain this life I lead
+Belongs to you I turn my
+Face to the rain and see you smiling again
+Maybe there'll be no more pain the
+Day we all go insane

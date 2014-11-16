@@ -1,0 +1,20 @@
+Artist: next_to_normal
+Title: hes_not_here
+Genre: Pop/Rock
+Subgenres: [u'Neo-Prog', u'Post-Grunge', u'Hard Rock']
+
+Song:
+
+Dan:
+He's not here...
+He's not here.
+Love, I know you know.
+Do you feel
+He's still real?
+Love, it's just not so.
+Why is it you still believe?
+Do you dream or do you grieve?
+You've got to let him go.
+He's been dead
+Sixteen years...
+No my love, he's not here.

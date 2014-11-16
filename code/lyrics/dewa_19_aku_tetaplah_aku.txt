@@ -1,6 +1,6 @@
 Artist: dewa_19
 Title: aku_tetaplah_aku
-Genre: unknown
+Genre: Pop/Rock
 Subgenres: []
 
 Song:

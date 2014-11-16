@@ -1,0 +1,18 @@
+Artist: grateful_dead
+Title: aiko_aiko
+Genre: Pop/Rock
+Subgenres: [u'Country-Rock', u'Jam Bands', u'Rock & Roll', u'Psychedelic', u'Psychedelic/Garage', u'Album Rock', u'Folk-Rock']
+
+Song:
+
+My spy boy saw you spy boy sittin by the bi-yo
+My spy boy told your spy boy, I'm gonna set you flag on fi-yo.
+
+I said, hey now, hey now,
+Aiko aiko all day, jockomo feeno na na nay, jockomo feena nay.
+
+My grandma and your grandma were sitting by the fire
+Said my grandma to your grandma, gonna get your tail on fire.
+
+I said, hey now, hey now,
+Aiko aiko all day, jockomo feeno na na nay, jockomo feena nay.

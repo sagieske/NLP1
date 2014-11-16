@@ -1,0 +1,38 @@
+Artist: tom_petty_the_heartbreakers
+Title: a_thing_about_you
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Heartland Rock', u'Rock & Roll', u'Bar Band', u'Contemporary Pop/Rock', u'Hard Rock']
+
+Song:
+
+I'm not much on mystery
+Yeah, you gotta be careful
+What you dream
+I thought this might pass with time
+Yeah, I thought I was satisfied
+
+{Chorus}:
+But oh baby let me tell you
+I got a thing about you
+Baby let me tell you
+I got a thing about you
+It don't matter what you say
+It don't matter what you do
+I, I, I got a thing about you
+
+Somewhere deep in the
+Middle of the night
+Lovers hold each other tight
+Whisper in their anxious ears
+Words of love that disappear
+
+{Chorus}
+
+Baby, you own
+Some strange control over me
+Yeah, it's so wild
+It hypnotizes me
+
+Raise both hands
+
+{Chorus}

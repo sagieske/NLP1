@@ -1,0 +1,21 @@
+Artist: cafe_tacuba
+Title: agua
+Genre: Latin
+Subgenres: [u'Rock en Espa\xf1ol', u'Alternative/Indie Rock', u'Indie Rock', u'Latin Rock', u'Alternative Latin', u'Neo-Psychedelia']
+
+Song:
+
+Agua para limpiar las heridas
+Que antes de sanar debo exponer
+Agua para arrastrar la inmundicia
+Que se a acumulado sin querer
+
+Agua para alimentar el бrbol
+Que un dнa su fruto nos darб
+Agua no me faltes este aсo
+Dentro de tu ciclo quiero estar
+
+Y con agua clara saciarй
+La sed que a mi me persigue
+Y con agua clara brindarй
+Porque hoy estamos juntos otra vez.

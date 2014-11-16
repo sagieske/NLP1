@@ -1,0 +1,33 @@
+Artist: dalida
+Title: a_qui
+Genre: Vocal
+Subgenres: [u'French Pop', u'Vocal Pop', u'French', u'Western European Traditions']
+
+Song:
+
+A qui
+Sourire encore si tu t'en vas
+A qui
+A qui encore tendre les bras
+Loin de toi c'est l'ennui
+Pr? S de toi, c'est la vie
+Je sais que tu es malheureux
+Notre amour est encore dans tes yeux
+
+A qui
+Parler d'amour en m'? Veillant
+A qui
+Dire des mots doux en l'embrassant
+Tu sais que tu me fais mal
+En me laissant si seule comme ca
+Reste encore l?
+O ne t'en va pas!
+
+A qui
+Faire don encore de ma tendresse
+A qui
+A qui raconter mes tristesses
+A qui dire je t'aime
+A qui raconter mes peines
+This-moi? Qui
+Si ce n'est pas? Toi

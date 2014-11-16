@@ -1,0 +1,28 @@
+Artist: family_guy
+Title: brian_wallows_from_episode_brian_wallows_peters_lyrics
+Genre: Country
+Subgenres: [u'Alt-Country', u'Country-Folk', u'Outlaw Country', u'Progressive Country']
+
+Song:
+
+Lois:
+Brian, your standards are ridiculously high.
+You will never find a girl unless you're willing to make exceptions
+And compromise so you can find your love.
+
+Brian:
+Lois, I don't think I have to compromise a thing.
+I'd rather be alone than with someone who doesn't get me.
+Oh and how long has the coffee been on the burner in the kitchen?
+I could really use a cup about now.
+
+Lois:
+Oh it's not very fresh. You see I meant to make more
+But I made the mistake of getting caught up watching Oprah
+She had on James Garner
+
+Brian:
+James Garner, what's he plugging?
+
+Lois:
+I don't know; some crappy movie on tnt.

@@ -1,0 +1,18 @@
+Artist: mayhem
+Title: a_time_to_die
+Genre: Pop/Rock
+Subgenres: [u'Black Metal', u'Heavy Metal', u'Scandinavian Metal']
+
+Song:
+
+The death throes of your final benediction echoes
+Down the spiral of the world's spine
+Down upon your great army behind the burning lake
+The fiery last days of your reign on earth
+Your falseness is your pity pride
+Your cowardliness is your whole life
+My blood is the way of your future
+My army of pureness will crush your idols
+Age of empire total war
+Paradise lies in the shadow of my sword
+Have I been understood?

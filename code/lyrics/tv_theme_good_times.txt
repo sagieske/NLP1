@@ -1,0 +1,37 @@
+Artist: tv_theme
+Title: good_times
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Indie Rock', u'Post-Rock']
+
+Song:
+
+OPENING THEME LYRICS
+
+Good Times.
+Any time you meet a payment. - Good Times.
+Any time you need a friend. - Good Times.
+Any time you're out from under.
+Not getting hassled, not getting hustled.
+Keepin' your head above water,
+Making a wave when you can.
+
+Temporary lay offs. - Good Times.
+Easy credit rip offs. - Good Times.
+Scratchin' and surviving. - Good Times.
+Hangin in a chow line - Good Times.
+Ain't we lucky we got 'em - Good Times.
+
+CLOSING THEME LYRICS
+
+Mmmmmm
+Just lookin' out of the window.
+Watchin' the asphalt grow.
+Thinkin' how it all looks hand-me-down.
+Good Times, yeah, yeah Good Times
+
+Keepin' your head above water
+Makin' a wave when you can
+
+Temporary lay offs. - Good Times.
+Easy credit rip offs. - Good Times.
+Ain't we lucky we got 'em - Good Times.

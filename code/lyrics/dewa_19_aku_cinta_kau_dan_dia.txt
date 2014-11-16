@@ -1,6 +1,6 @@
 Artist: dewa_19
 Title: aku_cinta_kau_dan_dia
-Genre: unknown
+Genre: Pop/Rock
 Subgenres: []
 
 Song:

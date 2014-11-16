@@ -1,0 +1,30 @@
+Artist: hank_williams
+Title: a_house_without_love
+Genre: Country
+Subgenres: [u'Outlaw Country', u'Southern Rock', u'Urban Cowboy', u'Country-Rock', u'Traditional Country']
+
+Song:
+
+Recorded by: hank williams, sr.
+Writer: hank williams, sr.
+
+Capo: 4th fret/key: b/play: g
+[g] for years we both have lived on pride, [d7] dear
+And we agree that love is [g] gone
+Why, oh why do we keep [d7] tryin
+A house without love is not a [g] home. [g7]
+
+The [c] lovelight in your eyes has [g] faded
+And Im contented just to [d7] roam
+We [g] slaved to gain a worthless [d7] treasure
+A house without love is not a [g] home.
+
+No matter where our footsteps wander
+I know well both be all alone
+With the pride that came between us
+A house without love is not a home.
+
+The simple things have gone forever
+We wanted wealth to call our own
+And now weve reached the hour of parting
+A house without love is not a home.

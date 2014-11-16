@@ -1,0 +1,28 @@
+Artist: paul_baloche
+Title: above_all
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Contemporary Pop/Rock', u'Soft Rock', u'Singer/Songwriter', u'Adult Contemporary', u'Rock & Roll', u'AM Pop', u'Film Score', u'Choral', u'Orchestral']
+
+Song:
+
+Above all powers
+Above all kings
+Above all nature and all created things
+Above all wisdom and all the ways of man
+You were here before the world began
+
+Above all kingdoms
+Above all thrones
+Above all wonders the world has ever known
+Above all wealth and treasures of the earth
+There's no way to measure what You're worth
+
+Chorus
+Crucified
+Laid behind the stone
+You lived to die
+Rejected and alone
+Like a rose trampled on the ground
+You took the fall
+And thought of me
+Above all

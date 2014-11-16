@@ -1,0 +1,68 @@
+Artist: zazie
+Title: aux_armes_citoyennes
+Genre: Pop/Rock
+Subgenres: [u'French Pop', u'French Rock', u'Nouvelle Chanson', u'Pop', u'Club/Dance', u'Dance-Pop', u'Euro-Dance', u'Euro-Pop']
+
+Song:
+
+A ceux qui pensent
+Qu'Eve est seulement
+Une moiti dadam
+A ceux qui disent
+Qu'elle est la mre
+De tous les vices
+A ceux qui se permettent
+D'tre le seul matre
+Aprs Dieu
+A ceux qui rient
+A celles qui pleurent
+A ceux qui vont
+Libres comme l'air
+A celles qui se terrent
+A ceux qui ont
+Le droit de dire
+Elles, de se taire
+A ceux qui prennent la vie
+De celles qui donnent la vie
+A ceux qui rient
+De celles qui pleurent
+Aux armes, citoyennes
+Nos armes seront
+Les larmes qui nous viennent
+Des crimes sans nom
+Aux hommes qui nous aiment
+Ensemble, marchons
+Et au Diable les autres
+A celles qu'on opprime
+Pour avoir commis le crime
+D'aimer
+A celles qu'on supprime
+Pour un peu de peau
+Dvoile
+A celles qu'on assassine
+Pour avoir tent de leur rsister
+A nous, mes frres
+Qui laissons faire
+Aux armes, citoyennes
+Nos armes seront
+Les larmes qui nous viennent
+Des victimes sans nom
+Aux hommes qui nous aiment
+Ensemble, marchons
+Et au Diable les autres
+A nous, mes frres
+Qui laissons faire
+Aux armes, citoyennes
+Aux armes, versons
+Les larmes qui nous viennent
+Au feu des canons
+Aux hommes que reviennent
+Un peu de raison
+Et au Diable les autres
+Aux armes, citoyennes
+Nos larmes seront
+Le forces qui nous tiennent
+Ensemble, marchons
+Puisque l'horreur est humaine
+Sur elle versons
+Nos larmes en pardon

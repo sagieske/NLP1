@@ -1,0 +1,43 @@
+Artist: dixie_chicks
+Title: a_road_is_just_a_road
+Genre: Country
+Subgenres: [u'Contemporary Country', u'Country-Pop', u'Neo-Traditionalist Country', u'Bluegrass', u'Contemporary Folk', u'Progressive Bluegrass', u'Contemporary Pop/Rock']
+
+Song:
+
+He pulled out in a cloud of dust
+Layin' rubber and spewin' rust
+And on any road he'd take
+He'd have his foot on the pedal but my heart on the brake
+Underneath the smooth tar curves
+A road is only dust and dirt
+On a lonely interchange
+The signs all look the same
+'Cause a road is just a road and a feelin's just a feelin'
+No matter where you go
+From Bakersfield to San Antone
+A road is just a road when the one you love is leavin' on
+And midnight's another dawn a hundred miles ago
+He pulled out of sight of me
+Believin' that I'd set him free
+But I'd heard the voice of the prisoner
+Sayin' he couldn't get enough of her
+You can go by land, you can go by air
+Go by sea, hell I don't care
+You can go anyway you choose
+Wearin' out the soles of your travelin' shoes
+'Cause a road is just a road and a feelin's just a feelin'
+No matter where you go
+From Bakersfield to San Antone
+A road is just a road when the one you love is leavin' on
+And midnight's another dawn a hundred miles ago
+(Bangor Maine to El Paso)
+And every sleepless night I see him screamin' by the scenery
+Not noticing another mile that's rolled on between him and me
+'Cause a road is just a road and a feelin's just a feelin'
+No matter where you go
+From Bakersfield to San Antone
+A road is just a road when the one you love is leavin' on
+And midnight's another dawn a hundred miles ago
+(Waterloo to San Bernardino)
+(Washington to Amarillo

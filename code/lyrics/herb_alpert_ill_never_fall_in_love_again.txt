@@ -1,0 +1,17 @@
+Artist: herb_alpert
+Title: ill_never_fall_in_love_again
+Genre: Easy Listening
+Subgenres: [u'AM Pop', u'Instrumental Pop', u'Jazz-Pop', u'Adult Contemporary', u'Soft Rock', u'Trumpet/Easy Listening']
+
+Song:
+
+What do you get when you fall in love?
+You only get lies, pain and sorrow
+So for at least until tomorrow
+I'll never fall in love again
+I'll never fall in love again
+
+What do you get when you fall in love?
+What do you get when you fall in love?
+What do you get when you fall in love?
+What do you get when you fall in love?

@@ -1,0 +1,18 @@
+Artist: newsies
+Title: lovey_dovey
+Genre: Children's
+Subgenres: []
+
+Song:
+
+ANNOUNCER:(Speaking)
+And now gents, the moment you've all been waiting for. The sensational songbird. The Swedish Meadowlark, Miss Medda Larkson.
+MEDDA:
+My lovey dovey baby
+I boo-hoo-hoo for you
+I used to be your tootsie-wootsie
+Then you said 'tooldle-dedoo'
+I miss the hanky-panky
+Each nighty-night til three
+Come back my lovey dovey baby
+And coochie-coo with me

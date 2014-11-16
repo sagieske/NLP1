@@ -1,0 +1,37 @@
+Artist: gackt
+Title: ash
+Genre: Pop/Rock
+Subgenres: [u'Japanese Rock', u'J-Pop']
+
+Song:
+
+Kaze no naka ni mau waraiau koe
+Kirameku yuuhi wa asu he no yakusoku
+
+Tsuki ga utsushidasu kimi wo mitsuketa
+Iroaseta toki no utakata no yume
+
+Modora nai yasuragi sae
+Nandomo kowasarete yuku
+Afureru nikushimi ga
+Kono sora wo yakitsukushite...
+
+Mori no zawameki wa yasashii utagoe
+Honno wazuka no shiawase na yume
+
+Kogoeru itami ni sae
+Yasashisa wo oboete yuku
+Subete wo keseru nara
+Kokoro sae mou ira nai
+Ash...
+
+Tada hageshiku moeru
+Kono karada de yokereba
+Kimi no tame ni subete sasageyou
+Kono kanashimi dake wa
+Kesshite wasurenu you ni
+Namida no ato wo naifu de
+Nandomo nazotta
+
+Akatsuki no sora ni ukabu kagerou
+Hohoemu kimi ga boku no soba ni ita

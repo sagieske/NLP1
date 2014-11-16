@@ -1,0 +1,61 @@
+Artist: desireless
+Title: voyage_voyage
+Genre: Pop/Rock
+Subgenres: [u'Club/Dance', u'Euro-Dance', u'Euro-Pop', u'French Pop', u'French', u'Western European Traditions']
+
+Song:
+
+Au dessus des vieux volcans,
+Glisse des ailes sous les tapis du vent,
+Voyage, voyage,
+Eternellement.
+De nuages en marйcages,
+De vent d'Espagne en pluie d'йquateur,
+Voyage, voyage,
+Vole dans les hauteurs
+Au dessus des capitales,
+Des idйes fatales
+Regardent l'ocйan...
+
+Voyage, voyage
+Plus loin que la nuit et le jour, (voyage voyage)
+Voyage (voyage)
+Dans l'espace inouп de l'amour.
+Voyage, voyage
+Sur l'eau sacrйe d'un fleuve indien, (voyage voyage)
+Voyage (voyage)
+Et jamais ne revient.
+
+Sur le Gange ou l'Amazone,
+Chez les blacks, chez les sikhs, chez les jaunes,
+Voyage, voyage
+Dans tout le royaume.
+Sur les dunes du Sahara,
+Des iles Fidji au Fujiyama,
+Voyage, voyage,
+Ne t'arrкtes pas.
+Au dessus des barbelйs,
+Des coeurs bombardйs
+Regardent l'ocйan.
+
+Voyage, voyage
+Plus loin que la nuit et le jour, (voyage voyage)
+Voyage (voyage)
+Dans l'espace inouп de l'amour.
+Voyage, voyage
+Sur l'eau sacrйe d'un fleuve indien, (voyage voyage)
+Voyage (voyage)
+Et jamais ne revient.
+
+Au dessus des capitales,
+Des idйes fatales
+Regardent l'ocйan.
+
+Voyage, voyage
+Plus loin que la nuit et le jour, (voyage voyage)
+Voyage (voyage)
+Dans l'espace inouп de l'amour.
+Voyage, voyage
+Sur l'eau sacrйe d'un fleuve indien, (voyage voyage)
+Voyage (voyage)
+Et jamais ne revient.

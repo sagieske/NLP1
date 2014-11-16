@@ -1,0 +1,37 @@
+Artist: gackt
+Title: another_world
+Genre: Pop/Rock
+Subgenres: [u'Japanese Rock', u'J-Pop']
+
+Song:
+
+Yaburisuterareta Magazine yogorenaki tamashii
+Eiga no you na One Scene anata nara anshin
+"yosomi shinai de..." anata to futari de
+Ima kono sekai e sayonara o tsugete
+Yukeru nara doko made mo tooku e
+Dare yori mo tooku e
+Yume nara samenai de
+Kono sora no mukou e
+"you can see the another world"
+Machinami wa Mossgreen kizutsuita tamashii
+Kudakechiru Taxi anata wa utsukushii
+Kotoba o kawashite
+"nakanai de Darling..."
+Itoshii itami ni yasashiku dakarete
+Yukeru nara doko made mo tooku e
+Yasashii kao o shite
+Anata wa nakanai de
+Waratta kao o misete
+"you don't need another words"
+Tatoe donna ni kizutsuite mo
+Anata ga soba ni ita kara
+Dare yori mo tooku e
+Yume nara samenai de
+Kono sora no mukou e
+"watashi o dakishimete..."
+Yasashii kao o shite
+Anata wa nakanai de
+Sayonara wa iwanaide
+"you don't need another words"
+"you can see another world"

@@ -1,0 +1,33 @@
+Artist: hoagy_carmichael
+Title: i_may_be_wrong
+Genre: Jazz
+Subgenres: [u'American Popular Song', u'Early Jazz', u'Standards', u'Tin Pan Alley Pop', u'Traditional Pop', u'Cast Recordings', u'Show Tunes']
+
+Song:
+
+I may be wrong but I think you're wonderful
+I may be wrong but I think you're swell
+I like your style say, I think it's marvelous
+I'm always wrong so how can I tell
+
+Deuces to me are all aces, life is to me just a bore
+Faces are all open spaces
+You might be John Barrymore
+You came along say I think you're wonderful
+I think you're grand but I may be wrong
+
+I may be wrong but I think you're wonderful
+I may be wrong but I think you're swell
+I like your style say, I think it's marvelous
+I'm always wrong so how can I tell
+
+Deuces to me are all aces, life is to me just a bore
+Faces are all open spaces
+You might be John Barrymore
+You came along say I think you're wonderful
+I think you're grand but I may be wrong
+
+You said that Edison would never make that light
+You laughed at Mr. Franklin with his key and kite
+The point of the song is I'm always wrong
+But with you, baby I'm oh so right

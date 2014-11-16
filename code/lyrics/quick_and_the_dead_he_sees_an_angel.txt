@@ -1,0 +1,42 @@
+Artist: quick_and_the_dead
+Title: he_sees_an_angel
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Dream Pop', u'Indie Rock', u'Alternative Pop/Rock']
+
+Song:
+
+[Verse]
+This is your time
+One of the many
+Times in your life
+When I think you're pretty wrong
+Wrong to believe it's over
+When will you see
+The beautiful angel he's made you to be
+Just look up and open your eyes
+He waits for the day
+That you decide in him
+[Pre-Chorus:]
+All fears aside
+Arms open wide
+The glory and wonder
+When he sees an angel
+'Cause he sees an angel in you
+[Chorus:]
+Believe me when I say
+That hope and love are everything
+And we need nothing more
+Than what we've got
+Than what we need
+[Verse]
+[Pre-Chorus:]
+[Chorus:]
+('Cause what he sees)
+('Cause what he sees)
+[2x]
+'Cause what he sees is everything
+'Cause what he sees is you
+'Cause what he sees is you
+[2x]
+Because what he sees is everything
+Because what he sees is you

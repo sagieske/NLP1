@@ -1,0 +1,31 @@
+Artist: nirvana
+Title: aneurysm
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Grunge']
+
+Song:
+
+Come on over, and do the twist
+Ahhhh haaaaa
+Over do it, and have a fit
+Ahhhh haaaaa
+Love you so much, it makes me sick
+Ahhhhh haaaa
+Come on over, and do the twist
+Ahhhhh haaaa
+
+Beat me outta me, (beat it, beat it)(x8)
+
+Come on over, and do the twist
+Ahhhh haaaa
+Over do it, and have a fit
+Ahhhh haaaa
+Love you so much, it makes me sick
+Ahhhh haaaa
+Come on over, and shoot the shit
+Ahhhh haaaa
+
+Beat me outta me, (beat it, beat it)(x8)
+AAAAAAAAAAAAAAAHHHHHHH AHHHHHHHHHHHAAAAAAHH
+
+She keeps it pumpin' straight to my heart (x8)

@@ -1,0 +1,17 @@
+Artist: passion
+Title: all_the_earth
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Indie Electronic', u'Indie Pop']
+
+Song:
+
+Lead Worshipper: Charlie Hall
+
+Praise the Father, Who from heaven came to me
+By the Savior, in His mercy, set me free
+
+Yeah, I run like the river, dance like the summer
+Joy is in my heart, You have satisfied my soul
+
+Praise His name, praise His name, all the earth celebrate
+Praise His name, praise His name all the earth...

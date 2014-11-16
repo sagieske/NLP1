@@ -1,0 +1,27 @@
+Artist: mickey_gilley
+Title: an_old_christmas_card
+Genre: Country
+Subgenres: [u'Country-Pop', u'Honky Tonk', u'Traditional Country', u'Urban Cowboy']
+
+Song:
+
+There's an old Christmas card in an old dusty trunk
+And it brings back sweet mem'ries dear to me
+'Tho it's faded and worn, it's as precious as the morn
+When I found it 'neath our first Christmas tree.
+
+Chorus:
+I thrill with every word, every line
+I guess I'm always sentimental 'round this time
+Oh, pardon me if a tear falls among my Christmas cheer
+It's the mem'ry of an old Christmas card.
+
+--- Instrumental ---
+
+Chorus:
+I thrill with every word, every line
+I guess I'm always sentimental 'round this time
+Oh, pardon me if a tear falls among my Christmas cheer
+It's the mem'ry of an old Christmas card.
+
+It's the mem'ry of an old Christmas card...

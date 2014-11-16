@@ -1,0 +1,124 @@
+Artist: rodgers_and_hammerstein
+Title: a_lovely_night
+Genre: Stage & Screen
+Subgenres: [u'Cast Recordings', u'Show Tunes', u'Musicals', u'Traditional Pop', u'Vocal Jazz', u'Cabaret', u'Composer Songbook', u'Musical Theater', u'Vocal Pop']
+
+Song:
+
+Cinderella: (spoken)
+I imagine that there's a grand staircase,
+Candles everywhere, and an orchestra playing...
+
+Minerva:
+It looks that way
+
+Calliope:
+The way you say
+
+Stepmother:
+She talks as if she knows.
+
+Cinderella:
+I do not know that this is so
+I only just suppose...
+I suppose that when you come to the ballroom
+And the room itself is floating in the air
+If you're suddenly confronted by his highness
+You are frozen like a statue on the stair
+You're afraid he'll hear the way your heart is beating
+And you know you mustn't make the first offense
+You are seriously thinking of retreating
+When you seem to hear him asking you to dance...
+(spoken)
+And when you waltz with him, you whirl around so that your feet never
+Touch the floor...
+
+Calliope:
+That's right they don't!
+
+Cinderella:
+And it feels like you weigh nothing at all
+
+Minerva:
+That's right it does!
+
+Cinderella:
+And for a few precious moments, you're the only two people in the entire
+World.
+(sings)
+A Lovely night, a lovely night
+A finer night you know you'll never see
+You meet your prince, a charming prince
+As charming as a prince will ever be.
+The stars in a hazy heaven
+Tremble above you
+While he is whispering:
+"Darling I love you"
+You say goodbye, away you fly
+But on your lips you keep a kiss
+All your life you'll dream of this
+A Lovely, lovely night.
+
+Minerva:
+A Lovely night,
+
+Calliope:
+How lovely!
+
+Minevra:
+A lovely night
+
+Calliope:
+How lovely!
+
+Minerva:
+A finer night you know you'll never see
+
+Calliope:
+How lovely.
+
+Minerva:
+You meet...
+
+Calliope:
+Your prince,
+
+Minerva:
+A char-...
+
+Calliope:
+.. Ming prince.
+
+Stepmother:
+As charming as a prince will ever be.
+The stars in a hazy heaven
+
+Calliope:
+Tremble above you
+
+Stepmother:
+While he is whispering:
+
+Minerva:
+"Darling I love you"
+
+Cinderella:
+You say goodbye, away you fly
+
+Stepsisters:
+But on your lips you keep a kiss
+
+Stepmother:
+All your life you'll dream of this
+
+Cinderella:
+Lovely,
+
+Minerva:
+Lovely,
+
+Calliope:
+Lovely
+
+Stepsisters, Cinderella:
+Lovely night

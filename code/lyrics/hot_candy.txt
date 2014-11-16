@@ -1,0 +1,61 @@
+Artist: hot
+Title: candy
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Post-Grunge', u'Punk Revival', u'Punk-Pop']
+
+Song:
+
+[KangTa]Sashileun oneul nawaeui manameul jeongrihako shipeo
+Nal mannalkeoya ireon nal ihaehae
+[HeeJun]Eoryeomke mam jeonghankeora neke malhalkeojiman
+Sashil oneul achime keunyang na saenggakhangeoya
+
+[KangTa]Haessale ileona boni neomuna nunbusyeo
+Modeunge da byeolhalgeoya nal hyanghan maeumdo
+[HeeJun]Keureohjiman neol sarang-ahnneunke anya ijeneun nareul byeonhwa
+Shikiltenikka
+
+[WooHyuk]Neo molrae molrae molrae dareun yeojadeulkwa bikyo bikyohaetji
+Jakkuman kkae-eojineun hwanshingsuke honjajeo ulko itneun
+Choranalke gadhyeobarin nareul boateo
+Nal ddeonalkkeoya eum! Nal ddanalkkeoya eum! 
+[HeeJun]Hajiman ajikkaji saranghaneun keol
+Keurae keureohjiman nae mam soke neoreul ijeokalkkeoya
+
+[KangTa]Meori wiro bichin nae haneul baradabomyeon
+Neolhyanghan maeumeul ijeneun kudhyeotjiman
+Waeilinji neke deo dagagalsurok urin gateun haneuleul
+Araseo isseotji
+
+[Tony]Danji neol saranghae ireohke malhaetji
+Ijekkeot junbihaetdeon mahneun mareul dwirohanchae
+Eonjena ni yeope itseulge ireoke yaksokeul hagesseo
+Jeolhaneuleun baradabomyo (Candy! )
+
+[WooHyuk]Naege haneuli yalryeo isseo keurae keurae naneun nae ipeseo itgo
+Keurae dareun yeonideuleun kiseureul hae
+Hajiman hangsang naneun nawi dwi-e isseoyaman hae
+Ije keumanhae eum nado namjande eum
+Nae maeum neodo alko itneungeol ara
+Kerae ije nado jichyeoseo haneulman barabol su bwa-e
+
+[KangTa]Haetsale ileona boni neomuna nunbusyeo
+Modeunge da byeonhalkeoya nal hyanghan maeumdo
+[HeeJun]Keureohjiman neol sarang-ahnneunge anya
+Ijeneun nareul byeonhwa shikitenikka
+
+[KangTa]Mari wiro bichin nae haneul baradabomyo
+Neol hyanghan maeumeul ijeneun gyodhyatjiman
+Waeilinji nege deo dagagalsurok urin gateun haneuleun
+Araseo isseotji
+
+[Tony]Danji neol saranghae ireohke malhaetji
+Ijekkeot junbihaetdeon mahneun mareul dwirohanchae
+Eonjena ni yeope itseulge ireoke yaksokeul hagesseo
+Jeolhaneuleun baradabomyo
+[JangWon]Hanbeon deo hanbeon deo malhaetji
+Ijekkeot junbihaetdeon mahneunmaleul wirohan chae eonjena ni yeope isseulge
+
+[KangTa]Dashi neo hunja anya neowi gyoten naega itjahna
+
+CANDY!

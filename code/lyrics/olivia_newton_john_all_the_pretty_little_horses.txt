@@ -1,0 +1,15 @@
+Artist: olivia_newton_john
+Title: all_the_pretty_little_horses
+Genre: Pop/Rock
+Subgenres: [u'Adult Contemporary', u'Country-Pop', u'Soft Rock', u'Contemporary Pop/Rock', u'AM Pop', u'Film Score']
+
+Song:
+
+Hushabye, don't you cry
+Go to sleep little baby
+When you wake, you shall take 
+All the pretty little horses
+Blacks and bays, dapples and greys
+Coach and six little horses
+Hushabye, don't you cry
+Go to sleep little baby

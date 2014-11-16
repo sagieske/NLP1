@@ -1,0 +1,26 @@
+Artist: kitty_wells
+Title: a_thing_called_sadness
+Genre: Country
+Subgenres: [u'Honky Tonk', u'Nashville Sound/Countrypolitan', u'Traditional Country']
+
+Song:
+
+It's been here since you've been gone
+It's been hanging round too long
+A thing called sadness not much of a friend
+When you walked out it walked in.
+
+In every chair where I sit down
+It follows me all over town
+A thing called sadness not much of a friend
+When you walked out it walked in.
+
+What in the world am I gonna do
+This old friend can't take the place of you
+It only brings back mem'ries of you
+And all the things that we used to do.
+
+In every chair where I sit down
+It follows me all over town
+A thing called sadness not much of a friend
+When you walked out it walked in...

@@ -1,0 +1,28 @@
+Artist: oliver
+Title: boy_for_sale
+Genre: Electronic
+Subgenres: [u'Techno', u'House', u'Progressive House', u'Club/Dance']
+
+Song:
+
+One boy,
+Boy for sale.
+He's going cheap.
+Only seven guineas.
+That -- or thereabouts.
+
+Small boy...
+Rather pale...
+From lack of sleep.
+Feed him gruel dinners.
+Stop him getting stout.
+
+If I should say he wasn't very greedy...
+I could not, I'd be telling you a tale.
+One boy,
+Boy for sale.
+Come take a peep.
+Have you ever seen as
+Nice
+A boy
+For sale.

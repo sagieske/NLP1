@@ -1,0 +1,35 @@
+Artist: sesame_street
+Title: abc_def_ghi
+Genre: Children's
+Subgenres: [u'Educational', u'Sing-Alongs', u"Children's Rock", u'Contemporary Pop/Rock']
+
+Song:
+
+Abc-Def-Ghi-Jkl-Mnop-Qrstuv-Wxyz
+It's the most remarkable word I've ever seen
+Abc-Def-Ghi-Jkl-Mnop-Qrstuv-Wxyz
+I wish I knew exactly what I mean
+It starts out like an "A" word as anyone can see
+But somewhere in the middle it gets awful "QR" to me
+Abc-Def-Ghi-Jkl-Mnop-Qrstuv-Wxyz
+If I ever find out just what this word can mean
+I'll be the smartest bird the world has ever seen!
+
+It might be kind of an elephant
+Or a funny kind of kazoo
+Or strange, exotic turtle
+You never see in a zoo
+Or maybe a kind of a doggie
+Or particular shade of blue
+Or maybe a pretty flower
+Naah, not with a name like that, Uh uh!
+
+Abc-Def-Ghi-Jkl-Mnop-Qrstuv-Wxyz
+It's the most remarkable word I've ever seen
+Abc-Def-Ghi-Jkl-Mnop-Qrstuv-Wxyz
+I wish I knew exactly what I mean
+It starts out like an "A" word as anyone can see
+But somewhere in the middle it gets awful "QR" to me
+Abc-Def-Ghi-Jkl-Mnop-Qrstuv-Wxyz
+If I ever find out just what this word can mean
+I'll be the smartest bird the world has ever seen!

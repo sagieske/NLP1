@@ -1,0 +1,28 @@
+Artist: fairport_convention
+Title: big_william_lyrics
+Genre: Pop/Rock
+Subgenres: [u'British Folk', u'British Folk-Rock', u'Folk-Rock', u'Progressive Folk', u'Psychedelic/Garage']
+
+Song:
+
+He never put a foot wrong
+Until the day Joe met Big William
+He made him an offer but he often was wrong
+"I'll tell you where to stick it," said Big William to Joe
+"You can put it where the monkey sticks his nuts"
+"I wouldn't give you fourpence for your lousy rotten dough
+And, anyway, you haven't got that much"
+"Hey Joe, hear what I say
+You want my time, I ain't giving away
+Go make the money you want some other way"
+"I don't want to go to Peru
+Don't leave ?Delhi, you're any guru?
+I don't like work and I don't like you"
+"I'll tell you where to stick it," said Big William to Joe
+"You can put it where the monkey sticks his nuts"
+"I wouldn't give you fourpence for your lousy rotten dough
+And, anyway, you haven't got that much"
+"I'll tell you where to stick it," said Big William to Joe
+"You can put it where the monkey sticks his nuts"
+"I wouldn't give you fourpence for your lousy rotten dough
+And, anyway, you haven't got that much"

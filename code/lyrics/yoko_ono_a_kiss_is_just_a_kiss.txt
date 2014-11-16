@@ -1,0 +1,12 @@
+Artist: yoko_ono
+Title: a_kiss_is_just_a_kiss
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Experimental', u'Experimental Rock', u'Contemporary Pop/Rock']
+
+Song:
+
+You must remember this,
+A kiss is just a kiss
+A fly is just a fly
+Right, and were together
+A rose is a rose.

@@ -1,0 +1,33 @@
+Artist: paul_kelly
+Title: change_your_mind
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Contemporary Pop/Rock', u'Soft Rock', u'Singer/Songwriter', u'Adult Contemporary', u'Rock & Roll', u'AM Pop', u'Film Score', u'Choral', u'Orchestral']
+
+Song:
+
+Starting at the river
+Watching the water flow
+I can't stop the river
+Never, no
+If I could make the mountains
+Fall into the sea
+Maybe I could make you
+Fall for me
+(Would you) change your mind
+Change your mind, change your mind
+All the stars keep turning
+Wheeling all night long
+I wish you'd turn
+And hear my song
+If I could make wild horses
+Come and get their hay
+Maybe I could make you
+Sway my way
+(Would you) change your mind
+Change your mind, change your mind
+Maybe when you're sleeping
+I can make a spell
+And when you wake up
+I won't tell
+(Would you) change your mind
+Change your mind, change your mind

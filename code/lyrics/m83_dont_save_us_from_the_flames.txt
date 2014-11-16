@@ -1,0 +1,22 @@
+Artist: m83
+Title: dont_save_us_from_the_flames
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Indie Electronic', u'Ambient Pop', u'New Wave/Post-Punk Revival']
+
+Song:
+
+Tina! Tina! Tina! Tina!
+
+Out of the flames
+A piece of brain in my hair
+The wheels are melting
+A ghost is screaming your name.
+
+Tina! Tina!
+
+Bleeding all around
+Liquid metal through my veins
+The radio's burning
+A ghost is screaming your name
+
+Tina! Tina! Tina! Tina!

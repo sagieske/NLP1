@@ -1,0 +1,21 @@
+Artist: victor_wood
+Title: eternally
+Genre: Jazz
+Subgenres: [u'Jam Bands', u'Jazz-Funk', u'Post-Bop', u'Electric Jazz', u'Modern Creative', u'Avant-Garde Jazz', u'Soul Jazz']
+
+Song:
+
+I'll be loving you, eternally
+With a love that's true, eternally
+From the start within my heart
+It seems I've always known
+The sun would shine
+When you are mine
+And mine alone.
+
+I'll be loving you eternally
+There'll be no one new, my dear for me
+Though the skies should fall
+Remember I shall always be
+Forever true and loving you, 
+Eternally...

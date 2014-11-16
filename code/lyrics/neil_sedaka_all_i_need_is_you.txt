@@ -1,0 +1,35 @@
+Artist: neil_sedaka
+Title: all_i_need_is_you
+Genre: Pop/Rock
+Subgenres: [u'Brill Building Pop', u'Early Pop/Rock', u'AM Pop', u'Soft Rock', u'Teen Idols']
+
+Song:
+
+I don't need money, I don't need gold,
+Your sweet kiss is wealth untold.
+I don't need the sunshine in the sky,
+There is sunshine in your eyes.
+When you hold me oh so near,
+Nothing more can matter, dear.
+Oh, all I need is you.
+
+When I'm lost in your embrace,
+The world becomes a magic place.
+When you hold me, church bells ring,
+When I kiss you, angels sing.
+Can't you see I love you so,
+Say you'll never let me go.
+Oh, all I need is you.
+
+Oh darling please believe me,
+My love is not a lie,
+For if you ever leave me,
+Then I would die.
+
+Hold me tight and hold me fast,
+Say your love will always last.
+Darling never set me free,
+Please don't take your love from me.
+What's the sky without the moon above,
+What am I without your love.
+Oh, all I need is you.

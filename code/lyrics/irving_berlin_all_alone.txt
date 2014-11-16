@@ -1,0 +1,22 @@
+Artist: irving_berlin
+Title: all_alone
+Genre: Stage & Screen
+Subgenres: [u'American Popular Song', u'Cast Recordings', u'Show Tunes', u'Tin Pan Alley Pop', u'Traditional Pop', u'Vocal Music', u'Film Music', u'Show/Musical', u'Soundtracks', u'Standards']
+
+Song:
+
+All alone, I'm so all alone
+There is no one else but you
+All alone by the telephone
+Waiting for a ring, a ting-a-ling
+
+I'm all alone every evening
+All alone, feeling blue
+Wond'ring where you are and how you are
+And if you are all alone too
+
+
+
+I wonder where you are (remember me) and how you are (remember me)
+And if you are (I love you) all alone (I love you) too
+Note: backup in final stanza is a soprano

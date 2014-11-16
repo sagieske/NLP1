@@ -1,0 +1,36 @@
+Artist: pas_band
+Title: arti_kawan
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Blues-Rock', u'Slide Guitar Blues', u'Southern Rock', u'Boogie Rock', u'Hard Rock']
+
+Song:
+
+#1
+Sepercik air yang kunantikan
+Tapi hanya butir pasir yang kudapatkan
+Dimana senyum yang memanjakan
+Tapi hanya luka hati yang kutemukan
+
+Teringat saat kita bersama
+Lalui badai nan kelam, kita tetap berjalan
+Dimanakah kini engkau kini teman
+Menghilang ditelan malam
+Tak kunjung datang
+
+[Bridge:]
+Dimanakah kau berada
+Dimanakah kau kini
+
+Reff:
+Kurindukan arti dirimu kawan
+Saling berbagi
+Indahnya mimpi kita
+Kurindukan arti dirimu kawan
+Lalaui bersama
+Menebus dingin malam
+
+#2
+Teringat saat kuberjalan
+Lalui badai nan kelam, kita tetap berjalan
+
+(back to reff 2 kali... End)

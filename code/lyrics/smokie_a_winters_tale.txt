@@ -1,0 +1,32 @@
+Artist: smokie
+Title: a_winters_tale
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Pop/Rock', u'AM Pop', u'Euro-Rock', u'Soft Rock']
+
+Song:
+
+The nights are colder now
+Maybe I should close the door.
+Anyway the snow is covered all your foot steps
+And I can follow you no more.
+The fire still burns at night
+My memories are warm and clear.
+But everybody knows
+It's hard to be alone at this time of year.
+It was only a winters tale
+Just another winters tale.
+Why should the world ignortize
+Of one more love that's fail.
+It's the love that could never be
+Though it meant to love to you and me
+On the world wide scale
+With just another winters tale.
+While I stand alone
+The bell is ringing far away.
+I wonder if you hear.
+I wonder if you're listening.
+I wonder where you are today.
+Good luck I wish you well
+For all that wishes made be worth
+I hope that love and strength with you
+For the length of your time of love

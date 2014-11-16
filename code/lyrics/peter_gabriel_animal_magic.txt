@@ -1,0 +1,30 @@
+Artist: peter_gabriel
+Title: animal_magic
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Art Rock', u'Contemporary Pop/Rock', u'Prog-Rock', u'Alternative/Indie Rock', u'College Rock', u'Film Score', u'International Fusion']
+
+Song:
+
+What did you mean when you opened your mouth and let all our secrets out?
+You told him what I was about, my cover was completely blown.
+I tell you darling, I've been watching the war films
+And I've got a few ideas of my own,
+Cause after the film had ended, the call for recruits was shown,
+
+And I'll be joining the professionals, I want to be a man.
+With all that animal magic I'll do anything you can.
+I'm joining the professionals cause I want to be a man,
+Look! I wave my wand, watch the rabbit disappear...
+Join the professionals and learn to fight!
+
+I bet the two of you still laugh at me for being timid as a lamb;
+That may be the way I look, but it's no longer what I am.
+I've been across to Northern Ireland,
+And I came home with a new kind of charge:
+I learned how to hunt in the night, I learned about camouflage.
+
+I've been joining the professionals, and now that I'm a man
+With all that animal magic I'll match anything you can.
+I'm joining the professionals, this time I understand,
+Look! I wave my wand, watch the rabbit disappear...
+Join the professionals and learn to fight!

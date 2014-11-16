@@ -1,0 +1,24 @@
+Artist: tim_hughes
+Title: beautiful_one_reprise
+Genre: Electronic
+Subgenres: [u'Club/Dance', u'Progressive House', u'EDM', u'House']
+
+Song:
+
+Beautiful one, I love You
+Beautiful one, I adore
+Beautiful one
+My soul must sing
+
+You're a beautiful one
+Beautiful one
+Beautiful one my heart
+My heart must sing
+
+Jesus, lover of my soul
+Healer of my heart
+
+Beautiful one, yeah
+Beautiful one, yeah
+Beautiful one
+You are Jesus

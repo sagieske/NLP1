@@ -1,0 +1,47 @@
+Artist: harry_chapin
+Title: a_quiet_little_love_affair
+Genre: Pop/Rock
+Subgenres: [u'Singer/Songwriter', u'AM Pop', u'Contemporary Folk', u'Contemporary Pop/Rock', u'Soft Rock']
+
+Song:
+
+When I met America, I didn't know her name
+But it seems she was something special even then
+I knew it just the same
+
+Yes, I loved the things she stood for
+Help the helpless make people free
+And I knew that an American is what I wanted to be
+
+It was the start of a little love affair
+Between my country and me
+Oh, oh, my country tis of thee
+
+Well we both grew up, things were good
+Things that we had known
+Some said we had lost something
+Some said we had grown
+
+Well time keeps rolling by my friend,
+Things can never die.
+But I had always wonder what would happen,
+Wondered when and why,
+
+What would happen to our little love affair,
+Between my country and me,
+Oh, oh, my country tis of thee,
+
+Oh, time went by and I forgot,
+Why I fell in love,
+Though I still pledge my allegiance,
+And soon I would wave the flag above,
+
+Didn't know why what we'd done,
+Didn't know where it flowed,
+Well I never knew if we had lost,
+If we had grown,
+
+It was the last of a little love affair,
+Between my country and me,
+(back ground: Oh say can you see, my country tis of thee)
+Oh, oh, my country tis of thee.

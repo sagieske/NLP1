@@ -1,0 +1,37 @@
+Artist: new_seekers
+Title: beg_steal_or_borrow
+Genre: Pop/Rock
+Subgenres: [u'Folk-Rock', u'Psychedelic/Garage', u'AM Pop', u'Soft Rock', u'Sunshine Pop', u'Early Pop/Rock', u'Folk-Pop']
+
+Song:
+
+I look at you and I see
+What I've been looking for
+Now it's very clear to me
+We should be together.
+You make me feel I could reach
+For the impossible
+And knowing how much you care
+I'll be there forever.
+
+You know I'll beg
+Steal or borrow
+To give you sunny days
+And in a hundred ways
+I'll bring you love.
+You know I'll beg
+Steal or borrow
+To make your garden grow
+And most of all you know
+I'll bring you love.
+
+I always knew that the world
+Could be a finer place
+So what if I have to wait
+Better late than never.
+You you're like me you believe
+Love makes it all worth while
+And although we've just begun
+We'll go on forever.
+
+You know...

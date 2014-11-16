@@ -1,0 +1,27 @@
+Artist: quiero_club
+Title: breathing
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Indie Pop']
+
+Song:
+
+Mr. Rodriguez said everithing I've given
+You're taking my money
+You're wasting my time
+Everything comes just as easy as it goes
+Everything runs in circles
+Everything is round
+And away, you're so far away
+Away, you're so far away
+I am so sorry Sir
+I can't place your call
+I'm unable to help you
+I'm just a machine
+I am an international operator
+I live far away
+I live in outter space
+
+So please remind me of breathing
+Sometimes I forget that I'm living
+
+Hear the answering machine again

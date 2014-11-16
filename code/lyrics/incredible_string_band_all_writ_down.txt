@@ -1,0 +1,32 @@
+Artist: incredible_string_band
+Title: all_writ_down
+Genre: Folk
+Subgenres: [u'British Folk', u'British Folk-Rock', u'Folk-Rock', u'Singer/Songwriter']
+
+Song:
+
+I fully understood
+That you'd leave when your ship come by
+And l fully understood
+You had a purpose more high
+Than to give a little schoolboy
+To give a little schoolboy his first love
+
+But oh did I cry
+And did I cry
+For I thought that those days
+Would just fade and die
+But every cell in my body has it all writ down
+Every smile and every frown
+And oh those good-time girls
+Oh those good-time girls
+That book ft sometimes makes me glad
+That book ft sometimes makes me sad
+But oh - it don't read bad
+
+I cursed you to your face
+When you turned to go
+But I see now that you did just right
+And I bow to you low
+For you gave a little schoolboy
+You gave a little schoolboy his first love...

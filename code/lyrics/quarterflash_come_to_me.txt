@@ -1,0 +1,30 @@
+Artist: quarterflash
+Title: come_to_me
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Contemporary Pop/Rock', u'Arena Rock']
+
+Song:
+
+There's a lizard on my window,
+There's a moon above Cassis
+There's a menu in my room that can't be read
+I am burned, broke and legless on pastis
+And tonight you're all I really miss or need
+There's a band down the street
+Singing high and sweet
+But I can't make out a word they say
+"Tout le monde de besoin d'amour"
+Won't you come to me, come to me
+Won't you come to me
+There's a map inside my pocket,
+But I don't know where I'll go
+I'm pulled in all directions by the moon
+I am lost, free, exhausted and alive
+And you been on my mind all afternoon
+But the lines are always blocked
+And the operators talk
+But I can't make out a word they say
+"Tout le monde de besoin d'amour"
+
+Won't you come to me, come to me
+Won't you come to me

@@ -1,0 +1,24 @@
+Artist: our_lady_peace
+Title: al_genina_leave_the_light_on
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Post-Grunge', u'Adult Alternative Pop/Rock']
+
+Song:
+
+Fell asleep today
+North Ontario
+Woke up far away
+A place I didn't know
+A woman smiled at me
+She said, welcome to my home
+Life is different here she says it's not
+Camouflage with gold
+And hey leave the light on for me
+And hey leave the light on for me, yeah
+
+Might not make it home
+I can't leave here tonight
+Not afraid to live
+Not afraid to die
+And hey, leave a light on for me
+And hey, leave a light on for me

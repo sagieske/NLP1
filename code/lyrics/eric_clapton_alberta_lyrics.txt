@@ -1,0 +1,36 @@
+Artist: eric_clapton
+Title: alberta_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Blues-Rock', u'British Blues', u'Contemporary Pop/Rock', u'Regional Blues', u'Adult Contemporary', u'Hard Rock']
+
+Song:
+
+(traditional)
+
+Alberta, alberta,
+Where you been so long?
+Alberta, alberta,
+Where you been so long?
+Aint had no loving
+Since youve been gone.
+
+Alberta, alberta,
+Whered you stay last night?
+Alberta, alberta
+Whered you stay last night?
+Come home this morning,
+Clothes don't fit you right
+
+Alberta, alberta,
+Girl, you're on my mind.
+Alberta, alberta,
+Girl, you're on my mind.
+Aint had no loving
+Such a great long time.
+
+Alberta, alberta,
+Where you been so long?
+Alberta, alberta,
+Where you been so long?
+Aint had no loving
+Since youve been gone.

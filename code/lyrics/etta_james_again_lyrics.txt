@@ -1,0 +1,37 @@
+Artist: etta_james
+Title: again_lyrics
+Genre: Blues
+Subgenres: [u'Early R&B', u'Soul-Blues', u'Soul']
+
+Song:
+
+Again
+This couldn't happen again
+This is that once in a lifetime
+This is the thrill divine
+
+What's more
+This never happened before
+Though I have prayed for a lifetime
+That such as you would suddenly, suddenly be mine
+
+Mine to hold as I'm holding you now
+And never, never, never so near
+Mine to have when the now
+And the here disappear
+
+What matters, what matters, dear, for when
+This doesn't happen again
+We'll have this moment forever
+But never, never again
+
+Mine to hold as I'm holding you now
+And never, never, never so near
+Mine to have when the now
+And the here disappear and oh
+
+What matters, what matters, what matters, dear, for when
+This doesn't happen again
+We'll have this moment forever
+But never, never again, again
+Never, never again, again

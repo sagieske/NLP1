@@ -1,0 +1,52 @@
+Artist: kate_rusby
+Title: a_rose_in_april
+Genre: Folk
+Subgenres: [u'British Folk', u'Celtic', u'Contemporary Folk', u'Contemporary Singer/Songwriter', u'Irish Folk']
+
+Song:
+
+Oh can I go to my love's side
+Oh let me go this day,
+Please let me go to my love's side,
+Oh mother, don't make me stay.
+I was a rose in April
+And still a rose in June
+I fear that come the winter,
+I shall no longer bloom
+
+Oh daughter, daughter you cannot go,
+Oh you cannot go this day.
+Your father, he forbade you,
+And at home you must remain.
+You were a rose in April,
+And still a rose in June,
+But God can send five winters
+And I know my rose will bloom
+
+Mother, mother, I must away
+Unto my true love's side.
+Bring to me my white horse,
+And away to him I'll ride
+She's rode through fields of barley,
+And she's rode throught fields of corn,
+She's come unto her true love
+One hour before the dawn.
+
+Her father, being awakened,
+Heard of his daughter's flight.
+He's taken up his dagger
+And he's rode into the night.
+He's rode through fields of barley
+And he's sped through fields of corn.
+He's come unto her true love's house
+Just before the dawn.
+
+He's found his daughter sleeping
+In her true lover's arms.
+He's taken up his dagger
+And it's deep into their hearts.
+Oh father, cruel father,
+You've killed my love, killed me,
+But now I'll rest beside him,
+Locked in his arms I'll be.
+Locked in his arms I'll be

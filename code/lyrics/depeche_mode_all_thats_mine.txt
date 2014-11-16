@@ -1,0 +1,40 @@
+Artist: depeche_mode
+Title: all_thats_mine
+Genre: Pop/Rock
+Subgenres: [u'Alternative Dance', u'Alternative Pop/Rock', u'College Rock', u'Post-Punk', u'Synth Pop', u'Dance-Rock', u'New Wave']
+
+Song:
+
+I know it's hard to reach you
+I know It's hard to breathe
+I know it's hard to be you sometimes
+I can imagine what that means
+It must someoneelse's story
+I can follow what you played
+...
+My suppose to understand
+Like a ship on the ocean
+Hanging out to see
+You can hardly see it now
+It's a lot like you
+A lot like me
+
+Used to look for redemption
+Still can't find a place
+If there's nothing else after
+There be no saving Grace
+I'll give you control now
+I need some kind of sign
+Can't take away the sorrow now
+I'll give you all that's mine
+
+Like a ship on the ocean
+Hanging out to see
+You can hardly see it now
+It's a lot like you
+A lot like me
+
+Like a ship on the ocean
+...
+It's a lot like you
+A lot like me

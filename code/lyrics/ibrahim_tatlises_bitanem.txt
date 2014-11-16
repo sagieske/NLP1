@@ -1,0 +1,51 @@
+Artist: ibrahim_tatlises
+Title: bitanem
+Genre: International
+Subgenres: [u'Middle Eastern Pop', u'Middle Eastern Traditions']
+
+Song:
+
+Bir turkum olsun
+Anitlar yakan
+Bir sцzum olsun, destanlar yazan
+Bir gulum olsun
+Solmadan dursun, hic kirilmasin, koparilmasin
+Bir guluuum olsun aaaah
+Solmadan dursun, hic kirilmasin, koparilmasin aaahh
+Hic kirlmasin, koparilmasin
+Bitaaanem
+Deligibi severim seni ben
+Цzum gibi severim seni ben
+Bu canima can ederim inan
+Bitanem
+(Deli gibi severim)
+Seni ben
+(Цzum gibi severim)
+Seni ben
+(Bu basima tac ederim)
+Inan seni ben
+
+Bir yarim olsun
+Kalbimden vursun
+Bir oglum olsun
+Adi Can olsun
+Bir gecem olsun,
+Seninlen olan
+Цmrumu yanina birakam kalam
+Bir gecem olsun
+Seninlen olan
+Цmrumu yanina birakam kalam
+Aah цmrumu yanina birakam kalam
+Birtanem
+Deli gibi severim
+(Seni ben)
+Gцzum gibi severim
+(Seni ben)
+Bu basima tac ederim
+Inan seni ben
+(Deli gibi severim)
+Seni ben
+(Gцzum gibi severim)
+Seni ben
+(Bu basima tac ederim)
+Inan seni ben

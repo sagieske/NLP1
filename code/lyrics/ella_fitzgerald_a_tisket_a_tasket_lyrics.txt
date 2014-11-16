@@ -1,0 +1,28 @@
+Artist: ella_fitzgerald
+Title: a_tisket_a_tasket_lyrics
+Genre: Vocal
+Subgenres: [u'Bop', u'Standards', u'Swing', u'Traditional Pop', u'Vocal Jazz', u'American Popular Song']
+
+Song:
+
+[words and music by Ella Fitzgerald and Van Alexander]
+A-tisket a-tasket
+A green-and-yellow basket
+I bought a basket for my mommie
+On the way I dropped it
+I dropped it, I dropped it
+Yes, on the way I dropped it
+A little girlie picked it up
+And took it to the market
+She was truckin' on down the avenue
+Without a single thing to do
+She was peck, peck, peckin' all around
+When she spied it on the ground
+A-tisket a-tasket
+She took my yellow basket
+And if she doesn't bring it back
+I think that I shall die
+(Was it red?) No, no, no, no
+(Was it brown?) No, no, no, no
+(Was it blue?) No, no, no, no
+Just a little yellow basket

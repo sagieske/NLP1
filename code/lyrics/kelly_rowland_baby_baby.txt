@@ -1,0 +1,20 @@
+Artist: kelly_rowland
+Title: baby_baby
+Genre: R&B
+Subgenres: [u'Contemporary R&B', u'Pop', u'Dance-Pop']
+
+Song:
+
+my baby
+
+baby baby baby baby
+my baby my baby
+i love you baby baby baby baby
+oh oh oh oy!
+
+baby i love baby baby
+oh baby
+baby baby baby baby
+lets get this short song on!
+baby baby baby baby
+and thats it baby

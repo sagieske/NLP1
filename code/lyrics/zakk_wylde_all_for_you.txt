@@ -1,0 +1,20 @@
+Artist: zakk_wylde
+Title: all_for_you
+Genre: Pop/Rock
+Subgenres: [u'Southern Rock', u'Hard Rock', u'Heavy Metal', u'Doom Metal']
+
+Song:
+
+My neck has been broke in the noose of life's rope
+Through My loss of you I have found no hope
+Slain emotions, lifeless and blue
+Destroying myself now
+
+All for you
+
+Remote recollections of tranquility
+Terror grotesquely becoming of me
+Unnamable joy when our blood once ran true
+Destroying myself now
+
+All for you

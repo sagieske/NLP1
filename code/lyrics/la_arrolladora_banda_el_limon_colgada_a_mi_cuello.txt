@@ -1,0 +1,32 @@
+Artist: la_arrolladora_banda_el_limon
+Title: colgada_a_mi_cuello
+Genre: Latin
+Subgenres: [u'Banda', u'Corrido', u'Latin Pop', u'Mexican Traditions']
+
+Song:
+
+Me dejas hablando solo
+Como si no te importara
+Cuando te llamo a tu casa
+No contestas mis llamadas
+Y hasta dices que no soy tu tipo
+Pero cuando estamos juntos
+Mi corazon palpita prisa, 
+Y mas cuando te hablo al oido
+
+[Esa tactica de pretender que tu me ignoras
+Y que yo debo buscarte a todas horas
+Ya me esta agotando toda mi paciencia
+
+Y es que te comportas como una chiquilla
+Y aunque me fascinas, tambien me lastimas
+Se muy bien que tu me quieres
+Aunque aveces lo niegues
+Te gusta hacerte la importante y tambien q te rueguen
+No seas inmadura, eso no me gusta
+Ven dame un beso
+Colgada a mi cuello
+No se si me entiendas
+Pero yo te quiero...]
+
+[X2]

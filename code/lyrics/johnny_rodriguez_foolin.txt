@@ -1,0 +1,41 @@
+Artist: johnny_rodriguez
+Title: foolin
+Genre: Blues
+Subgenres: [u'Blues-Rock', u'Modern Electric Blues', u'Modern Electric Texas Blues', u'Regional Blues', u'Slide Guitar Blues', u'Album Rock', u'Hard Rock', u'Arena Rock', u'Boogie Rock', u'Electric Blues', u'Electric Texas Blues']
+
+Song:
+
+I was foolin
+When I said I'd always love you
+Just foolin
+When I said that I'd be true
+
+Now you're gone
+There's an achin that I can't seem to lose
+And I wonder
+Was I ever foolin you
+
+And now that I realize
+I can't have you
+It's finally dawned on me
+Just who the fool could be
+
+But this time believe me
+I'm not foolin you
+I just can't talk my heart
+Into unlovin you
+
+And now that I realize
+That I can't have you
+It's finally dawned on me
+Just who the fool could be
+
+But this time believe me
+I'm not foolin you
+I just can't talk my heart
+Into unlovin you
+
+This time believe me
+I'm not foolin you
+I just can't talk my heart
+Into unlovin you

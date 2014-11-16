@@ -1,0 +1,28 @@
+Artist: vicentico
+Title: cancin_de_cuna
+Genre: Latin
+Subgenres: [u'Latin Pop']
+
+Song:
+
+La noche fue larga
+Ya va a amanecer
+No llores mi alma
+Ya vas a entender
+Si hoy no salgo
+No habra que comer
+No llores mi alma
+Que voy a volver
+No se si esta mal
+No se si esta bien
+Robar es lo unico
+Que puedo hacer
+Amor no te vayas
+Amor quedate
+No llores mi alma
+Ya vas a entender
+Quisiera estar lejos
+Llevarlos de aqui
+Cambiar el destino
+Hacerlo feliz
+No se si esta mal

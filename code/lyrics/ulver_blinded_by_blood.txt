@@ -1,0 +1,38 @@
+Artist: ulver
+Title: blinded_by_blood
+Genre: Electronic
+Subgenres: [u'Ambient', u'Art Rock', u'Experimental', u'Black Metal', u'Heavy Metal', u'Improvisation', u'Progressive Metal', u'Scandinavian Metal']
+
+Song:
+
+You are
+From the heart
+Of it all
+
+The light
+From the love
+In the night
+
+The sight
+From the white
+In the eye
+
+Crying
+From the inside
+The fear
+
+In the face
+From the mother
+The grace
+
+The river
+From the blood
+Of the world
+
+You become
+From the two
+The thousands
+
+My little one
+From the earth
+It all ends

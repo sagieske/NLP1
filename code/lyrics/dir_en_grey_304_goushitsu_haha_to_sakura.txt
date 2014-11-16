@@ -1,0 +1,35 @@
+Artist: dir_en_grey
+Title: 304_goushitsu_haha_to_sakura
+Genre: Pop/Rock
+Subgenres: [u'Death Metal', u'Alternative Metal', u'Alternative/Indie Rock', u'Goth Rock', u'Heavy Metal', u'Progressive Metal', u'Japanese Rock', u'Speed/Thrash Metal']
+
+Song:
+
+Shizumidashita kanjou ni wa saigo no wakare wo
+Musuko no koe miminari sae kikoezu naiteiru
+
+Me ni yakitsuku kizuato ni wa ikari wo oboete
+Hitomi wo tojita musuko wa mou waraezu ni naiteiru
+
+Taekirenai kizu wa fukaku mijikasugiru haru yo sakura chire
+
+Kinou made wa waratteita ne madobe ni saku yuri wa karete iku
+Ashita wa mou konai no darou juuroku no yoru
+Naite mite mo waratte mite mo madobe ni saku yuri wa karete iku
+Ashita wa mou konai no darou juuroku no haru
+
+Higaisha no koe wa arimasen
+
+Byoushitsu kara hakobarete iku hitomi wa hirakazu
+Watashi no koe kikoemasu ka todokanu aijou
+
+Taekirenai kizu wa fukaku mijikasugiru haru yo sakura chire
+
+Kinou made wa waratteita ne madobe ni saku yuri wa karete iku
+Ashita wa mou konai no darou juuroku no yoru
+Naite mite mo waratte mite mo madobe ni saku yuri wa karete iku
+Ashita wa mou konai no darou juuroku no haru
+Kasou sareta musuko wo daite kawarihateta yume wa karete iku
+Taekirenai kamogawa ni saku sakura no shita
+Rainen ni wa kirei ni saite ima made yori mankai ni saku
+Taekirenai kamogawa ni saku juunana no haru

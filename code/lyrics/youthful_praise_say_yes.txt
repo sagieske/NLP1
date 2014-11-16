@@ -1,0 +1,32 @@
+Artist: youthful_praise
+Title: say_yes
+Genre: Religious
+Subgenres: [u'Contemporary Gospel', u'Contemporary R&B', u'Black Gospel', u'Contemporary Christian', u'Gospel Choir', u'Inspirational', u'Praise & Worship', u'Gospel']
+
+Song:
+
+So You Struggle In The Way
+You Feel As Though With Christ There's No Way
+Struggle There's No Pain
+But God He Knows The Path You Take
+It Is He Who Has Ordained
+Some Strugges And Some Pain
+
+He Just Wants To Know If You'll
+Give Up Your Will For His Will
+Will You Give Up Your Ways For His Ways
+Will You Trust And Obey Come What May
+Will You Tell God Yes
+
+Say Yes To His Way
+God's Way Is The Best Way For You
+Yes I'll Go
+Yes Lord Show
+Yes Me The Way
+Yes That's What I Say
+Yes There's A Lesson To Learn
+Yes Even Through The Storm
+Yes I'll Be Blessed
+Yes
+
+Everybody Say Yes!

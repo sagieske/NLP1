@@ -1,0 +1,39 @@
+Artist: michael_franks
+Title: antonios_song
+Genre: Vocal
+Subgenres: [u'Contemporary Instrumental', u'Crossover Jazz', u'Jazz-Pop', u'Smooth Jazz']
+
+Song:
+
+Antonio lives life's frevo
+Antonio prays for truth
+Antonio says our friendship
+Is a hundred-proof
+The vulture that circles Rio
+Hangs in this L. A. Sky
+The blankets they give the Indians
+Only make them die
+But sing the Song
+Forgotten for so long
+And let the Music flow
+Like Light into the Rainbow
+We know the Dance, we have
+We still have the chance
+To break these chains and flow
+Like Light into the Rainbow
+Antonio loves the desert
+Antonio prays for rain
+Antonio knows that Pleasure
+Is the child of Pain
+And lost in La Califusa*
+When most of my hope was gone
+Antonio's samba led me
+To the Amazon
+We sing the Song
+Forgotten for so long
+And let the music flow
+Like Light into the Rainbow
+We know the Dance, we have
+We still have the chance
+To break these chains and flow
+Like Light into the Rainbow.

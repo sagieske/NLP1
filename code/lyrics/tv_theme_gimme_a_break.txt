@@ -1,0 +1,21 @@
+Artist: tv_theme
+Title: gimme_a_break
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Indie Rock', u'Post-Rock']
+
+Song:
+
+This is it. (This is it.)
+This is life, the one you get so go and have a ball.
+This is it. (This is it.)
+Straight ahead and rest assured you can't be sure at all.
+
+So while you're here enjoy the view.
+Keep on doing what you do
+So hold on tight we'll muddle through
+One day at a time, (One day at a time.)
+
+So up on your feet. (Up on your feet)
+Somewhere there's music playing.
+Don't you worry none we'll just take it like it comes.
+One day at a time, (One day at a time.) (4X)

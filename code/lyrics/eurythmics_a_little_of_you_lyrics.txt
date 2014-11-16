@@ -1,0 +1,30 @@
+Artist: eurythmics
+Title: a_little_of_you_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Pop/Rock', u'New Wave', u'Punk/New Wave', u'Synth Pop', u'Dance-Rock']
+
+Song:
+
+There used to be a time
+I wore my heart upon my sleeve.
+There used to be a time
+I'd show my gentle side to anyone
+Through these years of wandering
+I know I've been deceived.
+Through these years of wandering...
+And everytime you try to hurt me
+You know you'll only hurt yourself.
+And everytime you try to hurt me
+I know you'll be the one to suffer
+When you think you're hurting someone.
+A little of you - a little of me -
+A little of you -
+Is hurting someone -
+Don't tell me I'm the only one
+'Cause I don't need that space.
+Don't ask for love
+I'll throw it back in your face.
+All of these promises
+Were only made to break.
+All of these promises...
+(Chorus repeats...)

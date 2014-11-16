@@ -1,0 +1,18 @@
+Artist: iggy_pop
+Title: afraid_to_get_close
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Detroit Rock', u'Hard Rock', u'Proto-Punk', u'Dance-Rock', u'Contemporary Pop/Rock', u'Punk', u'Punk/New Wave']
+
+Song:
+
+Watching the cat sleep on my pillows
+Afraid to get close to anyone and afraid not to
+The need of all creatures to be warmed and touched
+The girls who want dads
+I think the writing is eating up myself
+Preventing any togetherness with anyone
+Hurting and recycling people over and over again
+How much longer?
+How many more?
+I held her in my arms and I didn't want to realize
+She was putting her life in my hands

@@ -1,0 +1,19 @@
+Artist: 2ne1
+Title: be_mine_english
+Genre: International
+Subgenres: [u'Asian Pop', u'Korean Pop']
+
+Song:
+
+So just shut up and be mine
+Don't wait a little more
+It comes with no voice, It's a love that goes
+I'm afraid that it will disappear
+So just shut up and be mine
+Come here in front of me
+Don't hesitate, take my hand at this moment
+We'll make it through anything, you're the one I bet
+So just shut up than be mine
+Don't wait a little more
+It comes with no voice, It's a love that goes
+I'm afraid that it will disappear

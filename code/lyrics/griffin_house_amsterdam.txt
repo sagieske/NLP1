@@ -1,0 +1,26 @@
+Artist: griffin_house
+Title: amsterdam
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Singer/Songwriter', u'Alt-Country', u'Alternative/Indie Rock', u'Adult Alternative Pop/Rock']
+
+Song:
+
+I went to Amsterdam.
+I got so lost
+Down the way.
+I took the crooked path.
+I wish that I'd never stayed.
+I cannot change the past.
+Can I change?
+Change the past?
+
+Ticket in hand to leave, 
+I sit on the train and think of you.
+Your face in the photograph, 
+I run my finger down your cheek.
+I cannot change the past.
+Can I change?
+Change the past?
+
+I cannot change the past.
+All of it's done in Amsterdam

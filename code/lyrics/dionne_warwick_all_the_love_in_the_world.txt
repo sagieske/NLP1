@@ -1,0 +1,32 @@
+Artist: dionne_warwick
+Title: all_the_love_in_the_world
+Genre: R&B
+Subgenres: [u'AM Pop', u'Brill Building Pop', u'Pop-Soul', u'Quiet Storm', u'Smooth Soul', u'Soul', u'Adult Contemporary', u'Early Pop/Rock', u'Contemporary Pop/Rock', u'Show/Musical', u'Vocal Music']
+
+Song:
+
+In your eyes I see only one - find me the place for us
+That's where I belong. There we rise - your blory and mine.
+Your pain is over now
+I make you shine - still believing:
+All the love in the world won't take me away from you
+
+My love is stronger I am what you make me.
+All the love in the world won't take you away from me
+
+In all my wonder I forever lay down here with you.
+I find when love slips away
+Reach out for all you can
+Before it's too late
+There you fly returnin' to me
+Out of your darkest nights I stand alone - still believing:
+All the love in the world won't take me away from you
+
+My love is stronger I forever lay down here with you.
+My love is true
+All your darkest nights - I stand alone - still believing:
+All the love in the world won't take me away from you
+
+My love is stronger I forever lay down here with you.
+All the love in the world won't take me away from you
+.. .

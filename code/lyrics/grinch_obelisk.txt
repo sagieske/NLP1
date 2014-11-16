@@ -1,0 +1,15 @@
+Artist: grinch
+Title: obelisk
+Genre: Latin
+Subgenres: [u'Latin Rap']
+
+Song:
+
+I stood alone in a sea of blackness
+Built a place where my pain might rest
+A monument to all my futures wasted
+A tribute to all the ships I missed
+Eats away from the inside
+Never lets me be
+Locked the doors behind myself
+And then I lost the key

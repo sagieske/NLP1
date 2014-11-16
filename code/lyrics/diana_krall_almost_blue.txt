@@ -1,0 +1,24 @@
+Artist: diana_krall
+Title: almost_blue
+Genre: Jazz
+Subgenres: [u'Contemporary Jazz', u'Torch Songs', u'Traditional Pop', u'Vocal Jazz', u'Neo-Bop', u'Film Score']
+
+Song:
+
+Almost blue
+Almost doing things we used to do
+There's a boy here and he's almost you
+Almost all the things that your eyes once promised
+I see in his too
+Now your eyes are red from crying
+Almost blue
+Flirting with this disaster became me
+It named me as the fool who only aimed to be
+Almost blue
+It's almost touching it will almost do
+There's a part of me that's always true...always
+Not all good things come to an end now it is only a chosen few
+I've seen such an unhappy couple
+Almost me
+Almost you
+Almost blue

@@ -1,0 +1,13 @@
+Artist: woe_is_me
+Title: dear_father_rest_my_weary_eyes
+Genre: Pop/Rock
+Subgenres: [u'Metalcore', u'Heavy Metal']
+
+Song:
+
+It's Your light that guides me, 
+Welcoming a brand new life, my path has been set straight.
+
+I'm dancing with this fire, I'm dancing with the flame
+You say that this scares you, He knows this as well
+Go in the right path and you shall not fail.

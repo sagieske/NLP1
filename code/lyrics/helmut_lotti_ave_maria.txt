@@ -1,0 +1,21 @@
+Artist: helmut_lotti
+Title: ave_maria
+Genre: Vocal
+Subgenres: [u'Standards', u'Belgian', u'Classical Crossover', u'Western European Traditions']
+
+Song:
+
+"Ave Maria
+Gratia plena
+Dominus tecum
+Benedicta tu
+In muliribus et benedictus
+Fructus ventris tui Jesus
+Sancta Maria, sancta Maria
+Maria
+Ora pro nobis
+Nobis peccatoribus
+Munc et in hora
+In hora mortis nostrae
+Amen
+Amen"

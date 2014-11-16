@@ -1,0 +1,36 @@
+Artist: giuseppe_giordani
+Title: caro_mio_ben
+Genre: Classical
+Subgenres: [u'Vocal Music', u'Opera']
+
+Song:
+
+Caro mio ben,
+credimi almen,
+senza di te
+
+languisce il cor,
+caro mio ben,
+senza di te
+
+languisce il cor
+Il tuo fedel
+sospira ognor
+
+Cessa, crudel,
+tanto rigor!
+Cessa, crudel,
+
+tanto rigor,
+tanto rigor!
+Caro mio ben,
+
+credimi almen,
+senza di te
+languisce il cor,
+
+caro mio ben,
+credimi almen,
+senza di te
+
+languisce il cor

@@ -1,0 +1,21 @@
+Artist: josh_abbott_band
+Title: distant
+Genre: Pop/Rock
+Subgenres: [u'Alternative Country-Rock', u'Alternative/Indie Rock', u'Alt-Country', u'Country-Rock']
+
+Song:
+
+Verse 1
+Well if the wind is her breath then the sun is her glare.
+It's hot and it's piercing and it burns when you stare.
+She gives me shivers and keeps me warm in a daze.
+Like the night she fades away.
+
+Chorus
+I don't understand why you have to be constantly distant from me.
+
+Verse 2
+There's a lake somewhere full of her tears
+With a sign that says "SWIMMERS BEWARE".
+I hold my breath as long as I can
+But her waves crush me again, and again, and again

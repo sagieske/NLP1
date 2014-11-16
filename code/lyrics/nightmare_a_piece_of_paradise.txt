@@ -1,0 +1,32 @@
+Artist: nightmare
+Title: a_piece_of_paradise
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Indie Rock', u'Alternative Pop/Rock']
+
+Song:
+
+Searching for a piece of paradise...
+
+Day after day I hear the bell
+A ray of light across the cell
+Voices in the corridor
+Keys are turning in the door
+Hostile shadows darkness fall
+And fade behind the walls
+Invisible chains, my moves are in vain
+I'm lost in my world of incredible pain
+
+Searching for a piece of paradise
+Oh I'm the one
+Searching for a piece of paradise
+I'm on my way
+Searching for a piece of paradise
+Please show me where to go!
+Searching for a piece of paradise
+Open the gates!
+
+My trouble is too cold to share
+Living a nightmare
+"Paranoid disorder: therapy failed!"
+The undertaker has my name
+And I can hear the wolves howling in the rain

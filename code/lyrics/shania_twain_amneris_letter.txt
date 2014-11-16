@@ -1,0 +1,19 @@
+Artist: shania_twain
+Title: amneris_letter
+Genre: Country
+Subgenres: [u'Contemporary Country', u'Country-Pop', u'Adult Contemporary', u'Contemporary Pop/Rock']
+
+Song:
+
+I'm sorry for everything I've said
+And for anything I forgot to say too
+When things get so complicated
+I stumble, at best muddle through
+
+
+I wish our lives could be so simple
+I don't want the world, only you
+Oh, I wish I could tell you this face to face
+But there's never the time, never the place
+And this letter will have to do
+I love you

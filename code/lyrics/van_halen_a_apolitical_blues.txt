@@ -1,0 +1,20 @@
+Artist: van_halen
+Title: a_apolitical_blues
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Arena Rock', u'Contemporary Pop/Rock', u'Hard Rock', u'Heavy Metal', u'Pop-Metal']
+
+Song:
+
+Well my telephone was ringing and
+They told me it was chairman mao
+Well my telephone was ringing and
+They told me it was chairman mao
+You got to tell him anything 'cause
+I just don't want to talk to him now
+I have a apolitical blues and
+It's the meanest blues of all
+I have a apolitical blues and
+It's the meanest blues of all
+I don't care if you're john wayne
+I just don't want to take no calls
+No calls

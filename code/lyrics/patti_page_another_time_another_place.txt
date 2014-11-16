@@ -1,0 +1,25 @@
+Artist: patti_page
+Title: another_time_another_place
+Genre: Vocal
+Subgenres: [u'Nashville Sound/Countrypolitan', u'Traditional Pop', u'Vocal Pop', u'Country-Pop']
+
+Song:
+
+Another time, another place
+We'll be together again
+This kiss, this same embrace,
+Will be more wonderful then.
+
+Tho' goodbye is a sad time,
+Be glad we had time to fall in love,
+I need my love with you
+
+When shadows grow, I'll miss the glow
+That only you can survive,
+But then, I'll just pretend
+That you're still here at my side
+
+So give me once more that kiss I adore,
+Then I'll let you go
+But we'll meet another time
+Another place, I know

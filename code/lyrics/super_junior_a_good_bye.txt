@@ -1,0 +1,29 @@
+Artist: super_junior
+Title: a_good_bye
+Genre: Pop/Rock
+Subgenres: []
+
+Song:
+
+[Kyuhyun] Amuri apado joha jigeum neol boreo gagi ttaemune
+[Donghae] Meoreojyeo inneun dongan neol neomu bogo sipeotgi ttaemune
+
+[Ryeowook] Jogeumman deo jinamyeon neol dasi boge dwae seolleineun nal
+Nae maeumi apado ipsureun jeojeollo utge doeneun nal
+[Yesung] Deo isang neoege saranghae malhal su eobseojineun nal
+Ireoke seolleneun heeojineun nal
+[Eunhyuk] Rallallallalla
+[Sungmin] Saranghae neoreul saranghae balgeoreum matchwo gobaegeul hae
+
+[Kangin] Jogeumman deo jinamyeon neol dasi boge dwae seolleineun nal
+[Eunhyuk] Nae maeumi apado ipsureun jeojeollo utge doeneun nal
+[Siwon] Deo isang neoege saranghae malhal su eobseojineun nal
+[Leeteuk] Ireoke nae maeumi seolleneun oneureun heeojineun nal
+
+[Ryeowook] Miri apahal pillyoneun eobseo geunyang jigeum idaero neoreul saranghae
+Rallallallalla
+
+[Shindong] Jogeumman deo jinamyeon neol dasi boge dwae seolleineun nal
+[Kyuhyun] Nae maeumi apado ipsureun jeojeollo utge doeneun nal
+Rallallallalla
+Amuri apado joha jigeum I sunganmaneun haengbokhae

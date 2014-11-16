@@ -1,0 +1,35 @@
+Artist: upa_dance
+Title: dancing_in_the_street
+Genre: Latin
+Subgenres: [u'Rock en Espa\xf1ol']
+
+Song:
+
+Dancing In The Street
+Calling out around the world
+Are you ready for a brand new beat
+Summer's here and the time is right
+For dancing in the street
+We're dancing in Chicago
+Down in New Orleans
+In New York City
+All we need is music
+Sweet, sweet music
+There'll be music everywhere
+[Bridge:]
+There'll be swinging, swaying
+And records playing
+We're dancing in the Street
+[Chorus:]
+Oh, it doesn't matter what you wear
+Just as long as you are there
+So c'mon
+Every guy grab a girl
+Everywhere around the world
+There'll be dancing
+We're dancing in the street
+This is an invitation
+Across the nation
+A chance for folks to meet
+[Bridge:]
+[Chorus:]

@@ -1,0 +1,52 @@
+Artist: 2am
+Title: although_youve_turned_around_now
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'College Rock', u'Contemporary Pop/Rock', u'Post-Punk', u'Dance-Rock']
+
+Song:
+
+Neon heeojija malhago seodureugo isseo
+Naegeseo jomdeo ppalli meoreojigo sipeunji
+Dasi sijakhal su eomnyago myeotbeoneul mureobwatjiman
+Andoendago an doendago daedabeun gatasseo
+
+Cheoeumbuteo urin saranghanjeokdo
+Eomneun geotcheoreom
+Neon salgetdago hajiman nan nan geureol su eomneun geol
+
+Jigeum heeojijiman
+Ildan doraseojiman
+Eonjengan dasi ol georago nan mitgo isseulge
+
+Eojjeol suga eobseoseo
+Nunmureun heureujiman
+Niga doraoneun nareneun
+Neol hyanghaeseo utgo seoisseulge
+
+Jom deo itgo sipeunde neon aninga bwa...
+Naega hago inneun maldeureul gyesok neomgigo isseo
+
+Naeilbuteo urin dasin mot bol georago malhago
+Neon doraseoryeo hajiman
+Nan geureol su eomneungeol
+
+Jigeum heeojijiman
+Ildan doraseojiman
+Eonjengan dasi ol georago nan mitgo isseulge
+
+Eojjeol suga eobseoseo
+Nunmureun heureujiman
+Niga doraoneun nareneun
+Neol hyanghaeseo utgo seoisseulge
+
+Joheun maldo manheunde... Wae mojilgiman
+Hani niga aneun geotboda nan, deo manhi neol saranghaneunde
+
+Jigeum heeojijiman (heeojijiman)
+Ildan doraseojiman (doraseojiman)
+Eonjengan dasi ol georago nan mitgo isseulge
+
+Eojjeol suga eobseoseo (eojjeol su eobseoseo)
+Nunmureun heureujiman
+Niga doraoneun nareneun
+Neol hyanghaeseo utgo seoisseulge

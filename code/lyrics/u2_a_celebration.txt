@@ -1,0 +1,55 @@
+Artist: u2
+Title: a_celebration
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'College Rock', u'Contemporary Pop/Rock', u'Post-Punk', u'Dance-Rock']
+
+Song:
+
+Shake! Shake!
+
+Don't go
+I believe in a celebration
+I believe you set me free
+I believe you can loose this chains
+I believe you can dance with me
+Dance with me
+
+Shake! Shake!
+Shake! Shake!
+
+I believe in the third world war
+I believe in the atomic bomb
+I believe in the powers that be
+But they won't overpower me
+
+And, and you can go there too
+And, and you can go go go go
+
+Shake! Shake!
+Shake! Shake!
+
+And we don't have the time
+And everything goes 'round and 'round
+And we don't have the time
+To watch the world go tumbling down
+
+Go! Go!
+
+I believe in the bells of Christ's Church
+Ringing for this land
+I believe in the cells of Mount Joy
+Doesn't understand
+
+And, and you can go there too
+And, and you can go go go go
+
+I believe in the walls of Jericho (And you...)
+I believe they're coming down (Can go there too)
+I belive in this city's children (And you...)
+I believe the trumpet's sound (can go go go go)
+
+And you can go there too
+And you can go go go go...
+
+I believe in what I'm doing
+What am I doing here...

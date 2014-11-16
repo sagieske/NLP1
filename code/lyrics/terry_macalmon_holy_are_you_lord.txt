@@ -1,0 +1,24 @@
+Artist: terry_macalmon
+Title: holy_are_you_lord
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Noise Pop', u'Punk-Pop', u'Garage Punk', u'Alternative/Indie Rock']
+
+Song:
+
+Can you hear the sound of heaven
+Like the sound of many waters
+It's the sound of worship coming from the throne
+There are cries of adoration
+As men from every nation
+Lift their voice to make His glory known, singing
+
+Chorus:
+Holy, holy, holy are You, Lord
+Holy, holy, holy are You, Lord
+The elders and angels bow
+The redeemed worship You now
+Holy, holy, holy are You, Lord
+
+Repeat Verse
+
+Repeat Chorus 3 times

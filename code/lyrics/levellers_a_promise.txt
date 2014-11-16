@@ -1,0 +1,36 @@
+Artist: levellers
+Title: a_promise
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Celtic Rock', u'College Rock']
+
+Song:
+
+This place looks familiar, they always are,
+Came here again to meet you, forgotten star,
+What's that can I hear you talking? What's that you say?
+Every cloud has a silver lining, come on mate!
+
+And I love it when you whisper to me...
+There's always a promise in the dreams that you think,
+There's always a promise in this last drink,
+This last drink,
+
+We've met so many places, we've always danced,
+Then every morning after, left in a trance,
+You know if we keep on meeting you'll take my soul,
+Let's make this our last greeting, cause I must go,
+
+And I love it when you whisper to me...
+There's always a promise in the dreams that you think,
+There's always a promise in this last drink,
+This last drink,
+
+This time I really mean it, it's over now,
+Last night we both went too far - you know how,
+Today I'm left staring the thousand yards,
+Today I know you promised the house of cards,
+
+And I love it when you whisper to me...
+There's always a promise in the dreams that you think,
+There's always a promise in this last drink,
+This last drink,

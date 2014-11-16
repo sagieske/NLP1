@@ -1,0 +1,32 @@
+Artist: enrique_bunbury
+Title: algo_en_comn_lyrics
+Genre: Latin
+Subgenres: [u'Latin Pop', u'Rock en Espa\xf1ol']
+
+Song:
+
+La misma cara y la misma suerte
+Las mismas ganas de siempre
+Un mismo rumbo a un mismo paso
+Dando tumbos, por el mundo,
+Del mismo lado
+
+Como preguntas
+Si tenemos algo en comun
+Como preguntas
+Si tenemos algo en comun
+
+Mismo silencio a un mismo tiempo
+El mismo humor y descontento
+La misma tristeza y cansancio
+Acumulado y de la mano
+A una misma esperanza
+
+Como preguntas
+Si tenemos algo en comun
+Cómo preguntas
+Si tenemos algo en comun
+Cómo preguntas
+Si tenemos algo en comun
+Cómo preguntas
+Si tenemos algo en comun

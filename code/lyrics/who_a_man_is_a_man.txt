@@ -1,0 +1,60 @@
+Artist: who
+Title: a_man_is_a_man
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'British Invasion', u'British Psychedelia', u'Hard Rock', u'Mod', u'Psychedelic/Garage', u'Rock & Roll', u'AM Pop']
+
+Song:
+
+You talk about crazy affairs
+You talk about your life as though it mattered
+You get attention 'cos you block the stairs
+Bragging about some bottles you have shattered
+
+Well I met a man who really lives
+He really does it all
+But what really matters is the heart he gives
+He makes your talk seem small
+
+When a man is a man
+He doesn't act to a plan
+He don't have to perform like John Wayne in some B feature flick
+A man is a man
+When he can offer his hand
+Not afraid of appearing insane if he can't break a brick
+I know a man who's a man
+
+Can't you sometimes crack a smile
+Do you think if you did we would run and tell
+I know one day your big villian style
+Will collapse as they turn the key in the door of your cell
+
+I know a man who was once like you
+But he opened his heart
+No one is really bad right through
+He's just another part
+
+When a man is a man
+And he drinks 'til he's canned
+He can drop to the floor, he can weep, we won't ask the price
+A man is a man
+He can fall he can stand
+We won't love him more if he keeps his soul on the ice
+I know a man who's a man
+
+Every one of us is looking for fame
+He's a looker
+He's a dresser
+He's a genius under pressure
+I know a man who could tighten your rein
+He's a father
+He's a brother
+He's a rock
+He's a lover
+
+He's a man he's a man
+He doesn't act to a plan
+He don't have to get hitched to a train in some muscle beach trick
+A man is a man
+When he can offer his hand
+Not afraid of apprearing insane if he can't break a brick
+Be a man who's a man

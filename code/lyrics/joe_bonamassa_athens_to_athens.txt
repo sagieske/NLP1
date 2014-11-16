@@ -1,0 +1,24 @@
+Artist: joe_bonamassa
+Title: athens_to_athens
+Genre: Pop/Rock
+Subgenres: [u'American Trad Rock', u'Blues-Rock', u'Modern Electric Blues']
+
+Song:
+
+I'm gonna leave my girl you should see
+She is so fine
+It's Better Athens to Athens
+Kinda day and night
+
+I'm gonna go into town
+Going to try to flag a ride
+It's Better Athens to Athens
+Kinda day and night
+
+I'm gonna watch the sun come up
+Fires gonna rise
+It's Better Athens to Athens
+Kinda day and night
+
+It's Better Athens to Athens
+Kinda day and night

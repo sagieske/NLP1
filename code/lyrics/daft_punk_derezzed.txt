@@ -1,0 +1,34 @@
+Artist: daft_punk
+Title: derezzed
+Genre: Electronic
+Subgenres: [u'Club/Dance', u'Electronica', u'House', u'Progressive House', u'Left-Field House']
+
+Song:
+
+Don't want to let you go
+I'm staying here by your side
+Wish time was standing still
+Don't wanna close my eyes
+And let this night pass me by
+Oh let it pass me by
+
+I don't want to miss a thing
+Your love is so amazing, so amazing
+If we could spend forever
+Live forever, that's alright with me
+I don't want to miss a thing
+Your love is so amazing
+
+Don't want to let you go
+I'm staying here by your side
+Wish time was standing still
+Don't wanna close my eyes
+And let this night pass me by
+Oh let it pass me by
+
+I don't want to miss a thing
+Your love is so amazing, so amazing
+If we could spend forever
+Live forever, that's alright with me
+I don't want to miss a thing
+Your love is so amazing

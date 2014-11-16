@@ -1,0 +1,26 @@
+Artist: yoko_ono
+Title: a_story
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Experimental', u'Experimental Rock', u'Contemporary Pop/Rock']
+
+Song:
+
+There was a girl who couldn't speak,
+Who couldn't speak her mind.
+Only thing she was good at
+Was telling stories of faraway lands.
+
+There was a guy who couldn't say,
+Who couldn't say what he wanted.
+Only thing he was good at
+Was cracking jokes to make people laugh.
+
+So many words he swallowed,
+So many thoughts she kept to herself.
+And when they met they made love
+And talked about the world and the weather.
+
+So many cities he walked,
+So many countries she traveled.
+And in their dreams they would listen
+To the sound of the sea they heard together.

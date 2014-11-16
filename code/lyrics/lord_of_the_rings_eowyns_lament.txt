@@ -1,0 +1,17 @@
+Artist: lord_of_the_rings
+Title: eowyns_lament
+Genre: Pop/Rock
+Subgenres: [u'Alternative Metal', u'Doom Metal', u'Heavy Metal', u'Stoner Metal', u'Sludge Metal']
+
+Song:
+
+Bealocwealm hafað fréone frecan forth onsended
+Giedd sculon singan gléomenn sorgiende on Meduselde
+Thæt he ma no wære, his dryhtne dyrest
+And maga deorost Bealo
+
+(English Translation)
+An evil death has set forth the noble warrior
+A song shall sing the sorrowing minstrels of Meduseld
+That noble cousin, who always held me dear
+Now is held in darkness, enclosed

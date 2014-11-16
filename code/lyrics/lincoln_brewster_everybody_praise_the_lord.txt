@@ -1,0 +1,21 @@
+Artist: lincoln_brewster
+Title: everybody_praise_the_lord
+Genre: Religious
+Subgenres: [u'Alternative CCM', u'Christian Rock', u'Contemporary Christian', u'Gospel', u'CCM']
+
+Song:
+
+I thank the Lord for what, for what He's done in us
+I thank the Lord for His love
+I thank the Lord for what He's gonna do in us
+From the Heavens above
+I thank the Lord for the smile that He's put on my face
+I thank the Lord for His grace
+I thank the Lord for the joy that He has given to me
+'Cuz now I know that I am really set free
+
+Chorus:
+Everybody Everybody
+Everybody praise the Lord
+Everybody Everybody
+Everybody praise the Lord

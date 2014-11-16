@@ -1,0 +1,17 @@
+Artist: shirley_temple
+Title: believe_me_if_all_those_endearing_young_charms
+Genre: Vocal
+Subgenres: [u'Lullabies', u'Traditional Pop']
+
+Song:
+
+Believe me, if all those endearing young charms,
+Which I gaze on so fondly today
+Were to change by tomorrow,
+And fleet in my arms
+Like fairy gifts fading away,
+Thou wouldst still be adored,
+As this moment thou art,
+Let thy lovliness fade as it will;
+And around the dear ruin each wish of my heart
+Would entwine itself verdantly still!

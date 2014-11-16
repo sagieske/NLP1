@@ -1,7 +1,7 @@
 Artist: david_guetta
 Title: cant_you_feel_the_change
 Genre: Electronic
-Subgenres: [u'Club/Dance', u'EDM', u'House', u'Progressive House']
+Subgenres: [u'Club/Dance', u'EDM', u'House', u'Progressive House', u'Left-Field Pop', u'Pop']
 
 Song:
 

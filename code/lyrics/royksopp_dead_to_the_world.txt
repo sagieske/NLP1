@@ -1,0 +1,18 @@
+Artist: royksopp
+Title: dead_to_the_world
+Genre: Electronic
+Subgenres: [u'Downbeat', u'Trip-Hop', u'Ambient Breakbeat', u'Downtempo', u'Euro-Dance', u'Club/Dance']
+
+Song:
+
+In the dead of the night you seem closer to me
+The next day I wake up and know how unreal it is
+Feeling so tense like I'm caught in a corner
+You can't speak but I hear you calling
+I come back for you
+
+I've been dead to the world and I've chosen to be
+Inside under pillows with marvels and wonders
+Sedating my will to exist in the open
+I don't move but I keep on moving
+I'm only with you

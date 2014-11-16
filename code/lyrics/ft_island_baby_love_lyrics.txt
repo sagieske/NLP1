@@ -1,0 +1,63 @@
+Artist: ft_island
+Title: baby_love_lyrics
+Genre: Jazz
+Subgenres: [u'Third Stream', u'World Fusion', u'Classical Crossover', u'Chamber Music', u'New Acoustic']
+
+Song:
+
+Ogumirado aju jogumirado
+Gyeote meomulleo jugil ganjeolhi bireobojiman
+Deonun anirago ijaenun anirago
+Eoreumcheorum chagaon neoui maltu
+
+Eoseo nari jinago eoseo keumandurago
+Keureolsurok sangcheoman deo gipi namgae dwindago
+Nanun gwaenchandago neol saranghan imameun
+Imi manhi sangcheoae igsokhanikka
+
+Godeun sari bakhyeobeoryeo
+Apeunjuldo nanun molla
+Sucheonbeon halkyeodo
+Sumanbeon halkyeodo
+Nae gasumeun apeunjuldo molla
+
+Godeun sari bakhyeobeoryeo
+Apeunkae haedo nan molla ijaen
+Sucheonbeon jjitgyeodo
+Sumanbeon jjkitgyeodo
+Nae gasumeun apeunjuldo molla
+Nae sarangeun
+
+Darun sarangeul manna darun sarangeul haedo
+Neo gateun sarangeun dubeon dashin mothalggeoya
+Godeun sari bakhin nae gasum eodiedo
+Ddo darun sarangeun mot sseultaenikka
+
+Godeun sari bakhyeobeoryeo
+Apeun juldo nanun molla
+Sucheonbeon halkyeodo
+Sumanbeon halkyeodo
+Nae gaumeun apeunjuldo molla
+
+Godeun sari bakhyeobeoryeo
+Apeukaehaedo nan molla ijaen
+Sucheonbeon jjitgyeodo
+Sumanbeon jjitgyeodo
+Nae gasumeun apeunjuldo molla
+Nae sarangeun
+
+Jebal deashi dorawajweo
+Jebal dashi naegae wajweo
+
+Ni eolguri bakhyeobeoryeo
+Jiweobwado soyongeobseo
+Sucheonbeon jiweogo
+Sumanbeon jiweodo
+Ni eolguri jiweojijil anha
+
+Ni sarangi bakhyeobeoryeo
+Gasumeul hubyeodo andwae keurae
+Neoman saranghago
+Neobakkae mollaseo
+Darun sarangeun jugeodo andwae
+Nae sarangeun

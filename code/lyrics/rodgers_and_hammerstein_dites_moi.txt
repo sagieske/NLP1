@@ -1,0 +1,42 @@
+Artist: rodgers_and_hammerstein
+Title: dites_moi
+Genre: Stage & Screen
+Subgenres: [u'Cast Recordings', u'Show Tunes', u'Musicals', u'Traditional Pop', u'Vocal Jazz', u'Cabaret', u'Composer Songbook', u'Musical Theater', u'Vocal Pop']
+
+Song:
+
+Ngana and Jerome:
+
+Dites-moi
+Pourquoi
+La vie est belle,
+Dies-moi
+Pourquoi
+La vie est gai,
+Dites-moi
+Pourquoi,
+Chere Mad'moiselle,
+Est-ce que
+Parce que
+Vous m'aimez?
+
+Dites-moi
+Pourquoi,
+Chere Mad'moiselle,
+Est-ce que
+Parce que
+Vous m'aimez?
+
+English Version
+Not on the ocr
+
+Tell me why
+The sky is filled with music,
+Tell me why
+We fly on clouds above
+Can it be
+That we
+Can fly to music
+Just because,
+Just because
+We're in love

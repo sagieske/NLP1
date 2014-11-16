@@ -1,0 +1,34 @@
+Artist: eppu_normaali
+Title: argentiina_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Adult Alternative Pop/Rock', u'Alternative/Indie Rock', u'International Pop', u'Alternative Pop/Rock']
+
+Song:
+
+On yllдmme raitapaidat Argentiinan
+On pelimme nopeata, kiihkoisaa
+Jos palkinnoksi toivomme me Malviinan,
+Emme paitsiosддntцд voi noudattaa
+Oi kenraali, sд seisot Evitan parvekkeella
+Ja kuorot tahdistetut huuman nostattaa
+Ja mylvii nautojenkin laumat Pampaksella
+Ne huutaa Malviinaa, vain Malviinaa
+
+Me lyцmme vanhalla Englannin
+On laidat vahvat ja hyцkkдyspдд
+Ja onneksi saimme peliin tuomarin,
+Joka baseballia vain ymmдrtдд
+
+Oi kenraali, sд seisot Evitan parvekkeella
+Ja kuorot tahdistetut huuman nostattaa
+On kadonneitten kuoro vaikeneva,
+Ei huuda Malviinaa, ei Malviinaa
+
+On yllдmme raitapaidat Argentiinan
+On pelimme nopeata, kiihkoisaa
+Jos palkinnoksi toivomme me Malviinan,
+Emme paitsiosддntцд voi noudattaa
+Oi kenraali, sд seisot Evitan parvekkeella
+Ja kuorot tahdistetut huuman nostattaa
+On kadonneitten kuoro vaikeneva
+On kadonneitten kuoro vaikeneva

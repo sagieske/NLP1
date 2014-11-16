@@ -1,0 +1,29 @@
+Artist: ocean_colour_scene
+Title: all_up
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'British Trad Rock', u'Britpop', u'Alternative Pop/Rock']
+
+Song:
+
+Spark and Cindy live by their own means
+They wouldn't have if I only
+Know'd where they'd been
+And I want to make things a part of my life
+And I want to see that
+Things are going to be right
+But if you can't even
+Stand on your feet
+And if you don't own the
+Air that you breathe
+Then it's not for me to say
+
+But I wouldn't live that way
+And I wouldn't stand apart
+And I wouldn't find the real
+And I wouldn't play a part
+And I wouldn't find in love
+So misguided by some fool
+And just what I'm trying t say
+Makes my head spin round the room
+
+(Repeat from 3rd line onwards)

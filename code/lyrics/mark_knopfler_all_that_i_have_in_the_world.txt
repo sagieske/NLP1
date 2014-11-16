@@ -1,0 +1,27 @@
+Artist: mark_knopfler
+Title: all_that_i_have_in_the_world
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Folk-Rock', u'Psychedelic/Garage', u'Film Score', u'Contemporary Singer/Songwriter', u'Adult Contemporary', u'Film Music', u'Soundtracks']
+
+Song:
+
+Don't leave me don't leave me
+I'm begging of you
+My prescious, my only sweet girl
+Don't leave me don't leave me
+I'll die if you do
+And you're all that I have in the world
+You're all that I have in the world
+
+I care not for treasures of silver and gold
+I care not for diamonds and pearls
+Love may not be measured or traded or sold
+And you're all that I have in the world
+You're all that I have in the world
+
+Not a word of a warning would you give to me
+My prescious, my only sweet girl
+You'd leave me in the morning
+And I'll be calling for you
+And you're all that I have have in the world
+You're all that I have in the world

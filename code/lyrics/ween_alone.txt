@@ -1,0 +1,17 @@
+Artist: ween
+Title: alone
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Comedy Rock', u'Indie Rock', u'Lo-Fi']
+
+Song:
+
+When the life inside no doubt has died.
+And you've turn your head away.
+You tried to pay, but at the end of the day, it 's you again, alone.
+Alone, confined. The mess in your mind.
+When you can't relate to them.
+You've reaped and sown, but little is known by those who aren't alone.
+Why should a man learn not again what he has learned before?
+He's overcome but must succumb to what he's living for.
+He tried and tried. All those survived. He missed. He's fallen short.
+The little known, his heart of stone, will make him feel alone.

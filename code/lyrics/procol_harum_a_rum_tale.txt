@@ -1,0 +1,21 @@
+Artist: procol_harum
+Title: a_rum_tale
+Genre: Pop/Rock
+Subgenres: [u'Art Rock', u'British Psychedelia', u'Prog-Rock', u'Psychedelic/Garage', u'AM Pop', u'Jazz-Rock']
+
+Song:
+
+She's fuddled my fancy, she's muddled me good
+I've taken to drinking, and given up food
+I'm buying an island, somewhere in the sun
+I'll hide from the natives, live only on rum
+
+I'm selling my memoirs, I'm writing it down
+If no one will pay me I'll burn down the town
+I'll rent out an aircraft and print on the sky
+If God likes my story then maybe he'll buy
+
+I'm buying a ticket for places unknown
+It's only a one-way: I'm not coming home
+She's swallowed my secret, and taken my name
+To follow my footsteps and knobble me lame

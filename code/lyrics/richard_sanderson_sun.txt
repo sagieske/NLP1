@@ -1,0 +1,36 @@
+Artist: richard_sanderson
+Title: sun
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Pop/Rock', u'Rock & Roll']
+
+Song:
+
+Sun, that's how I call her
+'Cause we met in summerland
+Sun, that's why I loved her
+'Cause I came from the night
+
+Sun made me tender
+Covered my life
+In the way
+That I needed so bad
+
+Just a sun
+In the horizon
+With a strange
+Shiny look in her eyes
+
+Sun, she's like a fountain
+Where I dream and make love
+And the light over her shoulders
+Makes me think nothing is real
+
+Sun made me tender
+Covered my life
+In the way
+That I needed so bad
+
+But one day
+Sun changed direction
+And she left me
+Alone in the shade.

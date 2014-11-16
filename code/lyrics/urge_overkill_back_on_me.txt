@@ -1,0 +1,21 @@
+Artist: urge_overkill
+Title: back_on_me
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Hard Rock', u'Rock & Roll']
+
+Song:
+
+When I take you down, I don't wanna take you down.
+Don't ask why I never been there, cause I don't know, oh no
+If I close my eyes, I don't wanna close my eyes, there are dreams of
+Phantom doorways
+There were dreams of you and me.
+
+Turn your back on me [x3]
+
+Will you drag me down, will you see just who I am.
+Don't have much and never will have, but I got dreams yeah, yeah
+
+Turn your back on me [x3]
+
+Turn your back on me [x7]

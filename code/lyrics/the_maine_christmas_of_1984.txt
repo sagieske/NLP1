@@ -1,0 +1,17 @@
+Artist: the_maine
+Title: christmas_of_1984
+Genre: R&B
+Subgenres: [u'Contemporary R&B', u'Pop']
+
+Song:
+
+It was christmas of 1984
+A cold cold storm near by
+Michelle was cooking marshmellows
+While barbra was getting a tatto
+
+I was sittin' while I was changin' inta my zebra pattern tu-tu
+I'm really cold by christmas 1984,
+Cold cold cold cold cold,
+I put in ma headphones and listened to music while
+Babra went blaa-blaa and I was humming do-da-dee-dee I said do-da-dee-dee.

@@ -1,0 +1,28 @@
+Artist: iris_dement
+Title: big_city
+Genre: Country
+Subgenres: [u'Alt-Country', u'Alternative/Indie Rock', u'Contemporary Country', u'Contemporary Folk', u'Country-Folk', u'Neo-Traditional Folk', u'Neo-Traditionalist Country', u'Americana']
+
+Song:
+
+I'm tired of this dirty old city
+Entirely too much work and never enough play
+And I'm tired of these dirty old sidewalks
+I think I'll walk off my steady job today
+
+Chorus:
+So turn me loose, set me free
+Somewhere in the middle of Montana
+Gimme all I've got coming to me
+And keep your retirement
+And your, so called, social security
+Big City turn me loose and set me free
+
+I've been working every day since I was twenty
+I ain't got a thing to show for anything I've done
+Some folks never work and they've got plenty
+I think it's time girls like me had some fun
+
+(chorus)
+
+Big City turn me loose and set me free

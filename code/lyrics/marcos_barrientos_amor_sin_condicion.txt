@@ -1,0 +1,21 @@
+Artist: marcos_barrientos
+Title: amor_sin_condicion
+Genre: Latin
+Subgenres: [u'Bossa Nova', u'Brazilian Pop', u'MPB', u'Brazilian Traditions', u'Samba']
+
+Song:
+
+De tal manera al mundo tu amaste
+Que hasta tu vida entregastes
+Tu costado abierto fue
+Y fueron esas gotas de tu sangre
+Que mi corazon limpiaron
+Me hicistes un nuevo ser
+
+Coro
+Gracias te doy gracias
+Por tu amor sin condicion en esa cruz
+Gracias te doy gracia
+Por tu perdon en esa cruz
+
+Amor sin condicon, amor sin condicion

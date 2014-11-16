@@ -1,0 +1,43 @@
+Artist: julio_iglesias
+Title: 33_anos
+Genre: Vocal
+Subgenres: [u'Adult Contemporary', u'Latin Pop', u'French Pop', u'Italian Pop', u'Vocal Pop']
+
+Song:
+
+Entre nostalgia y nostalgia
+Entre tu vida y la mia
+Entre la noche y el alba
+Se van pasando los dias.
+Quin no recuerda esa edad
+Llegados los diecisis
+Cuando queremos tener
+Algunos aos de mas.
+Y quin no quiere ocultar
+Un poco el tiempo de ayer
+Cuando se empieza a encontrar
+Alguna arruga en su piel.
+Treinta y tres aos
+Nada mas son media vida
+Treinta y tres aos
+Que se van con tanta prisa.
+Treinta y tres aos
+De querer a quien lo pida
+Treinta y tres aos
+Como usted quien lo diria.
+A veces miro hacia atras
+Con la nostalgia que da
+El recordar esa edad
+Cuando se juega a ganar.
+Y hoy si quiero apostar
+Me toca tanto perder
+Y es que el amor tiene edad
+Aunque no lo quiera usted.
+Treinta y tres aos
+Nada mas son media vida
+Treinta y tres aos
+Que se van con tanta prisa.
+Treinta y tres aos
+De querer a quien lo pida
+Treinta y tres aos
+Como yo quien lo diria.

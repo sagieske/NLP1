@@ -1,0 +1,21 @@
+Artist: crystal_lewis
+Title: amazing_grace
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Indie Rock', u'Americana', u'Indie Pop', u'Alternative Country-Rock']
+
+Song:
+
+Amazing grace how sweet the sound
+That saved a wretch like me
+I once was list but now I'm found
+Was blind but now I see
+
+'Twas grace that taught me heart to fear
+And grace my fears relieved
+How precious did that grace appear
+The hour I first believed
+
+Through many dangers, toils, and snares
+I have already come
+'Tis grace hath brought me safe thus far
+And grace will lead me home

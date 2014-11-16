@@ -1,0 +1,26 @@
+Artist: vengaboys
+Title: cheekah_bow_bow
+Genre: Pop/Rock
+Subgenres: [u'Club/Dance', u'Euro-Dance']
+
+Song:
+
+I saw you in the disco
+Last night in San Francisco
+The way you used your joystick
+It really makes my mouse click
+
+Come sit down on my laptop
+Lets do a little hiphop
+Let's go into a chatroom
+And do a little boom boom
+
+I saw you in the disco
+Last week in San Francisco
+The way you used your joystick
+Has really made me feel sick
+
+The doctor checked my harddrive
+A virus in my archive
+My disc was not protected
+And now I am infected

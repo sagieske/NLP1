@@ -1,0 +1,34 @@
+Artist: yonder_mountain_string_band
+Title: angel
+Genre: Country
+Subgenres: [u'Progressive Bluegrass', u'Contemporary Bluegrass', u'Jam Bands', u'Bluegrass', u'Old-Timey', u'String Bands']
+
+Song:
+
+If ever I need you dear
+I find your love is gone
+Sign on the dotted line
+And try to take it home
+
+I left my lamp a-burning
+I left the front door open wide
+No sleep come the morning
+Wore it out with the tears I cried
+
+Chorus:
+Are you gonna be my angel?
+The Devil's never gonna let me save my poor soul
+
+[ Chorus (x2) ]
+
+Shovel that shines like silver
+Digs a hole in the ground
+The gold ring that I gave you
+I found it laying 'round
+
+The hole ate up my mind
+The hole ate up my heart
+Your name's still on my lips
+When I whisper in the dark
+
+[ Chorus (x4) ]

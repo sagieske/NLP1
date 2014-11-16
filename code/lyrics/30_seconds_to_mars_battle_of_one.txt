@@ -1,0 +1,22 @@
+Artist: 30_seconds_to_mars
+Title: battle_of_one
+Genre: Pop/Rock
+Subgenres: [u'Neo-Prog', u'Post-Grunge', u'Hard Rock']
+
+Song:
+
+Try and stop me
+Try and save me
+
+I want to fall...
+
+Try and cross me
+Take me, tease me
+
+I want to fall
+I want to fall
+I want to fall...
+
+I want to fall
+I want to fall
+I want to fall...

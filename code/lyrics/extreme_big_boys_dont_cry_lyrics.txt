@@ -1,0 +1,39 @@
+Artist: extreme
+Title: big_boys_dont_cry_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Pop/Rock', u'Hard Rock', u'Heavy Metal', u'Pop-Metal', u'Arena Rock', u'Hair Metal']
+
+Song:
+
+-------------------------
+Whoever said that
+Big boys don't cry
+You say you never
+Shed a tear
+Well, listen
+That's a lie
+We're all
+Defenseless
+When it comes to pain
+I said boys and girls
+Alike
+Yeah,
+We're all the same
+It's my party
+I'll cry if I want to
+Big boys don't cry
+As if nothing
+Seems to matter
+Big boys don't cry
+Then why do I
+Big boys don't cry
+Because nothing
+In this world
+Ever matters
+Big boys don't cry
+Hey, I'm not ashamed
+To say a tear
+Is in my eye
+Because another tear
+Will take it's place
+Before I die

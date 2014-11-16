@@ -1,0 +1,31 @@
+Artist: tom_petty_the_heartbreakers
+Title: a_one_story_town
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Heartland Rock', u'Rock & Roll', u'Bar Band', u'Contemporary Pop/Rock', u'Hard Rock']
+
+Song:
+
+I'm for standin' up, I'm for breakin' free
+I don't want fate handed down onto me
+Yeah, I'm for movin' on, try another town
+Time ain't changin' nothin', take a look around
+
+Oh, I'm lost in a one story town
+Where everything's close to the ground
+Yeah, the same s**t goes down
+Nothing turns around, it's a one story town
+
+She was only seventeen but I held her to her word
+Had to push her luck and thought she couldn't burn
+No, it didn't hurt me when she had to leave
+She had a far away feeling wasn't part of me
+
+Oh, I'm lost in a one story town
+Where everything's close to the ground
+Yeah, the same s**t goes down
+Nothing turns around, it's a one story town
+
+Yeah, I'm lost in a one story town
+Where everything's close to the ground
+Yeah, the same s**t goes down
+Nothing turns around, it's a one story town

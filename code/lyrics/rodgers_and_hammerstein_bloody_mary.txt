@@ -1,0 +1,31 @@
+Artist: rodgers_and_hammerstein
+Title: bloody_mary
+Genre: Stage & Screen
+Subgenres: [u'Cast Recordings', u'Show Tunes', u'Musicals', u'Traditional Pop', u'Vocal Jazz', u'Cabaret', u'Composer Songbook', u'Musical Theater', u'Vocal Pop']
+
+Song:
+
+Men:
+Bloody Mary is the girl I love.
+Bloody Mary is the girl I love.
+Bloody Mary is the girl I love.
+Now ain't that too damn bad!
+
+Her skin is tender as Dimaggio's glove.
+Her skin is tender as Dimaggio's glove.
+Her skin is tender as Dimaggio's glove.
+Now ain't that too damn bad!
+
+Bloody Mary's chewin' betel nuts.
+She is always chewin' betel nuts.
+Bloody Mary's chewin' betel nuts.
+And she don't use Pepsodent!
+Now ain't that too damn bad!
+
+[Instrumental]
+
+Bloody Mary is the girl I love.
+Bloody Mary is the girl I love.
+Bloody Mary is the girl I love.
+Now ain't that too damn bad!
+Now ain't that too damn bad

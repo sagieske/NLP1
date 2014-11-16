@@ -1,0 +1,34 @@
+Artist: she
+Title: an_quan_gan
+Genre: Pop/Rock
+Subgenres: [u'Alternative Singer/Songwriter', u'Alternative/Indie Rock', u'Adult Alternative Pop/Rock', u'Indie Pop', u'Alternative Pop/Rock']
+
+Song:
+
+Wo shi zai kan ta de han shan bu shi
+Ta you duo hao kan
+Xian zai shi shen me qing kuang ma
+Fan kuai ba cu he wan
+Ni shi huai yi wo yan guang hai shi
+Huai yi ni zhang xiang
+Mei ge nan de ni dou zhua kuang na
+Wo ba ba zen me ban
+Wo zhen de jue de fei cheng ku xiao bu de
+Ni you yi xin bing wei he yao wo fu ze
+Ni de ge ren feng ge ke neng yu wo bu he
+Ye xu gai yang chong wu ni hui
+Bian de geng kuai le
+Ni ru guo mei you an quan gan
+Ba an quan dai ji shang
+Xin ren shi ai qing zui jia fang hu wang
+Ni ru guo mei you an quan gan ba
+An quan mao dai shang
+Zi xin jiu bu pao you ren geng ni qiang
+Zhi bu guo he peng you ju can nan
+Dao jiu hui you fa zhan
+Gai bu hui zai ni yan zhong wo xiang
+Ge hua chi yi yang
+Ni shi tai xian mei shi gan hai shi
+Kan duo ba dian dang
+Ou er ji du you zhu lang man tao duo
+Jiu hen niang niang qiang

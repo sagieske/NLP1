@@ -1,0 +1,36 @@
+Artist: mario_lanza
+Title: ave_maria
+Genre: Vocal
+Subgenres: [u'Traditional Pop', u'Vocal Music', u'American Popular Song', u'Opera', u'Standards', u'Cast Recordings', u'Musical Theater']
+
+Song:
+
+(Latin)
+
+Ave Maria
+Gratia plena
+Dominus tecum
+Benedicta tu in mulieribus
+Et benedictus fructus ventris
+Tui, Jesus
+Sancta Maria
+Mater Dei
+Ora pro nobis peccatoribus
+Nunc et in hora mortis nostrae
+Ave Maria
+Amen.
+
+(English)
+
+Hail Mary,
+Full of grace,
+The Lord is with thee;
+Blessed art thou among women,
+And blessed is the fruit of thy womb,
+Jesus.
+Holy Mary,
+Mother of God,
+Pray for us sinners,
+Now and at the hour of our death.
+Hail Mary,
+Amen

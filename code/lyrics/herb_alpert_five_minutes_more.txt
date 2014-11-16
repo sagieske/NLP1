@@ -1,0 +1,27 @@
+Artist: herb_alpert
+Title: five_minutes_more
+Genre: Easy Listening
+Subgenres: [u'AM Pop', u'Instrumental Pop', u'Jazz-Pop', u'Adult Contemporary', u'Soft Rock', u'Trumpet/Easy Listening']
+
+Song:
+
+Dear, this evening seemed to go so awfully fast
+We had so much fun and now you? Re home at last
+I looked forward to a kiss or two at the garden gate
+But you gave me just one peck and insisted it was late
+
+Give me five minutes more, only five minutes more
+Let me stay, let me stay in your arms
+Here am I, begging for only five minutes more
+Only five minutes more of your charms
+
+All week long I dreamed about our Saturday date
+
+Don't you know that Sunday morning, you can sleep late?
+Give me five minutes more, only five minutes more
+Let me stay, let me stay in your arms
+
+All week long I dreamed about our Saturday date
+Don't you know that Sunday morning, you can sleep late?
+Give me five minutes more, only five minutes more
+Let me stay, let me stay in your arms

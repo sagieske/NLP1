@@ -1,0 +1,19 @@
+Artist: kirk_franklin
+Title: all_i_need
+Genre: Religious
+Subgenres: [u'Black Gospel', u'Contemporary Gospel', u'Urban', u'Gospel']
+
+Song:
+
+You are all I need
+I will sing lift up my voice and I will rejoice forever.
+I will bring all that I am to all that you are forever.
+
+You are all I need
+I will sing lift up my voice and I will rejoice forever.
+I will bring all that I am to all that you are forever.
+
+You are all I need
+I will sing lift up my voice and I will rejoice forever.
+I will bring all that I am to all that you are forever.
+You are the one for me you are all I need.

@@ -1,0 +1,23 @@
+Artist: lucille_starr
+Title: the_french_song
+Genre: R&B
+Subgenres: [u'Club/Dance', u'Soul', u'Urban', u'Adult Contemporary R&B', u'Contemporary Pop/Rock', u'Contemporary R&B', u'Dance-Rock', u'Funk', u'Alternative/Indie Rock', u'Dance-Pop', u'Neo-Psychedelia']
+
+Song:
+
+Quand le soleil dit bonjour aux montagnes,
+Et que la nuit rencontre le jour.
+Je sui seule avec mes reves sur la montagne,
+Une voix me rapelle toujours.
+Ecoute a ma porte les chansons du vent,
+M'rapelle les souvenirs de toi
+Quand le soleil dit bonjour aux montagnes
+Je suis seule, je ne veux penser qu'a toi
+Now when the sun says good-day to the mountains
+And the night says hello to the dawn
+I'm alone with my dreams on the hilltop
+And I can still hear his voice though he's gone
+I hear from my door the love songs through the wind
+It brings back sweet memories of you.
+Quand le soleil dit bonjour aux montagnes
+Je suis seule, je ne veux penser qu'a toi.

@@ -1,0 +1,38 @@
+Artist: yonder_mountain_string_band
+Title: another_day
+Genre: Country
+Subgenres: [u'Progressive Bluegrass', u'Contemporary Bluegrass', u'Jam Bands', u'Bluegrass', u'Old-Timey', u'String Bands']
+
+Song:
+
+When the rain is fallin' you can hear me callin'
+Been gone so long that I wanna cry
+In all the cities that I see, this open road has taken me
+To another place far away from you
+
+I close the door behind me and fall onto the bed
+There's nothing on the tv and not much in my head
+When I think of you it makes me smile and I realize
+It's another day without you
+
+Chorus:
+Now wait for me little darling
+I'm coming home, I hope you'll understand
+I long for you little darling
+Can't wait till I can see you again
+
+And as the days turn into weeks
+I'll call you when you're fast asleep
+The air outside is cold enough to snow
+In all the little towns I see
+Another road has taken me
+To some other place far away from you
+
+The man behind the counter says room 225
+I can't recall the place I'm in by the looks inside
+And sure as every hotel looks the same I realize
+It's another day without you
+
+[ Chorus - x2 ]
+
+Can't wait till I can see you again

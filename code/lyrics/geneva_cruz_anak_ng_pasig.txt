@@ -1,0 +1,56 @@
+Artist: geneva_cruz
+Title: anak_ng_pasig
+Genre: Latin
+Subgenres: [u'Cuban Traditions', u'Latin Pop', u'Mambo', u'Salsa', u'Tropical', u'Latin Jazz', u'Son', u'World Fusion']
+
+Song:
+
+Ako'y umusbong sa tabi ng Pasig
+Nagisnan ang ilog na itim ang tubig
+Lumaking paligid ang bundok na umuusok
+Langhap na langhap ang amoy ng basurang bulok
+
+Ganyan ang buhay ng anak ng Pasig
+Pa-swimming swimming sa itim na tubig
+Playground lang ang bundok ng basura niyo
+Musika'y ugong ng kotse at bangka niyo
+
+Anak ng Pasig naman kayo
+Kalat doon, kalat dito
+Natakpan na ang langit kong ito
+Nilason din ang Ilog ko
+Anak ng Pasig naman kayo
+Tapon doon, tapon dito
+Di niyo alam ang tinatapon niyo
+Ay bukas ko at ng buong mundo
+
+Akala ko'y ganoon talaga ang mundo
+Hanggang makakita ako ng lumang litrato
+Di maniwalang Pasig rin ang tinitingnan ko
+Kaibigan ano ang nangyari dito
+
+Anak ng Pasig naman kayo
+Kalat doon, kalat dito
+Natakpan na ang langit kong ito
+Nilason din ang Ilog ko
+Anak ng Pasig naman kayo
+Tapon doon, tapon dito
+Di niyo alam ang tinatapon niyo
+Ay bukas ko at ng buong mundo
+
+Huli na ba ang lahat
+Patay na ba ang ilog at dagat
+Kapag pasig ay pinabayaan
+Parang bukas ang tinalikuran
+
+Anak ng Pasig naman kayo
+Kalat doon, kalat dito
+Natakpan na ang langit kong ito
+Nilason din ang Ilog ko
+Anak ng Pasig naman kayo
+Tapon doon, tapon dito
+Di niyo alam ang tinatapon niyo
+Ay bukas ko at ng buong mundo
+
+Anak ng Pasig naman kayo
+May bukas pa ang ating mundo.

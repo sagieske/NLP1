@@ -1,0 +1,37 @@
+Artist: pas_band
+Title: bayangan
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Blues-Rock', u'Slide Guitar Blues', u'Southern Rock', u'Boogie Rock', u'Hard Rock']
+
+Song:
+
+Sunyinya Malam Kian Mencekam
+Menambah Kegelisahan
+Ingin Ku Raih Satu Persatu
+Dalam Kehidupan Ini
+
+Namun Ku Tak Mampu Menyingkirkan
+Segala Keraguan Ini
+
+Terbayang Slalu Masa Yang Silam
+Yang Penuh Penderitaan
+Ku Coba Lagi Untuk Melangkah
+Dengan Darah Yang Tersisa
+
+Masih Adakah Secercah Harapan
+Tuk Menyingkap Problema Ini
+
+Reff:
+Hanya Bayangan Ada Di Depanku
+Ingin Ku Lalui Namun Aku Tak Berdaya
+Mimpi-mimpi Slalu Menghantui
+Menyiksa Batinku Hancurkan Kehidupanku
+
+Tuhan Tolonglah Hambamu Ini
+Tuhan Tunjukkan Jalanku Ini
+Tunjukkan Sgala Harapan
+
+Masih Adakah Secercah Harapan
+Tuk Menyingkap Problema Ini
+
+Kembali Ke: Reff (2x)

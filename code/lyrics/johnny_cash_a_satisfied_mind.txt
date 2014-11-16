@@ -1,0 +1,47 @@
+Artist: johnny_cash
+Title: a_satisfied_mind
+Genre: Country
+Subgenres: [u'Country Gospel', u'Country-Pop', u'Cowboy', u'Gospel', u'Rockabilly', u'Traditional Country', u'Rock & Roll', u'Country-Folk']
+
+Song:
+
+How many times have
+You heard someone say.
+If I had his money,
+I could do things my way.
+But little they know
+That it's so hard to find,
+One rich man in ten
+With a satisfied mind.
+Once I was winning
+In fortune and fame.
+Everything that I dreamed for,
+To get a start in lifes game.
+Then suddenly it happened,
+I lost every dime.
+But Im richer by far
+With a satisfied mind.
+Money can't buy back
+Your youth when you're old.
+Or a friend when you're lonely,
+Or a love that's grown cold.
+The wealthiest person
+Is a pauper at times.
+Compared to the man
+With a satisfied mind.
+When life has ended
+And my time has run out.
+My friends and my loved ones
+Will leave, there's no doubt.
+But there's one thing for certain
+When it comes my time.
+Ill leave this old world
+With a satisfied mind.
+How many times have
+You heard someone say.
+If I had his money,
+I could do things my way.
+But little they know
+That it's so hard to find,
+One rich man in ten
+With a satisfied mind.

@@ -1,0 +1,35 @@
+Artist: 4men
+Title: everything
+Genre: R&B
+Subgenres: [u'Adult Contemporary R&B', u'Contemporary R&B', u'Adult Contemporary', u'New Jack Swing']
+
+Song:
+
+Something that I want to give to myself
+Jeongmalo sarangiramyeon
+Something that I want to give to myself
+Gadeuk geudaeppunijyo
+
+You're everything everything
+Gaseum gipeungose maethil hanmadi
+Everything everything
+
+Don't say goodbye
+Don't say goodbye
+Don't say goodbye
+
+Something that I want to give to myself
+Jeongmalo sarangiramyeon
+Something that I want to give to myself
+Gadeuk geudaeppunijyo
+
+You're everything everything
+Gaseum gipeungose maethil hanmadi
+Everything everything
+
+Jeongmalo sarangiramyeon oh I know
+Gadeuk geudaeppunijyo
+
+You're everything everything
+Gaseum gipeungose maethil hanmadi
+Everything everything

@@ -1,0 +1,36 @@
+Artist: j_rocks
+Title: kono_mune_ni
+Genre: Rap
+Subgenres: [u'Gangsta Rap', u'Southern Rap']
+
+Song:
+
+Bokuno kakao ga tsumatte iru
+Hurui nikki o huto
+Hiraitemiru
+Anata no sashin mitsuke
+Tayo...
+
+*Bokura ga aishiatteta koro
+Anata no emi ya odoketa kao
+Ima wa mou soba ni inai...
+Satte shimatta...
+
+#Nanimo nai...
+Anata o aisuru igai...
+Naze kounatte shimattano...
+Hitorikiri...
+
+(Back to * and #)
+
+Mosi huta... Tabi
+Anata o teni iretara
+Hanashi wa shinaiyo...
+Nido to...
+
+Anata o wasure rarenai
+Itsumo kokoro no naka ni
+Arunawa anata no kao dake dakara
+Bokuwa negau anata ga
+Modotte kite kureru koto
+Kono mune ni...

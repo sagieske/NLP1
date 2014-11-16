@@ -1,0 +1,14 @@
+Artist: falco
+Title: anakondamour_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Dance-Pop', u'New Wave', u'Punk/New Wave']
+
+Song:
+
+Der Schlange Kur
+Ist nur L'amour, for shure
+
+Der Schlange Kur toujurs
+Anakondamour.
+
+Bemerkung: der ist wirklich nicht lдnger...

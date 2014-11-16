@@ -1,0 +1,34 @@
+Artist: john_prine
+Title: all_night_blue
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Folk', u'Progressive Folk', u'Singer/Songwriter', u'Folk-Rock', u'Psychedelic/Garage']
+
+Song:
+
+You've got a life somewhere without me
+I've gone on without you
+It hasn't been easy getting used to
+Being lonely and tonight is an all night blue
+And I wonder how you look and who looks at you
+In your nightgown
+I can almost feel your body
+Your warm and loving body when I lay down
+
+Chorus:
+It's an all night blue
+Remembering you
+It's an all night blue
+Wondering who's loving you... All night
+
+Well it hurts me to see that you're
+Happy without me cause I still need you
+I just drank up my heart
+Set it empty on the table 'cause I
+Ain't got nothing better to do
+Still I wonder how you look and
+Who looks at you every morning
+I can still feel your warm breath
+You kissing me on the chest
+I'm just dreaming
+
+Chorus

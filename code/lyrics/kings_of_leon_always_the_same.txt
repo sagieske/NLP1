@@ -1,0 +1,20 @@
+Artist: kings_of_leon
+Title: always_the_same
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'American Trad Rock', u'Southern Rock', u'Alternative Country-Rock']
+
+Song:
+
+I don’t know where I’m gonna go, 
+But it don’t matter to me
+‘Cause it’s always this way, 
+And I’m always the same
+I’m not a man, everybody said, 
+But it don’t matter to me
+I’ll break my heart, tear it apart, 
+It don’t matter to me, no no
+
+I put a shine in your eye, 
+It don’t matter to me
+‘Cause it’s always this way, 
+And I’m always the same

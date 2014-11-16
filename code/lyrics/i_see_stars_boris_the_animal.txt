@@ -1,0 +1,15 @@
+Artist: i_see_stars
+Title: boris_the_animal
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Screamo', u'Post-Hardcore']
+
+Song:
+
+This is not the path that you were made for
+Just take a look around
+Get off the floor
+We were meant for so much more
+
+You were meant for so much more
+
+I can't be saved

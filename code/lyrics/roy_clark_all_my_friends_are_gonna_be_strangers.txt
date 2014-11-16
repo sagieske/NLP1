@@ -1,0 +1,21 @@
+Artist: roy_clark
+Title: all_my_friends_are_gonna_be_strangers
+Genre: Country
+Subgenres: [u'Nashville Sound/Countrypolitan', u'Traditional Country', u'Country-Pop', u'Instrumental Country']
+
+Song:
+
+Across the miles from heart to heart
+We're born alone we live apart
+And time slips by like sifting sand
+So reach out stranger if you can
+And take a stranger's hand.
+
+If each of us could find a way
+Too steep and high the words can say
+To touch each other openly
+To feel that we are more than strangers
+That's where love may be.
+
+To feel that we are more than strangers
+That's where love may be...

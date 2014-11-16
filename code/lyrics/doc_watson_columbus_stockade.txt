@@ -1,0 +1,37 @@
+Artist: doc_watson
+Title: columbus_stockade
+Genre: Folk
+Subgenres: [u'Traditional Folk', u'Appalachian', u'Bluegrass', u'Old-Timey', u'North American Traditions', u'Traditional Country', u'Traditional Bluegrass']
+
+Song:
+
+Way down in Columbus Georgia
+Lord I wish I was back in Tennessee
+Way down in that old Columbus Stockade
+My friends all have turned their back on me.
+
+Go and leave me if you wish to
+Never let me cross your mind
+In your heart you love another
+Leave me, little darling, I don't mind
+
+Many a night with you I've rambled
+Honey, countless hours with you I've spent
+Thought I had your sweet love and your little heart forever
+But I find it was only lent.
+
+Go and leave me if you wish to
+Never let me cross your mind
+If in your heart you love another
+Leave me, little darling, I don't mind
+
+Last night as I lay sleeping
+Oh, I dreamd that I was you in my arms
+When I woke I was mistaken
+Lord, I was still behind these bars
+
+Go and leave me if you wish to
+Never let me cross your mind
+If in your heart you love another
+Leave me, little darling, I don't mind
+Lord, I've got the walking blues

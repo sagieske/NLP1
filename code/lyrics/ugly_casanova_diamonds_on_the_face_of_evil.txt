@@ -1,0 +1,16 @@
+Artist: ugly_casanova
+Title: diamonds_on_the_face_of_evil
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Indie Rock', u'Lo-Fi']
+
+Song:
+
+She forgot to lay the eggs
+[awe shey shaw shey shaw]
+Penny didn't have no whistle
+[awe shey shaw shey shaw]
+Diamonds in the horses stable
+[awe shey shaw shey shaw]
+The dancers didn't have their feet
+On the families in the graveyard.
+Diggin diamonds on the face of evil.

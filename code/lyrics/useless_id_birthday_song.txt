@@ -1,0 +1,32 @@
+Artist: useless_id
+Title: birthday_song
+Genre: Pop/Rock
+Subgenres: [u'Punk-Pop', u'Alternative/Indie Rock', u'Alternative Pop/Rock']
+
+Song:
+
+It was a sunday,
+I never tought I could forget.
+If I would remember'
+I wouldn't be full of regret.
+
+Now she needs an answer.
+I forgot her Birthday.
+
+Sitting and waiting,
+I want her to know that I care.
+No matter what I say,
+I never make it up to her.
+
+Now she needs an answer.
+I forgot her Birthday.
+
+After all we can be friends
+Still pretend all the time.
+
+After all we can be friends
+Still pretend.
+
+Because it was her birthday.
+Because it was her birthday.
+Because it was her birthday.

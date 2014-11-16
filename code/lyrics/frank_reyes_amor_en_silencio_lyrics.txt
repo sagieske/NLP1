@@ -1,0 +1,40 @@
+Artist: frank_reyes
+Title: amor_en_silencio_lyrics
+Genre: Latin
+Subgenres: [u'Bachata', u'Tropical', u'Latin Pop', u'Dominican Traditions']
+
+Song:
+
+Hoy me he decidido ha contarte
+Esto que llevo por dentro
+Es un sentimiento hermoso
+Que se ha clavado en mi pecho.
+
+Luchэ por no revelartelo
+Se que tэ eres ajena
+Pero yo harэ con este amor
+Si es que me corta las venas,
+Pero que yo harэ con este amor
+Si es que me corta las venas...
+
+Coro:
+Es que no puede morir
+Un amor en silencio
+Serэa ocmo ahorgarse
+Es volar contra el viento...
+
+Hay que desahogarse
+Creo que vale la pena
+El que calla un amor es cobarde
+Su vida serэ una condena,
+El que calla un amor es cobarde
+Su vida serэ una condena...
+
+Si te digo que te amo
+Eso me alivia la pena
+Yo no pierdo la esperanza
+De que algэn dэa me quieras,
+Yo no pierdo la esperanza
+De qeu algэn dэa me quieras...
+
+Coro...

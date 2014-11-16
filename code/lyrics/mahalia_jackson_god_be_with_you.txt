@@ -1,0 +1,35 @@
+Artist: mahalia_jackson
+Title: god_be_with_you
+Genre: Religious
+Subgenres: [u'Black Gospel', u'Gospel', u'Spirituals', u'Traditional Gospel']
+
+Song:
+
+God be with you
+God be with you
+God be with you
+'Til we meet again
+God be with you
+Oh, God be with
+God, God be with you
+Until we meet again
+(repeat)
+
+If I never more shall meet you
+If I never more shall greet you
+God, be with you
+'Til we meet again
+Keep on working for the Master
+He'll be with you here and after
+God be with you
+Until we meet again
+
+God be with you
+God be with you
+God be with you
+'Til we meet again
+God be with you
+God is truly with us
+God be with you
+Until we meet again
+(repeat)

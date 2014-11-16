@@ -1,0 +1,58 @@
+Artist: luciano_pavarotti
+Title: brindisi_la_traviata
+Genre: Classical
+Subgenres: [u'Classical Crossover', u'Opera', u'Vocal Music']
+
+Song:
+
+Brindisi
+Giuseppe Verdi - La Traviata
+
+Alfredo:
+Libiamo, libiamo ne'lieti calici
+che la belleza infiora.
+E la fuggevol ora s'inebrii
+a voluttа.
+Libiamo ne'dolci fremiti
+che suscita l'amore,
+poichи quell'ochio al core
+Omnipotente va.
+Libiamo, amore fra i calici
+piщ caldi baci avrа.
+All:
+Ah, libiamo;
+amor fra i calici
+Piщ caldi baci avrа
+
+Violetta:
+Tra voi tra voi saprт dividere
+il tempo mio giocondo;
+Tutto и follia nel mondo
+Ciт che non и piacer.
+Godiam, fugace e rapido
+e'il gaudio dell'amore,
+e'un fior che nasce e muore,
+ne piщ si puт goder.
+Godiam c'invita un fervido
+accento lusighier.
+All:
+Godiam, la tazza e il cantico
+la notte abbella e il riso;
+in questo paradise
+ne sopra il nuovo dм.
+Violetta:
+La vita и nel tripudio
+
+Alfredo:
+Quando non s'ami ancora.
+
+Violetta:
+Nol dite a chi l'ignora,
+
+Alfredo:
+e' il mio destin cosм ...
+
+All:
+Godiamo, la tazza e il cantico
+la notte abbella e il riso;
+in questo paradiso ne sopra il nuovo dм.

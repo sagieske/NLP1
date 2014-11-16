@@ -1,0 +1,9 @@
+Artist: handel_george_frideric
+Title: 06_air_for_alto_but_who_may_abide_the_day_of_his_coming
+Genre: Classical
+Subgenres: [u'Chamber Music', u'Choral', u'Concerto', u'Keyboard', u'Opera', u'Orchestral']
+
+Song:
+
+But who may abide the day of His coming, and who shall stand when He
+Appeareth? For He is like a refiner's fire. (Malachi 3: 2)

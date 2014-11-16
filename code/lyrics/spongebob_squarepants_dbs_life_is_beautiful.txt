@@ -1,0 +1,22 @@
+Artist: spongebob_squarepants
+Title: dbs_life_is_beautiful
+Genre: Children's
+Subgenres: [u"Children's Pop", u"Children's Rock", u'Sing-Alongs', u'Stories']
+
+Song:
+
+Every morning, I feel the breeze
+The sun washes over me..
+The sound of water, the crashing sea
+Is it only me..that feels alive
+Its all ahead on me
+
+'Cause it feels so right..
+Jus open your eyes and see that..
+
+Chorus: Life is beautiful [so beautiful]
+So beautiful to me
+Life can take you anywhere
+You don't know where it leads you
+But you know you're not alone
+Just open your eyes and see that..

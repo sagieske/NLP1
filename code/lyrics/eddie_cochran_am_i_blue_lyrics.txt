@@ -1,0 +1,15 @@
+Artist: eddie_cochran
+Title: am_i_blue_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Rock & Roll', u'Rockabilly', u'Honky Tonk']
+
+Song:
+
+Well am I blue, am I blue
+Ain't these tears in my eyes tellin' you
+Well am I blue, you'd be too
+If your pal says your gal's done with you
+There was a time, I was the only one
+But now I'm the sad and lonely one, oh dear
+Well was I g**, I should say
+Now she's gone and we're through, am I blue

@@ -1,0 +1,48 @@
+Artist: hatsune_miku
+Title: alice
+Genre: Electronic
+Subgenres: [u'J-Pop']
+
+Song:
+
+Tooi, tooi, waraenai hanashi.
+Itsuka, boku ga inakunatta nara
+
+Fukai, fukai mori ni ochita
+Kimi wa hitori de yukundaze.
+
+Tsunaida te ni wa yawaraka na taion
+Nigitta yubi ga yururi, hodoketara.
+
+Kareta neiro no kane ga naru.
+Kimi wa hitori de yukundaze.
+
+Sono mama futari ayunde hitori
+Usotsuku koe mo mou taedae ni.
+Utsumuki futari kage ga hitotsu
+Boku mo hitori de yukundaze?
+
+Kimi wa awai koi ni ochita.
+Takai takai gake ni saku hana.
+
+"todokanai naa."
+Wakatteru kuse ni.
+Kondo wa hitori de yukundaze.
+
+Tooi, tooi, waraenai hanashi.
+Itsuka, boku ga inakunatta nara
+
+Fukai, fukai mori ni ochita
+Kimi wa hitori de yukundaze.
+
+Sore kara hitori aruite hitori
+Usotsuku koto mo mou tsukareta.
+
+Utsumuki hitori kogane no heya
+Kimi to futari de itandaze
+
+Boku wa fukai mori ni ochita.
+Kuroku susukete yogoreta kajitsu
+
+Sore de owari sore dake no hanashi
+Kimi wa hitori de yukundaze.

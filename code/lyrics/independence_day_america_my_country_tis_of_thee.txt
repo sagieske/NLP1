@@ -1,0 +1,70 @@
+Artist: independence_day
+Title: america_my_country_tis_of_thee
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Post-Grunge', u'Punk Revival', u'Punk-Pop']
+
+Song:
+
+My country, 'tis of Thee,
+Sweet Land of Liberty
+Of thee I sing;
+Land where my fathers died,
+Land of the pilgrims' pride,
+From every mountain side
+Let Freedom ring.
+
+My native country, thee,
+Land of the noble free,
+Thy name I love;
+I love thy rocks and rills,
+Thy woods and templed hills,
+My heart with rapture thrills
+Like that above.
+
+Let music swell the breeze,
+And ring from all the trees
+Sweet Freedom's song;
+Let mortal tongues awake;
+Let all that breathe partake;
+Let rocks their silence break,
+The sound prolong.
+
+Our fathers' God to Thee,
+Author of Liberty,
+To thee we sing,
+Long may our land be bright
+With Freedom's holy light,
+Protect us by thy might
+Great God, our King.
+
+Our glorious Land to-day,
+'Neath Education's sway,
+Soars upward still.
+It's hills of learning fair,
+Whose bounties all may share,
+Behold them everywhere
+On vale and hill!
+
+Thy safeguard, Liberty,
+The school shall ever be,
+Our Nation's pride!
+No tyrant hand shall smite,
+While with encircling might
+All here are taught the Right
+With Truth allied.
+
+Beneath Heaven's gracious will
+The stars of progress still
+Our course do sway;
+In unity sublime
+To broader heights we climb,
+Triumphant over Time,
+God speeds our way!
+
+Grand birthright of our sires,
+Our altars and our fires
+Keep we still pure!
+Our starry flag unfurled,
+The hope of all the world,
+In peace and light impearled,
+God hold secure!

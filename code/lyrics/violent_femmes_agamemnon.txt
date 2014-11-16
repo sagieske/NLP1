@@ -1,0 +1,38 @@
+Artist: violent_femmes
+Title: agamemnon
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'College Rock', u'New Wave', u'Post-Punk', u'Punk/New Wave']
+
+Song:
+
+The telephone, the telephone
+I have an idea
+Women always have ideas
+Hello...
+Here is Agamemnon
+Here is Agamemnon
+Who? Wrong connection
+This is...
+I am a moralist
+An anti-militarist
+I am against duels
+I cannot stand seeing
+A fly in rage
+I cannot look at
+A uniform or blood
+That woman has seduced me
+And now I am done for
+Darling, where shall I
+Hide you in a hurry?
+Here is Agamemnon
+Here is Agamemnon
+I am coming
+Directly from the trenches
+And look forward
+To a solemn luncheon
+Oh, my nerves
+I'm losing my mind
+This damned telephone
+Spoils my favorite position
+And now I can start
+Writing poetry again

@@ -1,0 +1,33 @@
+Artist: mercyme
+Title: aint_no_rock
+Genre: Religious
+Subgenres: [u'CCM', u'Contemporary Christian', u'Praise & Worship', u'Christian Rock', u'Gospel', u'Hymns', u'Inspirational']
+
+Song:
+
+Ain't no rock, gonna cry in my place
+As long as I'm alive I'll glorify his holy name.
+(Repeat)
+
+Chorus
+Everybody praise his holy name
+As long as I'm alive I'll glorify his holy name
+(Repeat)
+
+Ain't no bird, gonna flap it's feathers
+As long as I'm alive I'll glorify his holy name.
+(Repeat)
+
+[Chorus:]
+
+Ain't no tree, gonna wave it's branches.
+As long as I'm alive I'll glorify his holy name.
+(Repeat)
+
+[Chorus:]
+
+Ain't no rock, gonna cry in my place.
+Long as I'm alive, I'll glorify his holy name.
+(Repeat)
+
+(Chorus 2X)

@@ -1,0 +1,36 @@
+Artist: kate_rusby
+Title: all_gods_angels
+Genre: Folk
+Subgenres: [u'British Folk', u'Celtic', u'Contemporary Folk', u'Contemporary Singer/Songwriter', u'Irish Folk']
+
+Song:
+
+Will you marry me sir
+Oh tether me down
+For I am too free
+Will you walk hand in hand with me
+For I do carry a child by thee
+
+Oh madam, I'll not marry thee
+For I'm married away
+And I'll always be
+I'll not walk hand in hand with thee
+Even though you've a child by me
+
+Oh sir, heartbroken I'll be
+Is she finer than I
+Is she tall and lean
+Is she the rarest you've ever seen
+Of your own heart is she the queen
+
+Oh madam, she's twenty of thee
+She's tall and she's lean
+How she smiles on me
+She's the rarest, she is my queen
+I'll never care for a girl like thee
+
+Oh sir, than shamed am I
+I'll run to the fields
+And it's there I'll die
+There God's Angels will around me fly
+There they'll care for my child and I

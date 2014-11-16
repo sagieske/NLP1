@@ -1,0 +1,12 @@
+Artist: juanita_bynum
+Title: forever_grateful
+Genre: Religious
+Subgenres: [u'CCM', u'Contemporary Christian', u'Contemporary Gospel', u'Gospel']
+
+Song:
+
+Verse: You did not wait for me to draw nigh to you but you clothed yourself in frail humanity you did not wait for me to cry out to you but you let me hear your voice calling me and I'm forever grateful lord to you and I'm forever grateful for the cross and I'm forever grateful to you that you came to seek and save the lost
+
+Choir repeats verse
+
+That you came to seek and save the lost (repeat)

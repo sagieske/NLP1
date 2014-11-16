@@ -1,0 +1,50 @@
+Artist: vern_gosdin
+Title: alone
+Genre: Country
+Subgenres: [u'Bluegrass', u'Contemporary Country', u'Neo-Traditionalist Country', u'Progressive Bluegrass', u'Traditional Bluegrass', u'Traditional Country']
+
+Song:
+
+Alone at a table for two
+Alone, waiting for you
+I ordered the wine
+Like so many times before
+Then a chill crawled all over me
+My God, this is how it would be.
+
+If you, just didn't love me, any more
+I never knew how much I loved you
+Until I sat here all by myself
+You know you control
+My heart and my soul.
+
+There'll never be anyone else
+So don't be surprised
+At these tears in my eyes
+It's a feeling I've never known
+Now I can see
+I was never meant to be alone.
+
+Alone, I'd never stand tall
+Alone, I'd be nothing at all
+Your empty chair nearly scared me to death
+And then you walked through that door
+And my heart, started beating once more.
+
+Oh please, don't ever leave me here like this
+I never knew how much I loved you
+Until I sat here all by myself
+You know you control
+My heart and my soul.
+
+There'll never be anyone else
+So don't be surprised at these tears in my eyes
+It's a feeling, I've never known
+Now I can see
+I was never meant to be alone.
+
+It's a feeling I've never known
+Now I can see
+I was never meant to be alone
+Oh, now I can see
+I never want to be alone...

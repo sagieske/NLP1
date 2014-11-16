@@ -1,0 +1,37 @@
+Artist: marilyn_monroe
+Title: bye_bye_baby
+Genre: Vocal
+Subgenres: [u'Vocal Pop', u'Celebrity', u'Traditional Pop', u'American Popular Song', u'Film Score', u'Show/Musical']
+
+Song:
+
+(Jane Russell's Solo Part)
+
+Marilyn:
+I'll be in my room alone
+Every post meridian
+And I'll be with my diary
+And that book by Mister Gideon.
+
+Bye, bye baby
+Remember you're my baby
+When they give you the eye,
+And just to show that I care
+I will write and declare
+That I'm on the loose
+But I'm still on the square.
+
+I've been lonely
+But even though I'm lonely
+There'll be no other guy.
+Though I'll be gone for a while
+I know that I'll be smiling
+With my baby by and by
+With my baby by and by.
+
+I'll be gloomy
+But send that rainbow to me
+Then my shadows will fly.
+Though you'll be gone for a while
+I know that I'll be smiling
+With my baby bye and bye

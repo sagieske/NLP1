@@ -1,0 +1,19 @@
+Artist: utopia
+Title: all_smiles
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Art Rock', u'Contemporary Pop/Rock', u'Prog-Rock', u'Arena Rock', u'Power Pop', u'Soft Rock', u'New Wave', u'Punk/New Wave']
+
+Song:
+
+Smiles, all smiles
+Like the sweet light of the sunrise
+I'm in love with something in your smile
+All smiles, waiting for the love you give me
+When you do I just can't help but smile
+
+You never have to she'd a tear
+Just remember that I'll always care
+And when I am old, I'll see you smiling there
+
+When I'm sad you're the only one who cheers me
+Let me see that heaven in your smile

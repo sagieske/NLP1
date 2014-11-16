@@ -1,0 +1,27 @@
+Artist: us_bombs
+Title: all_the_bodies
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Dream Pop', u'Indie Rock', u'Alternative Pop/Rock']
+
+Song:
+
+Look at yourself and the mirror pretends
+What you see is superman
+Marvel comic heroes to go
+Goin' up the wall like spiderman
+
+All the bodies are invited
+All the bodies are excited
+
+Think your Mr. Know it all
+Nothin' but a poster on the wall
+Sendin' my kid on off to war
+Takin' my money and you still want more
+
+All the bodies are invited
+All the bodies are excited
+
+All the bodies are invited
+All the bodies are excited
+All the bodies are invited
+All the bodies are excited

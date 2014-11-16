@@ -1,0 +1,34 @@
+Artist: john_prine
+Title: all_the_way_with_you
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Folk', u'Progressive Folk', u'Singer/Songwriter', u'Folk-Rock', u'Psychedelic/Garage']
+
+Song:
+
+Love gives
+Love takes
+It takes a lot of lucky breaks
+Lucky strikes
+Lucky stars
+I don't know how I got this far
+Who knows where it's coming from
+Or where it's going to
+Can I go all the way with you?
+
+You have your way
+You have your doubts
+The falling in
+The falling out
+A bridge is built
+A bridge is burned
+Till you reach the point of no return
+Don't know where we're coming from
+Or where we're going to
+
+Can I go all the way with you?
+Heaven knows that this ain't nothing new
+God knows how much I love you
+Love comes
+Love goes
+Can I go all the way with you?
+Can I go all the way with you?

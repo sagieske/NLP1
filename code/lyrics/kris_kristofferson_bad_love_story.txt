@@ -1,0 +1,36 @@
+Artist: kris_kristofferson
+Title: bad_love_story
+Genre: Country
+Subgenres: [u'Outlaw Country', u'Progressive Country', u'Singer/Songwriter', u'Country-Rock', u'Soft Rock', u'Traditional Country']
+
+Song:
+
+Once again you tried to show me
+What my eyes refused to see
+In the lines between the painful scene we're in
+With the silence falling coldly
+On a world of make-believe
+And the ending that I still don't understand
+
+Chorus:
+It's a bad love story
+That I've had to learn by heart
+'Cause I've lived these lines so many times before
+And it's a shame the way the same old ending
+Still tears me apart
+Where the lady still don't love me anymore
+
+I can see the truth before me
+Like a mirror on the wall
+With a crack or two for every fool I've been
+And I see the lady waiting
+For her count-down curtain call
+And it's looking like the place that I came in
+
+Chorus:
+It's a bad love story
+That I've had to learn by heart
+'Cause I've lived these lines so many times before
+And it's a shame the way the same old ending
+Still tears me apart
+Where the lady still don't love me anymore

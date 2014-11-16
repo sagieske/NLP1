@@ -1,0 +1,27 @@
+Artist: zach_gill
+Title: silent_night
+Genre: Country
+Subgenres: [u'Bluegrass', u'Contemporary Country', u'New Traditionalist', u'Progressive Bluegrass']
+
+Song:
+
+Silent night, holy night
+All is calm and all is bright
+Round yon Virgin Mother and Child
+Holy Infant so tender and mild
+Sleep in heavenly peace
+Sleep in heavenly peace
+
+Silent night, holy night
+Shepherds quake at the sight
+Glories stream from heaven afar
+Heavenly hosts sing Alleluia
+Sleep in heavenly peace
+Sleep in heavenly peace
+
+Silent night, holy night
+All is calm and all is bright
+Round yon Virgin Mother and Child
+Holy Infant so tender and mild
+Sleep in heavenly peace
+Sleep in heavenly peace

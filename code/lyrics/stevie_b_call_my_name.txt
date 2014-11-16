@@ -1,0 +1,39 @@
+Artist: stevie_b
+Title: call_my_name
+Genre: R&B
+Subgenres: [u'Funk', u'Motown', u'Pop-Soul', u'Soul', u'Smooth Soul', u'Album Rock', u'AM Pop', u'Contemporary R&B']
+
+Song:
+
+The way I feel
+Whenever I think about you
+May be just a fantasy
+But when you're near
+The look in your eyes can tell me
+May be just my destiny
+And I can't hide it anymore
+The way you make me feel inside
+The reason why I'm here tonight
+Is just to tell you girl
+[Chorus:]
+If you need me to touch and to hold you
+Baby call my name
+If you want me to say that I love you
+Baby call my name
+(Repeat)
+You tell me now
+That you talk, but I never listen
+May be just a mystery
+I hear them say
+That the distance can bring us closer
+May be just reality
+And I can't hide it anymore
+The way you make me feel inside
+The reason why I'm here tonight
+Is just to tell you girl
+[Chorus:]
+If you need me to touch and to hold you
+Baby call my name
+If you want me to say that I love you
+Baby call my name
+(Repeat

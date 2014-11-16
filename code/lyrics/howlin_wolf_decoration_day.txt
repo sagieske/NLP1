@@ -1,0 +1,16 @@
+Artist: howlin_wolf
+Title: decoration_day
+Genre: Blues
+Subgenres: [u'Chicago Blues', u'Electric Chicago Blues', u'Regional Blues', u'Acoustic Chicago Blues', u'Early R&B', u'Electric Memphis Blues', u'Piano Blues', u'Jive', u'Jump Blues']
+
+Song:
+
+Lord I got a woman, she nice lovin' in every way
+Lord I got a woman, she nice lovin' in every way
+You know she done died and left me, I have the blues on every Decoration Day
+So sorry see you to leave me [sic], I hate to see my baby get away
+So sorry to see you leave me, I hate to see my baby get away
+I want you to bring me some flowers, about every Decoration Day
+Lord I was walkin' round her bedside, these were the last words my baby had to say
+Lord walkin' round her bedside, these were the last words my baby had to say
+She said bring me some flowers - be sure honey - on every Decoration Day

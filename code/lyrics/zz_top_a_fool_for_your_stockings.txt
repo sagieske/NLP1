@@ -1,0 +1,31 @@
+Artist: zz_top
+Title: a_fool_for_your_stockings
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Arena Rock', u'Blues-Rock', u'Boogie Rock', u'Hard Rock', u'Contemporary Pop/Rock', u'Dance-Rock', u'Southern Rock']
+
+Song:
+
+Is it you again outside,
+Just banging on the front door?
+You say you had enough,
+Now you're coming' back for more,
+But that's alright.
+I said that that's alright.
+I may not want to admit it,
+I'm just a fool for your stockings I believe.
+Now I don't mind when you send money
+And bring your girlfriends with you,
+But how could one be so thoughtless to try
+And handle less than two?
+But that's alright.
+I said that that's alright, baby.
+I may not want to admit it,
+I'm just a fool for your stockings I believe.
+Now I'm tellin' everybody
+It seems too good to be true:
+Sweet things can always get sweeter.
+I know mine did, how about you?
+Yes, it's alright.
+I said, yes it is, that's alright.
+I may not want to admit it,
+I'm just a fool for your stockings I believe

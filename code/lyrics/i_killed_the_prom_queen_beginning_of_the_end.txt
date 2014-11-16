@@ -1,0 +1,19 @@
+Artist: i_killed_the_prom_queen
+Title: beginning_of_the_end
+Genre: Pop/Rock
+Subgenres: [u'Heavy Metal', u'Alternative/Indie Rock', u'Screamo']
+
+Song:
+
+Please take me back to the start
+Where we still hold this close, to our hearts
+I won’t let it tear us apart
+Please take me back to the time
+Where you can see the light, in my eyes
+And you knew that my love will never die
+
+I knew you’ll never die
+
+Please take me back to the time
+Where you can see the light, in my eyes
+And you knew that my love will never die

@@ -1,0 +1,17 @@
+Artist: muddy_waters
+Title: all_night_long
+Genre: Blues
+Subgenres: [u'Blues Revival', u'Chicago Blues', u'Delta Blues', u'Electric Blues', u'Electric Chicago Blues', u'Regional Blues', u'Slide Guitar Blues']
+
+Song:
+
+I want you to rock me, baby, after the sun goes down
+I want you to rock me, mama, after the sun go
+I want you to hug and kiss me, tell me you always be mine
+
+I want you to throw your arms around me
+Like a circle round the sun
+I want you to throw your arms around me
+Like a circle round the sun
+I want you to call me daddy, oh yeah
+And let the world know

@@ -1,0 +1,43 @@
+Artist: young_guns
+Title: beneath_the_waves
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Heavy Metal', u'Emo', u'Hard Rock', u'Post-Grunge']
+
+Song:
+
+Dearly beloved we are gathered here today,
+To lament the loss of honesty,
+To the art of saving face.
+Of vanity and opacity,
+A generation lost beneath the waves.
+
+Loose lips sink ships,
+And we're all going down.
+
+We're in the throes of vertigo,
+Higher is impossible.
+Sink like a stone,
+Let it all go,
+Higher is impossible.
+
+The oceans rise to break the bow,
+And I find peace within the sound,
+Or water rushing in.
+So bid farewell to all you know,
+Take your place way down below,
+We'll sleep beneath the waves.
+
+Loose lips sink ships,
+And we're all going down.
+
+We're in the throes of vertigo,
+Higher is impossible.
+Sink like a stone,
+Let it all go,
+Higher is impossible.
+
+Loose lips sink ships,
+And we're on our way down.
+
+So slowly we drift down,
+And all our Kings are dead now.

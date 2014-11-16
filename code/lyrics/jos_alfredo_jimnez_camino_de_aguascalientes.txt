@@ -1,0 +1,45 @@
+Artist: jos_alfredo_jimnez
+Title: camino_de_aguascalientes
+Genre: Latin
+Subgenres: [u'Mexican Traditions', u'Ranchera']
+
+Song:
+
+Solito con mi caballo
+Camino de Aguascalientes
+Voy derechito a San Marcos
+La feria de los valientes
+A ver si pierde mi gallo
+Delante de tantas gentes.
+
+Borracho y enamorado
+No sй cual es mi fortuna
+Me gusta el cielo nublado
+Aunque se esconda la luna
+Yo soy mбs apasionado
+Cuando la noche es oscura.
+
+Camino de Aguascalientes
+A San Marcos voy llegando
+A ver si encuentro en su feria
+
+La dicha que ando buscando.
+
+Amigo de los amigos
+Me sй jugar lo que gano
+Si acaso tengo enemigos
+Me sй pelear mano a mano
+Pa'mi no hay hombre mбs hombre
+Yo tambiйn soy mexicano.
+
+El cielo sigue nublado
+La luna sigue escondida
+Y yo sigo apasionado
+Tomando mucho tequila
+Queriendo echar un volado
+Aunque me cueste la vida.
+
+Camino de Aguascalientes
+A San Marcos voy llegando
+A ver si encuentro en su feria
+La dicha que ando buscando.

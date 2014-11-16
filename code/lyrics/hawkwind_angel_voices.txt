@@ -1,0 +1,20 @@
+Artist: hawkwind
+Title: angel_voices
+Genre: Pop/Rock
+Subgenres: [u'Art Rock', u'Hard Rock', u'Heavy Metal', u'Prog-Rock', u'British Psychedelia', u'Psychedelic/Garage']
+
+Song:
+
+Final adjustment to timing sequences for the master control system
+Main engine check
+Proton drive unit: PDU meter reads level
+Linear acceleration module: LAM meter reads level
+Crystal absorption unit: CAU meter reads level
+Vector thrust module: VTM meter reads level
+Vector Activity:
+Vector activity reading is on scope at minus oh two one point seven
+Readjustment reccommended
+Vector activity reading level
+Flight deck computer check complete
+Passenger module computer check: Dream Sequencing - functions activated.
+________________________________________________________________________

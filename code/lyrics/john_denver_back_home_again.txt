@@ -1,0 +1,52 @@
+Artist: john_denver
+Title: back_home_again
+Genre: Pop/Rock
+Subgenres: [u'Singer/Songwriter', u'Soft Rock', u'AM Pop', u'Contemporary Pop/Rock', u'Folk-Pop']
+
+Song:
+
+This song appears on fifteen albums, and was first released on the Back Home Again Album, and has also been released on the Favourites, the Greatest Hits Vol 2, Voice of America, John Denver (Italian), The Very Best of John Denver (Double cd), The Rocky Mountain Collection, The Country Roads Collection and Country Classics Albums. Live versions appear on the Live In London, the Live at the Sydney Opera House, The Wildlife Concert and The Best of John Denver Live Albums. An updated studio version also appears on the Love Again and A Celebration of Life Albums.
+
+There's a storm across the valley, clouds are rollin' in
+The afternoon is heavy on your shoulders
+There's a truck out on the four lane a mile or more away
+The whinin' of his wheels just makes it colder
+
+He's an hour away from ridin' on your prayers up in the sky
+And ten days on the road are barely gone
+There's a fire softly burnin', supper's on the stove
+But it's the light in your eyes that makes him warm
+
+Hey it's good to be back home again
+Sometimes this old farm feels like a long-lost friend
+Yes 'n' hey, it's good to be back home again
+
+There's all the news to tell him, how'd you spend your time
+What's the latest thing the neighbors say
+And your mother called last Friday, "Sunshine" made her cry
+You felt the baby move just yesterday
+
+Hey it's good to be back home again - yes it is
+Sometimes this old farm feels like a long-lost friend
+Yes 'n' hey, it's good to be back home again
+
+Oh the time that I can lay this tired old body down
+Feel your fingers feather soft upon me
+The kisses that I live for, the love that lights my way
+The happiness that that livin' with you brings me
+
+It's the sweetest thing I know of, just spending time with you
+It's the little things that make a house a home
+Like a fire softly burnin' supper on the stove
+The light in your eyes that makes me warm
+
+Hey it's good to be back home again
+Sometimes this old farm feels like a long-lost friend
+Yes 'n' hey, it's good to be back home again
+
+Hey it's good to be back home again - you know it is
+Sometimes this old farm feels like a long-lost friend
+Hey, it's good to be back home again
+I said hey it's good to be back home again
+
+Words and music by John Denver

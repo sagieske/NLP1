@@ -1,0 +1,19 @@
+Artist: wipers
+Title: blue_cowboy
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'American Underground', u'Hardcore Punk', u'Indie Rock', u'Punk', u'Punk/New Wave']
+
+Song:
+
+Blue cowboy rides off thru the range
+The Wind it cries his lonely name.
+He's on a lonely trail again.
+Blue cowboy rides off thru the tide.
+The wolves they howlin' out for the lost
+But he'll never reach the other side.
+Blue cowboy rides off thru the land.
+His love it blew away with the dessert sand.
+Now his horse is his only friend.
+Blue cowboy rides off thru the clouds.
+He rode straight into the sun.
+They buried him with his boots on.

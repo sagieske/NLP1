@@ -1,0 +1,27 @@
+Artist: rebelution
+Title: count_me_in
+Genre: Reggae
+Subgenres: [u'Reggae-Pop', u'Roots Reggae', u'Smooth Reggae']
+
+Song:
+
+Now I gotta make my rounds
+Where can I lay you down?
+I'm gonna miss your love tonight
+You know I really love your sound
+Where can I leave you now?
+I'm gonna miss your love tonight
+
+Well I say hey
+Count me in
+Always
+That's all I wanted
+Was to say
+Always
+
+Maybe in another life
+You I tried to find
+But all had been neglected
+And you're so true to form
+Nah you know I can't ignore
+The way that we connected

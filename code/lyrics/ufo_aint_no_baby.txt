@@ -1,0 +1,23 @@
+Artist: ufo
+Title: aint_no_baby
+Genre: Pop/Rock
+Subgenres: [u'Arena Rock', u'Hard Rock', u'Heavy Metal', u'Film Music', u'Soundtracks']
+
+Song:
+
+Hey there now big shot well just listen to me
+I know the score and it's no great mystery
+I hear you talking and it's all been said
+But what I'm thinking I keep inside my head
+* I ain't no baby, so get out of my way
+Keep in with your own kind
+Ain't none of your business, you got nothing to say
+Stay away, forever
+You play the cool star it's a dangerous game
+Don't forget the street and who gave you your name
+Romancin' with the company as they pour in the pounds
+If the next thing is you and then who are the clowns?
+* chorus
+--instrumental--
+* chorus
+Stay away, forever

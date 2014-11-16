@@ -1,0 +1,37 @@
+Artist: kyu_sakamoto
+Title: sukiyaki
+Genre: Electronic
+Subgenres: [u'Ethnic Fusion', u'Experimental', u'Movie Themes', u'Progressive Electronic', u'Soundtracks', u'Original Score', u'Alternative/Indie Rock', u'Experimental Electronic', u'Experimental Rock', u'Film Score', u'Keyboard']
+
+Song:
+
+Ue o muite arukou
+Namida ga kobore naiyouni
+Omoidasu harunohi
+Hitoribotchi no yoru
+
+Ue o muite arukou
+Nijinda hosi o kazoete
+Omoidasu natsunohi
+Hitoribotchi no yoru
+
+Shiawase wa kumo no ueni
+Shiawase wa sora no ueni
+
+Ue o muite arukou
+Namida ga kobore naiyouni
+Nakinagara aruku
+Hitoribotchi no yoru
+
+Whistling
+
+Omoidasu akinohi
+Hitoribotchi no yoru
+
+Kanashimi wa hosino kageni
+Kanashimi wa tsukino kageni
+
+Ue o muite arukou
+Namida ga kobore naiyouni
+Nakinagara aruku
+Hitoribotchi no yoru

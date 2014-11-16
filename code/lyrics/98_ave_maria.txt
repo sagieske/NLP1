@@ -1,0 +1,28 @@
+Artist: 98
+Title: ave_maria
+Genre: Pop/Rock
+Subgenres: [u'Urban', u'Teen Pop', u'Pop', u'Adult Contemporary']
+
+Song:
+
+Ave Maria gratia plena
+Dominus tecum
+Benedicta tu in mulierbus
+Et benedictus fructus ventris tui Iesus
+Sancta Maria, Sancta Maria
+Maria ora pro nobis, nobis peccatoribus
+Nunc et in hora mortis nostrae.
+Amen
+
+
+
+Translation
+
+Hail Mary, full of grace
+The Lord is with you
+Blessed are you among women
+And blessed is the fruit of your womb Jesus
+Holy Mary, mother of God
+Pray for us sinners
+Now and at the hour of our death
+A

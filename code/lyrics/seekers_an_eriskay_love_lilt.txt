@@ -1,0 +1,22 @@
+Artist: seekers
+Title: an_eriskay_love_lilt
+Genre: Pop/Rock
+Subgenres: [u'AM Pop', u'Folk-Rock', u'Psychedelic/Garage', u'Early Pop/Rock', u'Folk-Pop']
+
+Song:
+
+Chorus:
+Bheir mi oh a ro van oh;
+Bheir mi oh a ro van e;
+Bheir mi oh a ro ho.
+Sad and I without thee.
+When I'm lonely dear white heart,
+Black the night or wild the sea,
+By love's light my foot finds
+The old path way to thee.
+[Chorus:]
+Thou art music of my heart,
+Harp of joy oh cush mo cree;
+Moon of guidance by night,
+Strength and light thou art to me.
+[Chorus:]

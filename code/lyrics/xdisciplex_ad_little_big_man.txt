@@ -1,0 +1,11 @@
+Artist: xdisciplex_ad
+Title: little_big_man
+Genre: Pop/Rock
+Subgenres: [u'Adult Alternative Pop/Rock', u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'College Rock', u'Alternative Singer/Songwriter', u'Celtic Rock', u'Contemporary Singer/Songwriter', u'Contemporary Pop/Rock']
+
+Song:
+
+Fly
+like an ego with th wind beneath your wings because the worlds got your back or so you think and you're right On
+track cast out and sink little big man you stand so tall but in reality you're so small who's the next target You
+got them in your sights with your finger on the trigger sacrifice to make you bigger who's got your back 

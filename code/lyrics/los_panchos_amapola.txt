@@ -1,0 +1,43 @@
+Artist: los_panchos
+Title: amapola
+Genre: Latin
+Subgenres: [u'Bolero', u'Latin Pop', u'Western European Traditions', u'Tropical']
+
+Song:
+
+De amor, en los hierros de tu reja
+De amor, eschuchй la triste queja
+De amor, que solo en mi corazуn
+Diciendome asн con su dulce canciуn
+
+Amapola, lindнsima amapola
+Serб siempre mi alma
+Tuya sola
+
+Yo te quiero amada niсa mнa
+Igual que ama la flor
+La luz del dнa
+
+Amapola, lindнsima amapola
+No seas tan ingrata
+Amamй
+
+Amapola, Amapola
+Como puedes tu vivir
+Tan sola
+
+Amapola, lindнsima amapola
+Serб siempre mi alma
+Tuya sola
+
+Yo te quiero amada niсa mнa
+Igual que ama la flor
+La luz del dнa
+
+Amapola, lindнsima amapola
+No seas tan ingrata
+Amamй
+
+Amapola, Amapola
+Como puedes tu vivir
+Tan sola

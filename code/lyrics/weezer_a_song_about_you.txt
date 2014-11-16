@@ -1,0 +1,26 @@
+Artist: weezer
+Title: a_song_about_you
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Punk-Pop', u'Emo']
+
+Song:
+
+First time I saw you
+I didn't think you were special
+But now I realized that you're the one I want to grow old with
+
+I want to take you out,
+I want to do everything right,
+I'll take you to your favorite shop,
+I'll even let you use my favorite coffee cup
+
+Oh you, when you look at me,
+You make me feel so glad
+Oh you, when you smile at me,
+You make me feel so nervous
+Because you're the one I adore
+
+I'll let you use my coat when you're cold,
+I'd do anything for you
+But now you're probably in bed,
+Sleeping with one of my best friends.

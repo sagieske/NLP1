@@ -1,0 +1,23 @@
+Artist: kim_possible
+Title: say_the_word
+Genre: Rap
+Subgenres: [u'East Coast Rap', u'Pop-Rap', u'Dirty Rap', u'Gangsta Rap', u'Hardcore Rap']
+
+Song:
+
+I'm on it (echo)
+I got it
+I can do anytihng
+Whacha need (echo)
+Got ya back (echo)
+Just say the word I'm there
+
+When you find your world is cavin' in
+You can bet you gonna need a friend
+Someone to take those fears away, away, away
+
+Chorus:
+Say the word.. Make a call and I'll be there.
+Anytime anywhere have you heard? That I'm
+All about saving your world. All you have to do is
+Say the word

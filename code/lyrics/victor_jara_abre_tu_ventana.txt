@@ -1,0 +1,41 @@
+Artist: victor_jara
+Title: abre_tu_ventana
+Genre: Folk
+Subgenres: [u'Chilean', u'Contemporary Folk', u'Latin Folk', u'Political Folk', u'Singer/Songwriter', u'South American Traditions', u'Nueva Cancion']
+
+Song:
+
+Mara, abre la ventana
+Y deja que el sol alumbre
+Por todos los rincones
+De tu casa.
+
+Mara, mira hacia fuera
+Nuestra vida no ha sido hecha
+Para rodearla de sombras
+Y tristezas.
+
+Mara, ya ves
+No basta nacer, crecer, amar,
+Para encontrar la felicidad.
+
+Pas lo ms cruel,
+Ahora tus ojos se llenan de luz
+Y tus manos de miel,
+Tus manos de miel,
+Tus manos de miel, Mara.
+
+Mara, ya ves
+No basta nacer, crecer, amar,
+Para encontrar la felicidad.
+
+Pas lo ms cruel,
+Ahora tus ojos se llenan de luz
+Y tus manos de miel,
+Tus manos de miel,
+Tus manos de miel, Mara.
+
+Tu risa brota como la maana,
+Brota en el jardn, Mara.
+Tu risa brota como la maana,
+Brota en el jardn, Mara.

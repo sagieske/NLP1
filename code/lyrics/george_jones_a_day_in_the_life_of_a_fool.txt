@@ -1,0 +1,23 @@
+Artist: george_jones
+Title: a_day_in_the_life_of_a_fool
+Genre: Country
+Subgenres: [u'Country-Pop', u'Honky Tonk', u'Nashville Sound/Countrypolitan', u'Traditional Country', u'Country Gospel', u'Gospel']
+
+Song:
+
+Off to work with no kiss of goodbye
+Wear a smile on my face but I lied
+Cup of coffee at the corner cafe
+Catch the bus, read the news on my way
+Those emotions the whole mornin' through
+Start a day in the life of a fool.
+
+Sometimes I dial our number in hopes you return
+But there's never an answer, guess I'll never learn.
+Hurry home, as tomorrow is through
+Check the mail box no letter from you
+Then I rush up the stairs to my memories, again
+That's the day in the life of a fool.
+
+Yes, I rush up the stairs to my memories of you
+That's the day in the life of a fool...

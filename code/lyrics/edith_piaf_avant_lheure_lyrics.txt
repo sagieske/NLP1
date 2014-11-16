@@ -1,0 +1,46 @@
+Artist: edith_piaf
+Title: avant_lheure_lyrics
+Genre: Vocal
+Subgenres: [u'Cabaret', u'French Pop', u'Torch Songs', u'Vocal Pop']
+
+Song:
+
+Avant l'heure, c'est pas l'heure.
+Apr? S l'heure, c'est plus l'heure.
+Je l'ai rencontr? Un peu trop tard.
+Il avait d? J? Vu Germaine.
+Il m'a aim? E pendant cinq semaines.
+Je me foutais du tiers comme du quart
+Et puis un jour, il a compris.
+Il m'a menti encore trois semaines
+Puis il est all? Vers Germaine.
+Ah mes enfants! Qu'est-ce que j'ai pris!...
+J' lui en veux pas...
+Que faire? ? A?
+Avant l'heure, c'est pas l'heure.
+Apr? S l'heure, c'est plus l'heure.
+Quand on dit "moins l' quart", c'est moins le quart!
+Je l'ai rencontr? Un peu trop tard!
+
+Pierre aime la femme de Jean.
+Jean aime la femme de Pierre.
+La femme de Pierre aime un sergent.
+La femme de Jean aime un notaire.
+Qu'est-ce qu'ils esp? Rent,
+Ces pauvres gens?
+Si la femme de Pierre avait vu le sergent
+Avant de rencontrer Pierre...
+Si la femme de Jean avait vu le notaire
+Avant de rencontrer Jean...
+Ce serait une toute autre affaire!
+'y aurait du bonheur? Nogent
+Au lieu qu'on y pleure...
+
+L'heure, c'est l'heure...
+
+Avant l'heure, c'est pas l'heure.
+Apr? S l'heure, c'est plus l'heure.
+Quand on dit "moins l' quart", c'est moins l' quart!
+Je l'ai rencontr? Un peu trop tard!
+
+... Trop tard!...

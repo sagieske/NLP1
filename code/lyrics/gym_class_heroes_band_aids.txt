@@ -1,0 +1,21 @@
+Artist: gym_class_heroes
+Title: band_aids
+Genre: Pop/Rock
+Subgenres: [u'Alternative Rap', u'Alternative/Indie Rock', u'Indie Rock', u'Pop']
+
+Song:
+
+Thank you.
+You know exactly who you are
+You played the role of superglue
+When I was falling apart
+Through all the papercuts
+And all the broken hearts
+You played the role of superglue
+When I was falling apart
+Thank you.
+You know exactly who you are
+Through all the nightmares
+And anxiety scares
+You played the role of superglue
+When I was falling apart

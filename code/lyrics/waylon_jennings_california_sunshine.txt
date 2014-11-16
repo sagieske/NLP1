@@ -1,0 +1,30 @@
+Artist: waylon_jennings
+Title: california_sunshine
+Genre: Country
+Subgenres: [u'Country-Folk', u'Film Score', u'Outlaw Country', u'Progressive Country', u'Traditional Country']
+
+Song:
+
+(Harlan Howard)
+Go West Young Man the signs all seem to say
+There's San Diego, Frisco or la
+Leave that cold, cold woman far behind
+Warm yourself in that California sunshine.
+Go west young man become a movie star
+Or anything except the fool you are
+Expose the lonely corners of your mind
+To a little fad of that California sunshine.
+I need a change I've headed up to here
+She's just playing game that's very clear
+But her play mate will soon be hard to find
+'Cause I'll be in that California sunshine.
+--- Instrumental ---
+They say those California girls are fine
+They know how to really walk your mind
+Well, one of you get ready 'cause you're mine
+I'm headin' for that California sunshine.
+I need a change I've headed up to here
+She's just playing game that's very clear
+But her play mate will soon be hard to find
+'Cause I'll be in that California sunshine.
+Baby, I'll be in that California sunshine...

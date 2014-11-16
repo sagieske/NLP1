@@ -1,0 +1,23 @@
+Artist: 10_things_i_hate_about_you
+Title: i_love_you_baby
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Electro', u'Hard Rock', u'Punk-Pop']
+
+Song:
+
+You're just too good to be true.
+Can't take my eyes off you.
+You'd be like heaven to touch.
+I wanna hold you so much.
+At long last love has arrived.
+And I thank God I'm alive.
+You're just too good to be true.
+Can't take my eyes off you.
+
+I love you baby, and if it's quite all right,
+I need you baby to warm a lonely night.
+I love you baby.
+Trust in me when I say:
+Oh pretty baby, don't bring me down I pray.
+Oh pretty baby, now that I found you, stay.
+And let me love you, oh baby let me love you,...

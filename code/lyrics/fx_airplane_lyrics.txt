@@ -1,0 +1,72 @@
+Artist: fx
+Title: airplane_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Asian Pop', u'Korean Pop', u'Pop', u'Teen Pop']
+
+Song:
+
+[Luna]
+Acha geobi nasseosseo naraoreuneun ge
+Jigeum uril sireun sarangiran plane
+Imi algo isseo meojanha churakhariran geol
+[Krystal]
+Gamchwojiji anha tteooreuneun mam
+Meomchul sudo eobseo eodikkajilkka
+Naega al su inneun jeonburan neowa hamkkeran geot
+
+[Sulli]
+Nopeun bildingsupeul neomeo supyeongseoneul geonneo gaseum beokchadorok
+[Victoria/Sulli]
+Tteollineun I giryu nuneul gamgoseo come with me
+
+[Krystal]
+Come with me airplane love
+[Amber]
+Come with me airplane love
+
+[Luna]
+Haneureul naneun barameul gamneun
+Gureumeul geotneun I bihaengeun sijakdwaetjiman
+[Sulli]
+Hanaui gijeok neomaneul mideo
+Soneul jabeun ojik han saram
+
+[Amber]
+Acha nuneul tteobomyeon churakhae itgetji
+Seolleimi eomneun gongheohan geu gil
+Aesseo bujeonghal su eobseulgeol urin kkeuchiran geol
+
+[Victoria]
+Mugeoun jungnyeok wireul georeo
+Geochin sumeul gyeondyeo mueosi nameulkka
+[Sulli/Victoria]
+Witaeroun yeojeong hoksi neoramyeon come with me
+
+[Krystal]
+Come with me airplane love
+[Amber]
+Come with me airplane love
+
+[Krystal]
+Haneureul naneun barameul gamneun
+Gureumeul geotneun geu bihaengeun kkeuchi natjiman
+[Victoria]
+Oraedoen inyeon yeongwoneul mideo soneul jabeun ojik han saram
+
+[Sulli]
+Hwangholhan flying flying gippeum sogedo
+Ajjilhan falling falling (uri sarangeul mideo)
+[Amber]
+Nopi higher higher
+Nareul jabajul neoraseo you you you oh- you
+
+[Luna]
+Haneureul naneun barameul gamneun
+Gureumeul geotneun I bihaengeun sijakdwaetjiman
+Hanaui gijeok neomaneul mideo soneul jabeun ojik han saram
+
+[Krystal]
+Barameul gamneun gureumeul geotneun
+Geu bihaengeun kkeuchi natjiman
+Oraedoen inyeon yeongwoneul mideo
+Soneul jabeun ojik han saram

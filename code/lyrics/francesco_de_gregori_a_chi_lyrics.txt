@@ -1,0 +1,34 @@
+Artist: francesco_de_gregori
+Title: a_chi_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Italian Pop', u'Italian Music', u'Western European Traditions']
+
+Song:
+
+A chi
+Sorrider? Se non a te.
+A chi
+Se tu, tu non sei pi? Qui.
+
+Ormai e' finita,
+E' finita, tra di noi.
+Ma forse un po' della mia vita
+E' rimasta negli occhi tuoi.
+
+A chi
+Io parler?, se non a te.
+A chi
+Racconter? Tutti I sogni miei.
+
+Lo sai m' hai fatto male
+Lasciandomi solo cos?,
+Ma non importa, io ti aspetter?.
+
+A chi
+Io parler? Se non a te.
+A chi
+Racconter? Tutti I sogni miei.
+
+Lo sai m' hai fatto male
+Lasciandomi solo cos?,
+Ma non importa, io ti aspetter?

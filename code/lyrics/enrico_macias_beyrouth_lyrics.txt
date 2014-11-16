@@ -1,0 +1,34 @@
+Artist: enrico_macias
+Title: beyrouth_lyrics
+Genre: Pop/Rock
+Subgenres: [u'French Pop', u'European Folk', u'African Traditions', u'Algerian', u'French', u'North African', u'Western European Traditions']
+
+Song:
+
+Beyrouth,
+Quand l'horizon m'appelle, m'appelle et me sourit.
+Beyrouth,
+Ton charme m'ensorcelle, ta beautй me sйduit.
+C'est les daines de tous les temps, qui m'enchante et qui m'attend,
+Cest la vieille fйerie du liban.
+
+Beyrouth,
+Ton champ plein de douceur, s'йtire а l'infini.
+Beyrouth,
+Et monte dans mon coeur, en vertes symphonies.
+C'est la chanson du vieux temps, que rйpиtent les amants,
+C'est la lente mйlodie du liban.
+
+Beyrouth,
+Soleil riant au ciel, au reflet mystйrieux.
+Beyrouth,
+Flaveur dйlais de miel, qui nous descend des cieux
+C'est Vйnuse de tous les temps, que cйlиbre les amants,
+Dans la montagne fleurit du Liban.
+
+Beyrouth,
+Je chante а tes йtoiles, quand tout silence y rиgne.
+Beyrouth,
+Le bleu que rien ne voile, sommeille dans tes yeux.
+Je rкve a un rкve йclatant, qui me berce tendrement,
+Par les milles et une nuit du Liban......

@@ -1,0 +1,38 @@
+Artist: down
+Title: bury_me_in_smoke
+Genre: Pop/Rock
+Subgenres: [u'Alternative Metal', u'Alternative/Indie Rock', u'Heavy Metal', u'Post-Grunge', u'Contemporary Pop/Rock']
+
+Song:
+
+Windows are closing
+Keep me locked away
+No chance was given
+To find myself today
+My time of aging
+Wonder when I'll die
+But when my time will come
+I know the reason why
+
+I have to risk it
+Alone it keeps me safe within my home
+I have to use it
+To keep me satisfied until I'm gone
+Don't regret the rules I broke
+When I die bury me in smoke
+
+Under the world
+I wait for my fate
+My soul resting
+Beneath my blissful haze
+My time of aging
+Wonder when I'll die
+But when my time will come
+I know the reason why
+
+I have to risk it
+Alone it keeps me safe within my home
+I have to use it
+To keep me satisfied until I'm gone
+Don't regret the rules I broke
+When I die bury me in smoke

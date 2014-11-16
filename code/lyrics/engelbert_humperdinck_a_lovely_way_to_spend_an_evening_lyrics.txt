@@ -1,0 +1,27 @@
+Artist: engelbert_humperdinck
+Title: a_lovely_way_to_spend_an_evening_lyrics
+Genre: Vocal
+Subgenres: [u'AM Pop', u'Vocal Pop', u'Contemporary Pop/Rock', u'Soft Rock', u'Traditional Pop', u'Standards', u'Adult Contemporary', u'Contemporary Country']
+
+Song:
+
+This is a lovely way to spend an evening.
+Can't think of anything I'd rather do
+This is a lovely way to spend an evening, 
+Can't think of anyone as lovely as you
+
+A casual stroll through a garden. a kiss by a lazy lagoon
+Catching a breath of moonlight, humming our favorite tune
+This is a lovely way to spend an evening
+I want to save all my nights and spend them with you
+Catching a breath of moonlight, humming our favorite tune
+This is a lovely way to spend an evening
+I want to save all my nights and spend them with you
+
+Some like a night at the movies, some like a dance or a
+Show
+Some are content with an evening spent home by the radio
+Some like to live for the moment, some like to just
+Reminisce
+But whenever I have an evening to spend. just give me one
+Like this

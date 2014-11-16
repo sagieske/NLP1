@@ -1,0 +1,28 @@
+Artist: twenty_one_pilots
+Title: before_you_start_your_day
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Indie Rock', u'Pop', u'Underground Rap']
+
+Song:
+
+Open the slits in your face and start your day
+You don't have much time to make your slits look just right
+I'm in your mind
+I'm singing
+I'm in your mind
+I'm singing la-da la-da la-da la-da la-da la-da
+
+Look in the mirror and ask yourself if you're alright
+Put out the glitter that your soul hides behind
+You're in my mind
+I'm singing
+You're in my mind
+I'm singing la-da la-da la-da la-da la-da la-da
+
+Nowhere were they holy
+Open up your eyes and see
+The clouds above will hold you
+The clouds above will sing
+
+And in your mind
+You're singing la-da la-da la-da la-da la-da la-da-da

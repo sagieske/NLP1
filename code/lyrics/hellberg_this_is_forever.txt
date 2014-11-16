@@ -1,0 +1,35 @@
+Artist: hellberg
+Title: this_is_forever
+Genre: Pop/Rock
+Subgenres: [u'Adult Alternative Pop/Rock', u'Alternative/Indie Rock', u'Singer/Songwriter', u'Contemporary Pop/Rock', u'Indie Rock']
+
+Song:
+
+I close my eyes
+A moment I capture
+I feel alive
+
+So I hold on
+I'll never surrender
+And I love strong
+This is forever
+This is forever
+So I hold on
+I'll never surrender
+And I love strong
+This is forever
+
+This is forever
+
+I close my eyes
+A moment I capture
+I feel alive
+
+So I hold on
+I'll never surrender
+And I love strong
+This is forever
+This is forever
+This is forever
+
+This is forever

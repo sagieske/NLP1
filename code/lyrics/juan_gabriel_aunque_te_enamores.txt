@@ -1,0 +1,24 @@
+Artist: juan_gabriel
+Title: aunque_te_enamores
+Genre: Latin
+Subgenres: [u'Latin Pop', u'Mariachi', u'Mexican Traditions']
+
+Song:
+
+Aunque Te Enamores
+By: Juan Gabriel
+Aunque te enamores, otra vez mi vida
+Aunque tengas todo, aunque seas feliz..
+Aunque te enamoren y te quieran mucho..
+Viviras pensando, siempre, siempre en mi..
+Siempre, siempre me llevaras y en tu corazon vivire..
+Siempre, simpre recordaras y no olvidaras que te ame...
+Y aunque tu estes lejos, y aunque nunca vuelvas
+Viviras la vida, pensando en mi...
+Siempre siempre me llevaras, no podras jamas olvidar
+Y aunque te hablen de amor querras tu saber de mi nada mas
+Siempre, siempre me llevaras y en tu corazon vivire..
+Siempre simpre recordaras y no olvidaras que te ame..
+Siempre, siempre me llevaras y en tu corazon vivire..
+Siempre, simpre me llevaras y no olvidaras que te ame
+Siempre, simpre me llevaras y no olvidaras que te ame..

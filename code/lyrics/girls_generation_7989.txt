@@ -1,0 +1,62 @@
+Artist: girls_generation
+Title: 7989
+Genre: Pop/Rock
+Subgenres: [u'Korean Pop', u'Pop', u'Teen Pop', u'Asian Pop', u'Club/Dance']
+
+Song:
+
+[Kangta]
+Yoonanhi oneul dara wae geuroghe utgo itneungoni
+Olma jon naege sogaeshi gyojoon gey saramee ni
+Nol ootge mandeuneun haengbokhan geu namja
+
+[Taeyeon]
+Yoonanhi oneul dara wae geuroghe oo oorae boyoyo
+Bolso han shigan jae iroghe na utgo ijanayo
+Jing geuri ji mayo jongmal gokjong dweyo
+
+[Kangta]
+Geuroghe oraen shiganeul hamke haessoneunde
+Ajikdo moreuni nal geuroghe molla
+
+[Taeyeon]
+Iron babogado isseul gayo ajikdo moreulnayo
+Doopal boryo so itneun nal
+
+[Kangta]
+Geuroghe babeun goreum euro oril gago itneun goni
+Jogeum eun chonchon hee gutgo shipo
+Nowa hamke haneun sojoong ha nee shigan bari bonae go shipji ana
+
+[Taeyeon]
+Geuroghe neurin goreum euro odil gaget daneun gonji
+Jogeum do manheun gose gago shipo
+Iljoo ile hanbon bake mot boneunde jom sodoorojwo yo
+
+[Kangta]
+Geuroghe oraen shiganeul hamke haessoneunde
+Ajikdo moreuni nal geuroghe molla
+
+[Taeyeon]
+Iron babogado isseul gayo ajikdo moreulnayo
+Doopal bolryo son nareul
+
+[Kangta&taeyeon]
+Geu ron ga bwayo neul geu raetna bwayo gateun gote soso
+Dareun gotman bwajwo
+Nan neul hangotman bara bo neun de geujol moreugo itjyo
+Nareul bolsoon obnayo
+
+[Taeyeon]
+Geuroghe oraen shiganeul
+
+[Kangta]
+Hamke haessoneunde
+
+[Taeyeon]
+Ajikdo mollayo
+
+[Taeyeon&kangta]
+Nal geuroghe molla
+Iron babogado isseul gayo ajikdo moreulnayo
+Doopal boryo so itneun nal

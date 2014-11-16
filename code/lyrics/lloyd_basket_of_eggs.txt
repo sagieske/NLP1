@@ -1,0 +1,65 @@
+Artist: lloyd
+Title: basket_of_eggs
+Genre: Jazz
+Subgenres: [u'Hard Bop', u'Crossover Jazz', u'Avant-Garde Jazz', u'Jazz Instrument', u'Post-Bop', u'Saxophone Jazz']
+
+Song:
+
+Basket of Eggs
+Penguin Book of English Folk Songs
+(Lloyd and Williams)
+Down in Sandbank fields, two sailors they were
+Walking,
+Their pockets were both lined with gold.
+And as together they were talking
+A fair maid there they did behold.
+With a little basket standing by her
+As she sat down to take her ease.
+To carry it for her one of them offered
+The answer was: "Sir, if you please".
+One of these sailors took the basket.
+"There's eggs in the basket, please take care:
+And if by chance you should out-walk me
+At the Half-way house please leave them there. "
+Behold these sailors, they did out-walk her,
+The Half-way house they did pass by.
+The pretty damsel she laughed at their fancy
+And on the sailors she kept her eye.
+When these two sailors came unto an ale-house,
+There they did call for a pint of wine.
+Saying: "Landlord, landlord, what fools in this
+Nation!
+This young maid from her eggs we've twined.
+O Landlord, landlord, bring us some bacon
+We have these eggs and we'll have some dressed. "
+Behold, these sailors were much mistaken
+As you shall say when you hear the rest.
+'Twas then the landlord he went to the basket
+Expecting of some eggs to find.
+He said: "Young man, you're much mistaken,
+Instead of eggs I've found a child. "
+Then one of them sat down to weeping
+The other said: "It's not worth while.
+Here's fifty guineas I'll give to the baby
+If any woman will take the child. "
+The pretty young damsel she sat by the fire,
+And she had a shawl drawn over her face.
+She said: "I'll take it and kindly use it
+When first I see the money paid. "
+One of the sailors threw down the money
+Great favor to the babe was shown.
+"Since it is so, then let's be friendly
+For you know this child it is your own. "
+"Don't you remember a-dancing with Nancy
+As long ago as last Easter day? "
+"Oh yes and I do and she pleased my fancy
+So now the fiddler I have paid. "
+One of the sailors went up to the basket
+And he kicked the basket o'er and o'er.
+"Since it is so, may we all be contented
+But I'm hanged if I'll like eggs any more! "
+See also quarerye and xmasgoos(?)
+Filename[ basketeg
+Play. Exe basketeg
+Rg
+===Document boundary===

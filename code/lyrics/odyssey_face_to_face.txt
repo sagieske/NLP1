@@ -1,0 +1,21 @@
+Artist: odyssey
+Title: face_to_face
+Genre: Jazz
+Subgenres: [u'Avant-Garde Jazz', u'Jam Bands', u'Jazz-Funk']
+
+Song:
+
+Face to face, I've got to understand
+Did you mean to break my heart
+Face to face, I got to realize.
+Please don't tell me lies
+
+Face to face, I've got to understand
+Is it love or is it pride
+Face to face, I got to realize.
+Tell me what's the truth
+
+If we all could stand together
+There's no need to hide away
+Would you stand by me forever
+Face to face I got to know now

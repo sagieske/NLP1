@@ -1,0 +1,18 @@
+Artist: hoagy_carmichael
+Title: new_orleans
+Genre: Jazz
+Subgenres: [u'American Popular Song', u'Early Jazz', u'Standards', u'Tin Pan Alley Pop', u'Traditional Pop', u'Cast Recordings', u'Show Tunes']
+
+Song:
+
+If you've never seen a quaint old Southern city
+Just think of New, think of New Orleans
+
+If you've never seen that town, boy, it's a pity
+There's nothing like, nothing like New Orleans
+
+It will remind you old fashioned lace
+A glass of wine will greet your smiling face
+
+And if you ever see a black-eyed gal like mine, boy
+Oh, then you're right in it, right in New Orleans

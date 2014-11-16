@@ -1,0 +1,37 @@
+Artist: switchfoot
+Title: adding_to_the_noise
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Adult Alternative Pop/Rock', u'Alternative CCM', u'Contemporary Christian', u'Post-Grunge']
+
+Song:
+
+What's it gonna take
+To slow us down
+To let the silence spin us around?
+What's it gonna take
+To drop this town?
+We've been spinning at the speed of sound.
+
+Stepping out of those convenience stores
+What could we want but more more more?
+From the third world
+To the corporate core
+We are a symphony of modern humanity
+
+If we're adding to the noise
+Turn off this song
+If we're adding to the noise
+Turn off your stereo, radio, video
+
+I don't know
+What they're gonna think of next
+Genetic engineers of the most high tech
+A couple new ways
+To fall into debt
+I'm a nervous wreck but I'll bet
+That that T. V. Set
+Tells us what we've wanted to hear
+But none of these sound bites
+Are coming in clear
+From the third world to the corporate ear
+We are the symphony of modern humanity.

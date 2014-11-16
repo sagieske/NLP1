@@ -1,0 +1,42 @@
+Artist: gigliola_cinquetti
+Title: a_media_luz
+Genre: Pop/Rock
+Subgenres: [u'Italian Pop', u'Latin Pop', u'Italian Music', u'Western European Traditions']
+
+Song:
+
+Al vecchio bar sivigliano
+portarti voglio con me
+in un angolo nascosto
+pronto ? un tavolo per te
+all'ombra del paravento
+soli, stretti cuore a cuor
+scordiamo in un momento
+ogni amoroso tormento.
+Sotto quella luce blu
+per un'ora a me vicino
+ci sarai soltanto tu.
+
+A mezza luce amor
+? tanto bello amar
+a mezza luce il cuor
+soltanto vuol sognar
+a mezza luce ancor
+con me dovrai restar
+a mezza luce amor
+tu mi dovrai baciar.
+
+Maliosa in ogni voce
+trema una frase felice
+nella dolce oscurit?
+qualche bacio appassionato
+di sfuggita scocca e va.
+
+A mezza luce amor
+? tanto bello amar
+a mezza luce il cuor
+soltanto vuol sognar
+a mezza luce ancor
+con me dovrai restar
+a mezza luce amor
+tu mi dovrai baciar

@@ -1,0 +1,14 @@
+Artist: jordin_sparks
+Title: acapella
+Genre: R&B
+Subgenres: [u'Contemporary Pop/Rock', u'Dance-Pop', u'Pop', u'Teen Pop', u'Pop Idol']
+
+Song:
+
+Ohhh, 
+Tell me where you went yesterday, so far from me
+You left away, 
+I know you were with her.
+It's not fair.
+
+When my accapella left I found you.

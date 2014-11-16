@@ -1,0 +1,38 @@
+Artist: new_seekers
+Title: circles
+Genre: Pop/Rock
+Subgenres: [u'Folk-Rock', u'Psychedelic/Garage', u'AM Pop', u'Soft Rock', u'Sunshine Pop', u'Early Pop/Rock', u'Folk-Pop']
+
+Song:
+
+Chorus:
+All my life's a circle
+Sunrise and sundown
+Moon rolls through the nighttime
+Till daybreak comes around
+All my life's a circle
+Still I wonder why
+Seasons spinning 'round again
+Years keep rolling by
+
+Seems like I've been here before
+Can't remember when
+I got this funny feeling
+We'll all be together again
+No straight lines make up my life
+All my roads have bends
+No clear cut beginnings
+So far no dead ends
+
+Chorus
+
+I've met you a thousand times
+I guess you've done the same
+Then we lose each other
+It's like a children's game
+But now I find you here again
+The thought comes to my mind
+Our love is like a circle
+Let's go 'round one more time
+
+Chorus

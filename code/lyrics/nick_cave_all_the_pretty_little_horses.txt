@@ -1,0 +1,23 @@
+Artist: nick_cave
+Title: all_the_pretty_little_horses
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative Singer/Songwriter', u'Alternative/Indie Rock', u'Post-Punk', u'Spoken Word']
+
+Song:
+
+Hushaby, don' you cry
+Go to sleepy little baby
+
+When you awake you shall have cake
+And all the pretty little horses.
+Blacks and Bays, Dapples and Grays
+Coach, and a six a little horses.
+
+So hushaby, etc.
+
+Way down yonda', down in the medder
+There's a poor little lambie.
+Bees an' the butterflies peckin' out his eyes
+Poor lambie cried fo' his mammy.
+
+But hushaby, etc.

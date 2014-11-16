@@ -1,0 +1,24 @@
+Artist: william_murphy
+Title: ignite_my_fire
+Genre: R&B
+Subgenres: [u'Motown', u'Pop-Soul', u'Quiet Storm', u'Smooth Soul', u'Soul', u'Early R&B', u'Adult Contemporary R&B']
+
+Song:
+
+Chorus:
+Ignite my fire Lord
+I want to burn for you
+Consume me, oh Lord
+As I cry out for you (2x)
+
+Oh
+Destroy everything (that is not like you)
+Oh
+Give my all (to you)
+
+Chorus:
+(Repeat chorus and verse 2x)
+
+Vamp:
+As I cry out for you (repeat)
+Oh (repeat)

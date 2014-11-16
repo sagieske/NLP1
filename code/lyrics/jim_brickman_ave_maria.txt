@@ -1,0 +1,24 @@
+Artist: jim_brickman
+Title: ave_maria
+Genre: New Age
+Subgenres: [u'Contemporary Instrumental', u'Piano/New Age', u'Adult Contemporary', u'Show/Musical', u'Solo Instrumental', u'Keyboard']
+
+Song:
+
+Ave Maria, gratia plena, dominus tecum
+Benedicta tu in mulieribus
+Et benedictus fructos ventri tui Jesus
+Santa Maria, Santa Maria
+
+Maria, ora pro nobis
+Nobis pecatoribus
+Nunc et in ora
+In ora mortis nostrae
+(Santa Maria, Santa Maria)
+
+Maria, ora pro nobis
+Nobis pecatoribus
+Nunc et in ora
+In ora mortis nostrae
+
+Amen, Amen

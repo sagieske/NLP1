@@ -1,0 +1,32 @@
+Artist: porter_wagoner
+Title: angel_band
+Genre: Country
+Subgenres: [u'Country Gospel', u'Country-Pop', u'Gospel', u'Nashville Sound/Countrypolitan', u'Traditional Country']
+
+Song:
+
+My latest sun is sinking fast
+My race is nearly run
+My strongest trials now are past
+My triumph has began.
+
+Oh, come angel band
+Come and around me stand
+Oh, bear me away on your snowy wings
+To my imortal home
+Oh, bear me away on your snowy wings
+To my imortal home.
+
+--- Instrumental ---
+
+Oh, bear my longing heart to him
+Who bled and died for me
+Whose blood now cleanse us from all sins
+And gives me victory.
+
+Oh, come angel band
+Come and around me stand
+Oh, bear me away on your snowy wings
+To my imortal home
+Oh, bear me away on your snowy wings
+To my imortal home...

@@ -1,0 +1,23 @@
+Artist: radiohead
+Title: a_reminder
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Britpop', u'Experimental Rock', u'Indie Electronic']
+
+Song:
+
+If I get old, I will not give in
+But if I do, remind me of this.
+Remind me that, once I was free,
+Once I was clear, once I was me.
+
+And if I sit down, and cross my arms,
+Hold me to, this song.
+
+Knock me out, smash out my brains,
+If I take a chair, start to talk s**t.....
+
+If I get old, remind me of this:
+That night we kissed, that I really meant it.
+
+Whatever happens, if we're still speaking.
+Pick up the phone, play me this song

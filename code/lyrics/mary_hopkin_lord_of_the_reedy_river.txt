@@ -1,0 +1,32 @@
+Artist: mary_hopkin
+Title: lord_of_the_reedy_river
+Genre: R&B
+Subgenres: [u'Contemporary R&B', u'Adult Contemporary R&B', u'New Jack Swing']
+
+Song:
+
+She fell in love with a swan
+Her eyes were filled with feathers
+He filled her with song
+In the Reedy River
+In the Reedy River
+
+She in her boat long hours
+He in his royal plumage
+She threw him some flowers
+In the Reedy River
+In the Reedy River
+
+Black was the night and starry
+She loosened up her garments
+And let fall her hair
+In the Reedy River
+In the Reedy River
+
+Sadly, they mourn and sigh
+Whilst in evening twilight
+Two swans glide and fly
+O'er the Reedy River
+O'er the Reedy River
+
+She fell in love with a swan

@@ -1,0 +1,30 @@
+Artist: my_chemical_romance
+Title: art_is_the_weapon
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Punk Revival', u'Post-Hardcore', u'Punk-Pop', u'Alternative Pop/Rock', u'Emo']
+
+Song:
+
+Look alive, sunshine. One o' nine in the sky but the pigs won't quit.
+You're here with me, Dr. Death Defying. I'll be your surgeon, your proctor, your helicopter.
+Pumpin' out the Slaughtermatic sounds to keep you live.
+System failure for the masses; anti-matter for the master plan.
+Louder than God's revolver and twice as shiny.
+This one's for you rock'n'rollers. All you crash queens and motor babies. Listen up! The future is bulletproof; the aftermath secondary.
+It's time to do it now and do it loud.
+Killjoys make some noise!
+
+From mall security,
+To every enemy
+We're on your property,
+Standing in V formation
+
+Drop like a bullet shell,
+Dress like a sleeper cell.
+I'd rather go to hell,
+Than be in purgatory
+
+Cut my hair,
+Gag and bore me,
+Pull this pin,
+Let this world explode.

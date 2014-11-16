@@ -1,0 +1,27 @@
+Artist: louis_prima
+Title: basin_street_blues
+Genre: Jazz
+Subgenres: [u'Jump Blues', u'Swing', u'Traditional Pop', u'Dixieland', u'Early R&B']
+
+Song:
+
+Won't you come along with me
+Down that Mis - sis - sip - pi; 
+We'll take a boat to the land of dreams, 
+Steam down the river down to New Orleans.
+
+The band's there to greet us, 
+Old friends will meet us, 
+Where all people like to meet
+Heaven on earth, they call it Basin Street
+
+Basin Street is the street
+Where the elite always meet --
+In New Orleans, land of dreams
+You'll never know how nice it seems
+Or just how much it really means.
+
+Glad to be, yessiree, 
+Where welcomes free, dear to me, 
+Where I can lose
+My Ba - sin Street Blues.

@@ -1,0 +1,27 @@
+Artist: renato_carosone
+Title: baseme
+Genre: International
+Subgenres: [u'Italian Music', u'Western European Traditions']
+
+Song:
+
+Strofa:
+Dolce notte una collana di rose scende,
+Sale lungo I balconi sul mar...
+Che notte per amar.
+
+Ritornello:
+B? Seme, b? Seme ancora
+Mentre va sulla laguna una,
+Una, una gondola.
+B? Seme, b? Seme
+Tanto come il raggio della luna basa,
+Basa, basa il mar.
+Sotto I ponti la gondola va
+Silenziosa nel buio...
+Io m'abbandono a te
+E tu sogni con me sul cuore.
+B? Seme, b? Seme ancora,
+Dimmi ancor, con I baci: "t'amo, t'amo amor..."
+
+Back

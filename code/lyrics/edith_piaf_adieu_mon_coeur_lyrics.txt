@@ -1,0 +1,31 @@
+Artist: edith_piaf
+Title: adieu_mon_coeur_lyrics
+Genre: Vocal
+Subgenres: [u'Cabaret', u'French Pop', u'Torch Songs', u'Vocal Pop']
+
+Song:
+
+Adieu mon c? Ur.
+On te jette au malheur.
+Tu n'auras pas mes yeux
+Pour mourir...
+Adieu mon c? Ur.
+Les? Chos du bonheur
+Font tes chants tristes
+Autant qu'un repentir.
+
+Autrefois tu respirais le soleil d'or.
+Tu marchais sur des tr? Sors.
+On? Tait vagabonds.
+On aimait les chansons.
+? 'a fini dans les prisons.
+
+Adieu mon c? Ur.
+On te jette au malheur.
+Tu n'auras pas mes yeux
+Pour mourir...
+Adieu mon c? Ur.
+Les? Chos du bonheur
+Font tes chants tristes
+Autant qu'un repentir...
+Un repentir...

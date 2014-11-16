@@ -1,0 +1,23 @@
+Artist: one_night_only
+Title: its_alright
+Genre: Pop/Rock
+Subgenres: [u'Alternative Singer/Songwriter', u'Alternative/Indie Rock', u'Indie Pop', u'Indie Rock']
+
+Song:
+
+Should I stay, should I go, I can't make up my mind anymore
+She's walking round the corner, I've got my back to the wall
+
+Yes you're telling me, it's alright, it's alright
+Yes you're telling me, it's fine, it's alright
+
+Life is like a jigsaw, sometimes it's all over the floor
+When the pieces fit together, you feel a thing you've never felt before
+
+You're telling me it's alright, it's alright
+Yes you're telling me, it's fine, it's alright
+
+Who's that banging on my door?
+I look outside the sky's painted the floor
+I think were safe I think were fine
+The moments here, the feelings right, it's alright

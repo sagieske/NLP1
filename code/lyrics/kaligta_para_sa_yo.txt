@@ -1,0 +1,31 @@
+Artist: kaligta
+Title: para_sa_yo
+Genre: Latin
+Subgenres: [u'Latin Pop']
+
+Song:
+
+Tuwing pinipikit ang mata ngiti mo
+Ang nakikita
+Saan man magpunta yakap mo ang
+Nadarama
+Chorus:
+Lumipas man ang mahabang
+Panahon
+Pag-ibig ko'y di tatanda para sayo
+Tumigil man ang ikot ng mundo
+Ang tibok ng puso'y di magbabago
+Para sayo
+Sa bawat paghinga ikaw ang naaalala
+Sa'king pag-iisa, pag-ibig mo
+Ang lagi kong kasama
+Bridge:
+Maubos man ang tinig ko aawit parin
+Ang puso
+Para lang sayo
+Outro:
+Magbago man ang takbo ng mundo
+Pag-ibig ko'y mananatili sayo
+Matapos man ang awit kong ito
+Ang tibok ng puso'y di magbabago
+Para sayo

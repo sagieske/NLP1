@@ -1,0 +1,33 @@
+Artist: willy_wonka
+Title: i_want_it_now
+Genre: Latin
+Subgenres: [u'Salsa', u'Latin Pop', u'Tropical']
+
+Song:
+
+I want a feast
+I want a bean feast
+Cream buns and doughnuts and fruitcake with no nuts so good you could go nuts.
+No, now! 
+I want a ball
+I want a party
+Pink macaroons and a million balloons and performing baboons and
+Give it to me now.
+I want the world, 
+I want the whole world.
+I want to lock it all up in my pocket
+It's my bar of chocolate
+Give it to me now! 
+I want today
+I want tomorrow
+I want to wear them like braids in my hair and I don't want to share them
+I want a party with roomfuls of laughter
+Ten thousand tons of ice cream
+And if I don't get the things I am after
+I'm going to scream! 
+I want the works, 
+I want the whole works! 
+Presents and prizes and sweets and surprises in all shapes and sizes, 
+And now! 
+Don't care how I want it now! 
+Don't care how I want it now!

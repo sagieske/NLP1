@@ -1,0 +1,42 @@
+Artist: tae_yeon
+Title: closer
+Genre: Country
+Subgenres: [u'Contemporary Country', u'Country-Pop', u'Contemporary Folk', u'Contemporary Pop/Rock', u'Neo-Traditionalist Country']
+
+Song:
+
+Haji motan mari neomu manhayo
+Hanbeondo dangsineun deutji motaetjiman
+Nae ape boyeojin nugungal amuna saranghal geureon sarameun anieyo
+
+Sesangui geu manheun saramdeul soge
+Naegen ojik geudaega boyeojyeotgie
+
+Geudaeman bomyeo seoinneungeollyo
+I sarang huen nan jal moreugesseoyo
+Aju eorin aiga hangsang geureohadeusi
+Jigeum isungan ttaseuhi anajullaeyo
+
+Eonjengan natseon ireumi doeeodo
+Nae gaseumi geu chueogi da gieokhal tenikka
+Hoksirado apeun ibyeori ondaedo oneureun geureon saenggageun haji mayo
+
+Isesang geu manheun saramdeul soge
+Naegen ojik geudaega boyeojyeotgie
+
+Geudaeman bomyeo seoinneungeollyo
+I sarang huen nan jal moreugesseoyo
+Aju eorin aiga hangsang geureohadeusi
+Deo gakkai deo ttaseuhi anajullaeyo
+
+Ije nan honjaga anin geojyo
+Geu jarieseo oneul naege on geudae mani
+
+Geudaeman naui jeonbuingeollyo
+I sarang huen nan jal moreugesseoyo
+Aju eorin aiga hangsang geureohadeusi
+Deo gakkai deo ttaseuhi anajullaeyo
+
+Deo gakkai
+Deo ttaseuhi
+Anajullaeyo

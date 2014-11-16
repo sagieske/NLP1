@@ -1,0 +1,44 @@
+Artist: eppu_normaali
+Title: akun_tehdas_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Adult Alternative Pop/Rock', u'Alternative/Indie Rock', u'International Pop', u'Alternative Pop/Rock']
+
+Song:
+
+Miksi annoimme kasvaa tukkien?
+Miksi soitimme kera kukkien?
+
+Miksi sellaisia kysytkin
+Nythдn meistд tykkддvдt hдmytkin
+Meillд oikeus on olla huoleton
+Tyцpaikkamme Akun tehdas on
+
+Miksi emme sitд
+Hдpeд ja peitд
+Ettд teemme pelkkiд lдllдreitд
+Emme tietenkддn siitд paineita ota
+Arvostamme nдet mummojenkin suosiota
+Meillд oikeus on olla huoleton
+Tyцpaikkamme Akun tehdas on
+
+Miksi meitд laiskoja laulattaa
+Helppo raha ja elдmд naurattaa
+Meillд oikeus on olla huoleton
+Tyцpaikkamme Akun tehdas on
+
+On onnellisten tдhtien alla nдin
+Tarpeetonta olla alla pдin
+Sen jo varhain huomasimme
+Kun Akun tehtaan perustimme
+Meillд oikeus on olla huoleton
+Tyцpaikkamme Akun tehdas on
+
+Miksi meitд laiskoja laulattaa
+Helppo raha ja elдmд naurattaa
+Meillд oikeus on olla huoleton
+Tyцpaikkamme Akun tehdas on
+
+Miksi meitд laiskoja laulattaa
+Helppo raha ja elдmд naurattaa
+Meillд oikeus on olla huoleton
+Tyцpaikkamme Akun tehdas on

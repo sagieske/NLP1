@@ -1,0 +1,75 @@
+Artist: metro_station
+Title: disco
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Dance-Rock', u'Emo']
+
+Song:
+
+I wonder if you're going down
+Well, we all know
+You get lost and then get found
+And then I wonder so
+
+I can't take this
+No, I don't like it
+I don't know where you are
+
+I wonder if that's what you said
+I wonder in my sleep
+I can't believe that's what you heard
+Can you not feel?
+
+I can't take this
+No, I don't like it
+I don't know where you are
+
+You know, she's dancing, at the disco
+And, whoa-oh
+She's dying, on the dance floor
+
+I know you're sleeping all alone
+You feel suicidal
+I know you're dying to get out
+But it's in you deep inside
+
+I can't take this
+No, I don't like it
+I don't know where you are
+
+Do you feel it in your veins?
+The poison rushing through?
+But can't you see it in your heart?
+That I'm still there for you
+
+I can't take this
+No, I don't like it
+I don't know where you are
+
+You know, she's dancing, at the disco
+And whoa-oh
+She's dying, on the dance floor
+
+(Say my name)
+You don't even know it
+(I am done)
+Well, you sure aren't showing it
+(Hold my hand)
+You know she's on the dance floor
+(I know she's dying)
+But still she craves more!
+
+(Say my name)
+You don't even know it
+(I am done)
+Well, you sure aren't showing it
+(Hold my hand)
+You know she's on the dance floor
+(I know she's dying)
+But still she craves more!
+
+You know, she's dancing, at the disco
+And, whoa-oh
+She's dying, on the dance floor
+Yeah, yeah, she's dancing, at the disco
+And, whoa-oh
+She's dying, on the dance floor

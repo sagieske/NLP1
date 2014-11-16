@@ -1,0 +1,20 @@
+Artist: tim_hughes
+Title: be_glorified
+Genre: Electronic
+Subgenres: [u'Club/Dance', u'Progressive House', u'EDM', u'House']
+
+Song:
+
+Note: Originally written by Chris Tomlin
+Your love has captured me
+Your grace has set me free
+Your life, the air I breathe
+Be glorified in me
+You set my feet to dancing
+You set my heart on fire
+In the presence of a thousand kings
+You are my one desire
+And I stand before You now with trembling hands lifted high
+Be glorified
+Be glorified in me
+Be glorified in me

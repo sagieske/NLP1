@@ -1,0 +1,42 @@
+Artist: guns_n_roses
+Title: attitude
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Hard Rock', u'Heavy Metal']
+
+Song:
+
+Yeah!
+Attitude
+Some fu***n' attitude
+I can't believe what you say to me
+You've got some attitude
+
+Inside that bitter brain
+There's gotta be a w***e
+If you don't shut your mouth
+You're gonna feel the floor, yeah!
+
+Attitude, what you've got
+Some fu***n' attitude
+Attitude's what you've got
+Some fu***n' attitude
+Yeah, all right
+
+Inside that bitter brain
+There's gotta be a w***e
+If you don't shut your mouth
+You're gonna feel the mutha fu***n' guitar!
+
+Oh, attitude
+Some fu***n' attitude
+I can't believe what you say to me
+You've got some attitude
+
+Oh, attitude
+Some fu***n' attitude
+I can't believe what you say to me
+You've got some attitude
+
+Yeah!
+Yeah!
+Yeah!

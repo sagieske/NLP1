@@ -1,0 +1,36 @@
+Artist: george_jones
+Title: a_cold_day_in_december
+Genre: Country
+Subgenres: [u'Country-Pop', u'Honky Tonk', u'Nashville Sound/Countrypolitan', u'Traditional Country', u'Country Gospel', u'Gospel']
+
+Song:
+
+We try hard to hold on too
+You lost your patience and I lost my mind
+Now you asked me would I go through it
+If you came back one more time.
+
+It'll be a cold day in December
+It'll be a hot day in mid July
+Or a cool night in late September
+Before I give our love another try.
+
+Just as sure as California
+Has a white atlantic shore
+And a long eastern sunset
+I won't want you for anymore.
+
+It'll be a cold day in December
+It'll be a hot day in mid July
+Or a cool night in late September
+Before I give our love another try.
+
+There will be iceburgs in the arctic ocean
+There will be seashells in the Florida pan
+And an old heart with in me beatin'
+Before I ever take you back again.
+
+It'll be a cold day in December
+It'll be a hot day in mid July
+Or a cool night in late September
+Before I give our love another try...

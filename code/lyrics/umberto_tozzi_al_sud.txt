@@ -1,0 +1,27 @@
+Artist: umberto_tozzi
+Title: al_sud
+Genre: Pop/Rock
+Subgenres: [u'Italian Pop', u'Italian Music', u'Vocal Music', u'Western European Traditions']
+
+Song:
+
+Non sono pi? Citt? Ma botti per aringhe
+E morti in libert? Che vivono di gas
+Il seme che ci d? Giardini di siringhe
+? Questa la civilt? Dei soldi e dello stress.
+Voglio andarmene gi? Forse dentro di me
+Voglio andare pi? A sud e portarci anche te
+Verso un cielo che sia pi? Profondo e pi? Blu
+Sono gi? Sulla via che mi porta a sud.
+Lascia che il tempo muoia lascia che il vento sia
+Bambini su di un'aia e un cane che ci abbaia
+E occhi di marea capelli quasi blu
+Il sogno si ricrea l? Dove comincia il sud.
+Voglio andare pi? Gi?
+Forse dentro il mio io
+Pi? Si scende a sud
+Pi? Si parla con Dio
+Verso un cielo che sia
+Pi? Profondo e pi? Blu
+Sono gi? Sulla via che mi porta a sud.
+Voglio andarmene gi? Forse dentro di me.

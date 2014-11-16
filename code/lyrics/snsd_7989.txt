@@ -1,0 +1,78 @@
+Artist: snsd
+Title: 7989
+Genre: Electronic
+Subgenres: [u"Jungle/Drum'n'Bass"]
+
+Song:
+
+[Kangta]
+Yunanhi oneulttara
+We geuroke utgo inneun-goni
+Olma jon nege sogesikyojun
+Geu saramini nor-utge mandeuneun
+Hengbokhan geu namja
+
+[Taeyeon]
+Yunanhi oneulttara
+We geuroke you-urhe boyoyo
+Bolsso han siganjje iroke na
+Utgo itjanayo jjinggeuriji mayo
+Jongmal gokjong dweyo
+
+[Kangta]
+Geuroke oren siganeul
+Hamkke hessonneunde
+Ajikdo moreuni nal geuroke molla
+
+[Taeyeon]
+Iron baboga tto isseulkkayo
+Ajikdo moreunayo
+Du pal bollyo soinneun nal
+
+[Kangta]
+Geuroke bappeun goreumeuro
+Odil gago inneun goni
+Jogeumeun chonchonhi gotgo sipo
+Nowa hamkke haneun
+Sojunghan I sigan
+Ppalli bonego sipji ana
+
+[Taeyeon]
+Geuroke neurin goreumeuro odil
+Gagetdaneun gonji
+Jogeum do maneun gose gago sipo
+Iljuire hanbonbakke
+Mot boneunde jom sodullojwoyo
+
+[Kangta]
+Geuroke oren siganeul
+Hamkke hessonneunde
+Ajikdo moreuni nal geuroke molla
+
+[Taeyeon]
+Iron baboga tto isseulkkayo
+Ajikdo moreunayo
+Du pal bollyo son nareul
+
+[Kangta/Taeyeon]
+Geuron-ga bwayo
+Neul geurennabwayo
+Gateun gose soso dareun gotman bwatjyo
+Nan neul han-gotman baraboneunde
+Geugol moreugo itjyo
+Nareul bol sun omnayo
+
+[Taeyeon]
+Geuroke oren siganeul
+
+[Kangta]
+Hamkke hessonneunde
+
+[Taeyeon]
+Ajikdo mollayo
+
+[Taeyeon/Kangta]
+Nal geuroke molla
+Iron baboga tto isseulkkayo
+Ajikdo moreunayo
+Du pal bollyo so inneun nal

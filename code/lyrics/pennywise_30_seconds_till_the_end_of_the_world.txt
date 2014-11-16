@@ -1,0 +1,17 @@
+Artist: pennywise
+Title: 30_seconds_till_the_end_of_the_world
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Punk', u'Punk Revival', u'Punk/New Wave', u'Skatepunk']
+
+Song:
+
+30 seconds till the end of the world
+We'll blow it all to bits (End of the world)
+30 seconds till the end of the world
+We'll call it quits (End of the world)
+30 seconds till the end of the world
+Blow it all away (End of the world)
+30 seconds till the end of the world
+We'll call it a day
+Ten seconds till the end of the world
+Five seconds till the end of the world

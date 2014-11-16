@@ -1,0 +1,33 @@
+Artist: joe_bonamassa
+Title: as_the_crow_flies
+Genre: Pop/Rock
+Subgenres: [u'American Trad Rock', u'Blues-Rock', u'Modern Electric Blues']
+
+Song:
+
+As the crow flies baby
+And I ain't so far from you
+As the crow flies baby
+And I ain't so far from you
+
+Well I don't have wings
+And I can't get home like I want to
+
+In a dream last night
+Well I heard you call my name
+In a dream last night
+Well I heard you call my name
+
+Well I took it as an omen
+And I jumped on that next train
+Oh whoa
+
+Well you don't know baby
+How I miss your sweet caress
+Well you don't know baby
+How I miss your sweet caress
+
+When I'm in your lovin' arms
+And I swear I'm at my very best
+
+As the crow flies baby

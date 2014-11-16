@@ -1,0 +1,32 @@
+Artist: gotye
+Title: dont_worry_well_be_watching_you
+Genre: Pop/Rock
+Subgenres: [u'Electronica', u'Indie Electronic', u'Trip-Hop', u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Pop']
+
+Song:
+
+Hey
+What's your name?
+Don't worry
+Don't be afraid
+We won't hurt you
+
+Hey
+Lost your way?
+Don't worry
+Just do as we say
+And we won't hurt you
+
+It's hard
+The world can lead you so astray
+It gets harder
+It's hard just to keep the faith
+
+Do you need a reminder
+Of the love that we gave you?
+Don't worry
+You're walking away
+But we'll always be watching you
+
+(We'll always be watching you)
+(We'll always be watching you)

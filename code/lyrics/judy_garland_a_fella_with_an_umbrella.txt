@@ -1,0 +1,30 @@
+Artist: judy_garland
+Title: a_fella_with_an_umbrella
+Genre: Vocal
+Subgenres: [u'Cast Recordings', u'Show Tunes', u'Standards', u'Traditional Pop', u'Vocal Pop', u'American Popular Song', u'Show/Musical']
+
+Song:
+
+I'm just a fella,
+A fella with an umbrella,
+Looking for a girl who saved her love for a rainy day.
+I'm just a fella,
+A fella with an umbrella,
+Glad to see the skies of blue have turned into skies of gray.
+Raindrops have brought us together and that's what I longed to see.
+Maybe the break in the weather will prove to be a break for me.
+So I'll be the fella, the fella with an umbrella,
+If you'll be the girl who saved her love for a rainy day.
+
+Judy
+
+For every fella,
+Each fella with an umbrella,
+There's a girl, a girl who saved her love for a rainy day.
+For every fella,
+Each fella with an umbrella,
+There's a time when skies of blue must turn into skies of grey.
+Raindrops have brought us together that's what they were meant to do.
+Maybe the break in the weather will prove to be a break for you.
+So, I'll help the fella, the fella with an umbrella,
+Help him find the girl who saved her love for a rainy day.

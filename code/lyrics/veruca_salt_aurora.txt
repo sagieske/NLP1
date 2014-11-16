@@ -1,0 +1,27 @@
+Artist: veruca_salt
+Title: aurora
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Grunge']
+
+Song:
+
+How could you be everything?
+We were crackin' you up to be.
+We're cracking ourselves up.. Too...
+We're cracking ourselves up to be you.
+
+Had you in my hand now where'd you go, Aurora?
+See you up ahead, but I don't know if I could go as far as you go.
+
+Everything keeps on happening, and it's happening to me.
+I'm losing side of it's meaning.
+You blew away the meaning.
+
+Had it in my head, but where'd it go, Aurora?
+See you up ahead, but I don't know if I could go as far as you go.
+
+And everyone keeps telling me that this is good.
+I needed you to tell me it was is good too.
+
+Had you in my head, but where'd you go, Aurora?
+I See you up ahead, but I don't know if I could go as far as you go.

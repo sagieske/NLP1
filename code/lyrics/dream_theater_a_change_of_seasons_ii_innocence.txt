@@ -1,0 +1,41 @@
+Artist: dream_theater
+Title: a_change_of_seasons_ii_innocence
+Genre: Pop/Rock
+Subgenres: [u'Art Rock', u'Hard Rock', u'Heavy Metal', u'Neo-Prog', u'Progressive Metal', u'Prog-Rock', u'Album Rock']
+
+Song:
+
+[music by Dream Theater, lyrics by Mike Portnoy]
+
+I remember a time
+My frail, virgin mind
+Watched the crimson sunrise
+Imagined what it might find
+Life was filled with wonder
+I felt the warm wind blow
+I must explore the boundaries
+Transcend the depth of winter's snow
+
+Innocence caressing me
+I never felt so young before
+There was so much life in me
+Still I longed to search for more
+
+But those days are gone now
+Changed like a leaf on a tree
+Blown away forever
+Into the cool autumn breeze
+The snow has now fallen
+And my sun's not so bright
+I struggle to hold on
+With the last of my might
+
+In my den of inequity
+Viciousness and subtlety
+Struggle to ease the pain
+Struggle to find the same
+
+Ignorance surrounding me
+I've never been so filled with fear
+All my life's been drained from me
+The end is drawing near...

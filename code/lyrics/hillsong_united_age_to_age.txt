@@ -1,0 +1,26 @@
+Artist: hillsong_united
+Title: age_to_age
+Genre: Religious
+Subgenres: [u'CCM', u'Contemporary Christian', u'Praise & Worship', u'Alternative CCM', u'Gospel']
+
+Song:
+
+You gave me hope you made me whole at the cross.
+You took my place you showed me grace.
+At the cross where you died for me.
+
+Chorus
+
+And his glory appears like the light from the sun
+Age to age he shines look to the skies hear the angels cry.
+Saying holy is the Lord.
+
+Chorus
+
+You gave me hope you made me whole at the cross.
+You took my place you showed me grace
+At the cross where you died for me.
+
+And his glory appears like the light from the sun.
+Age to age he shines look to the skies here the angels cry.
+Saying holy is the Lord.

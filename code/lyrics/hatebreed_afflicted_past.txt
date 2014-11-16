@@ -1,0 +1,24 @@
+Artist: hatebreed
+Title: afflicted_past
+Genre: Pop/Rock
+Subgenres: [u'Punk Metal', u'Heavy Metal']
+
+Song:
+
+Hatred evokes the memories that make your blood run cold.
+Fear and sorrow push you away from yourself.
+(chorus)
+How can you face the world?
+When you can't face the mirror.
+How can you leave your past?
+With blood on your hands?
+Can you run away all your life?
+Can you escape your punishment?
+How many times can you start it all again?
+How many lies will it take to cover your tracks?
+(chorus)
+Mo matter how far you go
+Those days are right behind.
+The facade of your perfect life.
+Cannot hide your perfect past.
+There is no escape.

@@ -1,0 +1,23 @@
+Artist: terry_macalmon
+Title: my_god_and_king
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Noise Pop', u'Punk-Pop', u'Garage Punk', u'Alternative/Indie Rock']
+
+Song:
+
+My God and King
+To You alone I sing
+You're the face I seek
+For all eternity
+You'd be my dream come true
+Just to be with You
+How I'd see brand new
+With eyes for only You
+My God and King
+Through the storm I sing
+Covered by Your wing
+This song of love I bring
+You are my dream come true
+Just to be with You
+Now I see brand new
+With eyes for only You

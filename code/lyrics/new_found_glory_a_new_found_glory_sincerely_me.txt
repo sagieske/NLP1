@@ -1,0 +1,58 @@
+Artist: new_found_glory
+Title: a_new_found_glory_sincerely_me
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Punk-Pop', u'Punk Revival', u'Emo-Pop', u'Emo']
+
+Song:
+
+Dear, your name here
+It's been a long time, very long time
+Since I've heard your voice
+And I bet she never thought I was
+
+So sorry, so
+I've had a hard time, very hard time
+Seeing less of you
+I never thought you knew
+
+So, can you see?
+You're seeing less of me, darling
+And you're blind to the fact that my
+Heart stopped beating
+
+And I'm as good as dead
+And I'm as good as dead
+
+Dear, I forgot your name again
+Just picking up where I left off
+This is the part where you leave me
+
+So sorry, so
+I've had a hard time, very hard time
+Seeing less of you
+I never thought you knew
+
+So, can you see?
+You're seeing less of me, darling
+And you're blind to the fact that my
+Heart stopped beating
+
+So, can you see?
+You're seeing less of me, darling
+And you're blind to the fact that my
+Heart stopped beating
+
+And I'm as good as dead
+And I'm as good as dead
+
+This is all I have to say, to say, go
+
+So, can you see?
+You're seeing less of me, darling
+And you're blind to the fact that my
+Heart stopped beating
+
+So, can you see?
+You're seeing less of me, darling
+And you're blind to the fact that my
+Heart stopped beating

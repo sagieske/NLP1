@@ -1,0 +1,29 @@
+Artist: eddy_arnold
+Title: anytime_lyrics
+Genre: Country
+Subgenres: [u'Country-Pop', u'Cowboy', u'Nashville Sound/Countrypolitan', u'Traditional Country', u'Honky Tonk']
+
+Song:
+
+(Herbert Lawson)
+Anytime you're feeling lonely
+Anytime you're feeling blue
+Anytime you feel down hearted
+That will prove your love for me is true.
+Anytime you're thinking 'bout me
+That's the time I'll think of you
+Anytime you say you want me back again
+That's the time I'll come back home to you.
+Anytime your world is lonely
+And you'll find true friends a few
+Anytime you see a rainbow
+That will be a sign the storm is through.
+Anytime will be the right time
+Anytime at all will do
+Anytime you're sure you want only my love
+That's the time I'll come back home to you.
+--- Instrumental ---
+Anytime you're thinking 'bout me
+That's the time I'll think of you
+Anytime you say you want me back again
+That's the time I'll come back home to you...

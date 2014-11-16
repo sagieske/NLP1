@@ -1,0 +1,24 @@
+Artist: selena
+Title: always_mine
+Genre: Pop/Rock
+Subgenres: [u'Pop', u'Teen Pop', u'Club/Dance', u'Dance-Pop']
+
+Song:
+
+All my friends say that I'm a fool
+And that I should give up on you
+Many times, I've surely tried
+But there is something down deep inside
+I've spent some time
+Trying to think all this through
+But I always end up wanting to be with you
+Como una flor que necesita el agua
+Sin tu amor, se marchita mi alma
+You...
+
+You will always be, always mine
+Be mine till the end of time
+Always mine...
+You will always be, always mine
+Be mine till the end of time
+Always mine...

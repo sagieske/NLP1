@@ -1,0 +1,26 @@
+Artist: warrant
+Title: all_4_u
+Genre: Pop/Rock
+Subgenres: [u'Hair Metal', u'Hard Rock', u'Pop-Metal', u'Heavy Metal']
+
+Song:
+
+Your voice is a song
+Sweet and long
+I sing along
+Your eyes are like pools
+Bright and cool
+They see through fools
+I'll never change my point of view
+(I wanted you to know the truth)
+That everything I'll ever do
+I do for you
+All for you
+Your hands make me feel
+Feel for real
+Feel so healed
+My love is so true
+And my love is all for you
+Your voice is a song
+Sweet and long
+I sing along

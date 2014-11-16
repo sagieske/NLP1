@@ -1,0 +1,25 @@
+Artist: caifanes
+Title: amanece
+Genre: Latin
+Subgenres: [u'Rock en Espa\xf1ol', u'Latin Pop']
+
+Song:
+
+Amanece, no se qu hacer
+Me levanto igual que ayer
+Pasa el tiempo y todo sigue igual
+Me pregunto cundo cambiar
+La distancia es eternidad
+Ya no puedo respirar
+Nunca nadie me podra parar
+Solo muerto me podran callar
+Nunca nadie me podra parar
+Solo muerto me podran callar
+Es a veces que veo todo gris
+Y me cuesta despertar
+La neurosis no se alejar
+Pero nunca dejar de tocar
+Nunca nadie me podra parar
+Solo muerto me podran callar
+Nunca nadie me podra parar
+Solo muerto me podran callar

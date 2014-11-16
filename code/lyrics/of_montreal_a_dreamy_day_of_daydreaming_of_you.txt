@@ -1,0 +1,14 @@
+Artist: of_montreal
+Title: a_dreamy_day_of_daydreaming_of_you
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Indie Pop', u'Neo-Psychedelia', u'Alternative Pop/Rock', u'Lo-Fi']
+
+Song:
+
+You're my muse you're my silly goose and every day is a dreamy day of
+Daydreaming of you. You're my one you're my honey bun and every day is a dreamy
+Day of daydreaming of you. I can dream of you without snoring and I'm lucky that
+That's true. Because everyone would know that I found them boring simply because
+They're not you. All I want to do is lay in the daisies and daydream of you know
+Who I'm referring to... You. You're my love you're my star above And everyday is
+A dreamy day of daydreaming of you

@@ -1,0 +1,32 @@
+Artist: faron_young
+Title: a_lifetime_isnt_long_enough_lyrics
+Genre: Country
+Subgenres: [u'Country-Pop', u'Honky Tonk', u'Nashville Sound/Countrypolitan', u'Traditional Country']
+
+Song:
+
+(Virginia Midgett - Arthur Korb)
+A lifetime isn't long enough
+To be in love with you
+To prove how much I care sweetheart
+The way I want to do.
+A lifetime isn't long enough
+I couldn't even start
+In twice that time to tell you have
+The things within my heart.
+If I could live a million years
+Then maybe I'd have time
+To make you really understand
+How glad I am you're mine.
+I love you more and more each day
+Until my life is through
+But a lifetime isn't long enough
+To be in love with you.
+If I could live a million years
+And then a million more
+I never could grow tired of sayin'
+It's you I adore.
+Long as I live my life is yours
+My heart and my love too
+But a lifetime isn't long enough
+To be in love with you...

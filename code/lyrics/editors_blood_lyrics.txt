@@ -1,0 +1,43 @@
+Artist: editors
+Title: blood_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Indie Rock', u'New Wave/Post-Punk Revival']
+
+Song:
+
+You're with the red lights
+Your side of town
+
+Don't say it's easy
+To follow a process
+There's nothing harder
+Than keeping a promise
+
+Blood runs through your veins
+That's where our similarity ends
+Blood runs through our veins
+
+Blood runs through your veins
+That's where our similarity ends
+Blood runs through our veins
+
+There's nothing believable
+In being honest
+So cover your lies up
+With another promise
+
+Blood runs through your veins
+That's where our similarity ends
+Blood runs through our veins
+
+Blood runs through your veins
+That's where our similarity ends
+Blood runs through our veins
+
+Blood runs through your veins
+That's where our similarity ends
+Blood runs through your veins
+
+If there's hope in your heart
+It would flow to every part
+If there's hope in your heart

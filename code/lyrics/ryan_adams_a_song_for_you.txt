@@ -1,0 +1,34 @@
+Artist: ryan_adams
+Title: a_song_for_you
+Genre: Pop/Rock
+Subgenres: [u'Adult Alternative Pop/Rock', u'Alt-Country', u'Alternative/Indie Rock', u'Alternative Singer/Songwriter', u'Contemporary Singer/Songwriter', u'Alternative Country-Rock', u'Alternative Pop/Rock', u'Americana']
+
+Song:
+
+Oh my land is like a wild goose
+Wanders all around everywhere
+Trembles and it shakes til every tree is loose
+It rolls the meadows and it rolls the nails
+So take me down to your dance floor
+And I won't mind the people when they stare
+Paint a different color on your front door
+And tomorrow we will still be there
+
+Jesus built a ship to sing a song to
+It sails the rivers and it sails the tide
+Some of my friends don't know who they belong to
+Some can't get a single thing to work inside
+So take me down to your dance floor
+And I won't mind the people when they stare
+Paint a different color on your front door
+And tomorrow we will still be there
+
+I loved you darlin' and now I'm leaving
+And I can see the sorrow in your eyes
+I hope you know a lot more than you believe in
+I hope the sun don't hurt you when you cry
+So take me down to your dance floor
+And I won't mind the people when they stare
+Paint a different color on your front door
+And tomorrow we will still be there
+And tomorrow we will still be there

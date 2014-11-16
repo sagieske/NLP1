@@ -1,0 +1,32 @@
+Artist: hanson
+Title: aint_no_sunshine
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Contemporary Pop/Rock', u'Pop', u'Teen Pop']
+
+Song:
+
+Ain't no sunshine when she's gone
+It's not warm when she's away
+Ain't no sunshine when she's gone
+She's always gone too long
+Any time she goes away
+
+Wonder this time where she's gone
+Wonder if she's gonna stay
+Ain't no sunshine when she's gone
+And this house just ain't no home
+Any time she goes away (2X)
+
+And I know (16x)
+
+And I'll leave the young thing alone
+But ain't no sunshine when she's gone
+Ain't no sunshine when she's gone
+Only darkness everyday
+Ain't no sunshine when she's gone
+And this house just ain't no home
+Any time she goes away
+
+Ain't no sunshine when she's gone
+And she's always gone too long
+Anytime she goes away (3x)

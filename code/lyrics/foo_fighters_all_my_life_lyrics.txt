@@ -1,0 +1,85 @@
+Artist: foo_fighters
+Title: all_my_life_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Grunge', u'Post-Grunge']
+
+Song:
+
+All my life I've been searching for somethin
+Somethin never comes, never leads to nothin
+Nothin satisfies, but I'm gettin close
+Closer to the prize at the end of the rope
+
+All night long I dream of the day
+When it comes around, and it's takin away
+Leaves me with the feelin that I fear the most
+Feel it come to life when I see your ghost
+
+Calm down, don't you resist
+Your such a delicate rist
+And if I give it a twist
+Somethin to hold when I lose my grip
+
+Will I find something in there,
+To give it just what it needs
+Another reason to bleed
+One by one, hidden up my sleeve
+
+One by one, hidden up my sleeve
+
+[3x]
+Hey, don't let it go to waste
+I love it but, I hate that taste
+Weight keeping me down
+
+Will I find the believer
+Another one who believes
+Another one to decieve
+Over and over, down on my knees
+
+If I get any closer, I
+And if you open up wide
+And if you let me inside
+On and on, I've got nothin to hide
+
+On and on I've got nothin to hide
+
+[3x]
+Hey, don't let it go to waste
+I love it but, I hate that taste
+Weight keeping me down
+
+All my life I've been searching for somethin
+Somethin never comes, never leads to nothin
+Nothin satisfies, but I'm gettin close
+Closer to the prize at the end of the rope
+
+All night long I dream of the day
+When it comes around, and it's takin away
+Leaves me with the feelin that I feel the most
+Feel it come to life when I see your ghost
+
+And I'm Done, done; on to the next one
+Done, done, and I'm on to the next one
+Done, done, and I'm on to the next one
+Done, done, and I'm on to the next one
+
+Done, done, and I'm on to the next one
+[2x]
+Done, done, and I'm on the next one
+Done, I'm done, and I'm on to the next
+
+[3x]
+Done, done; on the next one
+
+Done, I'm done; I'm on to the next one
+
+[3x]
+Hey, don't let it go to waste
+I love it but, I hate that taste
+Weight keeping me down
+
+[2x]
+Done, done; on the next one
+
+Done, I'm done; I'm on to the next

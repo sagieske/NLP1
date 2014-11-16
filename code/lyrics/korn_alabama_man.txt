@@ -1,0 +1,48 @@
+Artist: korn
+Title: alabama_man
+Genre: Pop/Rock
+Subgenres: [u'Alternative Metal', u'Heavy Metal', u'Post-Grunge', u'Rap-Metal']
+
+Song:
+
+Alabama Man!
+Alabama Man!
+Hey Ho!
+Alabama Man!
+
+I like pie!
+I like pie!
+Apple Pie!
+I like pie!
+
+Alabama Man!
+Alabama Man!
+Hey Ho!
+Alabama Man!
+
+Meat is murder!
+Meat is murder!
+Beef is nasty.
+Meat is murder!
+
+Alabama Man!
+Alabama Man!
+Hey Ho!
+Alabama Man!
+
+My shoes are cool!
+My shoes are cool!
+I bought them from payless!
+My shoes are cool!
+
+Alabama Man!
+Alabama Man!
+Hey Ho!
+Alabama Man!
+
+Alabama Man!
+Alabama Man!
+Hey Ho!
+Alabama Man!
+
+Yip-yip-yip-yip-ya-eeeee!

@@ -1,0 +1,27 @@
+Artist: marilyn_monroe
+Title: a_fine_romance
+Genre: Vocal
+Subgenres: [u'Vocal Pop', u'Celebrity', u'Traditional Pop', u'American Popular Song', u'Film Score', u'Show/Musical']
+
+Song:
+
+A fine romance my good fellow.
+You take romance, I'll take jello.
+You' re calmer than the seals in the Arctic Ocean,
+At least they flap their fins to express emotion.
+
+A fine romance with no quarells,
+with no insults and all morals,
+I've never mussed the crease in your blue serge pants,
+I never get the chance; this is a fine romance!
+
+A fine romance with no kisses,
+a fine romance my friends this is,
+to lack half the thrills that a healthy crime has,
+we don't have half the thrills that the march of time has.
+
+A fine romance with no clinches,
+a fine romance with no flinches,
+you're just as hard to land as the Ile de France,
+I haven't got a chance.
+My heart isn't made of plastic, you're the reason I'm sarcastic; 'cause this is a fine fine romance!

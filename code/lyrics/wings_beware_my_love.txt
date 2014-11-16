@@ -1,0 +1,51 @@
+Artist: wings
+Title: beware_my_love
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Contemporary Pop/Rock', u'Soft Rock', u'Singer/Songwriter', u'Adult Contemporary', u'Rock & Roll', u'AM Pop']
+
+Song:
+
+By Paul McCartney
+
+Can't say (I've) found out,
+(I) can't tell you
+What's all about.
+Don't know who does,
+(I) tell you to
+Beware, my love.
+Beware, my love.
+Beware, my love.
+Beware, my love.
+Beware, my love.
+Beware, my love.
+Oh, oh, oh,
+No, no, no.
+I must be wrong, baby, yeah.
+But I don't believe that he's the one,
+But if you insist,
+I must be wrong, I must be wrong,
+I have to leave,
+And when I'm gone,
+I'll leave my message in my song,
+That's right.
+Beware, my love,
+He'll bowl you over.
+Beware, my love,
+Before you're much older,
+He'll sweep you up under his carpet.
+You'd be in luck if you could stop it.
+Come on, now.
+Well, he'll wear you out,
+And in a miniute,
+You'll hear a shout,
+And then you'll be in it.
+So, so beware my love,
+'cause he'll take you under.
+Beware, my love,
+The sound of his thunder;
+Can't say (I've) found out.
+I tell you to
+Beware, my love.
+Beware, my love.
+Beware, my love.
+Beware, my love

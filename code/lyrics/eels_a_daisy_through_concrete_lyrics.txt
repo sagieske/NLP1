@@ -1,0 +1,40 @@
+Artist: eels
+Title: a_daisy_through_concrete_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Adult Alternative Pop/Rock', u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Post-Grunge']
+
+Song:
+
+Wake up the dying,
+Don't wake up the dead
+Change what your sayin,
+Don't change what you've said
+Now that it's time that
+I got out of bed
+
+When I'll walk myself
+Down sycamore street
+The sun beats down
+No shoes on my feet
+And I stumble on
+A daisy through concrete
+
+Pink and brown babies
+In pink stroller cars,
+Know that it's good
+They don't care where they are
+They know that home
+Doesn't feel very far
+
+When I'll walk myself
+Down sycamore street
+The sun beats down
+No shoes on my feet
+And I stumble on
+A daisy through concrete
+
+Airplane is flyin up in the sky
+Makin a pattern
+With the white lines
+Looks like a heart
+Or maybe a pie

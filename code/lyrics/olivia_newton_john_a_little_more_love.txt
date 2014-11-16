@@ -1,0 +1,33 @@
+Artist: olivia_newton_john
+Title: a_little_more_love
+Genre: Pop/Rock
+Subgenres: [u'Adult Contemporary', u'Country-Pop', u'Soft Rock', u'Contemporary Pop/Rock', u'AM Pop', u'Film Score']
+
+Song:
+
+(John Farrar)
+Night is draggin' her feet
+I wait alone in the heat
+I know, know that you'll have your way
+Till you have to go home
+No's a word I can't say
+
+Cause it gets me nowhere to tell you no
+And it gets me nowhere to make you go
+Will a little more love make you start depending
+Will a little more love bring a happy ending
+Will a little more love make it right?
+Will a little more love make it right?
+
+Where, where did my innocence go?
+How, how was a young girl to know?
+I'm trapped, trapped in the spell of your eyes
+In the warmth of your arms
+In the web of your lies
+
+But it gets me nowhere to tell you no
+And it gets me nowhere to make you go
+Will a little more love make you start depending
+Will a little more love bring a happy ending
+Will a little more love make it right?
+Will a little more love make it right?

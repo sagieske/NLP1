@@ -1,7 +1,7 @@
 Artist: daniel_padilla
 Title: i_heart_you
-Genre: Pop/Rock
-Subgenres: [u'Adult Alternative Pop/Rock', u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Alternative Singer/Songwriter', u'Avant-Garde Music', u'Film Score']
+Genre: Classical
+Subgenres: [u'Keyboard', u'Chamber Music', u'Concerto', u'Orchestral', u'Symphony', u'Classical Crossover', u'Opera']
 
 Song:
 

@@ -1,0 +1,38 @@
+Artist: hilary_duff
+Title: a_dream_is_a_wish_your_heart_makes
+Genre: Pop/Rock
+Subgenres: [u'Dance-Pop', u'Teen Pop', u'Contemporary Pop/Rock', u'Pop']
+
+Song:
+
+A dream is a wish your heart makes
+When you're fast asleep
+In dreams you will loose your heartache
+Whatever you wish for you keep
+Have faith in your dreams and someday
+Your rainbow will come smiling through
+No matter how your heart is grieving
+If you keep on believing
+The dream that you wish will come true
+
+A dream is a wish your heart makes
+When you're feeling small
+Alone in the night you whisper
+Thinking no-one can hear you at all
+You wake with the morning sunlight
+To find fortune that is smiling on you
+Don't let your heart be filled with sorrow
+For all you know tomorrow
+The dream that you wish will come true
+
+A dream is a wish your heart makes (x2)
+
+You wake with the morning sunlight
+To find fortune that is smiling on you
+Don't let your heart be filled with sorrow
+For all you know tomorrow
+The dream that you wish will come true
+
+No matter how your heart is grieving
+If you keep on believing
+The dream that you wish will come true

@@ -1,0 +1,22 @@
+Artist: sesame_street
+Title: a_little_bit_at_the_beginning
+Genre: Children's
+Subgenres: [u'Educational', u'Sing-Alongs', u"Children's Rock", u'Contemporary Pop/Rock']
+
+Song:
+
+A little bit at the beginning
+A little more later on
+Watching all the good things grow
+That's how the world goes on
+Take a look at the river
+Pouring into the bay
+And you see all the good things growing better every day
+
+Well, take a look at a baby
+Sleeping on his mamas arm
+Plan to love him when hes small
+Will grow him safe and strong
+Take a look at the sunshine
+Pouring out on the day
+And you see all the good things growing better every day

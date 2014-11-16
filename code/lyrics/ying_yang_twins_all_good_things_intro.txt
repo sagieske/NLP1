@@ -1,0 +1,35 @@
+Artist: ying_yang_twins
+Title: all_good_things_intro
+Genre: Rap
+Subgenres: [u'Party Rap', u'Southern Rap', u'Dirty South']
+
+Song:
+
+All (all)
+Good Things (things)
+May come (come)
+To end (end)
+
+All (all)
+Bad things (things)
+Can't wait (wait)
+To begin (gin)
+
+All (all)
+Good Things (things)
+May come (come)
+To end (end)
+
+All (all)
+Bad things (things)
+Can't wait (wait)
+To begin (gin)
+
+Which will shall make you laugh
+It shall make you cry
+Wet can't leave the ground
+Shall not greet the sky (ummm)
+Which shall make you laugh
+It shall make you cry (ummmmm)
+Wet can't leave (ummm) the ground (ummm)
+Shall not leave (ummm) the sky (ummmm)

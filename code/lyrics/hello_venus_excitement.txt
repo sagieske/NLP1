@@ -1,0 +1,43 @@
+Artist: hello_venus
+Title: excitement
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Indie Pop', u'Alternative Latin']
+
+Song:
+
+Nuneul kamado ne eol-kulman tteo-olla
+Kwiireul ma-gado ne moksori-ga teu-llin geot kata
+Haruga ne saengga-ge jeongshin eobshi china-ga
+Na chigeum neoreurarhko i-nna bwah hmm~
+
+Jamkkan seuchyeodo nae gaseumi tteolligo
+Sum shwiil ttae-mada nae sarangeun deo neu-reoseo
+On sesangi geudaero kadeuk cha isseoseo
+Neomunado pabo gateun na
+
+Sarang-haeyo keudaen anayo
+Haruedo myeoch beonsshing nae gaseumi haneun mal
+Kobaekhal su eom-neun nal anayo
+Han bal da-gakamyeon kkaejil-kka
+Meomchwoi-nneun nal anayo
+
+Neoreul keurimyeo nan harureul shija-khae
+Jameul jal ttaedo nan neo hanaman saengga-khae
+Ireon ge sarangil-kka neodo nae mameural-kka
+Oneuldo nan honjanma-reul hae
+
+Sarang-haeyo keudaen anayo
+Haruedo myeoch beonsshing nae gaseumi haneun mal
+Kobaekhal su eom-neun nal anayo
+Han bal da-gakamyeon kkaejil-kka
+Meomchwoi-nneun nal anayo
+
+Oneuldo tashi miruneun mal
+Ma-eumi haneun mal
+Neoreul sarang-hae
+
+Sarang-haeyo keudaen anayo
+Haruedo myeoch beonsshing nae gaseumi haneun mal
+Kobaekhal su eom-neun nal anayo
+Han bal da-gakamyeon kkaejil-kka
+Meomchwoi-nneun nal anayo

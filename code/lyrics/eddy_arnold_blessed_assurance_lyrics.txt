@@ -1,0 +1,33 @@
+Artist: eddy_arnold
+Title: blessed_assurance_lyrics
+Genre: Country
+Subgenres: [u'Country-Pop', u'Cowboy', u'Nashville Sound/Countrypolitan', u'Traditional Country', u'Honky Tonk']
+
+Song:
+
+(Fanny J. Crosby - J.F. Knapp)
+
+Blessed assurance, Jesus is mine
+Oh, what a foretaste of glory divine
+Air of salvation, purchase of God
+Born of his spirit, washed in his blood.
+
+This is my story, this is my song
+Praising my Saviour all the day long
+This is my story, this is my song
+Praising my Saviour all the day long.
+
+Perfect submition, perfect delight
+Visions of rapture now burst on my side
+Angels descending bring from above
+Echos of mercy, whispers of love.
+
+This is my story this is my song
+Praising my Saviour all the day long
+This is my story, this is my song
+Praising my Saviour all the day long.
+
+This is my story this is my song
+Praising my Saviour all the day long
+This is my story, this is my song
+Praising my Saviour all the day long...

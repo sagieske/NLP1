@@ -1,0 +1,33 @@
+Artist: luka_bloom
+Title: be_still_now
+Genre: Folk
+Subgenres: [u'Alternative Folk', u'Contemporary Folk', u'Urban Folk', u'Contemporary Singer/Songwriter']
+
+Song:
+
+I walked along the western shore
+One bright November day
+I watched the heron watching me
+And thought I heard him say
+
+Just be still now
+Wait a while
+And let life come to you
+Just be still now
+All your dreams
+Are on the breezes passing through
+
+I walked along the city streets
+And wished that I could fly
+I saw the heron by my feet
+And thought I heard him say
+
+Just be still now
+Wait a while
+And let love come to you
+Just be still now
+All your dreams
+Are on the breezes passing through
+
+Just be still now
+Just be still

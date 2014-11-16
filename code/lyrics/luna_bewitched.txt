@@ -1,0 +1,31 @@
+Artist: luna
+Title: bewitched
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Dream Pop', u'Indie Pop', u'Indie Rock']
+
+Song:
+
+All of a sudden
+The girl of my dreams
+She never asks
+She always screams
+Do you see her face
+In a puddle at my feet
+As I bend down
+To kiss the street
+And i'll come runnin' to her
+And i'll come runnin' to her
+Her sleep is troubled
+Her face will twitch
+She wakes up angry
+And I'm bewitched
+Her smile is forced
+She's always late
+But she's not sorry
+And I capitulate
+And i'll come runnin' to her
+And i'll come runnin' to her
+All of a sudden
+The girl of my dreams
+She never asks
+She always screams

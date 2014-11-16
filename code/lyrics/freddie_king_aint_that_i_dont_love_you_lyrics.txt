@@ -1,0 +1,34 @@
+Artist: freddie_king
+Title: aint_that_i_dont_love_you_lyrics
+Genre: Blues
+Subgenres: [u'Electric Texas Blues', u'Modern Electric Blues', u'Regional Blues', u'Texas Blues', u'Early R&B', u'Electric Blues', u'Modern Electric Texas Blues']
+
+Song:
+
+It ain’t that I don’t love you
+It ain’t that I don’t love you no more, baby
+It’s just when we’re together
+I always feel your pain
+I’d like to make you smile
+Wash your tears
+Wash them all away
+Ain’t that I don’t love you
+It’s just that I can’t stay
+Gotta’ get away
+
+When you and I were younger
+We said everything gonna’ work out all right
+Now it seems all our days
+Are turning into long, lonely nights
+I can’t stand to see you cryin’
+For these dues I have to pay
+Ain’t that I don’t love you
+It’s just that I can’t stay
+
+I’d like to make you smile
+Wash your tears
+Wash them all away
+Ain’t that I don’t love you
+It’s just that I can’t stay
+Ain’t that I don’t love you
+It’s just that I can’t stay

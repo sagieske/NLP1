@@ -1,0 +1,24 @@
+Artist: freestyle
+Title: bad_things_lyrics
+Genre: Rap
+Subgenres: [u'Political Rap', u'West Coast Rap', u'Alternative Rap']
+
+Song:
+
+It's a can of gas-o-line
+Trapped in a s-ink
+And I think...
+Bad things are happen-ing
+And I just happen to think
+That someone's gonna grab it and fling
+It all over the napkins and the flammable rabbit mink
+After they drink
+It's gonna be on of those hazardous things
+Where people just sit back and laugh as it's happening
+I'm trapped by kin
+And hundreds
+Of bungee jumping
+Bad acting friends
+How can this be happening?
+
+That's just the first verse

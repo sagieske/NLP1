@@ -1,0 +1,44 @@
+Artist: filter
+Title: american_cliche_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Heavy Metal', u'Industrial', u'Industrial Metal', u'Post-Grunge', u'Alternative Metal']
+
+Song:
+
+Last seat on the bus
+Who you gonna trust
+Which one do you follow
+Last seat on the bus
+Don't make such a fuss
+This much should make you hollow
+'Cause every time you make yourself the reason
+Is everytime you make yourself between...
+Yeah
+
+Yeah, this is a American cliche
+American, American
+Get on the bus
+Yeah, this is a American cliche
+American, American
+Get on the bus
+
+First seat on the bus
+Who you gonna trust
+Which one do you may follow
+First seat on the bus
+Don't make such a fuss
+Which one do you make hollow
+Now every time you make your friend the reason
+And every time you make your friend beaten...yeah
+
+Yeah, this is a American cliche
+American, American
+Get on the bus
+Yeah, this is a American cliche
+American, American
+Get on the bus
+
+You want a way to be the same
+You want a way to be the same
+You want a way to be the same
+Oh no

@@ -1,0 +1,44 @@
+Artist: kiroro
+Title: ai_no_mukou
+Genre: Pop/Rock
+Subgenres: [u'Japanese Traditions']
+
+Song:
+
+Shoujiki ima made no koi wa
+Shinjiru koto ga dekizu ni ita
+Pokkari aita kokoro ni
+Sukima kaze ga fuiteta kedo
+Ima anata no ai de umatteku
+
+Futari de mitsuketa mirai ni
+Anata wa shinken na manazashi
+Iikagen na yatsu da to bakari
+Omotteta ano koro
+Watashi sukoshi kodomo datta ne
+
+Ai no mukou ni aru mono wa
+Shinjiru tsuyosa to oshiete kureta
+Anata ni deaete shiawase da to
+Omoitsuzuketai eien ni...
+
+Nan ni mo shinpai shinaide
+Kimi wa boku ni tayoreba ii to
+Sashinobete kureta atatakai te wo
+Zutto hanasanai you ni
+Yorisoinagara tomo ni arukou
+
+Yume no mukou ni mieru mono wa
+Shiwakucha egao no futari ga ite
+Anata ni deaete shiawase da to
+Utaitsuzuketetai eien ni...
+
+Ii koto bakari ja nai keredo
+Norikoerareru yo anata to nara
+Fuan ya kanashimi kurushii mo
+Sasaeatte yukitai itsumademo...
+
+Ai no mukou ni aru mono wa
+Shinjiru tsuyosa to oshiete kureta
+Anata ni deaete shiawase da to
+Omoitsuzuketai eien ni...

@@ -1,0 +1,24 @@
+Artist: paul_baloche
+Title: arise
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Contemporary Pop/Rock', u'Soft Rock', u'Singer/Songwriter', u'Adult Contemporary', u'Rock & Roll', u'AM Pop', u'Film Score', u'Choral', u'Orchestral']
+
+Song:
+
+One thing we ask of you
+One thing that we desire
+That as we worship you
+Lord come and fill our lives
+Arise, Arise, Arise, Arise
+
+Chorus:
+Arise, take your place
+Be enthroned on our praise
+Arise, king of kings
+Holy God as we sing
+Arise
+Arise
+
+Verse
+
+Chorus

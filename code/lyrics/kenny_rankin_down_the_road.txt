@@ -1,0 +1,49 @@
+Artist: kenny_rankin
+Title: down_the_road
+Genre: Pop/Rock
+Subgenres: [u'Adult Contemporary', u'AM Pop', u'Contemporary Pop/Rock', u'Standards', u'Vocal Pop']
+
+Song:
+
+The Land Of Mystic Emerald Seas
+In Fields Of Soft, Sweet Clover
+Sons Of Old Killarney
+When Will This Fight Be Over?
+
+Is It Our Human Fate
+Or Merely A Twisted Fable
+That We're Haunted By The Hate
+That Sprang From Cain And Abel
+
+Down The Road, Down The Road
+We Are Walking The Same Path
+To The Judgement Day
+Down The Road, Down The Road
+We Are Walking The Same Path
+To The Judgement Day
+
+Sons Of Old Killarney
+Keepers Of The Celtic Lore
+Why Must We Deny Our Hearts
+To Raise Young Sons For War?
+
+She's Praying For An Answer
+She Knows May Never Come
+Knowing That The Questions
+Were Never Settled With A Gun
+
+Down The Road, Down The Road
+We Are Walking The Same Path
+To The Judgement Day
+Down The Road, Down The Road
+We Are Walking The Same Path
+To The Judgement Day
+
+She's Praying For An Answer
+She Knows May Never Come
+Knowing That The Questions
+Were Never Settled With A Gun
+
+Down The Road, Down The Road
+We Are Walking The Same Path
+To The Judgement Day

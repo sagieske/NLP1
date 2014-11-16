@@ -1,0 +1,21 @@
+Artist: wipers
+Title: doom_town
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'American Underground', u'Hardcore Punk', u'Indie Rock', u'Punk', u'Punk/New Wave']
+
+Song:
+
+Life's so incomplete
+Here on the street
+Live in a doom town
+Nothin ever change
+Alway's stay the same
+Live in a doom town
+Doom town
+People with blank stare's
+No one who care's
+Live in a doom town
+You can never win
+Living innocent
+Live in a doom town
+Doom town

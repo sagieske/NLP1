@@ -1,0 +1,32 @@
+Artist: los_panchos
+Title: besame_mucho
+Genre: Latin
+Subgenres: [u'Bolero', u'Latin Pop', u'Western European Traditions', u'Tropical']
+
+Song:
+
+Besame, besame mucho,
+Como si fuera esta noche la ultima vez...
+Besame, besame mucho,
+Que tengo miedo perderte, perderte despues...
+
+Quiero tenerte muy cerca,
+Mirarme en tus ojos y estar junto a ti,
+Piensa que tal vez maсana,
+Estare muy lejos, muy lejos de aqui...
+
+Besame, besame mucho,
+Como si fuera esta noche la ultima vez...
+Besame, besame mucho,
+Que tengo miedo perderte, perderte despues...
+
+Quiero tenerte muy cerca,
+Mirarme en tus ojos y estar junto a ti,
+Piensa que tal vez maсana,
+Estare muy lejos, muy lejos de aqui...
+
+Besame, besame mucho,
+Como si fuera esta noche la ultima vez...
+Besame, besame mucho,
+Que tengo miedo perderte,
+Perderte despues...

@@ -1,0 +1,28 @@
+Artist: fairport_convention
+Title: autopsy_lyrics
+Genre: Pop/Rock
+Subgenres: [u'British Folk', u'British Folk-Rock', u'Folk-Rock', u'Progressive Folk', u'Psychedelic/Garage']
+
+Song:
+
+You must philosophise
+But why must you bore me to tears?
+You're red around the eyes
+You tell me things no one else hears
+You spend all your time crying
+Crying the hours in tears
+Crying the hours in tears
+Come lend your time to me
+And you will know that you are free
+And when you look at me
+Don't think you're owning what you see
+For remember that you're free
+And that's what you want to be
+So just lend your time to me
+You must philosophise
+But why must you bore me to tears?
+You're red around the eyes
+You tell me things no one else hears
+You spend all your time crying
+Crying the hours in tears
+Crying the hours in to ears

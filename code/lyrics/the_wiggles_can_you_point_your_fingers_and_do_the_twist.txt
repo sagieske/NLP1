@@ -1,0 +1,23 @@
+Artist: the_wiggles
+Title: can_you_point_your_fingers_and_do_the_twist
+Genre: R&B
+Subgenres: [u'Contemporary R&B', u'Pop']
+
+Song:
+
+Can you point your fingers and do the twist?
+Can you point your fingers and do the twist?
+Well, we're gonna go up, then go down
+Get back up and turn around.
+Can you point your fingers and do the twist?
+Can you stand on one foot and shake your hands?
+Can you stand on one foot and shake your hands?
+Well, we're gonna go up, then go down
+Get back up and turn around.
+Can you stand on one foot and shake your hands?
+Can you point your fingers and do the twist?
+Can you point your fingers and do the twist?
+Now we're gonna go up, then go down
+Get back up and turn around.
+Can you point your fingers and do the twist?
+Cha Cha Cha!

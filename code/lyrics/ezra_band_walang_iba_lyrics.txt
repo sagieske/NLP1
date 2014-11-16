@@ -1,0 +1,63 @@
+Artist: ezra_band
+Title: walang_iba_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Blues-Rock', u'Slide Guitar Blues', u'Southern Rock', u'Boogie Rock', u'Hard Rock']
+
+Song:
+
+Ilang beses ng nag-away
+Hanggang sa magkasakitan
+Na 'di alam ang pinagmulan
+
+Pati maliliit na bagay
+Na napag-uusapan
+Bigla na lang pinag-aawayan
+
+Ngunit kahit na ganito
+Madalas na 'di tayo magkasundo
+Ikaw lang ang gusto kong makapiling
+Sa buong buhay ko
+
+Chorus:
+Kahit na binabato mo ako ng kung anu-ano
+Ikaw pa rin ang gusto ko
+Kahit na sinasampal mo ako't
+Sinisipa't nasusugatan mo
+Ikaw pa rin
+Walang iba
+Ang gusto kong makasama
+Walang iba
+Walang iba
+
+Nagsimula sa mga asaran
+Hanggang sa magkainitan
+Isang eksenang bangayan na naman
+Ba't ba kase pinagpipilitan
+Ang hindi maintindihan
+Di naman kinakailangan
+
+Ngunit kahit na ganito
+Madalas na di tayo magkasundo
+Ikaw lang ang gusto kong makapiling
+Sa buong buhay ko
+
+Kahit na binabato mo ako ng kung anu-ano
+Ikaw pa rin ang gusto ko
+Kahit na sinasampal mo ako't
+Sinisipa't nasusugatan mo
+Ikaw pa rin
+Walang iba
+Ang gusto kong makasama
+Walang iba
+
+Kahit na binabato mo ako ng kung anu-ano
+Ikaw pa rin ang gusto ko
+Kahit na sinasampal mo ako't
+Sinisipa't nasusugatan mo
+Ikaw pa rin
+Walang iba
+Ang gusto kong makasama
+Walang iba
+
+Wag ka ng mawawala
+Hmm, walang iba.

@@ -1,0 +1,16 @@
+Artist: youth_of_today
+Title: cant_close_my_eyes
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'American Underground', u'Hardcore Punk', u'Punk/New Wave', u'Straight-Edge']
+
+Song:
+
+When I see violence on the street
+When I see a friend getting beat
+When I see youth so unaware
+Can't close my eyes pretend I don't care
+Can't close my eyes
+When I see an unfair fight
+Something tells me it's not right
+Can't let these problems go unsolved
+Won't close my eyes, I'll get involved

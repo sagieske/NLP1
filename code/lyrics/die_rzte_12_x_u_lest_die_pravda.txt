@@ -1,0 +1,33 @@
+Artist: die_rzte
+Title: 12_x_u_lest_die_pravda
+Genre: Pop/Rock
+Subgenres: [u'Euro-Rock', u'Punk/New Wave', u'Punk', u'Punk-Pop', u'Alternative/Indie Rock', u'Punk Revival']
+
+Song:
+
+Stalin hat einmal gesagt
+Lest die Pravda!
+Vladivostok
+Novosibirsk
+Vladivostok
+Novosibirsk
+Vladivostok
+Novosibirsk
+Vladivostok
+Novosibirsk
+Yeah
+Wolgograd und Werchojansk
+Wolgograd und Werchojansk
+Jerewan und Werchojansk
+Shirinovski
+Novosibirsk
+Yeah
+Wir lesen jetzt die Pravda
+Wir lesen jetzt die Pravda
+Wir lesen jetzt die Pravda
+Wir lesen jetzt die Pravda
+Wir lesen jetzt die Pravda
+Wir lesen jetzt die Pravda
+Wir lesen jetzt die Pravda
+Oh njet njet njet
+Lest die Pravda!

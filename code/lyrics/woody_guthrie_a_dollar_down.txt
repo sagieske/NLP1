@@ -1,0 +1,35 @@
+Artist: woody_guthrie
+Title: a_dollar_down
+Genre: Folk
+Subgenres: [u'Political Folk', u'Traditional Folk', u'Field Recordings', u'Protest Songs']
+
+Song:
+
+Ade Olay E-E
+Ade Olay E-E
+E-E-E-E-E
+
+A friend of mine bought an automobile
+At a dollar down and a dollar a week.
+Every time he turned the wheel,
+It was a dollar down and a dollar a week.
+
+He went riding down the road,
+Pinched this girl upon her cheek.
+Speed cop took him to the judge,
+He got a dollar down and a dollar a week.
+
+Sixty days he laid in jail,
+At a dollar down and a dollar a week,
+Another man was a lovin' his gal,
+At a dollar down and a dollar a week.
+
+When he got out he shot the man,
+And laid him in the graveyard six feet deep.
+And when he bought the graveyard spot,
+It was a dollar down and a dollar a week.
+
+Ade olay E-E
+Ade olay E-E
+Ade olay E-E
+E-E-E-E-E (repeat)

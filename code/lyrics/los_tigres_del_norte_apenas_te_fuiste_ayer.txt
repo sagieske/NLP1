@@ -1,0 +1,33 @@
+Artist: los_tigres_del_norte
+Title: apenas_te_fuiste_ayer
+Genre: Latin
+Subgenres: [u'Corrido', u'Mexican Traditions', u'Norteno', u'Tejano', u'Latin Pop', u'Tex-Mex', u'Conjunto']
+
+Song:
+
+De amor se me llena el alma
+Cuando no estas a mi lado
+Empiezo a perder la calma
+Me siento desesperado
+Cuando tu estabas conmigo
+La luna brillaba mas
+Y ahora ella es mi testigo
+De mi amarga soledad
+La madrugada
+Me sorprende
+En mi desvelo
+Falta en mi almohada
+El perfume de tu pelo
+A Dios le pido licencia
+Que pueda volverte a ver
+Ya no soporto tu ausencia
+Y apenas te fuiste ayer
+La madrugada
+Me sorprende
+En mi desvelo
+Falta en mi almohada
+El perfume de tu pelo
+A Dios le pido licencia
+Que pueda volverte a ver
+Ya no soporto tu ausencia
+Y apenas te fuiste ayer

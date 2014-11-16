@@ -1,0 +1,26 @@
+Artist: zeca_baleiro
+Title: boas_festas
+Genre: Latin
+Subgenres: [u'Brazilian Pop', u'MPB', u'Brazilian Traditions']
+
+Song:
+
+Anoiteceu
+O sino gemeu
+A gente ficou
+Feliz a rezar
+Papai Noel
+Vк se vocк tem
+A felicidade
+Pra vocк me dar
+
+Eu pensei que todo mundo
+Fosse filho de Papai Noel
+Bem assim, felicidade
+Eu pensei que fosse uma
+Brincadeira de papel
+
+Jб faz um tempo que pedi
+Mas o meu Papai Noel nгo vem
+Ou, entгo, felicidade
+Й brinquedo que nгo tem

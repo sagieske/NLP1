@@ -1,0 +1,17 @@
+Artist: m83
+Title: dark_moves_of_love
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Indie Electronic', u'Ambient Pop', u'New Wave/Post-Punk Revival']
+
+Song:
+
+The time is blowing out
+Dividing you and me
+Can you see me?
+
+Everything is wrecked and grey
+I'm focusing on your image
+Can you hear me in the void?
+
+I will fight the time and bring you back!
+I will fight the time and bring you back!

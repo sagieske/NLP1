@@ -1,0 +1,28 @@
+Artist: chris_de_burgh
+Title: always_on_my_mind
+Genre: Pop/Rock
+Subgenres: [u'Adult Contemporary', u'Art Rock', u'Contemporary Pop/Rock', u'Euro-Rock', u'Soft Rock', u'Vocal Music']
+
+Song:
+
+Maybe I didn't love you quite as good as I should have,
+Maybe I didn't hold you quite as often as I could have,
+Little things I should have said and done,
+I just never took the time;
+
+You were always on my mind,
+You were always on my mind;
+
+Maybe I didn't hold you all those lonely, lonely nights,
+And I guess I never told you, I'm so happy that you're mine,
+If I made you feel second best, I'm so sorry, I was blind,
+
+You were always on my mind,
+You were always on my mind;
+
+Tell me, tell me that your sweet love hasn't died,
+Give me, give me one more chance to keep you satisfied,
+If I made you feel second best, I'm so sorry, I was blind,
+
+You were always on my mind,
+You were always on my mind.

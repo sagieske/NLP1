@@ -1,0 +1,58 @@
+Artist: ft_island
+Title: a_song_for_you_lyrics
+Genre: Jazz
+Subgenres: [u'Third Stream', u'World Fusion', u'Classical Crossover', u'Chamber Music', u'New Acoustic']
+
+Song:
+
+Yume wo oimo tomete
+Kokomade kita
+Hitatsunani asugu ni
+Sora kara mai oreta
+Akana mono wa
+Sugaude wa kieteta
+
+Kura yami ni nomi komarete
+Tachi tsugu tobishita toki ni
+Kisukeba anata ga ita
+
+I sing a song for you todoketa kute
+Kotoba ni naranai kono omoi
+Ari no mama no boku de ii kana
+Tsunasu itte mo michi ni mayotte mo
+Bokura no tabichi wa owaranai
+Utae tsusukeru no sa
+
+Egao mo nake ga omo
+Boku no subete
+Uki tomete koeru kara
+Terekusakute ie nakutemo
+Itsumo kanjitte iru
+Arigatou no kawari ni
+
+Afurete yuku
+Ai no melody
+Kuchibi sa sono tabi omou nosa
+Boku wa mo hitori janai yo
+Fuchike sou demo make sou demo
+Anata to futari de doko ga demo
+Aruki tsusukeru no sa
+
+With you
+Anata ga kureta
+With you
+Sono yasashiisa ga uta koe ni kawaru
+Uta goe wa bokura no uruki ni kawateku
+
+I sing a song for you todoketa kute
+Kotoba ni naranai kono omoi
+Ari no mama no boku de iru kura
+Tsunasu itte mo michi ni mayotte mo
+Bokura no tabichi wa owaranai
+Utae tsusukeru no sa
+
+Sing a song
+Sing a song
+Only for you
+Zutto aruki tsusukeru no sa
+Utae tsusukeru no sa

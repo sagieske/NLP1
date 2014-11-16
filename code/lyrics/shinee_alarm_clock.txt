@@ -1,0 +1,56 @@
+Artist: shinee
+Title: alarm_clock
+Genre: Pop/Rock
+Subgenres: [u'Korean Pop', u'Asian Pop']
+
+Song:
+
+[Jonghyun] Oneuldo nan ttame heumppeok jeojeo
+Jameul kkae daeche mideul su eobseo oh nan [Minho](jidokhan angmong)
+[Taemin] Maeil bam banbok doeneun kkum sok
+Geojitmal gachi neon chagapge nal tteona oh nan
+
+[Minho] Mideul su eobseo ajik ne ipsul
+[Onew] Bonael su eobseo ajik nae ppyame (jjok) daheun deut hae
+[Key] Jiul su eomneunde
+
+[All] Naui allamsigyega eoseo ullyeo I kkumeul kkaebeorigil
+Angmong gateun siganeul dasi dollyeo ibyeoreul naejjotgil
+Gojangna beorin chae meomchwo seon motdoen kkum beoseonal suga eobseo
+Allamsigyega sikkeureopge ureo nal kkaeugil oh eoseo
+
+[Taemin] Nal kkaewo
+
+[Key] Jageun bitbangure seuchyeo tteoreojineun kkoccheoreom
+Negen amu ildo anira haedo [Minho](heeojija)
+[Onew] Damdamhan ne hanmadie chagapge jamdeureo
+Ajik japhil deut hae neoui singiru [Jonghyun] o jebal
+
+[Minho] Mideul su eobseo ajik ne hyanggi ([Key] Oh no)
+Jiul su eobseo ajik nae pume (puk) ([Jonghyun] No babe) baeeo isseo
+[Jonghyun] Igeon kkumil geoya
+
+[All] Naui allamsigyega eoseo ullyeo I kkumeul kkaebeorigil
+Angmong gateun siganeul dasi dollyeo ibyeoreul naejjotgil
+Gojangna beorin chae meomchwo seon motdoen kkum beoseonal suga eobseo
+Allamsigyega sikkeureopge ureo nal kkaeugil oh eoseo
+
+[Jonghyun] angmong soge nan nan gireul irheo nan nan
+Angmong soge nan nan gireul irheo nan nan angmong soge
+
+[Onew] Nega tteonatdaneun geol mitji motae ibyeoreul tto bujeonghae
+[Minho] algo isseo ibyeori I sungani kkumi aniraneun geol
+[Key] injeonghal su eomneun geol nan hyeonsireul gyeondyeonael suga eobseo
+[Taemin] dasi dorawa angmong gateun hyeonsil nega pillyohae o
+
+[All] Naui allamsigyega eoseo ullyeo I kkumeul kkaebeorigil
+Angmong gateun siganeul dasi dollyeo ibyeoreul naejjotgil
+Gojangna beorin chae meomchwo seon motdoen kkum beoseonal suga eobseo
+Allamsigyega sikkeureopge ureo nal kkaeugil oh eoseo
+
+[Minho] Eoseo [Jonghyun] Nal kkaewo [Minho] Nal kkaewo
+[Minho] Ginagin jame kkaeeo eoseureumi jiteun gireul jina
+Gipeun saenggage jamgyeo dasi neol geuryeo
+Janjanhan hosu dolmaengi hanareul deonjyeo noko
+Jageun donggeuramireul geurigo tto geurigo
+Neoreul geurinda neoreul geurinda neol geurinda neoreul geurinda

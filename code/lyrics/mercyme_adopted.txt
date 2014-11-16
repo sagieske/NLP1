@@ -1,0 +1,17 @@
+Artist: mercyme
+Title: adopted
+Genre: Religious
+Subgenres: [u'CCM', u'Contemporary Christian', u'Praise & Worship', u'Christian Rock', u'Gospel', u'Hymns', u'Inspirational']
+
+Song:
+
+Hallelujah, God has spoken and I know this changes eveything
+Hallelujah, praise Him only,
+Sing the slaves adopted by the King
+
+Glory be to my Father who reigns
+For I met Him and I cannot be the same
+When in bondage, to Jesus I came
+He took my place and He changed my name.
+
+Hallelujah Hallelujah...

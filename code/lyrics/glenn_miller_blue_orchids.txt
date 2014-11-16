@@ -1,0 +1,31 @@
+Artist: glenn_miller
+Title: blue_orchids
+Genre: Jazz
+Subgenres: [u'Big Band', u'Sweet Bands', u'Swing']
+
+Song:
+
+Blue Orchids
+Glenn Miller
+- words and music by Hoagy Carmichael
+
+I dreamed of two blue orchids
+Two beautiful blue orchids
+One night while in my lonely room
+I dreamed of two blue orchids
+So full of love and light
+That I wanted to possess each tender bloom
+Then my dream took wings
+And through a thousand springs
+Blue orchids seemed in a world apart
+But when I met you
+Something pale and blue
+Came stealing from the meadows of my heart
+I saw my two blue orchids
+My beautiful blue orchids
+Last night and what a sweet surprise
+When you looked at me
+It was plain to see
+Blue orchids only bloom in your eyes
+
+------------------------------------------

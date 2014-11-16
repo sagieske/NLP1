@@ -1,0 +1,22 @@
+Artist: faron_young
+Title: a_world_so_full_of_love_lyrics
+Genre: Country
+Subgenres: [u'Country-Pop', u'Honky Tonk', u'Nashville Sound/Countrypolitan', u'Traditional Country']
+
+Song:
+
+(Roger Miller - Faron Young)
+I know how it feels to be alive with no desire to live
+I know how it feels to never take and always have to give
+And the day I found out was on the day you let me down
+In this world so full of love with not enough to go around.
+--- Instrumental ---
+I was once so proud to have your love that I could burst with pride
+But you took that away and now I'm breaking up inside
+It's enough to make me wish that I could hide and not be found
+In this world so full of love with not enough to go around.
+--- Instrumental ---
+For days and nights I wonder and the reason I can't find
+There's so much love around me and no love to call mine
+It's enough to make me wish that I could hide and not be found
+In this world so full of love yet not enough to go around...

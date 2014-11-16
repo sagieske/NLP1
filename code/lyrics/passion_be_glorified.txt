@@ -1,0 +1,19 @@
+Artist: passion
+Title: be_glorified
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Indie Electronic', u'Indie Pop']
+
+Song:
+
+Lead Worshipper: Chris Tomlin
+Your love has captured me
+Your grace has set me free
+Your life the air I breathe
+Be glorified in me
+You set my feet to dancing
+You set my heart on fire
+In the presence of a thousand kings
+You are my one desire
+I stand before You now
+With trembling hands lifted high
+Be glorified

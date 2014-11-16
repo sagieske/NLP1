@@ -1,0 +1,21 @@
+Artist: donnie_mcclurkin
+Title: agnus_dei
+Genre: Religious
+Subgenres: [u'Black Gospel', u'Contemporary Gospel', u'Urban', u'Gospel']
+
+Song:
+
+Hallelujah, hallelujah
+For the Lord God almighty reigns
+Hallelujah, hallelujah
+For the Lord God almighty reigns
+
+Hallelujah, holy, holy
+Are You Lord God almighty
+Worthy is the Lamb
+Worthy is the Lamb
+
+You are holy, holy
+Are You Lord God almighty
+Worthy is the Lamb
+Worthy is the Lamb, Amen

@@ -1,0 +1,23 @@
+Artist: helmut_lotti
+Title: amazing_grace
+Genre: Vocal
+Subgenres: [u'Standards', u'Belgian', u'Classical Crossover', u'Western European Traditions']
+
+Song:
+
+Amazing grace, how sweet the sound
+That saved a wretch like me
+I once was lost but now I'm found
+Was blind but now I see
+Through many dangers, toils and snares
+I have already come
+This grace that brought me safe thus far
+And grace will lead me home
+When we've been here ten thousand years
+Bright shining as the sun
+We've no less days to sing God's praise
+Then when we first begun
+Amazing grace, how sweet the sound
+That saved a wretch like me
+I once was lost but now I'm found
+Was blind but now I see

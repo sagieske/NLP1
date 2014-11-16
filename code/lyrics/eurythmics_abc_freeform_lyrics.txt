@@ -1,0 +1,16 @@
+Artist: eurythmics
+Title: abc_freeform_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Pop/Rock', u'New Wave', u'Punk/New Wave', u'Synth Pop', u'Dance-Rock']
+
+Song:
+
+A B C D E F
+G H I J K L M N O
+P Q R S T U
+V W X Y Z
+
+A B C D E F
+G H I J K L M N O
+P Q R S T U
+V W X Y Z

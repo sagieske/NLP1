@@ -1,7 +1,7 @@
 Artist: dcinnamons
 Title: so_would_you_let_me_be
 Genre: Pop/Rock
-Subgenres: [u'Contemporary Pop/Rock']
+Subgenres: [u'Alternative/Indie Rock', u'Indie Pop']
 
 Song:
 

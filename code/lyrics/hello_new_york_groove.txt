@@ -1,0 +1,29 @@
+Artist: hello
+Title: new_york_groove
+Genre: Pop/Rock
+Subgenres: [u'Glam Rock', u'Glitter', u'Contemporary Pop/Rock', u'Japanese Traditions']
+
+Song:
+
+It's been a year since I was here
+On the street I'm just passing my time away
+To the left and to the right a town of stone grows to the sky
+And it's out of sight in a fading light here I am again in the city
+With a fist full of dollars and baby you gotta believe:
+
+I'm back
+Back in the New York groove
+I'm back
+Back in the New York groove
+I'm back in the New York groove. In the New York groove.
+
+In the back of a Cadillac with a lady by my side
+Tell you where I'll be stop at third and forty tree
+Dance into the night
+It's gonna be ectasy
+This day was made for me.
+
+I feel so good tonight who cares about tomorrow.
+
+I'm back
+Back in the New York groove. ..

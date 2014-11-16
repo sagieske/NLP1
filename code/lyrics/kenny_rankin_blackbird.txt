@@ -1,0 +1,28 @@
+Artist: kenny_rankin
+Title: blackbird
+Genre: Pop/Rock
+Subgenres: [u'Adult Contemporary', u'AM Pop', u'Contemporary Pop/Rock', u'Standards', u'Vocal Pop']
+
+Song:
+
+Blackbird singin' in the dead of night
+Take these broken wings and learn to fly
+All your life
+You were only waiting
+For this moment to arrive
+
+Blackbird singin' in the dead of night
+Take these sunken eyes and learn to see
+All your life
+You were only waiting
+For this moment to be free
+
+Blackbird fly
+Blackbird fly
+Into the dark and lonely night
+
+All your life
+You were only waiting for this moment to be free
+You and me, we're waiting for this moment to be free
+Can't you see we're waiting for this moment to be free
+Yes indeed we're waiting for this moment to be free.

@@ -1,0 +1,46 @@
+Artist: new_order
+Title: 60_miles_an_hour
+Genre: Pop/Rock
+Subgenres: [u'Alternative Dance', u'Alternative Pop/Rock', u'College Rock', u'Dance-Rock', u'Post-Punk', u'Synth Pop']
+
+Song:
+
+I don't know if I told you, but I'm seeking sanctuary
+You'll never guess the things that I do
+I'll have the devil round for tea
+Don't you know that I'm here beside you
+Can't you see that I can't relax
+When I saw you in my rearview
+You could've stopped me in my tracks
+
+I'll be there for you when you want me to
+I'll stand by your side like I always do
+In the dead of night it'll be alright
+Cause I'll be there for you when you want me to
+
+You can take me to an island, ride across the stormy sea
+We can worship pagan idols, there together you and me
+Why don't you run over here and rescue me?
+You can drive down in your car
+Why don't we both take a ride and turn that key
+We'll drive at 60 miles an hour
+
+I'll be there for you when you want me to
+I'll stand by your side like I always do
+In the dead of night it'll be alright
+Cause I'll be there for you when you want me to
+
+I'll be there for you when you want me to
+I'll stand by your side like I always do
+In the dead of night it'll be alright
+Cause I'll be there for you when you want me to
+
+I'll be there for you when you want me to
+I'll stand by your side like I always do
+In the dead of night it'll be alright
+Cause I'll be there for you when you want me to
+
+I'll be there for you when you want me to
+I'll stand by your side like I always do
+In the dead of night it'll be alright
+Cause I'll be there for you when you want me to

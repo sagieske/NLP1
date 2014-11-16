@@ -1,0 +1,24 @@
+Artist: ub40
+Title: baby
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'College Rock', u'Contemporary Reggae', u'Reggae-Pop', u'Adult Contemporary', u'Contemporary Pop/Rock']
+
+Song:
+
+Baby be true and I'll give my love to you,
+I need you baby.
+Treat me right and I'll love you day and night,
+I mean it baby.
+
+When you're down I'll be around,
+To guide you baby.
+When you're free just call on me, baby.
+I'll give my heart to you, now babe.
+I'll do what you ask me too, now babe.
+I mean it baby.
+
+I'm gonna treat you, treat you right
+I'm gonna love you day and night
+I'm gonna give my heart away
+I'm gonna love you night and day
+Baby, baby.

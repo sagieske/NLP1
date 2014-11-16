@@ -1,0 +1,51 @@
+Artist: nat_king_cole
+Title: a_cradle_in_bethlehem
+Genre: Jazz
+Subgenres: [u'Traditional Pop', u'Vocal Jazz', u'Swing', u'Vocal Pop', u'Early R&B']
+
+Song:
+
+Traditional German
+O tannenbaum
+O Tannenbaum, O Tannenbaum,
+Wie treu sind deine Blatter!
+O Tannenbaum, O Tannenbaum,
+Wie treu sind deine Blatter!
+Du grunst nicht nur zur Sommerzeit,
+Nein, auch I'm Winter, wenn est schneit.
+O Tannenbaum, O Tannenbaum,
+Wie treu sind deine Blatter!
+O Tannenbaum, O Tannenbaum,
+Du kannst mir sehr gefallen!
+O Tannenbaum, O Tannenbaum,
+Du kannst mir sehr gefallen!
+Wie oft hat mich zur Wiehnachtszeit
+Ein Baum von dir mich hoch erfreut!
+O Tannenbaum, O Tannenbaum,
+Du kannst mir sehr gefallen!
+Du grunst nicht nur zur Sommerzeit,
+Nein, auch I'm Winter, wenn est schneit.
+O Tannenbaum, O Tannenbaum,
+Wie treu sind deine Blatter!
+English Translation
+O christmas tree
+O Christmas tree, O Christmas tree,
+With faithful leaves unchanging;
+O Christmas tree, O Christmas tree,
+With faithful leaves unchanging;
+Not only green in summer's heat,
+But also winter's snow and sleet,
+O Christmas tree, O Christmas tree,
+With faithful leave unchanging.
+O Christmas tree, O Christmas tree,
+Of all the trees most lovely;
+O Christmas tree, O Christmas tree,
+Of all the trees most lovely;
+Each year, you bring to me delight
+Gleaming in the Christmas night.
+O Christmas tree, O Christmas tree,
+Of all the trees most lovely.
+Not only green in summer's heat,
+But also winter's snow and sleet,
+O Christmas tree, O Christmas tree,
+With faithful leave unchanging.

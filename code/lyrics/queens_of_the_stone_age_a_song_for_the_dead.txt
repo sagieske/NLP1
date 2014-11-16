@@ -1,0 +1,26 @@
+Artist: queens_of_the_stone_age
+Title: a_song_for_the_dead
+Genre: Pop/Rock
+Subgenres: [u'Alternative Metal', u'Hard Rock', u'Heavy Metal', u'Stoner Metal', u'Alternative/Indie Rock']
+
+Song:
+
+Its late enough to go drivin
+And see what's mine
+That's a study of dying
+How to do it right
+Youre a holy roller
+Get your bed in the loose
+If you're hanging around
+I'm holdin the noose
+
+Come a little bit closer
+And get on tight
+In a hurse rollin over
+Just a track in the line
+F**k it
+
+Come on, lets go drivin
+Come on, lets take a little ride
+That's the study of dying
+How to do it right

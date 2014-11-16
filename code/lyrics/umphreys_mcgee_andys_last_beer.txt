@@ -1,0 +1,15 @@
+Artist: umphreys_mcgee
+Title: andys_last_beer
+Genre: Pop/Rock
+Subgenres: [u'Jam Bands', u'Neo-Prog', u'Prog-Rock']
+
+Song:
+
+Whether to mind, partly blind changes wrong or right, do you qualify?
+Not to dispraise what it is that I cannot change so am I to blame?
+What's the excuse, could it make yours
+The one to try are you justified?
+Don't even ask the argument is already stained should it be exchanged?
+
+
+Gimme a reason, what's in your brain?

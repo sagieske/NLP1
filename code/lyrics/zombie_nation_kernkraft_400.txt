@@ -1,0 +1,31 @@
+Artist: zombie_nation
+Title: kernkraft_400
+Genre: Pop/Rock
+Subgenres: [u'Alternative Metal', u'Heavy Metal', u'Industrial Metal', u'Alternative Pop/Rock', u'Alternative/Indie Rock']
+
+Song:
+
+Zombie
+Zombie
+Zombie
+Zombie nation
+(X4)
+
+Nation
+Liftoff
+
+Whoah oh oh oh oh, oh
+Whoah oh oh oh oh oh oh oh
+Whoah oh, ah oh
+(X10)
+
+Zombie
+Zombie
+Zombie
+Zombie nation
+(X4)
+
+Whoah oh oh oh oh, oh
+Whoah oh oh oh oh oh oh oh
+Whoah oh, ah oh
+(X6)

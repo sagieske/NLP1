@@ -1,0 +1,46 @@
+Artist: white_lion
+Title: all_you_need_is_rock_n_roll
+Genre: Pop/Rock
+Subgenres: [u'Hair Metal', u'Hard Rock', u'Pop-Metal', u'Heavy Metal']
+
+Song:
+
+I'm feelin' down
+How you wanted long
+Now you dream's shattered
+And you lost all hope
+Oh yeah
+All you need is music
+It's your destiny
+It sets you free
+Whooooa
+All you need is rock 'n roll
+Whooooa
+Whooooa
+All you need is rock 'n roll
+Whoooa
+If you raise your hands
+You can stamp your feet
+Get down, turn around
+You can do it all for Ray Noll
+When you feel the music
+Just move your feet
+To the healthy beat
+Whooooa
+All you need is rock 'n roll
+Whooooa
+Whooooa
+All you need is rock 'n roll
+Whoooa
+Whooooa
+All you need is rock 'n roll
+Whooooa
+Whooooa
+All you need is rock 'n roll
+Whoooa
+Whooooa
+All you need is rock 'n roll
+Whooooa
+Whooooa
+All you need is rock 'n roll
+Whoooa

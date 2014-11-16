@@ -1,0 +1,65 @@
+Artist: hello_venus
+Title: love_appeal
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Indie Pop', u'Alternative Latin']
+
+Song:
+
+Nu-gudeun neol bomyeon banha-get-ji sonjis hanakkaji neon talla
+Stop! Co-ol guy ijen geuman nae-gen tong-hal su eop-seo
+
+Oneulman majuchin ge yeoldu beon chae
+Keureohke hada-ganeun heossu-go u~
+Kurhan cheok jaeji mal-go jom tteugeob-ge
+Ikeot bwah naneun malya
+
+Hey boy! I'm not that kind of girl
+Dodohae shwiib-ji anha
+Hey boy! Neon nae meotjin new world
+Sangsang keu isangil keol
+Sshiksshikhajanha dangdang-hajanha eopil haebwah eottae
+Hey boy! I'm not that kind of girl
+Teukbyeorhan neoye yeojaya
+
+Na na~ na na na~ na na~ na na na~ na na~
+Na na na~ na na na~ na na~
+
+Eocheonji neon nae-ge kkeullyeotket-ji heona tteut-daeroneun antwehl keol
+Ppeosppeothan geu jase-neun ijen geuman meori ku-lli-jineun ma~
+
+Oneulman majuchin ge yeoldu beon chae
+Chigeum nal bogo i-nna anin cheok u~
+Heunteu-llin geu nunbichi deul-kyeo-nneunde
+Mwol tto neon meomutkeoryeo~
+
+Hey boy! I'm not that kind of girl
+Dodohae shwiib-ji anha
+Hey boy! Neon nae meotjin new world
+Sangsang keu isangil keol
+Sshiksshikhajanha dangdang-hajanha eopil haebwah eottae
+Hey boy! I'm not that kind of girl
+Teukbyeorhan neoye yeojaya
+
+Nan jom edge-it-ji ban-chag binnaji
+Toktoktong mal-tukkaji it girl (it girl)
+Deo maeryeokjeo-gin geudae keureon neol wiihae
+Sarange ppajindamyeon hot girl (hot girl)
+
+Na na~ na na na~ na na~ na na na~ na na~
+Na na na~ na na na~ na na~
+
+Hey boy! I'm not that kind of girl
+Dodohae shwiib-ji anha
+Hey boy! Neon nae meotjin new world
+Sangsang keu isangil keol
+Sshiksshikhajanha dangdang-hajanha eopil haebwah eottae
+Hey boy! I'm not that kind of girl
+Teukbyeorhan neoye yeojaya
+
+Hey boy! I'm not that kind of girl
+Dodohae shwiib-ji anha
+Hey boy! Neon nae meotjin new world
+Sangsang keu isangil keol
+Sshiksshikhajanha dangdang-hajanha eopil haebwah eottae
+Hey boy! I'm not that kind of girl
+Teukbyeorhan neoye yeojaya

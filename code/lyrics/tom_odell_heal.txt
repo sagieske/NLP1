@@ -1,0 +1,34 @@
+Artist: tom_odell
+Title: heal
+Genre: Pop/Rock
+Subgenres: [u'Adult Alternative Pop/Rock', u'Alternative/Indie Rock', u'Alternative Singer/Songwriter']
+
+Song:
+
+Take my mind
+And take my pain
+Like an empty bottle takes the rain
+And heal, heal, heal, heal
+
+And take my past
+And take my sense
+Like an empty sail takes the wind
+And heal, heal, heal, heal
+
+And tell me somethings last,
+And tell me somethings last
+
+Take a heart
+And take a hand
+Like an ocean takes the dirty sand
+And heal, heal, hell, heal
+
+Take my mind
+And take my pain
+Like an empty bottle takes the rain
+And heal, heal, hell, heal
+
+And tell me somethings last,
+And tell me somethings last,
+And tell me somethings last,
+And tell me somethings last

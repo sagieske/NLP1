@@ -1,0 +1,35 @@
+Artist: van_morrison
+Title: a_new_kind_of_man
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Blue-Eyed Soul', u'Folk-Rock', u'Jazz-Rock', u'Psychedelic/Garage', u'Singer/Songwriter', u'Soul', u'Soft Rock', u'Contemporary Pop/Rock', u'Adult Contemporary', u'AM Pop', u'Celtic Rock']
+
+Song:
+
+There's a voice cryin out in the wilderness
+All your trails have not been in vain
+And you're doin the best you know how to do
+Gaining strength in the things that remain
+
+Youre part of the plan
+For a new kind of man to come through
+
+There's an angel that's watching right over you
+All your trials have not been in vain
+Wont you lift your head up to the starry night
+Finding strength in the things that remain
+
+Youre part of the plan
+For a new kind of man to come through
+
+When a man comes through
+He must do what he's supposed to do
+When a man comes through.
+He can't do what everyone expects him
+
+Wont you lift your head up to the mountain top
+All your trials have not been in vain
+There's a light that keeps shining up ahead of you
+Every step of the way that you take
+
+Its part of the plan
+For a new kind of man to come through

@@ -1,0 +1,58 @@
+Artist: julio_iglesias
+Title: a_eleonora_perche_e_un_fiore
+Genre: Vocal
+Subgenres: [u'Adult Contemporary', u'Latin Pop', u'French Pop', u'Italian Pop', u'Vocal Pop']
+
+Song:
+
+A eleonora, perch un fiore (Cuidado, amor)
+Roberto Livi G. Belfiore
+Bambina,
+Non sai come mi dispiace
+Quando il Sabato tua madre
+Dice che t'aspetta l,
+E cos, in un istante,
+Questa casa si fa grande,
+Ma devo dirli di si.
+Sarai
+Che son uomo come tanti
+Dalle mire stravaganti,
+Ma ti porto chiusa qui.
+Ti verr da domandarti
+Se combattere o [?]
+Ma con che cosa e con chi?
+Coraggio, sai,
+La vita sempre una opportunit.
+Prendi le cose e
+Tienle strette a te.
+La volta buona poi non torner.
+Coraggio, sai,
+Un giorno l per l qualcuno ti dir
+Che l'innocente paga
+E colpe non ne ha
+Tu di che hai pagato gi.
+Bambina,
+Io lo so che non ha senso,
+Non han chiesto il tuo consenso,
+Han deciso anch per te.
+L'egoismo e l'ambizione
+Per cantarti una canzone,
+Farti giocare ha il perch.
+Bambina,
+Ora aspetta a giudicare
+Cos' bene e cos' male,
+A puntare il dito su me.
+Il decidere che fare
+Fra il fiume e il mare
+Non facile... Non...
+Coraggio, sai,
+La vita sempre una opportunit.
+Prendi le cose e
+Tienle strette a te.
+La volta buona poi non torner.
+Coraggio, sai,
+Un giorno l per l qualcuno ti dir
+Che l'innocente paga
+E colpe non ne ha
+Tu di che hai pagato gi.
+Album: da manuela A pensami (1979)

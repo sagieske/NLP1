@@ -1,0 +1,28 @@
+Artist: october_project
+Title: adam_and_eve
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Christian Rock', u'Contemporary Christian', u'Heavy Metal', u'Rap-Metal', u'Rap-Rock']
+
+Song:
+
+Only ever really one story
+A boy and a girl and a dream of the world, an apple, a kiss
+A moment of sky, a moment you choose without knowing why
+Burning like a fever inside you
+The heat of your skin and the taste of your lips
+A shadow, a storm, a darkening sky, the reason you live, the secret you
+Hide
+And God said the reason had hung from the tree, but I feel the reason
+Hanging on me
+I am free of my innocence, falling too far
+I am helpless to change, I am hopelessly lost, I am all that you are
+I've fallen from all I know to keep you here, I need you here
+I wonder how far to go without you here
+Only ever really one story
+A boy and a girl and the end of the world, a secret, a kiss, a hole in
+The sky
+The reason you fall, the moment you fly
+And God said the reason had hung from the tree, but I feel the reason
+Hanging on me
+I am free of my innocence, falling too far
+I am helpless to change, I am hopelessly lost, I am all that you are

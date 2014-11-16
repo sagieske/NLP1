@@ -1,0 +1,37 @@
+Artist: victor_jara
+Title: el_arado
+Genre: Folk
+Subgenres: [u'Chilean', u'Contemporary Folk', u'Latin Folk', u'Political Folk', u'Singer/Songwriter', u'South American Traditions', u'Nueva Cancion']
+
+Song:
+
+Aprieto firme mi mano
+Y hundo el arado en la tierra
+Hace aсos que llevo en ella
+їcуmo no estar agotado?
+
+Vuelan mariposas, cantan grillos,
+La piel se me pone negra
+Y el sol brilla, brilla, brilla.
+El sudor me hace surcos,
+Yo hago surcos a la tierra
+Sin parar.
+
+Afirmo bien la esperanza
+Cuando pienso en la otra estrella;
+Nunca es tarde me dice ella
+La paloma volarб.
+
+Vuelan mariposas, cantan grillos,
+La piel se me pone negra
+Y el sol brilla, brilla, brilla.
+Y en la tarde cuando vuelvo
+En el cielo apareciendo
+Una estrella.
+
+Nunca es tarde, me dice ella,
+La paloma volarб, volarб, volarб,
+Como el yugo de apretado
+Tengo el puсo esperanzado
+Porque todo
+Cambiarб.

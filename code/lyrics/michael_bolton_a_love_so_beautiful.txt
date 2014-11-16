@@ -1,0 +1,25 @@
+Artist: michael_bolton
+Title: a_love_so_beautiful
+Genre: Pop/Rock
+Subgenres: [u'Adult Contemporary', u'Contemporary Pop/Rock']
+
+Song:
+
+The summer sun went down on our love long ago
+But in my heart I feel the same old afterglow
+A love so beautiful in every way
+A love so beautiful we let it slip away
+
+We were all too young to understand to ever know
+That lovers drift apart and that's the way love goes
+A love so beautiful a love so free
+A love so beautiful a love for you and me
+
+And when I think of you I fall in love again
+A love so beautiful in every way
+A love so beautiful we let it slip away
+
+And when I think of you I fall in love again
+A love so beautiful we let it slip away
+A love so beautiful in every way
+A love so beautiful we let it slip away

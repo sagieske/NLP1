@@ -1,0 +1,32 @@
+Artist: yonder_mountain_string_band
+Title: and_going_away
+Genre: Country
+Subgenres: [u'Progressive Bluegrass', u'Contemporary Bluegrass', u'Jam Bands', u'Bluegrass', u'Old-Timey', u'String Bands']
+
+Song:
+
+I'll tell you it's sad but true
+I'm saying goodbye to you
+Leaves me nowhere at all
+No place to fall, nothin' but blue
+
+Tell me and tell me now
+As sweet as you can somehow
+That you'll miss me each day
+And that goin' away is only your style
+
+'Cause I'll wake up at night and feel
+The face in the dream was real
+But I'm nowhere at all
+No place to fall, nothin' but blue
+
+I'll tell you it's sad but it's true
+I'm already missin' you
+And you ain't even gone
+I'm already stoned with nothin' to do
+
+I'm thinkin' I've had enough
+The fool in me's feelin' rough
+You left me days without end
+Got crazy again
+Kept smokin' the stuff

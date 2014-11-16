@@ -1,0 +1,16 @@
+Artist: village_people
+Title: big_mac
+Genre: R&B
+Subgenres: [u'Disco', u'Dance-Pop']
+
+Song:
+
+I need a double cheese burger and hold the lettuce
+Don't be frontin son - no seeds on the bun
+We be up in this drive through order for two
+I gots a cravin' fo' a numba nine like my shoe
+We need some chicken up in here, in this hizzle
+For rizzle my mizzle, extra salt on da frizzle
+Doctor pepper my brothah, another for ya motha
+Double-double supah size and don't forget the fries
+CRISPY!

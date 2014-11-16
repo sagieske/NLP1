@@ -1,0 +1,42 @@
+Artist: jennifer_lopez
+Title: adios
+Genre: R&B
+Subgenres: [u'Dance-Pop', u'Pop', u'Latin Dance', u'Latin Pop', u'Club/Dance', u'Urban', u'Adult Contemporary']
+
+Song:
+
+ADIÓS LYRICS
+Hoy he venido a despedirme
+A hablar de tantas cosas que nunca quisiste oírme
+Y ya no quiero mas excusas
+Tu nunca tienes tiempo se te escapó la musa
+
+CORO
+Adiós, Adiós
+Me voy, Adiós
+Y no me dejas ni tan solo la esperanza
+Adiós, Amor, adiós
+
+Si hay una lagrima en mis ojos
+Es que voy recogiendo de mi vida los trozos
+Si hemos jugado a una aventura
+Nos hemos embriagado con tragos de locura
+
+CORO
+Adiós, Adiós
+Me voy, Adiós
+Y no me dejas ni tan solo la esperanza
+Adiós, Amor, Adiós
+Adiós, Adiós
+Me voy, Adiós
+Y no me dejas ni tan solo la esperanza
+Adiós, Amor, Adiós
+Adiós, Adiós
+Me voy, Adiós
+Y no me dejas ni tan solo la esperanza
+Adiós, Amor, Adiós
+
+Nana, nana, nana, nana,.....
+
+Y no me dejas ni tan solo la esperanza
+Adiós, Amor, Adiós

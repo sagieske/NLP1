@@ -1,0 +1,27 @@
+Artist: fred_astaire
+Title: change_partners_lyrics
+Genre: Vocal
+Subgenres: [u'Show Tunes', u'Tin Pan Alley Pop', u'Traditional Pop', u'Cast Recordings', u'Standards', u'Vocal Jazz', u'Vocal Music', u'Show/Musical']
+
+Song:
+
+Change partners
+Fred Astaire
+(Irving Berlin)
+
+Must you dance every dance with the same fortunate man?
+You have danced with him since the music began.
+Won't you change partners and dance with me?
+Must you dance quite so close with your lips touching his face?
+Can't you see
+I'm longing to be in his place?
+Won't you change partners and dance with me?
+
+Ask him to sit this one out.
+While you're alone,
+I'll tell the waiter to tell
+him he's wanted on the telephone.
+
+You've been locked in his arms ever since heaven-knows-when.
+Won't you change partners and then,
+you may never want to change partners again.

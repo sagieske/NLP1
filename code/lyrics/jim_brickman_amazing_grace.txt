@@ -1,0 +1,18 @@
+Artist: jim_brickman
+Title: amazing_grace
+Genre: New Age
+Subgenres: [u'Contemporary Instrumental', u'Piano/New Age', u'Adult Contemporary', u'Show/Musical', u'Solo Instrumental', u'Keyboard']
+
+Song:
+
+Amazing grace, how sweet the sound
+That saved a wretch like me
+I once was lost but now I'm found
+Was blind but now I see
+
+Through many dangers, toils and snares
+I have already come
+Tears, grace have brought me safe thus far
+And grace will lead me home
+
+I was blind but now I see

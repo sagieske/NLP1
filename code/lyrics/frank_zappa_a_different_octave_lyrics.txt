@@ -1,0 +1,12 @@
+Artist: frank_zappa
+Title: a_different_octave_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Art Rock', u'Experimental Rock', u'Jazz-Rock', u'Prog-Rock', u'Album Rock', u'Avant-Prog', u'Comedy Rock', u'Progressive Jazz', u'Hard Rock', u'Modern Composition', u'Avant-Garde Music', u'Comedy', u'Computer Music', u'Experimental', u'Novelty', u'Fusion', u'Proto-Punk', u'Orchestral']
+
+Song:
+
+Spider: We are. .. Actually the same note, but. ..
+John: But different octave
+Spider: Right. We are 4, 928 octaves below the big note
+Monica: Are ya. .. Are you trying to tell me that. .. That this whole universe revolves around one note?
+Spider: No, it doesn't revolve around it

@@ -1,0 +1,53 @@
+Artist: feist
+Title: 1234_sesame_street_version_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Adult Alternative Pop/Rock', u'Alternative Singer/Songwriter', u'Alternative/Indie Rock', u'Indie Rock', u'Indie Electronic']
+
+Song:
+
+One, two, three, four
+Monsters walking ‘cross the floor
+I love counting
+Counting to the number four
+
+Oh you’re counting
+Counting with me
+To one less than five
+And one more than three
+
+Oh, we’re counting to four
+Oh, let’s count some more
+
+One, two, three, four
+Penguins that went by the door
+I love counting
+Counting to the number four
+
+I see four here
+I see four there
+My favorite number
+Nothing can compare
+
+Oh, we’re counting to four
+Oh, let’s count some more
+
+One, two, three, four
+Chickens just back from the shore
+I love counting
+Counting to the number four
+
+Oh, we’re counting to four
+Oh, let’s count some more
+
+One, two, three, four
+Chickens just back from the shore
+One, two, three, four
+Penguins that went by the door
+
+One, two, three, four
+Monsters walking ‘cross the floor
+
+Counting to four
+Counting to four
+Counting to four
+Counting to four

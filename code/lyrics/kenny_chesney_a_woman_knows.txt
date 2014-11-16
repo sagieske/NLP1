@@ -1,0 +1,31 @@
+Artist: kenny_chesney
+Title: a_woman_knows
+Genre: Country
+Subgenres: [u'Contemporary Country', u'Neo-Traditionalist Country', u'New Traditionalist']
+
+Song:
+
+She can't put her finger on a single lipstick stain
+Perfume doesn't linger on a shirt on
+There's no matchbook in his pocket with a number and name
+So why does she still hurt
+
+Cause a woman knows, when there's another woman
+She can feel her, all over her man
+A woman knows, when there's another woman
+You can't fool her, so don't try to think you can
+
+What she don't know, won't hurt her
+That's what he tells himself
+So he hides his cheatin heart inside his chest
+He thinks he's put one over, but what he don't know is
+He's already confessed
+
+Cause a woman knows, when there's another woman
+She can feel her, all over her man
+A woman knows, when there's another woman
+You can't fool her, so don't try to think you can
+
+A woman knows, when there's another woman
+You can't fool her, so don't try to think you can
+You can't fool her, so don' try to think you can

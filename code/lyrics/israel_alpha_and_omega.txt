@@ -1,0 +1,14 @@
+Artist: israel
+Title: alpha_and_omega
+Genre: International
+Subgenres: [u'Hawaiian', u'Hawaiian Pop', u'Oceanic Traditions']
+
+Song:
+
+You are Alpha and Omega
+We worship you our Lord
+You are worthy to be praised
+
+We give you all the glory
+We worship you our Lord
+You are worthy to be praised

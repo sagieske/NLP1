@@ -1,0 +1,9 @@
+Artist: handel_george_frideric
+Title: 07_chorus_and_he_shall_purify
+Genre: Classical
+Subgenres: [u'Chamber Music', u'Choral', u'Concerto', u'Keyboard', u'Opera', u'Orchestral']
+
+Song:
+
+And He shall purify the sons of Levi, that they may offer unto the Lord an
+Offering in righteousness. (Malachi 3: 3)

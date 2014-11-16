@@ -1,0 +1,32 @@
+Artist: ian_hunter
+Title: 3000_miles_from_here
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Hard Rock', u'Proto-Punk', u'Rock & Roll']
+
+Song:
+
+(ian hunter)
+
+Fare thee well, gentle maid,
+I'll see you on your way;
+And the sun will rise tomorrow
+And wash my sins away.
+For I know that I've abused you
+But I only had a day.
+And I know that's why you left me
+In your own sad little way -
+I am gone - disappeared
+But I hear a young dove crying
+3000 miles from here.
+
+Some would say you were a loser
+'cause you play a loser's game,
+But then if I am a winner,
+Why then am I so ashamed?
+If you hear a young dove crying,
+You'll know it's me to blame.
+For I never got her number;
+I never knew her name.
+Now she's gone - disappeared.
+But I hear a young dove crying
+3000 miles from here.

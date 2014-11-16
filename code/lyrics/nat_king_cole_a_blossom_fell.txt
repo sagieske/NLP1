@@ -1,0 +1,29 @@
+Artist: nat_king_cole
+Title: a_blossom_fell
+Genre: Jazz
+Subgenres: [u'Traditional Pop', u'Vocal Jazz', u'Swing', u'Vocal Pop', u'Early R&B']
+
+Song:
+
+-artist: nat king cole
+-peak billboard position # 2 in 1955
+-words and music by howard barnes, harold cornelius, and dominic john
+
+A blossom fell from off a tree
+It settled softly on the lips you turned to me
+The gypsies say and I know why
+"a falling blossom only touches lips that lie"
+
+A blossom fell and very soon
+I saw you kissing someone new beneath the moon
+I thought you loved me, you said you loved me
+We planned together to dream forever
+The dream has ended, for true love died
+The night a blossom fell and touched two lips that lied
+
+A blossom fell and very soon
+I saw you kissing someone new beneath the moon
+I thought you loved me, you said you loved me
+We planned together to dream forever
+The dream has ended, for true love died
+The night a blossom fell and touched two lips that lied

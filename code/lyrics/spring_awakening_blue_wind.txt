@@ -1,0 +1,46 @@
+Artist: spring_awakening
+Title: blue_wind
+Genre: unknown
+Subgenres: []
+
+Song:
+
+[Ilsa]
+
+Spring and summer,
+Every other day,
+Blue wind gets so sad.
+Blowin' through the thick corn,
+Through the bales of hay,
+Through the open books on the grass. ..
+
+Spring and summer. ..
+
+Sure, when it's autumn,
+Wind always wants to
+Creep up and haunt you -
+Whistling, it's got you.
+With it's heartache, and it's sorrow
+Winter wind sings and it cries. ..
+
+Spring and summer,
+Every other day,
+Blue wind gets so pained.
+Blowin' through the thick corn,
+Through the bales of hay,
+Through the sudden drift of the rain. ..
+Spring and summer. ..
+
+Spring and summer,
+Every other day,
+Blue wind gets so lost.
+Blowin' through the thick corn,
+Through the bales of hay.
+Spring and summer,
+Every other day,
+Blue wind gets so lost.
+Blowin' through the thick corn,
+Through the bales of hay.
+Through the wandering clouds of the dust.
+
+Spring and summer. ..

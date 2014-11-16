@@ -1,0 +1,38 @@
+Artist: nightmare
+Title: a_taste_of_armageddon
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Indie Rock', u'Alternative Pop/Rock']
+
+Song:
+
+From beyond the northern seas
+A new winter has begun
+I see reasons to be afraid
+When the poles reverse the seasons
+And the earth is getting cold
+Then we know our chance of life is gone
+
+Change this world of ice
+Will we ever stop this devastation all around?
+Burn this world of lies
+Will we live to share this legacy and tell them what we've found?
+
+Watch the lightning hits the sky
+Piles of dust growing high
+Termination of the human reign
+A rain of stones begins to fall
+Tidal waves hit the shores
+And the final storm will change it all
+
+Change this world of ice
+Will we ever stop this devastation all around?
+Burn this world of lies
+Will we live to share this legacy and tell them what we've found?
+
+And close your eyes and drift away
+And keep your dreams of yesterday
+
+Change this world of ice
+Will we ever stop this devastation all around?
+Burn this world of lies
+Will we live to share this legacy and tell them what we've found?...

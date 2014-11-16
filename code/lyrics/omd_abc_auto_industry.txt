@@ -1,0 +1,16 @@
+Artist: omd
+Title: abc_auto_industry
+Genre: Rap
+Subgenres: []
+
+Song:
+
+Abc...
+1, 2, 3...
+
+Robotics, a science tried in some factories.
+Function and adaptability, it's own terminology.
+Auto industry production, economic development.
+Engineering technology. Robotics, a science.
+
+Frankenstein's monster... (13)

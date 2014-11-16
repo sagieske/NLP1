@@ -1,0 +1,27 @@
+Artist: lucy_hale
+Title: breaking_up_is_hard_to_do
+Genre: Pop/Rock
+Subgenres: [u'Pop Idol', u'Contemporary Country', u'Country-Pop']
+
+Song:
+
+Don't take your love
+Away from me
+Don't you leave my heart
+In misery
+
+If you go then I'll be blue
+Cause breakin' up is hard to do
+
+They say that breakin' up is hard to do
+Now I know, I know that it's true
+Don't say that this is the end
+Instead of breakin' up
+I wish that we were makin' up again
+
+I beg of you
+Don't say goodbye
+Can we give our love just a one more try
+Come on baby, let's start anew
+Cause breakin'up is hard to do
+Breakin' up is hard to do

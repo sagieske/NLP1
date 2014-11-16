@@ -1,0 +1,32 @@
+Artist: zen
+Title: lejos_de_casa
+Genre: Pop/Rock
+Subgenres: [u'Indie Rock', u'Adult Alternative Pop/Rock', u'Alternative/Indie Rock']
+
+Song:
+
+Mirando hacia el cielo
+Buscando un lugar
+Rompiendo el silencio
+Espero el final
+
+... Y yo estarй aqui
+
+Mirando hacia el cielo
+Sin una seсal
+Viviendo en mбs sueсos
+Espero el final
+
+Y yo estarй aquн... esperarй por ti
+
+Estoy lejos de mi hogar
+Me estбn alejando de ti
+Enseсame
+Enseсame
+El camino a seguir.
+
+Estoy lejos de mi hogar
+Me estбn alejando de ti
+Enseсame
+Enseсame
+El camino a seguir.

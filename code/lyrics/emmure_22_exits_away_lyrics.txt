@@ -1,0 +1,11 @@
+Artist: emmure
+Title: 22_exits_away_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Grindcore', u'Heavy Metal', u'Alternative Metal', u'Punk Metal']
+
+Song:
+
+I remember looking right into the eyes of an angel
+The evil in me sleeps from time to time
+Wash away these poisons from my mind right on to your skin
+All the hearts that you've destroyed

@@ -1,0 +1,26 @@
+Artist: lord_of_the_rings
+Title: anron_theme_for_aragorn_and_arwen
+Genre: Pop/Rock
+Subgenres: [u'Alternative Metal', u'Doom Metal', u'Heavy Metal', u'Stoner Metal', u'Sludge Metal']
+
+Song:
+
+(Sindarin*)
+
+O mфare henion I dhы
+Ely siriar, йl sнla
+Ai! Anнron Undomiel
+
+Tiro! Йl eria e mфare
+I 'lоare en кl luitha 'uren
+Ai! Anнron...
+
+(English)
+
+From darkness I understand the night:
+Dreams flow, a star shines
+Ah! I desire Evenstar
+
+Look! A star rises out of the darkness
+The song of the star enchants my heart
+Ah! I desire...

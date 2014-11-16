@@ -1,0 +1,55 @@
+Artist: urban_zakapa
+Title: i_hate_you
+Genre: Country
+Subgenres: [u'Contemporary Country', u'Contemporary Pop/Rock', u'Country-Pop']
+
+Song:
+
+Naneun neoege sarangeul gugeolhaji anhasseo
+Jinsimeul wonhaesseo
+Majimageuro neol bwatdeon naldo
+Neol wonhaji anhasseo
+Jinsimeul wonhaesseo
+
+Sangcheobadeun nae maeumgwa
+Deoreophyeojin geuttae chueok
+Nal barabodeon ni pyojeong
+Da neomu sirheo
+Nan niga sirheo
+
+Buranhaetdeon uri moseup
+Jikyeonaeryeodeon nae moseup
+Da neomu huhoega dwae
+Jal mollatdeon na
+Nan niga sirheo
+
+Naneun neoege sarangeul gugeolhaji anhasseo
+Jinsimeul wonhaesseo
+Majimageuro uri mannan naldo
+Neon jinsimi eobseosseo
+Jinsimeul wonhaesseo
+
+Sangcheobadeun nae maeumgwa
+Deoreophyeojin geuttae chueok
+Nal barabodeon ni pyojeong
+Da neomu sirheo
+Nan niga sirheo
+
+Buranhaetdeon uri moseup
+Jikyeonaeryeodeon nae moseup
+Da neomu huhoega dwae
+
+Gutge dachin naui mamgwa
+Dorikil su eomneun uri
+Seororeul apeuge haetdeon
+Geu ttaega sirheo
+Nan naega sirheo
+
+Sigani deo heureundamyeon
+Seororeul ihaehal su isseulkka
+Hajiman geuttaedo urin
+Mannaji malja
+Ireon naega sirheo
+
+Naneun neoege neul jinsimieotgo
+Neodo geuttaemankeumeun geuraesseul geora mideo

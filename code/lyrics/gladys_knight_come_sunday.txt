@@ -1,0 +1,30 @@
+Artist: gladys_knight
+Title: come_sunday
+Genre: R&B
+Subgenres: [u'Motown', u'Pop-Soul', u'Soul', u'Urban', u'Smooth Soul', u'Disco', u'Quiet Storm']
+
+Song:
+
+Ooooh...
+
+Lord, dear Lord above, God almighty,
+God of love, Please look down and see my people through.
+
+I believe that God put sun and moon up in the sky.
+I don't mind the gray skies
+'cause they're just clouds passing by.
+
+Heaven is a goodness time. A brighter light on high.
+
+Do unto others as you would have them do to you.
+
+And have a brighter by and by.
+
+Lord, dear Lord above, God almighty,
+God of love, Please look down and see my people through.
+
+I believe God is now, was then and always will be.
+With God's blessing we can make it through eternity.
+
+Lord, dear Lord above, God almighty,
+God of love, Please look down and see my people through.

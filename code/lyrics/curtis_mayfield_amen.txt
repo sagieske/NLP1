@@ -1,0 +1,30 @@
+Artist: curtis_mayfield
+Title: amen
+Genre: R&B
+Subgenres: [u'Blaxploitation', u'Chicago Soul', u'Funk', u'Soul', u'Soundtracks', u'Uptown Soul', u'Psychedelic Soul', u'Smooth Soul', u'Film Score']
+
+Song:
+
+Amen, amen, amen, amen, amen
+Sing it over
+Amen, amen, amen, amen, amen
+See the little baby
+Wrapped in a manger on Christmas morning
+See him in the Temple
+Talking with the elders
+Who marvel at his wisdom
+
+Amen, amen, amen, amen, amen
+Hallelujah
+Amen, amen, amen, amen, amen
+Down at the Jordan
+John was baptizing and saving all sinners
+See him at the seaside
+Talking with the fisherman
+And making them disciples
+
+Amen, amen, amen, amen, amen
+Keep on pushin now
+Amen, amen, amen, amen, amen
+Hallelujah now
+Amen, amen, amen, amen, amen

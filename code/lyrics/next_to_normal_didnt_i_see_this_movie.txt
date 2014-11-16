@@ -1,0 +1,42 @@
+Artist: next_to_normal
+Title: didnt_i_see_this_movie
+Genre: Pop/Rock
+Subgenres: [u'Neo-Prog', u'Post-Grunge', u'Hard Rock']
+
+Song:
+
+Diana:
+Didn't I see this movie,
+With Mcmurphy and the nurse?
+That hospital was heavy
+But this cuckoo's nest is worse.
+And isn't this the one where
+In the end the good guys fry?
+Didn't I see this movie
+And didn't I cry?
+Didn't I cry?
+
+Doctor Madden: [Spoken]
+The modern procedure's clean and simple. The electricity
+Required is barely enough to light a hundred-watt bulb.
+
+Diana:
+What makes you think
+I'd lose my mind for you?
+I'm no sociopath.
+I'm no Sylvia Plath.
+I ain't no Frances Farmer
+Kind of find for you...
+So stay out of my brain
+I'm no princess of pain.
+
+Didn't I see this movie
+Where the doctor looked like you?
+Where the patient got impatient
+And said "sorry, doc, I'm through."
+I know where this is going,
+And I know what you're about
+'Cause I have seen this movie
+And I walked out.
+I walked out.
+I'm walking

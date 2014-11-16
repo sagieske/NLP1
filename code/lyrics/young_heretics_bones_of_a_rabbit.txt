@@ -1,0 +1,31 @@
+Artist: young_heretics
+Title: bones_of_a_rabbit
+Genre: Rap
+Subgenres: [u'Gangsta Rap', u'Southern Rap']
+
+Song:
+
+I've deceived the lonely
+And in the dark I've grown
+I now clench the fists of hands to limbs that aren't my own
+
+You have conquered cities
+And torched the mighty sea
+You may keep yourself afloat but you cannot outswim me.
+
+You play with the wolves,
+But you sleep with the bones of the rabbit
+I was only a child
+It makes no sense.
+
+We've conceived the only true bond we'll ever know,
+Learned to shake the limbs of trees to trunks that never grow.
+
+You have conquered cities
+And torched the mighty sea
+You may keep yourself afloat but you cannot outswim me.
+
+You play with the wolves,
+But you sleep with the bones of the rabbit
+I was only a child
+It makes no sense.

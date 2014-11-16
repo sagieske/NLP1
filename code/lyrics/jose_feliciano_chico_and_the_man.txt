@@ -1,0 +1,19 @@
+Artist: jose_feliciano
+Title: chico_and_the_man
+Genre: Vocal
+Subgenres: [u'AM Pop', u'Folk-Rock', u'Soft Rock', u'Latin Pop']
+
+Song:
+
+Chico, don't be discouraged,
+The Man he ain't so hard to understand.
+Chico, if you try now,
+I know that you can lend a helping hand.
+
+Because there's good in everyone
+And a new day has begun
+You can see the morning sun if you try.
+
+And I know, things will be better
+Oh yes they will for Chico and the Man
+Yes they will for Chico and the Man.

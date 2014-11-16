@@ -1,0 +1,35 @@
+Artist: roy_orbison
+Title: a_love_so_beautiful
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Pop/Rock', u'Early Pop/Rock', u'Film Score', u'Rock & Roll', u'Rockabilly', u'AM Pop']
+
+Song:
+
+(Jeff Lynne/Roy Orbison)
+The summer sun looked down
+On our love long ago
+But in my heart I feel
+The same old afterglow
+A love so beautiful
+In every way
+A love so beautiful
+We let it slip away
+We were too young to understand
+To ever know
+That lovers drift apart
+And that's the way love goes
+A love so beautiful
+A love so sweet
+A love so beautiful
+A love for you and me
+And I when I think of you
+I fall in love again
+A love so beautiful
+In every way
+A love so beautiful
+We let it slip away
+A love so beautiful
+In every way
+A love so beautiful
+We let it slip away
+-----------------------------------------

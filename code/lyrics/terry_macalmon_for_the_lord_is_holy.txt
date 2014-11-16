@@ -1,0 +1,16 @@
+Artist: terry_macalmon
+Title: for_the_lord_is_holy
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Noise Pop', u'Punk-Pop', u'Garage Punk', u'Alternative/Indie Rock']
+
+Song:
+
+For the Lord is holy, for the Lord is worthy,
+For the Lord lovely, lover of my soul;
+For the Lord is holy, for the Lord is worthy,
+For the Lord lovely, lover of my soul;
+
+For the Lord is holy, for the Lord is worthy,
+For the Lord lovely, lover of my soul;
+For the Lord is holy, for the Lord is worthy,
+For the Lord lovely, lover of my soul;

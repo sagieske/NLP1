@@ -1,0 +1,54 @@
+Artist: twins
+Title: abc
+Genre: Pop/Rock
+Subgenres: [u'Rock & Roll', u'Album Rock', u'Hard Rock']
+
+Song:
+
+Alvin:
+A - B - C - D - E - F - G
+H - I - J - K - L - M - N - O - P
+Q - R - S - T - U and V, 
+W - X and Y and Z
+A - B - C - D - E - F - G - H
+I - J - K - L - M - N - O - P
+Q - R - S - T - U and V, 
+W - X and Y and Z
+Now you've heard my ABC, 
+Tell me what you think of me?
+
+Simon:
+A - B - C - D - E - F - G
+H - I - J - K - L - M - N - O - P
+Q - R - S - T - U and V, 
+W - X and Y and Z
+A - B - C - D - E - F - G - H
+I - J - K - L - M - N - O - P
+Q - R - S - T - U and V, 
+W - X and Y and Z
+Now I've heard your ABC, 
+Tell me what you think of me?
+
+Theodore:
+A - B - C - D - E - F - G
+H - I - J - K - L - M - N - O - P
+Q - R - S - T - U and V, 
+W - X and Y and Z
+A - B - C - D - E - F - G - H
+I - J - K - L - M - N - O - P
+Q - R - S - T - U and V, 
+W - X and Y and Z
+All together sing with me, 
+Let us try our ABC! 
+
+The Chipmunks:
+A - B - C - D - E - F - G
+H - I - J - K - L - M - N - O - P
+Q - R - S - T - U and V, 
+W - X and Y and Z
+A - B - C - D - E - F - G - H
+I - J - K - L - M - N - O - P
+Q - R - S - T - U and V, 
+W - X and Y and Z
+Now we've heard our ABC, 
+Let us hear our ABC!

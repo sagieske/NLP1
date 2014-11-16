@@ -1,0 +1,34 @@
+Artist: foo_fighters
+Title: alone_easy_target_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Grunge', u'Post-Grunge']
+
+Song:
+
+They knew all along
+They're not dumb, they were so wrong
+She's not always fun
+Hate it now, call when I'm done
+
+Pieces fell in place
+Puzzles suck, laughin my face
+Turn and swing the pace
+I'll give this, keep the good waist
+
+Head is on
+I want out
+I'm alone and I'm an easy target
+Metronome
+I want out
+I'm alone and I'm an easy target
+
+Crazy T. V. Dreams might be true
+Not what it seems.
+Food and cavitys, chewing words
+Tear at the seams
+He don't feel so good, don't feel bad
+Not that he should
+I don't feel so good, don't feel bad
+Not that I should
+
+Did you ever listen? Get out.

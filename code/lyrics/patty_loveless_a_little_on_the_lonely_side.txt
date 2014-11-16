@@ -1,0 +1,37 @@
+Artist: patty_loveless
+Title: a_little_on_the_lonely_side
+Genre: Country
+Subgenres: [u'Contemporary Country', u'Neo-Traditionalist Country', u'Singer/Songwriter', u'Soft Rock']
+
+Song:
+
+You ask me how I'm doin' since you left
+I can't lie, sometimes I'm beside myself
+And the way I feel is to hard to hide
+A little on the lonely side
+
+Do you really want to know
+What I've been through
+Let me just say I'm still wrapped up in you
+And the broken heart keeps me alive
+A little on the lonely side
+
+I'm a little on the lonely side
+Where only the strong survive
+And I'm barely gettin' by
+A little on the lonely side
+
+Some days I spend all my nights on memories
+Goin' through what's left of what used to be
+And the nights get longer all the time
+A little on the lonely side
+
+I'm a little on the lonely side
+Where only the strong survive
+And I'm barely gettin' by
+A little on the lonely side
+
+I'm a little on the lonely side
+Where only the strong survive
+And I'm barely gettin' by
+A little on the lonely side

@@ -1,0 +1,20 @@
+Artist: sitti_navarro
+Title: fly_me_to_the_moon
+Genre: Latin
+Subgenres: [u'Bossa Nova', u'Brazilian Traditions']
+
+Song:
+
+Fly me to the moon
+And let me play among the stars
+Let me see what spring is like
+On Jupiter and Mars
+In other words hold my hand
+In other words darling kiss me
+
+Fill my life with song
+And let me sing forevermore
+You are all I hope for
+All I worship and adore
+In other words please be true
+In other words I love you

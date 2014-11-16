@@ -1,0 +1,31 @@
+Artist: iron_butterfly
+Title: dont_look_down_on_me
+Genre: Pop/Rock
+Subgenres: [u'Psychedelic/Garage', u'Acid Rock', u'Album Rock', u'Hard Rock', u'Heavy Metal']
+
+Song:
+
+I'm sittin here and thinkin of live to be
+Wondering what's going to become of me
+I'm standing mountain way up high
+My people of old paths pass me by
+
+But baby, baby
+Baby, baby
+Baby, baby
+
+Don't Look Down on Me
+
+Cause I won't
+Grow apart
+Cause you saw me
+
+Baby, baby
+Baby, baby
+Baby, baby
+
+Don't Look Down on Me
+
+Cause I won't
+Grow apart
+Cause you saw m

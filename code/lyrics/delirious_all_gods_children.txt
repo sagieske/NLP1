@@ -1,0 +1,24 @@
+Artist: delirious
+Title: all_gods_children
+Genre: Religious
+Subgenres: [u'CCM', u'Christian Rock', u'Contemporary Christian', u'Gospel', u'Christian Rap']
+
+Song:
+
+Light will come to those who wait
+From the shadows souls awake
+For these are the days when the nations will bow at the coming king
+
+All our kingdoms fall with the mountains
+And our empires crash into the sea
+For these are the days when the nations will rise for the coming king
+
+All gods children we will sing hallelujah
+
+Hope will come to those who wait
+As the heart of heaven breaks
+For these are the days when the least of us all see the coming king
+For these are the days when injustice will fall at the coming king
+
+There will come a day when this will all fall away
+And we'll be singing hallelujah

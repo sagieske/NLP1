@@ -1,0 +1,31 @@
+Artist: willie_nelson
+Title: both_sides_now
+Genre: Country
+Subgenres: [u'Country-Pop', u'Nashville Sound/Countrypolitan', u'Outlaw Country', u'Progressive Country', u'Traditional Country', u'Contemporary Pop/Rock', u'Vocal Pop']
+
+Song:
+
+Bows and flows of angel hair
+Ice cream castles in the air
+And feathered canyons everywhere
+I'd look at clouds that way
+Now they only block the sun
+They rain and snow on everyone
+So many things I could have done
+The clouds got in my way
+I've looked at clouds from both sides now
+From up and down and still somehow
+It's cloud's illusions I recall
+I really don't know cloud at all
+Moons and Junes and Ferris Wheels
+Dizzy dancing way you feel
+As every fairy tale complete
+I'd look at love that way
+But now it's just another show
+You leave 'em laughin' when you go
+And if you care don't let them know
+Don't give yourself away
+I've looked at love from both sides now
+From up and down and still somehow
+It's love's illusions I recall
+I really don't know love at all

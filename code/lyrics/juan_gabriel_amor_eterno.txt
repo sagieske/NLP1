@@ -1,0 +1,35 @@
+Artist: juan_gabriel
+Title: amor_eterno
+Genre: Latin
+Subgenres: [u'Latin Pop', u'Mariachi', u'Mexican Traditions']
+
+Song:
+
+T eres la tristeza de mis ojos,
+Que lloran en silencio por tu amor.
+Me miro en el espejo y veo en mi rostro
+El tiempo que he sufrido por tu adios.
+Obligo a que te olvide el pensamiento,
+Pues siempre estoy pensando en el ayer.
+Prefiero estar dormida que despierta
+De tanto que me duele que no estes.
+Como quisiera, ay, que tu vivieras,
+Que tus ojitos jams se hubieran cerrado nunca,
+Y estar mirandolos.
+Amor eterno, e inolvidable.
+Tarde o temprano estar contigo
+Para seguir amandonos.
+Yo he sufrido tanto por tu ausencia,
+Desde se da hasta hoy, no soy feliz.
+Y aunque tengo tranquila mi consciencia,
+S que pude haber yo hecho ms por T.
+Oscura soledad estoy viviendo,
+La misma soledad de tu sepulcro.
+T eres el amor del cual yo tengo
+El ms triste recuerdo de Acapulco.
+Como quisiera, ay, que tu vivieras,
+Que tus ojitos jams se hubieran
+Cerrado nunca, y estar mirandolos.
+Amor eterno, e inolvidable.
+Tarde o temprano estar contigo
+Para seguir amandonos.

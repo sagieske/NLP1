@@ -1,0 +1,34 @@
+Artist: jj_heller
+Title: boat_song
+Genre: Folk
+Subgenres: [u'Alternative CCM', u'CCM', u'Contemporary Christian', u'Gospel', u'Adult Contemporary']
+
+Song:
+
+If you were a boat, my darling
+A boat, my darling
+I'd be the wind at your back
+If you were afraid, my darling
+Afraid, my darling
+I'd be the courage you lack
+
+If you were a bird, then I'd be a tree
+And you would come home, my darling, to me
+If you were asleep, then I'd be a dream
+Wherever you are, that's where my heart will be
+
+Oh, do you know we belong together?
+Oh, do you know my heart is yours?
+
+If you were the ocean, I'd be the sand
+If you were a song, I'd be the band
+If you were the stars, then I'd be the moon
+A light in the dark, my darling, for you
+
+Oh, do you know we belong together?
+Oh, do you know my heart is yours?
+
+Oh, do you know we belong together?
+Oh, do you know my heart is yours?
+Oh, do you know we belong together?
+Oh, do you know my heart is yours?

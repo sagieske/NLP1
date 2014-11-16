@@ -1,0 +1,27 @@
+Artist: umphreys_mcgee
+Title: example_one
+Genre: Pop/Rock
+Subgenres: [u'Jam Bands', u'Neo-Prog', u'Prog-Rock']
+
+Song:
+
+Why is it for every one
+There's got to be a greater sum
+Of reasons to believe that I need
+Because it's easy to forget
+And when there's nothing in your head
+Soon a sleep is all that I can see
+
+Now I've probably stayed too long
+And maybe I could go
+But I can't even find a door
+And so it goes to the same end
+Until the obvious comes and then Acknowledging I've seen this all before
+
+Why do all excuses come
+When all I really need is none
+Again the instincts they bring back more
+But do I think I know too much,
+And in the end is that enough
+
+But am I certain what I'm asking for?

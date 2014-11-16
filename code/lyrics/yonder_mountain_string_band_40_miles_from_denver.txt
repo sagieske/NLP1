@@ -1,0 +1,33 @@
+Artist: yonder_mountain_string_band
+Title: 40_miles_from_denver
+Genre: Country
+Subgenres: [u'Progressive Bluegrass', u'Contemporary Bluegrass', u'Jam Bands', u'Bluegrass', u'Old-Timey', u'String Bands']
+
+Song:
+
+It's a cold, cold moon out tonight
+And it's a cold, cold point on your knife
+Could I call myself a man if I left by the morning light?
+
+And I'd be 40 miles from Denver when you woke up all alone
+I'd be 40 miles from Denver and three days from my home
+In that cool mountain air, on an Appalachian trail
+Ohh, life is better there
+
+It's a lonely road to travel on
+But I've stood here waiting much too long
+And I'd rather leave this minute than try to carry on
+
+And I'd be 40 miles from Denver headed east bound on the track
+I'd be 40 miles from Denver and trying to get back
+To that cool mountain air, on an Appalachian trail
+Ohh, life is better there
+
+It's a cold, cold moon out tonight
+And it's a cold, cold point on your knife
+Could I call myself a man if I left by the morning light?
+
+And I'd be 40 miles from Denver when you woke up all alone
+I'd be 40 miles from Denver and three days from my home
+In that cool mountain air, on an Appalachian trail
+Ohh, life is better there (4x)

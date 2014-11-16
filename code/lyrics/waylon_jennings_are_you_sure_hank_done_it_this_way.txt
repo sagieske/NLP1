@@ -1,0 +1,34 @@
+Artist: waylon_jennings
+Title: are_you_sure_hank_done_it_this_way
+Genre: Country
+Subgenres: [u'Country-Folk', u'Film Score', u'Outlaw Country', u'Progressive Country', u'Traditional Country']
+
+Song:
+
+Verse 1:
+It's the same old tune, fiddle and guitar
+Where do we take it from here
+Rhinestone suits and new shiney cars
+We've been the same way for years
+We need to change
+
+Verse 2:
+Somebody told me when I got to Nashville
+Son you finally got it made
+Old Hank made it here, we're ll sure that you will
+But I don't think Hank done it this way
+I don't think Hank done it this way
+
+Verse 3:
+Ten years down the road, making one night stands
+Speeding my young life away
+Tell me one more time just so I understand
+Are you sure Hank done it this way
+Did Ol' Hank really do it this way?
+
+Verse 4:
+I've seen the world with a five piece band
+Looking at the back side of me
+Singing my songs and one of his now and then
+But I don't think Hank done it this way
+No I don't think Hank done it this way.

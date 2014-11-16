@@ -1,0 +1,41 @@
+Artist: outlaws
+Title: freeborn_man
+Genre: Pop/Rock
+Subgenres: [u'Southern Rock', u'Roots Rock']
+
+Song:
+
+I was born in the Southland
+Twenty-some odd years ago
+Ran away for the first time honey
+When I was four years old
+
+I'm a freeborn man
+My home is on my back
+I know every inch of highway,
+Every foot of back road
+Every mile of railroad track.
+
+I got a lady in Cincinnati
+A woman in San Anton'
+I always love the gal next door
+Honey, every place is home
+
+I'm a freeborn man
+My home is on my back
+I know every inch of highway,
+Every foot of back road
+Every mile of railroad track.
+
+You may not like the way I look
+You may not like my song
+You may not like the way I Live
+You'll love the way I'm gone
+
+I'm a freeborn man
+Home is on my back
+I know every inch of highway,
+Every foot of back road
+Every mile of railroad
+Every mile of railroad
+Every mile of railroad track

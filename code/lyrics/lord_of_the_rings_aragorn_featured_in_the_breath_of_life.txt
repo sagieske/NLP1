@@ -1,0 +1,20 @@
+Artist: lord_of_the_rings
+Title: aragorn_featured_in_the_breath_of_life
+Genre: Pop/Rock
+Subgenres: [u'Alternative Metal', u'Doom Metal', u'Heavy Metal', u'Stoner Metal', u'Sludge Metal']
+
+Song:
+
+(Sindarin)
+Uich gwennen na 'wanath ah na dhнn.
+An uich gwennen na ringyrn ambar hen.
+Boe naid bain gwannathar,
+Boe cuil ban firitha.
+Boe naer gwannathach, [...]
+
+(English)
+'You are not bound to loss and silence.
+For you are not bound to the circles of this world.
+All things must pass away,
+All life is doomed to fade...
+Sorrowing you must go, [and yet you are not without hope]. '

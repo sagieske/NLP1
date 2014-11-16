@@ -1,0 +1,17 @@
+Artist: daft_punk
+Title: contact
+Genre: Electronic
+Subgenres: [u'Club/Dance', u'Electronica', u'House', u'Progressive House', u'Left-Field House']
+
+Song:
+
+Hey Bob I'm looking at what Jack was talking about 
+And it's definitely not a particle that's nearby. 
+It is a bright object and it's obviously rotating because it's flashing, 
+It's way out in the distance, certainly rotating in a very rhythmic fashion 
+Because the flashes come around almost on time. 
+
+As we look back at the earth it's up at about 11 o'clock, 
+About maybe ten or twelve diameters. 
+I don't know whether that does you any good, 
+But there's something out there.

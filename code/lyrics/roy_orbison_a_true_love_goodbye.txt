@@ -1,0 +1,29 @@
+Artist: roy_orbison
+Title: a_true_love_goodbye
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Pop/Rock', u'Early Pop/Rock', u'Film Score', u'Rock & Roll', u'Rockabilly', u'AM Pop']
+
+Song:
+
+A young couple stood under stars in the sky
+They pledged their love with tears in their eyes
+For this was a true love goodbye
+
+They stood there trembling and couldn't speak
+She tip toed and kissed his cheek
+For this was a true love goodbye
+
+A true love goodbye, they tried not to cry
+With words so true, they both said, "I love you"
+
+Then they parted both broken hearted
+But they'll meet again some day some way
+Beyond this true love goodbye
+
+A true love goodbye, they tried not to cry
+With words so true, they both said, "I love you"
+
+Then they parted both broken hearted
+But they'll meet again some day some way
+Beyond this true love goodbye
+True love, true love goodbye, bye my love

@@ -1,0 +1,34 @@
+Artist: steve_miller_band
+Title: all_your_love_i_miss_loving
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Contemporary Pop/Rock', u'Arena Rock', u'Blues-Rock']
+
+Song:
+
+All the love pretty baby
+I have in store for you
+All the love pretty baby
+I have in store for you
+I know you love me baby
+You know I love you too
+
+All your lovin' I've been lovin'
+All your kissin' I've been kissin'
+All your lovin' I've been lovin'
+All your kissin' I've been kissin'
+Before I met you baby
+I didn't know what I'd been missin'
+
+All your lovin' I've been lovin'
+All your kissin' I've been kissin'
+All your lovin' I've been lovin'
+All your kissin' I've been kissin'
+Before I met you baby
+I didn't know what I'd been missin'
+
+All the love pretty baby
+I have in store for you
+All the love pretty baby
+I have in store for you
+I know you love me baby
+You know I love you too

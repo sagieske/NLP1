@@ -1,0 +1,12 @@
+Artist: yothu_yindi
+Title: danggultji
+Genre: International
+Subgenres: [u'Aboriginal Rock', u'Worldbeat', u'Ambient']
+
+Song:
+
+Song from the Rirratjingu Clan of NE Arnhem Land
+It describes Dhanbul people. This song is about survival and defending
+Territory while we are alive. It describes Gudurrku (a large bird) which is
+Used in the song as a metaphore. When we die our spirits fly to Garrtjpirr
+Burralgu

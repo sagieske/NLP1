@@ -1,0 +1,12 @@
+Artist: m83
+Title: couleurs
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Indie Electronic', u'Ambient Pop', u'New Wave/Post-Punk Revival']
+
+Song:
+
+Chasing colors through my fears
+Chasing colors in my fears
+I need yourself!
+Should you find out
+I need you a new way, need you all day

@@ -1,0 +1,30 @@
+Artist: james_taylor
+Title: angry_blues
+Genre: Pop/Rock
+Subgenres: [u'Adult Contemporary', u'Singer/Songwriter', u'Soft Rock', u'Contemporary Pop/Rock', u'AM Pop']
+
+Song:
+
+I can't help it if I don't feel so good
+I can't help it if I don't feel so good
+If I had my way
+I'd be sitting on the top of the world
+I can't help it if I don't feel so good
+When the anger comes in him
+There's no place for a man to hide
+When the anger comes in him
+There's no place for a man to hide
+Would he do anything in the world
+To make him feel better inside
+When the anger comes in him
+There's no place for a man to hide
+Gonna sit back here
+Gonna watch this cloud roll by
+The next time that you see me
+I should be shining like the fourth of july
+Gonna sit back here
+Gonna watch this cloud roll by
+
+I ain't lookin' for details
+Won't you just give me a clue
+Oh lord what am I gonna do

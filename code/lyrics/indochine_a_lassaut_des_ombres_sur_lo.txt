@@ -1,0 +1,54 @@
+Artist: indochine
+Title: a_lassaut_des_ombres_sur_lo
+Genre: Pop/Rock
+Subgenres: [u'French Rock', u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Euro-Rock', u'New Wave', u'Punk/New Wave']
+
+Song:
+
+(Nicola Sirkis / Dominique Nicolas)
+C'est dans le coeur de la planete
+Dans les bas-fonds de la terre
+Qu'ils sont partis pour une conquete
+A l'assaut de ses rivieres
+Et ils voyaient le jour imperial
+En s'approchant du point limite O
+Et sur les ailes du vaisseau spatial
+Ils apercurent les ombres sur l'o
+Regarde-les, ils sont trop jeunes (mais) pour la gloire la gloire
+Et comprends-les qu'ils soient trop jeunes (mais) pour la gloire la gloire
+Et a l'assaut des ombres sur l'o
+Au coeur du temps tout puissant
+Et a l'assaut des ombres sur l'o
+Des drapeaux sur l'horizon
+Et a l'aube du jour nouveau
+Elle et lui, tous avec moi
+Ils echapperent aux avalanches
+Les ombres voulaient les submerger
+Et c'est a titre de revanche
+Qu'ils continuerent a avancer
+Et ils voyaient le jour imperial
+En s'approchant du point limite O
+C'est au moment triomphal
+Qu'ils oublierent les ombres sur l'o
+Regarde-les, ils n'ont pas dit leur dernier mot a l'o
+Ecoutez-les, ils n'ont pas dit leur dernier mot sur l'o
+Et a l'assaut des ombres sur l'o
+Au coeur du temps tout puissant
+Et a l'assaut des ombres sur l'o
+Des drapeaux sur l'horizon
+Et a l'aube d'un jour nouveau
+Elle et moi, tous avec moi
+Regarde-les, ils n'ont pas dit leur dernier mot a l'o
+Ecoutez-les, ils n'ont pas dit leur dernier mot sur l'o
+Et a l'assaut des ombres sur l'o
+Au coeur du temps tout puissant
+Et a l'assaut des ombres sur l'o
+Des drapeaux sur l'horizon
+Et a l'aube du jour nouveau
+Elle et moi, tous avec moi
+A l'assaut des ombres sur l'o
+Au coeur du temps tout puissant
+Et a l'assaut des ombres sur l'o
+Des drapeaux sur l'horizon
+Et a l'aube d'un jour nouveau
+Elle et lui, tous avec moi

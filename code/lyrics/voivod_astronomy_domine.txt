@@ -1,0 +1,35 @@
+Artist: voivod
+Title: astronomy_domine
+Genre: Pop/Rock
+Subgenres: [u'Heavy Metal', u'Progressive Metal', u'Speed/Thrash Metal']
+
+Song:
+
+[Syd Barrett]
+
+Lime and limpid green
+The second scene
+The fights between
+The blue you once knew
+
+Floating down
+The sound resounds
+Around the icy
+Water underground
+
+Jupiter and Saturn
+Oberon , Miranda and Titania
+Neptune, Titan
+Stars get frighten
+
+Winding signs flap
+Flicker flicker flicker flap
+Pow! Stairways scared
+And death rules there
+
+Blindman limpid
+Green the sound
+Surrounds the icy water on the
+Lime and limpid green the sound
+Surrounds the icy
+Waters underground

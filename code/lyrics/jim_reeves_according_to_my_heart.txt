@@ -1,0 +1,17 @@
+Artist: jim_reeves
+Title: according_to_my_heart
+Genre: Country
+Subgenres: [u'Country-Pop', u'Nashville Sound/Countrypolitan', u'Traditional Country']
+
+Song:
+
+According to my heart you're the one for me
+The one love of my life is here when you're with me
+If someone stole your love my heart would beat no more
+For you're the one my heart is always longing for
+Though I don't know the reason why my dreams don't turn out right
+Still I'll keep listening to my heart who knows someday they might
+For according to my heart the future will be bright
+And every day I pray that my heart knows what's right
+[ fiddle - steel ]
+According to my heart...

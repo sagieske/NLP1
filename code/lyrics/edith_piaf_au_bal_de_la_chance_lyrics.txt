@@ -1,0 +1,49 @@
+Artist: edith_piaf
+Title: au_bal_de_la_chance_lyrics
+Genre: Vocal
+Subgenres: [u'Cabaret', u'French Pop', u'Torch Songs', u'Vocal Pop']
+
+Song:
+
+Le long de l'herbe,
+L'eau coule et fait des ronds.
+Le ciel superbe
+?blouit les environs.
+Le grand soleil joue aux boules
+Avec les pommiers fleuris.
+Le bal, devant l'eau qui coule,
+Rab?che des airs de Paris.
+
+Danse, danse au bal de la chance,
+Danse, danse ma r?verie...
+
+Les parasols sur la berge en gestes lents
+Saluent d'une r?v?rence
+Les chalands.
+Tandis qu'une fille danse
+Dans les bras d'un marinier,
+Le ciel fait des imprudences
+Mais l'amour n'est pas le dernier...
+
+Danse, danse au bal de la chance,
+Danse, danse au ciel printanier...
+
+Le vent, tournant dans les feuilles des bosquets,
+Avec le chant des pinsons, fait des bouquets
+Mais elle n'?coute gu?re
+Que les mots de ce gar?on,
+Des mots d'amour si vulgaires
+Qu'ils font rire au ciel les pinsons.
+
+Danse, danse au bal de la chance,
+Danse, danse avec ma chanson...
+
+Je pense encore ? ce jour de l'an dernier.
+Sur mon ?paule, mon r?ve est prisonnier.
+Cel? n'a ni queue ni t?te.
+Pourtant, j'ai le c?ur bien gros
+Pour les marins en goguette.
+L'amour, ?a coule au fil de l'eau.
+
+Danse, danse au bal de la chance,
+Danse, danse mon c?ur d'oiseau...

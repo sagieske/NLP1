@@ -1,0 +1,21 @@
+Artist: robert_earl_keen
+Title: beats_the_devil
+Genre: Folk
+Subgenres: [u'Alt-Country', u'Alternative/Indie Rock', u'Americana', u'Contemporary Folk', u'Country-Folk', u'Progressive Country']
+
+Song:
+
+I can't remember when I was here
+But I'm back again
+I barely know you friend
+And everything's changed
+Sun burned up
+The sky turned green
+The air smelled of gasoline
+The soldier boy and teenage queen
+Have since become estranged
+
+I keep movin'
+Like the wind across the sea
+What the hell am I doin'
+Beats the devil outta me

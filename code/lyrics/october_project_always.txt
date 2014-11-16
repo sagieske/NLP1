@@ -1,0 +1,27 @@
+Artist: october_project
+Title: always
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Christian Rock', u'Contemporary Christian', u'Heavy Metal', u'Rap-Metal', u'Rap-Rock']
+
+Song:
+
+I have come to know you
+Over all these years
+We've seen many days come and go
+After all the time we've shared
+All the secrets told
+Will you ever say I love you
+If you gave me nothing
+Nothing more than this
+I would have the mem'ry to keep
+Let me make this simple wish
+As we fall asleep
+Let me wake with you by my side
+Always
+If you have to leave me
+Leave me with a kiss
+Tell me how you feel without words
+Are you so afraid to stay
+Must you be alone
+Let me wake with you by my side
+Always

@@ -1,0 +1,18 @@
+Artist: rihanna
+Title: baby_brown_eyes
+Genre: Pop/Rock
+Subgenres: [u'Dance-Pop', u'Pop', u'EDM', u'Contemporary R&B']
+
+Song:
+
+You're my sunrise
+My baby brown eyes
+You're my morning kiss and you're goodnight
+You're my "yes I can"
+I'll make you a better man
+The one I run to win
+Nobody understand
+You're my shining night
+You're always making right
+Everytime that I look into your baby brown eyes
+Look into your baby brown eyes

@@ -1,0 +1,34 @@
+Artist: utopia
+Title: alone
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Art Rock', u'Contemporary Pop/Rock', u'Prog-Rock', u'Arena Rock', u'Power Pop', u'Soft Rock', u'New Wave', u'Punk/New Wave']
+
+Song:
+
+Let me ask you a question
+Will you lend me your ear
+Do you know the meaning of emptiness
+If not I'll make it clear
+Alone, alone
+Nobody knows how lonely it can be
+And I'm so tired of being alone.
+
+Let me tell you a story
+One you've probably heard
+One about the man who was lost
+And I can tell you in one word
+Alone, alone
+Nobody knows how lonely it can be
+And he was tired of being alone
+Alone, alone
+Nobody knows how lonely it can be
+And I'm so tired of being alone.
+
+There's an end to the fable
+Where does all of this lead
+That for everyone who needs someone
+There is someone there to need
+Alone, alone
+Someone is still alone
+Alone, alone
+Someone is still alone.

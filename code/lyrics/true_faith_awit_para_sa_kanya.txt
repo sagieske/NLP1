@@ -1,0 +1,46 @@
+Artist: true_faith
+Title: awit_para_sa_kanya
+Genre: R&B
+Subgenres: [u'Contemporary R&B', u'Adult Contemporary R&B']
+
+Song:
+
+Sisilipin, uulitin lang
+Aawatin, bibigay naman
+Sana ay di na pinagtagpo ng ating Diyos
+Tulungan mo ako
+Sa tuwing siya ay nakikita, ako'y nagwawala
+Pagka't sa kanyang mga ngiti, ako sumusuko
+
+Konting tulak ay iibig na
+Sa maghapon ay nakatawa
+Ngunit sinabi ko sa akin
+Ayoko na sanang maging
+Iyakin nanaman ako
+Sa tuwing kami'y magkasama
+Ako'y natutuwa
+Pagkat sa kanyang mga mata
+Ako'y sumusuko
+
+Biglang luluha pag wala na siya
+Sandali lang, di na makita
+Alam ko na naman ito
+Nakita ko ito sa palabas ang luha ko
+Sa tuwing siya ay umaalis
+Ako'y nagtitiis
+Pagkat sa kanyang mga ngiti
+Ako'y sumusuko
+
+Sisilipin, uulitin lang
+Aawatin, bibigay naman
+(Sa kanya)
+Konting tulak ay iibig na
+(Sa kanya)
+Sa maghapon ay nakatawa
+(Sa kanya)
+Biglang luluha pag wala na siya
+(Sa kanya)
+Sandali lang di na Makita
+(Sa kanya)
+Biglang luluha pag wala na siya
+Sa kanya

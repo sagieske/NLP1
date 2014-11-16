@@ -1,0 +1,19 @@
+Artist: randy_crawford
+Title: cajun_moon
+Genre: R&B
+Subgenres: [u'Soul', u'Crossover Jazz', u'Urban', u'Smooth Jazz']
+
+Song:
+
+Cajun moon, where does your power lie
+As you move across the southern sky
+You took my babe way too soon
+What have you done, Cajun moon
+Someday babe, when you want your man
+And you find him gone, just like the wind
+Don't trouble your mind whatever you do
+'Cause Cajun moon took him from you
+When daylight fades, the night comes on
+You can hear the silence of this song
+Don't trouble your mind whatever you do
+'Cause he got me like he got you

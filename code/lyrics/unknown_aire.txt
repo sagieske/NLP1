@@ -1,0 +1,30 @@
+Artist: unknown
+Title: aire
+Genre: Pop/Rock
+Subgenres: [u'Indie Pop', u'Alternative/Indie Rock', u'Neo-Psychedelia', u'Indie Electronic']
+
+Song:
+
+The rose
+(Amanda Mcbroom)
+
+Some say love, it is a river that drowns the tender reed
+Some say love, it is razor that leaves your soul to bleed
+Some say love, it is a hunger, an endless aching need
+I say love, it is a flower & you its only seed
+
+It's the heart afraid of breaking that never learns to dance
+Its the dream afraid of waking that never takes the chance
+It's the one who won't be taken, who cannot seem to give
+And the soul afraid of dying that never learns to live
+
+When the night has been too lonely & the road has been too long
+And you think that love is only for the lucky & the strong
+Just remember in the winter far beneath the bitter snows
+Lies the seed that with the sun's love in the spring becomes the
+rose
+
+@love
+Filename[ therose
+Ss
+===Document boundary

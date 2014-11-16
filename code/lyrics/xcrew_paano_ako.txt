@@ -1,0 +1,48 @@
+Artist: xcrew
+Title: paano_ako
+Genre: Electronic
+Subgenres: []
+
+Song:
+
+P: Paano ang buhay kong ito?
+Ngayong tayo ay magkalayo.
+Hindi pa ba sapat, ang aking pag-ibig?
+Di ba't nag sumpaan tayo?
+
+Are: Sino't ano ang hinahanap mo?
+Bakit nagkukubli't nagtatago?
+Ang tunay mong hangarin, ba't di sabihin sa'kin
+Mahirap ba akong mahalin?
+
+P: Paano kita, iibigin?
+Are: Kung di mo ibibigay ang puso mo sa akin
+P: Ano ang pumipigil sa damdamin at sa puso mo?
+Are: Maghihintay ako sabihin mong mahal mo na ako.
+
+P: Paano kita... Iibigin?
+Are: (Paano ang buhay kong ito?)
+P: Kung di mo ibibigay ang puso mo sa akin
+Are: (Ngayong tayo ay magkalayo)
+P: Ano ang pumipigil sa damdamin at sa puso mo?
+Are: (Hindi pa ba sapat... Ang aking pag-ibig?)
+P: Maghihintay ako sabihin mong mahal mo na ako.
+Are: ('diba't nag sumpaan tayo?)
+
+Are: Di ko matitiis ang malayo ka
+P: Kung kailan ako nagmahal... Mawawala pa
+Are: (mawawala pa...)
+
+P: Paano kita... Iibigin?
+Are: (Paano ang buhay kong ito?)
+P: Kung di mo ibibigay ang puso mo sa akin
+Are: (Ngayong tayo ay magkalayo)
+P: Ano ang pumipigil sa damdamin at sa puso mo?
+Are: (Hindi pa ba sapat... Ang aking pag-ibig?)
+P: Maghihintay ako sabihin mong mahal mo na ako.
+Are: ('diba't nag sumpaan tayo?)
+
+P/are: Paano kita, iibigin?
+Kung di mo ibibigay ang puso mo sa akin
+Ano ang pumipigil sa damdamin at sa puso mo?
+Maghihintay ako.. (maghihintay ako) na sabihin mong mahal rin ako.

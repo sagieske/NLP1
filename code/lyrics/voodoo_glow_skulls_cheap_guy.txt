@@ -1,0 +1,15 @@
+Artist: voodoo_glow_skulls
+Title: cheap_guy
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Ska-Punk', u'Hardcore Punk', u'Punk/New Wave', u'Third Wave Ska Revival']
+
+Song:
+
+You say I'm your best friend. Well, you're not mine. Always complaining about
+Money all the time. Why don't you grow up and listen to me. Money can't buy
+Everything. Everytime we go out I have to pay. You might as well call me dad.
+None of the girls will go out with you. Because you make them ride the bus.
+Some people say you squeak when you walk. Penny pinching all the time.
+Everything to you is one big price. That you're gonna have to pay. You don't
+Have the money. According to you. When it's time to pay your way.
+Someday at home you'll be alone. With no job and no friends.

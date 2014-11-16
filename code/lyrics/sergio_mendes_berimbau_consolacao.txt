@@ -1,0 +1,24 @@
+Artist: sergio_mendes
+Title: berimbau_consolacao
+Genre: Easy Listening
+Subgenres: [u'AM Pop', u'Bossa Nova', u'Brazilian Traditions', u'Latin Pop', u'Lounge', u'Samba', u'Soft Rock', u'Jazz Instrument', u'Keyboard', u'Piano Jazz']
+
+Song:
+
+(Powell/Gilbert/De Moraes)
+
+Quem e homem de bem nao trai
+O amor que lhe quer seu bem
+Quem diz muito que vai, nao vai
+Assim como nao vai, nao vem
+Quem de dentro de si nao sai
+Vai morrer sem amar ninguem
+O dinheiro de quem nao da
+E o trabalho de quem nao tem
+Capoeira que e bom nao cai
+Mas se um dia ele cai, cai bem
+
+Capoeira me mandou dizer que ja chegou
+Chegou para lutar
+Berimbau me confirmou vai ter briga de amor
+Tristeza camara.

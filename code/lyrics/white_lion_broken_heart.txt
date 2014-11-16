@@ -1,0 +1,35 @@
+Artist: white_lion
+Title: broken_heart
+Genre: Pop/Rock
+Subgenres: [u'Hair Metal', u'Hard Rock', u'Pop-Metal', u'Heavy Metal']
+
+Song:
+
+Here I stand, all alone
+Trying to fight the pain from a broken heart
+Why she left me? I don't know
+It really doesn't matter anymore
+I thought our love could last forever
+But here I stand lost and all alone
+
+Start a new day, but not alone
+I'm gonna break away this broken heart
+I'll meet a woman. I'm gonna take her home
+Where I'll pick up all the pieces and start all over again
+I know that life will be much better
+I know the sun will shine again.
+
+Chorus:
+There is life even after a brokeheart
+You can fight
+The pain from a broken heart, broken heart
+
+(Guitar solo)
+
+I know that life will be much better
+I know the sun will shine again.
+
+Chorus x2
+There is life even after a brokeheart
+You can fight
+The pain from a broken heart, broken heart

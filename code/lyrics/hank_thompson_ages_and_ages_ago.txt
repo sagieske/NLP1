@@ -1,0 +1,16 @@
+Artist: hank_thompson
+Title: ages_and_ages_ago
+Genre: Country
+Subgenres: [u'Bakersfield Sound', u'Honky Tonk', u'Traditional Country', u'Western Swing', u'Country Boogie']
+
+Song:
+
+Ages and ages ago
+(Gene Autry - Fred Rose - Ray Whitley)
+" © '57 Western Music "
+I remember when I made you cry ages and ages ago
+I'll never blame you for our last goodbye ages and ages ago
+Someone came along and took my place how wrong I was to let you go
+And though it happened only yesterday it seems like ages and ages ago
+(Something told me when you walked away that time would make me miss you so)
+And though it happened only yesterday it seems like ages and ages ago

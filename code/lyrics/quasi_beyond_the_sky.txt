@@ -1,0 +1,16 @@
+Artist: quasi
+Title: beyond_the_sky
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Indie Pop', u'Indie Rock']
+
+Song:
+
+There ain't no hand, there ain't no eye
+Just sweet nothing beyond the sky
+Nothing to lose, nothing to fear
+You climb the moutain, it disappears
+
+There ain't no here, there ain't no there
+Just sweet nowhere everywehre
+It's like taking off your clothes
+They fly away like hungry crows

@@ -1,0 +1,55 @@
+Artist: florence_the_machine
+Title: breaking_down_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Adult Alternative Pop/Rock', u'Alternative/Indie Rock', u'Pop']
+
+Song:
+
+All alone,
+It was always there you see.
+And even on my own,
+It was always standing next to me.
+
+I can see it coming from the edge of the room.
+Creeping in the streetlight.
+Holding my hand in the pale gloom.
+Can you see it coming now?
+
+Aaaaaahhh...
+I think I'm breaking down again...
+Aaaaaahhh...
+I think I'm breaking down...
+
+All alone,
+Even when I was a child,
+I've always known,
+There was something to be frightened of.
+
+And I can see it coming from the edge of the room.
+Creeping in the streetlight.
+Holding my hand in the pale gloom.
+Can you see it coming now?
+
+Aaaaaahhh...
+I think I'm breaking down again...
+Aaaaaahhh...
+I think I'm breaking down...
+
+All alone,
+On the edge of sleep,
+My old familiar friend
+Comes and lies down next to me.
+
+And I can see it coming from the edge of the room.
+Smiling in the streetlight.
+Even with my eyes shut tight,
+I still see it coming now.
+
+Aaaaaahhh...
+I think I'm breaking down again...
+Aaaaaahhh...
+I think I'm breaking down again...
+Aaaaaahhh...
+I think I'm breaking down again...
+Aaaaaahhh...
+I think I'm breaking down...

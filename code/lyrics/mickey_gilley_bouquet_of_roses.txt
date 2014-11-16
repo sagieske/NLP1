@@ -1,0 +1,32 @@
+Artist: mickey_gilley
+Title: bouquet_of_roses
+Genre: Country
+Subgenres: [u'Country-Pop', u'Honky Tonk', u'Traditional Country', u'Urban Cowboy']
+
+Song:
+
+I'm sending you a big bouquet of roses
+One for every time you broke my heart
+And as a goal of love beats the roses
+Yours will fall like petals when we part.
+
+I begged you to be different
+But you always will be untrue
+I'm tired of forgiving
+Now there's nothing left to do.
+
+Now I'm sending you a big bouquet of roses
+One for every time you broke my heart.
+
+--- Instrumental ---
+
+I know that I should hate you
+After all that you put me through
+But how can I be better
+When I'm so in love with you.
+
+Well, I'm sending you a big bouquet of roses
+One for every time you've broke my heart.
+
+I'm sending you a big bouquet of roses
+One for every time you broke my heart...

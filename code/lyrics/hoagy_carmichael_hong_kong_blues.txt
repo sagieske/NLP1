@@ -1,0 +1,36 @@
+Artist: hoagy_carmichael
+Title: hong_kong_blues
+Genre: Jazz
+Subgenres: [u'American Popular Song', u'Early Jazz', u'Standards', u'Tin Pan Alley Pop', u'Traditional Pop', u'Cast Recordings', u'Show Tunes']
+
+Song:
+
+It's the story of a very unfortunate colored man
+Who got arrested down in old Hong Kong
+He got twenty years privilege taken away from him
+When he kicked old Buddha's gong
+
+And now he's poppin' the piano just to raise the price
+Of a ticket to the land of the free
+Well, he says his home's in Frisco where they send the rice
+But it's really in Tennessee
+
+That's why he said, "I need someone to love me
+I need somebody to carry me home to San Francisco
+And bury my body there
+I need someone to lend me a fifty dollar bill and then
+I'll leave Hong Kong behind me for happiness once again"
+
+Won't somebody believe
+I've a yen to see that Bay again
+Every time I try to leave
+Sweet opium won't let me fly away
+
+I need someone to love me
+I need somebody to carry me home to San Francisco
+And bury my body there
+
+That's the story of a very unfortunate colored man
+Who got arrested down in old Hong Kong
+He got twenty years privilege taken away from him
+When he kicked old Buddha's gong

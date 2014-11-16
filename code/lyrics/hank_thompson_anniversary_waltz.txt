@@ -1,0 +1,32 @@
+Artist: hank_thompson
+Title: anniversary_waltz
+Genre: Country
+Subgenres: [u'Bakersfield Sound', u'Honky Tonk', u'Traditional Country', u'Western Swing', u'Country Boogie']
+
+Song:
+
+We just discovered each other
+Tonight when the lights were low
+One dance led up to another
+And now I can't let you go
+
+So tell me I may always dance
+The Anniversary Waltz with you
+Tell me this is real romance
+An anniversary dream come true
+
+Let this be the answer
+To our future years
+Through millions of smiles
+And a few little tears
+
+May I always listen to
+The Anniversary Waltz
+With you Let this be the answer
+
+To our future years
+Through millions of smiles
+And a few little tears
+May I always listen to
+The Anniversary Waltz
+With you

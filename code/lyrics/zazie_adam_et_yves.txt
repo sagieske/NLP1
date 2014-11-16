@@ -1,0 +1,64 @@
+Artist: zazie
+Title: adam_et_yves
+Genre: Pop/Rock
+Subgenres: [u'French Pop', u'French Rock', u'Nouvelle Chanson', u'Pop', u'Club/Dance', u'Dance-Pop', u'Euro-Dance', u'Euro-Pop']
+
+Song:
+
+Ils ont commis le pch originel
+Ils n'auront pas d'hritiers
+Mais quel amour est idal?
+Qui est normal?
+
+Ils vont de ftes en dfaites
+Glamour toujours
+Pourtant la guerre, ils l'ont faite
+Pour oser s'aimer au grand jour
+S'aimer d'amour
+
+Pour Adam et Yves
+Et ceux de l'autre rive
+Cette chanson humaine
+Loin d'Eden
+Ce sont des choses qui arrivent
+Pour Adam et Yves
+Mon amiti particulire
+Pour qu'aprs les drives
+Aprs l'enfer
+Au paradis ils arrivent
+Adam et Yves
+
+Pour ceux qui n'ont pas choisi
+Leur diffrence
+Verlaine, Rimbaud mais aussi
+Ces amis don't je pleure l'absence
+Jean Pierre et Frantz
+
+Et pour Adam et Yves
+Et ceux sur l'autre rive
+Cette chanson humaine
+Loin d'Eden
+Ce sont des choses qui arrivent
+Pour Adam et Yves
+Mon amiti particulire
+Pour qu'aprs les drives
+Aprs l'enfer
+Au paradis ils arrivent
+Adam et Yves
+
+Et pour Adam et Yves
+Et toi sur l'autre rive
+Cette chanson humaine
+Loin d'Eden
+Ce sont des choses qui arrivent
+Pour Adam et Yves
+Mon amiti particulire
+Pour qu'aprs les drives
+Aprs l'enfer
+Au paradis ils arrivent
+Adam et Yves
+
+Adam et Yves
+Ce sont des choses qui arrivent
+
+Adam et Yves

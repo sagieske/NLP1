@@ -1,0 +1,16 @@
+Artist: die_rzte
+Title: a_moll
+Genre: Pop/Rock
+Subgenres: [u'Euro-Rock', u'Punk/New Wave', u'Punk', u'Punk-Pop', u'Alternative/Indie Rock', u'Punk Revival']
+
+Song:
+
+A-moll a-moll g g f f
+A-moll a-moll c c d
+A-moll a-moll g g f f,
+A-moll a-moll c c d,
+A-moll c
+A-moll c
+A-moll,
+A-moll a-moll
+C c d

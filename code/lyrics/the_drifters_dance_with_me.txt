@@ -1,0 +1,35 @@
+Artist: the_drifters
+Title: dance_with_me
+Genre: R&B
+Subgenres: [u'Contemporary R&B', u'Pop']
+
+Song:
+
+Dance with me....
+Dance with me....
+Dance with me....
+Dance with me....
+
+Dance with me
+Oh... Hold me closer, closer and closer
+Much closer
+While the music plays
+Mmm... Darling dance with me
+Oh.. Hold me tighter tighter and tighter
+Much tighter while the rhythm sways
+
+Mmm put your lips to mine
+While the music plays
+We're no longer strangers
+Now we're more them friends
+
+Dance with me, Dance with me
+Closer, closer and closer
+And maybe we'll be lovers
+When the music ends
+
+Dance with me, Dance with me
+Closer, closer and closer
+And maybe we'll be lovers
+When the music ends
+Darling won't you please x3

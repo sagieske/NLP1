@@ -1,0 +1,14 @@
+Artist: libera
+Title: agnus_dei
+Genre: New Age
+Subgenres: [u'Classical Crossover', u'Neo-Classical', u'Spiritual', u'Choral']
+
+Song:
+
+Agnus Dei
+Agnus Dei
+Dona nobis pacem
+Agnus Dei,
+Agnus Dei
+Dona eis Requiem
+In pacem aeterna pacem, in pacem.

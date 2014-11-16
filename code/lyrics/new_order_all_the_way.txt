@@ -1,0 +1,51 @@
+Artist: new_order
+Title: all_the_way
+Genre: Pop/Rock
+Subgenres: [u'Alternative Dance', u'Alternative Pop/Rock', u'College Rock', u'Dance-Rock', u'Post-Punk', u'Synth Pop']
+
+Song:
+
+It doesn't take a genius
+To tell me what I am
+Or lecture me with poetry
+And tell me that I can
+I don't remember
+What happened yesterday
+But I don't give a damn about
+What all those people say
+
+It takes years to find the nerve
+To be apart from what you've done
+To find the truth inside yourself
+And not depend on anyone
+It takes years to find the nerve
+To be apart from what you've done
+To find the truth inside yourself
+And not depend on anyone
+
+It don't take no houdini
+To tell me what I am
+Parasites and literasites
+They'd burn me if they can
+But I don't give a damn about
+What those people say
+They pick you up and kick you out
+They hurt you every day
+
+It takes years to find the nerve
+To be apart from what you've done
+To find the truth inside yourself
+And not depend on anyone
+It takes years to find the nerve
+To be apart from what you've done
+To find the truth inside yourself
+And not depend on anyone
+
+It takes years to find the nerve
+To be apart from what you've done
+To find the truth inside yourself
+And not depend on anyone
+It takes years to find the nerve
+To be apart from what you've done
+To find the truth inside yourself
+And not depend on anyone

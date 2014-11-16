@@ -1,0 +1,64 @@
+Artist: whitesnake
+Title: all_or_nothing
+Genre: Pop/Rock
+Subgenres: [u'Hard Rock', u'Heavy Metal', u'Pop-Metal', u'Hair Metal', u'Arena Rock']
+
+Song:
+
+(coverdale/galley)
+
+Tonight's the night
+To come in out of the cold,
+I've waited such a long, long time
+I'm getting out of control
+All or nothing
+That's what I want from you,
+I'm gonna give you everything I got
+Now what are you gonna do
+
+Don't try running away,
+You know you get nothing that way
+Cause it's too late,
+I'm gonna prove it to you
+Too late,
+I'll do what you want me to do
+Too late,
+You can't run anymore
+Cos' it's too late for you now
+
+My heart is burning
+An' the fire is hot,
+My temperature is rising, rising, rising
+I'm ready to rock
+All or nothing
+I'm gonna make you see,
+I've made up my mind, for sure, this time
+You're gonna spend the night with me
+
+So don't try running away,
+You know you get nothing that way
+Cause it's too late,
+I'm gonna prove it to you
+Too late,
+I'll do what you want me to do
+Too late,
+You can't run anymore
+Cause it's too late for you now
+
+So don't try running away,
+You know you get nothing that way
+Cause it's too late,
+I'm gonna prove it to you
+Too late,
+I'll do what you want me to do
+Too late,
+You can't run anymore
+Cause it's too late for you now
+
+Too late,
+I'm gonna prove it to you
+Too late,
+I'll do what you want me to do
+Too late,
+You can't run anymore
+Cause it's too late for you now...

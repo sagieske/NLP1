@@ -1,0 +1,32 @@
+Artist: little_richard
+Title: annie_is_back
+Genre: Pop/Rock
+Subgenres: [u'Early R&B', u'Rock & Roll', u'New Orleans R&B', u'Black Gospel', u'Gospel']
+
+Song:
+
+Well it's Friday evening about a half past five,
+Wait a minute here I can't believe my eyes,
+I looked up yonder by the railroad track,
+There goes Annie in a brand new Cadillac,
+
+Annie is back, back, back,
+In a brand new Cadillac,
+Annie is back, back, back,
+In a brand new Cadillac,
+Now she's lookin' good,
+Now she'll know how to act.
+
+She says Flat Foot Henry was my sturdy dad,
+But he put me down when things went bad,
+But now I'm back and I must be keen,
+I'm dressed up now and no dirty dirty jean,
+Annie is back, back, back, ...
+
+Well she went to get a soda turned everybodys eyes,
+Says Flat Foot Fannie, she's been tellin' lies,
+She says I'm back and I'll make them true,
+If you don't watch out, I'm gonna take Henry, too,
+Annie is back, back, back, ...
+Now I'm lookin' good,
+Now she'll know how to act.

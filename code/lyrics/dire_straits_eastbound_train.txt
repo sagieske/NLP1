@@ -1,0 +1,38 @@
+Artist: dire_straits
+Title: eastbound_train
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Contemporary Pop/Rock', u'Rock & Roll']
+
+Song:
+
+It was New Cross Station, I was going on home
+Saw you get your ticket, standing on your own
+Here come the train about 02: 44
+I couldn't get a smoker, you took another car
+
+Yeah, the end of the line, we both had to change,
+And you're standing right behind me,
+I'm a feeling kinda strange
+We got to Mile End Road, my heart skipped a beat,
+Standing right behind me, I'm a shakin' in my seat
+3-4 minutes and the train comes through,
+I'm ridin' on the Central, I'm a-lookin' at you.
+
+Woman on the eastbound train,
+Sometimes I wanna see you again.
+
+Now I couldn't read a paper, you couldn't read a book,
+Kept on taking me another look,
+You got off the train, you never looked behind
+I tried, but I can't get you out of my mind.
+
+Woman on the eastbound train,
+Sometimes I wanna see you again.
+
+Well I got one more thing I wanna say before I go
+If you get the message on the radio
+You can write a letter, get in touch with me,
+Leave your number with the company, yeah.
+
+Woman on the eastbound train,
+Sometimes I wanna see you again.

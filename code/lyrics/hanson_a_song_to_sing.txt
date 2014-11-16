@@ -1,0 +1,78 @@
+Artist: hanson
+Title: a_song_to_sing
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Contemporary Pop/Rock', u'Pop', u'Teen Pop']
+
+Song:
+
+Goodbye four leaf clovers.
+Hello gone awry
+Don't cry the fight ain't over
+Unless you let it pass you by
+
+(chorus)
+I'm looking for a song to sing,
+Looking for a friend to borrow.
+I'm looking for my radio.
+So I might find a heart to follow.
+
+I've never been this
+Longing for your lovin'
+I've never been so
+Wearin' down to nothin'
+I've never been just
+Looking for a reason.
+So maybe you've been thinkin'
+Of me.
+Oh...
+You've been thinking of me.
+
+All that I have found in reason,
+Is reason just to not believe.
+And all that you are left is treason.
+Is treason just to let I be.
+
+(chorus)
+
+I'm looking for a song to sing,
+Looking for a friend to borrow.
+I'm looking for my radio.
+So I might find a heart to follow.
+
+I've never been this
+Longing for your lovin'
+I've never been so
+Wearin' down to nothin'
+I've never been just
+Looking for a reason.
+So maybe you've been thinkin'
+Blue yonder dreams
+And second hand shoes
+You're so far gone,
+That you're left to lose.
+It's too late to go home
+All alone.
+Your the tar in that
+Old cigar
+And the worn out cable
+On a cable car - and,
+You're too tired to admit
+You've gotta choose.
+
+(chorus)
+
+I'm looking for a song to sing,
+Looking for a friend to borrow.
+I'm looking for my radio.
+So I might find a heart to follow.
+
+I've never been this
+Longing for your lovin'
+I've never been so
+Wearin' down to nothin'
+I've never been just
+Looking for a reason.
+So maybe you've been thinkin'
+Of me.
+Oh...
+You've been thinking of me.

@@ -1,0 +1,31 @@
+Artist: gigliola_cinquetti
+Title: accarezzame
+Genre: Pop/Rock
+Subgenres: [u'Italian Pop', u'Latin Pop', u'Italian Music', u'Western European Traditions']
+
+Song:
+
+Accarezzame!
+Sento 'a fronte che m'abbrucia,
+Ma pecch? Non me da pace,
+'stu desiderio 'e te?...
+Accarezzame!
+Cu 'sti mmane vellutate,
+Fai scurd? Tutt'? Peccate
+Strigneme 'mbraccio a te!
+Sott'a 'stu cielo tramputato 'e stelle
+Me faie ssent? 'sti d? Ta 'int 'e capille...
+Voglio sunn? 'vasanno 'st 'uocchie belle,
+Voglio sunn? Cu te!...
+Accarezzame!
+Sento 'a fronte che m'abbrucia,
+Ma pecch? Non me da pace,
+'stu desiderio 'e te?...
+Sott'a 'stu cielo tramputato 'e stelle
+Me faie ssent? 'sti d? Ta 'int 'e capille...
+Voglio sunn? 'vasanno 'st 'uocchie belle,
+Voglio sunn? Cu te!...
+Accarezzame!
+Sento 'a fronte che m'abbrucia,
+Ma pecch? Non me da pace,
+'stu desiderio 'e te!...

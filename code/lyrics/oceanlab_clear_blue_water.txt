@@ -1,0 +1,29 @@
+Artist: oceanlab
+Title: clear_blue_water
+Genre: Electronic
+Subgenres: [u'Club/Dance', u'Progressive Trance', u'Trance']
+
+Song:
+
+La la la
+
+Leave behind your fears
+Please believe
+You will not falter
+There's no danger here
+You can breathe
+In clear blue water
+
+Clear blue water
+La la la
+...
+
+Leave behind your fear
+Please believe
+You will not falter
+There's no danger here
+You can breathe
+In clear blue water
+
+Clear blue water
+La la la

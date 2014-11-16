@@ -1,0 +1,40 @@
+Artist: helloween
+Title: a_little_time
+Genre: Pop/Rock
+Subgenres: [u'Heavy Metal', u'Power Metal', u'Progressive Metal', u'Speed/Thrash Metal']
+
+Song:
+
+(M&L - Kiske)
+
+Higher
+It's what I expect from my life
+It's like a wire
+That holds me back down to the ground
+
+Oh I hear you say
+"that's the way of the world"
+No, hear what I say
+"I wanna do so much in my way"
+
+Higher
+I've set my limits and bounds
+There's a fire
+It's burning so hot in my head
+
+Oh I hear you say
+"That is the way of the world"
+No, hear what I say
+"I wanna do so much in my way"
+
+We got
+A little time to build up your lives
+A little time to make up our minds
+A little time to fill up our dreams
+A little time, time
+
+We got
+A little time to build up your lives
+A little time to make up our minds
+A little time to fill up our dreams
+A little time, time

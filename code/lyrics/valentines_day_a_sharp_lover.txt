@@ -1,0 +1,12 @@
+Artist: valentines_day
+Title: a_sharp_lover
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Post-Grunge', u'Punk Revival', u'Punk-Pop']
+
+Song:
+
+I Dread you much, 
+My little miss, 
+You're such a dainty thing.
+I fear although quite sharp myself, 
+You've got me on the string.

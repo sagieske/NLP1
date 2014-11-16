@@ -1,0 +1,26 @@
+Artist: ray_price
+Title: born_to_lose
+Genre: Country
+Subgenres: [u'Country-Pop', u'Honky Tonk', u'Nashville Sound/Countrypolitan', u'Traditional Country', u'Country Gospel', u'Gospel']
+
+Song:
+
+Born to lose, I've lived my life in vain
+Every dream has only brought me pain
+All my life, I've always been so blue
+Born to lose, and now I'm losing you
+
+Born to lose, it seems so hard to bear
+How I long to always have you near
+You've grown tired, and now you say we're thru
+Born to lose, and now I'm losing you
+
+Born to lose, my every hope is gone
+It's so hard to face an empty dawn
+You were all the happiness I knew
+Born to lose, and now I'm losing you
+
+There's no use to dream of happiness
+All I see is only loneliness
+All my life, I've always been so blue
+Born to lose, and now I'm losing you

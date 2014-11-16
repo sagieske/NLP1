@@ -1,0 +1,27 @@
+Artist: steve_miller_band
+Title: babys_callin_me_home
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Contemporary Pop/Rock', u'Arena Rock', u'Blues-Rock']
+
+Song:
+
+Baby's callin' me home
+She keeps on callin' me home
+Hate to see her cryin'
+My baby knows I'm dyin'
+But she keeps on callin' me home
+
+Baby knows I've been wrong
+But she keeps on callin' me home
+Hate to see her cryin'
+My baby knows I'm dyin'
+When she keeps on callin' me home
+
+Baby's callin' me home
+She keeps on callin' me home
+Hate to see her cryin'
+My baby knows I'm dyin'
+When she keeps on callin' me home
+My baby's callin' me home
+Mmmmm
+My baby's callin' me home

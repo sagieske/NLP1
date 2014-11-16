@@ -1,0 +1,26 @@
+Artist: electric_wizard
+Title: black_butterfly_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Alternative Metal', u'Doom Metal', u'Heavy Metal', u'Stoner Metal', u'Sludge Metal']
+
+Song:
+
+Terror above, beautiful as the night
+Black butterfly in full flight
+Traveling through the void of space
+To this long forgotten place
+
+Druids gather at the circle of stones
+To worship the ancient ones
+In the glow of the dying red sun
+Their rites of evil have only just begun
+
+Evil monks fall to their knees
+Black colossus, they must not see
+Crystal shards drop from inside
+Filling circles in their minds
+
+Thirteen maidens awaiting sacrifice
+Screaming, naked, they will slowly die
+Blood has mingled with crystal drips ice(?)
+Open caverns of eternal midnight

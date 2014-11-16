@@ -1,0 +1,45 @@
+Artist: hello
+Title: let_it_rock
+Genre: Pop/Rock
+Subgenres: [u'Glam Rock', u'Glitter', u'Contemporary Pop/Rock', u'Japanese Traditions']
+
+Song:
+
+Let it rock. Let it flow
+Let it rock. Let it go.
+
+I'm on the east side now
+You're not so far away
+Now I can see you most every day
+I can feel that tonight's the night
+
+On 42nd street that's the place to meet
+You'll here the music the soul bands play
+You feel the back beat one block away
+I've been waiting for the weekend
+
+We're gonna live it up
+We're gonna love it up
+We're gonna rock
+
+Let it rock. Let it flow. ..
+
+Down at the red light room
+We're gonna be there soon
+We're gonna dance to the full moonlight
+A team of horses won't stop me now
+
+So this is 42nd street
+We're gonna shake it up
+We're gonna break it up
+We're gonna rock
+Let it rock. Let it flow. ..
+
+We're gonna slip
+We're gonna slide
+We're gonna peep gonna hide
+Let it rock. Let it flow. ..
+
+Do the stop do the stroll
+Do the jive do the roll
+Let it rock. Let it flow. ..

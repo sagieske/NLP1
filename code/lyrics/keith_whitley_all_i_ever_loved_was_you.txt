@@ -1,0 +1,21 @@
+Artist: keith_whitley
+Title: all_i_ever_loved_was_you
+Genre: Country
+Subgenres: [u'New Traditionalist', u'Neo-Traditionalist Country', u'Contemporary Country', u'Bluegrass', u'Progressive Bluegrass', u'Progressive Country']
+
+Song:
+
+All I ever loved was you
+You broke a heart that cried for you
+I've wasted all my tears on you
+For all I've ever loved was you.
+
+Go out and find somebody new
+But you'll be sorry if you do
+You'll never find a love so true
+For all I ever loved was you.
+
+Buy her rings and diamonds too
+But you'll be sorry if you do
+You'll never find a love so true
+For all I ever loved was you...

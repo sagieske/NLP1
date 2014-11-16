@@ -1,0 +1,36 @@
+Artist: yngwie_malmsteen
+Title: alone_in_paradise
+Genre: Pop/Rock
+Subgenres: [u'Guitar Virtuoso', u'Hard Rock', u'Heavy Metal', u'Neo-Classical Metal']
+
+Song:
+
+All of my life
+Needed a reason
+To find out who I am
+
+
+I've had my share
+Acts of treason
+Slipping right through my hands
+What am I waiting for...
+
+
+Sometimes I feel
+Like I live in a dream
+Alone in my Paradise Lost
+
+Can it be real?
+Tell me what does it mean
+Alone in my Paradise Lost
+
+
+So many years
+Is there an answer?
+In this castle made of sand
+
+
+As time passes by
+I'm running out of chances
+Who will understand
+What I am waiting for..

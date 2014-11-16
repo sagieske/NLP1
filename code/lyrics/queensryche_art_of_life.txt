@@ -1,0 +1,32 @@
+Artist: queensryche
+Title: art_of_life
+Genre: Pop/Rock
+Subgenres: [u'Heavy Metal', u'Progressive Metal', u'Prog-Rock', u'Hard Rock', u'Album Rock', u'Arena Rock']
+
+Song:
+
+When I asked him,
+He described a thousand lifetimes.
+At each turn, a hint of what one still must learn.
+Now I've read the thoughts of philosophers,
+The words of liars, who say that underneath I'm worthless.
+Incomplete?
+Some one said we live our lives in between the extremes.
+Is the art of life discipline?
+Is that the sweet mystery?
+The art of life is...
+Without rushing, without faltering we push it as far as we can.
+Observe with patience.
+Free your mind.
+Efficiency, control.
+To develop the form starts with acceptance,
+Then submission to the goal.
+Some one said somewhere we live our lives in between the extremes.
+Is the art of life discipline?
+Is that the sweetest mystery?
+The art of life is...
+Without rushing, without faltering, unraveling the secrets of knowledge.
+We must challenge and defeat our four natural enemies;
+Fear.
+Clarity of mind.
+Power and the desire to rest.

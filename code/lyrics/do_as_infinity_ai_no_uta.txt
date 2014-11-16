@@ -1,0 +1,41 @@
+Artist: do_as_infinity
+Title: ai_no_uta
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Pop/Rock', u'J-Pop']
+
+Song:
+
+"Atarashii asa wo mukaetara
+ookiku te wo hiroge shinkokyuu
+Kinou no kanashii namida wo
+taiyou wa wasuresasete kureru
+Kondo aeru hi made
+kitto iroiro aru ne
+Demo nesore wasore de hitsuyou na koto desu
+Ippai naitari mo shite
+Yatto egao no imi ga
+Wakaru you ni nareba
+kowai mono nashi da
+Soukoko kara arata na SUTAATO da!!
+Sannenmae to imakuraberu yori
+Juunen saki no kotoIMEEJI shitai
+Nantonaku sae nai mainichi mo
+Ashita nitsunagatte iru kara
+Kondo aeru hi made
+yakusoku wa nai kedo
+Demo nesore wasore deshou ga nai koto na n desu
+Ippai butsukariatte
+han'ninmae no boku ga
+Kimi ni yuiitsu dekiru koto wa tada hitotsu
+Kono ai no uta todokeru koto dake
+Itsumo donna toki mokimi no egao o misete
+Datte sore ga boku no takaramono na n desu
+Kondo aeru hi made
+yakusoku wa nai kedo
+Demo nesore wasore detaisetsu na koto desu
+Ippai naitari mo shite
+Yatto egao no imi ga
+Wakaru you ni nareba
+kowai mono nashi da
+Saakoko kara arata na SUTAATO da!!
+"

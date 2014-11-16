@@ -1,0 +1,23 @@
+Artist: spongebob_squarepants
+Title: bob_esponja
+Genre: Children's
+Subgenres: [u"Children's Pop", u"Children's Rock", u'Sing-Alongs', u'Stories']
+
+Song:
+
+- їEstбn listos, Chicos?
+- Sн, Capitбn estamos listos
+- No los escucho
+- Sн, Capitбn estamos listos
+- uuuuuuuuuuuuhhhhhhhhhhhhhhhhhhhh!
+
+Quiйn vive en una piсa debajo del mar?
+Bob Esponja!
+Su cuerpo absorbe y sin estallar
+Bob Esponja!
+El mejor amigo que podrias desear
+Bob Esponja!
+Y como a un pez le es fбcil flotar
+Bob Esponja (Ahora!)
+Bob Esponja, Bob Esponja, Bob Esponja
+El es Bob Esponja!

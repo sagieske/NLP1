@@ -1,0 +1,29 @@
+Artist: 10_things_i_hate_about_you
+Title: fnt
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Electro', u'Hard Rock', u'Punk-Pop']
+
+Song:
+
+Fascinating new thing
+You delight me
+And I know you're speaking of me
+Fascinating new thing
+Get beside me
+I want you to love me
+I'm surprised that you've never been told before
+That you're lovely and you're perfect
+And that somebody wants you
+
+Fascinating new thing
+The scene makin'
+Want a temporary saviour
+Fascinating new thing
+Don't betray them
+By becoming familiar
+I'm surprised that you've never been told before
+That you're lovely and you're perfect
+And that somebody wants you
+I'm surprised that you've never been told before
+That you're priceless and you're precious
+Even when you are not new

@@ -1,0 +1,12 @@
+Artist: pink_floyd
+Title: a_new_machine_part_2
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Art Rock', u'British Psychedelia', u'Prog-Rock', u'Psychedelic/Garage', u'Mixed Media', u'Hard Rock']
+
+Song:
+
+I will always be here
+I will always look out from behind these eyes
+It's only a lifetime
+It's only a lifetime
+It's only a lifetime

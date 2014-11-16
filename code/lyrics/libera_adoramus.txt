@@ -1,0 +1,51 @@
+Artist: libera
+Title: adoramus
+Genre: New Age
+Subgenres: [u'Classical Crossover', u'Neo-Classical', u'Spiritual', u'Choral']
+
+Song:
+
+Adoramus te Rex Gloria
+Cum gaudia infinita
+Adoramus te infinita
+Rex Gloria
+
+Jubilate Deo omina
+In saecula infinita
+Jubilate Deo omina
+Rex Gloria
+
+Can you lift me away
+From the dark of this day
+Give me courage
+And help me be free evermore
+
+Adoramus te Rex Gloria
+Cum gaudia infinita
+Adoramus te infinita
+Rex Gloria
+
+Jubilate Deo omina
+In saecula infinita
+Jubilate Deo omina
+Rex Gloria
+
+Sancto Spiritu Gloria
+Jubilate omnia
+Sancto adoramus
+Rex Gloria
+
+Can you guide me once more
+Give me strength to be sure
+Send me wisdom
+And help me be free evermore
+
+Adoramus te Rex Gloria
+Cum gaudia infinita
+Adoramus te infinita
+Rex Gloria
+
+Jubilate Deo omina
+In saecula infinita
+Jubilate Deo omina
+Rex Gloria

@@ -1,0 +1,48 @@
+Artist: eric_bogle
+Title: front_row_cowboy_lyrics
+Genre: Country
+Subgenres: [u'Contemporary Country', u'Country-Rock']
+
+Song:
+
+Front row cowboy
+(Eric Bogle)
+1. On Saturday mornings I'd ride to the movies,
+Booted and spurred on my horse made of tin
+Tie-up my cyi-use outside on the pavement
+Lay down my sixpence and mosey on in.
+I'd sit in the front row with the other young cowboys
+Waitin' for Roy to appear on the screen
+Waitin' for Roy and his golden horse Trigger,
+To carry me off into my favorite dream.
+Chorus:
+Roy Rogers, Roy Rogers, Oh you were my hero,
+A man made of steel on a horse made of gold
+Together we rode through the days of my childhood
+Memories like heroes, they never grow old.
+2. Together we rode over mountains and valleys
+Camped out a night 'neath the wide prairie sky,
+We'd sing cowboy songs as we sat by the campfire
+While out in the darkness a wild coyote cried
+Yi-pi-tie-yi-yo baked beans and coffee,
+Tall tales and true as we sat by the fire
+Then up in the morning and away we'd go riding.
+Two g** caballeros, two heroes for hire.
+3. And now I'm a man, and I've hung up my six-gun
+No more do I ride on a horse made of tin.
+Now I ride subways, and freeways and railways,
+Instead of a six-gun I now wield a pen.
+But part of my heart will always be ridin'
+Along the bright canyons and the wild forest ways
+Along with Roy Rogers my faithful companion,
+Into the sunset of my childhood days.
+(end, after chorus)
+He was my friend, yes, he was my friend.
+He never let me down.
+He was honest and faithful right up to the end
+I loved Roy Rogers 'cause he was my friend.
+Copyright Larrikin Music, Ltd.
+@kids @west
+filename[ frontrow
+dc
+===Document boundary

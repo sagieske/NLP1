@@ -1,0 +1,36 @@
+Artist: george_harrison
+Title: all_things_must_pass
+Genre: Pop/Rock
+Subgenres: [u'British Invasion', u'Contemporary Pop/Rock', u'Singer/Songwriter', u'Album Rock', u'British Psychedelia', u'Psychedelic/Garage', u'AM Pop', u'Experimental']
+
+Song:
+
+Sunrise doesnt't't last all morning
+A cloudburst doesnt't't last all day
+Seems my love is up and has left you with no warning
+Its not always going to be this grey
+
+All things must pass
+All things must pass away
+
+Sunset doesnt't't last all evening
+A mind can blow those clouds away
+After all this, my love is up and must be leaving
+Its not always going to be this grey
+
+All things must pass
+All things must pass away
+All things must pass
+None of lifes strings can last
+So, I must be on my way
+And face another day
+
+Now the darkness only stays the night-time
+In the morning it will fade away
+Daylight is good at arriving at the right time
+Its not always going to be this grey
+
+All things must pass
+All things must pass away
+All things must pass
+All things must pass away

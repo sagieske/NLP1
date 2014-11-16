@@ -1,0 +1,15 @@
+Artist: talk_talk
+Title: a_life_1895_1915
+Genre: Religious
+Subgenres: [u'Alternative CCM', u'Contemporary Christian', u'CCM', u'Gospel', u'Adult Alternative Pop/Rock', u'Alternative/Indie Rock', u'Christian Rap']
+
+Song:
+
+Uniform
+Dream cites freedom
+Avow
+Relent
+Such suffering
+Few certain
+
+And here I lay

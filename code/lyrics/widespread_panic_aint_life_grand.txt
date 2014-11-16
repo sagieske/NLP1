@@ -1,0 +1,37 @@
+Artist: widespread_panic
+Title: aint_life_grand
+Genre: Pop/Rock
+Subgenres: [u'American Trad Rock', u'Jam Bands', u'Southern Rock', u'Rock & Roll']
+
+Song:
+
+Watching people roll by
+Wonder where they're going
+Hey, what's your job?
+What're you knowing?
+
+Driving to the grocery store
+Pull my money out
+Passing by the liquor store
+Throw my money down
+
+Ain't life grand
+Ain't life grand
+
+My wife's got the blues
+Now I've got them
+Gonna bring her a kiss
+Make those blues run
+
+Ain't life grand
+Ain't life grand
+
+The sun came out the other day
+Through those dusty clouds
+And in my mind I was a child
+And it felt good!
+
+Ain't life grand
+Ain't life grand
+Ain't life grand
+Ain't life grand

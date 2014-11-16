@@ -1,0 +1,40 @@
+Artist: orleans
+Title: dance_with_me
+Genre: Pop/Rock
+Subgenres: [u'Klezmer', u'Jewish Music']
+
+Song:
+
+Dance with me, I want to be your partner
+Can't you see the music is just starting?
+Night is Falling, and I am Calling
+Dance with me
+
+Fantasy could never be so killing
+I feel free, I hope that you are willing
+Pick the beat up, and kick your feet up
+Dance with me
+
+Let it lift you off the ground
+Starry eyes, and love is all around
+I can take you where you want to go
+
+Dance with me, I want to be your partner
+Can't you see the music is just starting?
+Night is Falling, and I am Calling
+Dance with me
+
+Let it lift you off the ground
+Starry eyes, and love is all around
+I can take you where you want to go
+
+Dance with me, I want to be your partner
+Can't you see the music is just starting?
+Night is Falling, and I am Calling
+Dance with me
+
+Dance with me
+
+Dance with me
+
+Dance with me

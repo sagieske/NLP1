@@ -1,0 +1,23 @@
+Artist: firehouse
+Title: call_of_the_night_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Hair Metal', u'Hard Rock', u'Heavy Metal', u'Pop-Metal']
+
+Song:
+
+Call of the Night
+
+When the sun goes down that's when I start my day
+On the loose the night time's calling me
+Out of control I don't know where to begin
+It's on my back it's under my skin
+Can't break away it's got a hold on me
+Must be the call of the night
+The call of the night
+When the darkness falls I get back on my feet
+Hear it calling children off the street
+Out of control I don't know where to begin
+It' on my back it's under my skin
+Can't break away it's got a hold on me
+Must be the call of the night
+The call of the night

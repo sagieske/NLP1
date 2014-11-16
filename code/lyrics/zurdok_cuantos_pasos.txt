@@ -1,0 +1,31 @@
+Artist: zurdok
+Title: cuantos_pasos
+Genre: Latin
+Subgenres: [u'Alternative Latin']
+
+Song:
+
+Es difícil recordar
+Es difícil olvidar
+Es difícil para mi
+Es difícil todo
+Y me pregunte
+¿Cuantos pasos podremos dar?
+Todo es lo mismo
+Es un principio y final
+Y nada mas
+Todo es lo mismo
+Esta canción es igual
+Que las demas, que las demas
+Es difícil empezar
+Es difícil terminar
+Es difícil para mi
+Es difícil todo
+Y me pregunte
+¿Cuantos pasos podremos dar?
+Todo es lo mismo
+Es un principio y final
+Y nada mas
+Todo es lo mismo
+Esta canción es igual
+Que las demas, que las demas

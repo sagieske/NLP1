@@ -1,0 +1,35 @@
+Artist: randy_newman
+Title: back_in_time
+Genre: Pop/Rock
+Subgenres: [u'Film Music', u'Original Score', u'Singer/Songwriter', u'Soundtracks', u'Brill Building Pop', u'Contemporary Pop/Rock', u'AM Pop', u'Film Score', u'Album Rock']
+
+Song:
+
+Tell me doctor, where are we goin this time?
+Is this the fifties, or 1999?
+All I wanted to do.....
+Was play my guitar and sing......
+So take me away!
+I don't mind!
+But you better promise me
+I'll be back in time!
+Gotta get back in time!
+Don't bet your future,
+On one roll of the dice,
+You better remember,
+Lightning never strikes twice!
+Please don't drive in it!
+Don't wanna be late again,
+So take me away,
+I don't mind,
+But you better promise me,
+I'll be back in time!
+Gotta get back in time!
+Gotta get back in ti-ime!
+Get me back in time!
+Gotta get back in time!
+Gotta get back in ti-ime!
+Get back get back!
+Gotta get back in time!
+Gotta get back in ti-ime!
+Get back get back!

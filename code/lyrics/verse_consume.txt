@@ -1,0 +1,28 @@
+Artist: verse
+Title: consume
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Indie Rock', u'Post-Rock']
+
+Song:
+
+I wish I could erase it all
+The history
+The memories
+Every downfall
+Now is the time to draw that line
+F**k the cutthroat man
+F**k the corporate media
+And f**k anyone who tries to warp our minds
+Fiction as fact
+It's just more weight on our backs
+Force us to sit down but we will not sit back
+Again it all comes down to money...
+F**k the business man
+Poisoning my mind with ad campaigns
+Warping young minds to judge success
+On money and fame
+We can't let ourselves fall into this
+We can't sit by
+And be so complacent
+Again it all comes down to money...
+F**k the business man

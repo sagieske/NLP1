@@ -1,0 +1,30 @@
+Artist: paula_cole
+Title: autumn_leaves
+Genre: Country
+Subgenres: [u'Contemporary Country']
+
+Song:
+
+The autumn leaves drift by my window
+The autumn leaves all red and gold
+I see your lips
+The summer kisses
+The sunburned hand I used to hold
+But since you went away
+The days grow long
+And soon now hear a winter song
+But now I miss you most of all
+My darling
+And autumn leaves are starting to fall
+The autumn leaves drift by my window
+The autumn leaves all red and gold
+I'll see your lips
+The summer kisses
+The sunburned hands I used to hold
+But since you went away
+The days grow long and soon now hear
+A winter song
+I miss you most of all
+My darling
+When autumn leaves start to fall
+When autumn...

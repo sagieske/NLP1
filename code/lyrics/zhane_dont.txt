@@ -1,0 +1,32 @@
+Artist: zhane
+Title: dont
+Genre: R&B
+Subgenres: [u'Contemporary R&B', u'Club/Dance', u'Adult Contemporary R&B']
+
+Song:
+
+Don't walk too close
+Don't breathe so soft
+Don't talk so sweet
+Don't sing
+Don't lay oh so near
+
+Please, don't let me fall in love with you again
+
+Please let me forget
+All those sweet smiles
+All of the passion
+All of the peace, the heat, the pain
+All those blue skies
+Where your words were my freedom
+
+Please, don't let me fall in love with you again
+
+Too many times
+I've cared too much
+I stood on the edge
+And saw that you held my hand
+And knowing too well
+I couldn't hide from those eyes
+
+Please, don't let me fall in love with you again

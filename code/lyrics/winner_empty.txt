@@ -1,0 +1,100 @@
+Artist: winner
+Title: empty
+Genre: Pop/Rock
+Subgenres: [u'Central European Traditions', u'German']
+
+Song:
+
+[Mino] Geoul soge nae moseubeun
+Teong bin geotcheoreom gongheohae
+Honja gireul georeobwado
+Teong bin geori neomu gongheohae
+Da ra dat dat dat dat dat dat, Baby don’t worry
+Neoran kkumeseo kkaen hyeonsirui
+
+[Mino] Achimeun gongheohaeachimeul
+Maji hamyeonseo dasi jagakhae
+Nal kkaewojuneun geon nega anin allambel
+Bireomeogeul chimdaeneun wae iri neopjeokhae
+Heoheobeolpan gateun mame sirin baramman bune
+
+[Mino/Jinwoo] Naneun bin kkeobdegi neo eobsin
+Geobjaengi juwi saramdeurui
+Dongjeongui nunbichi
+[Mino] Nal jukge mandeureo No! What a day
+Haru sijak hagi jeone musimko bon
+
+[Seungyoon] Geoul soge nae moseubeun
+Teong bin geotcheoreom gongheohae
+([Mino] Misoga eobseo pyojeongen)
+[Seungyoon] Honja gireul georeobwado
+Teong bin georin neomu gongheohae
+([Mino] Nae maeumcheoreom joyonghae)
+
+[Seunghoon] Da ra dat dat dat dat dat dat Baby don’t worry
+([Mino] Da dat dat dat da ra)
+[Mino] Neoran kkumeseo kkaen
+Hyeonsirui achimeun gongheohae
+([Mino] Nae maeumi neomu gongheohae)
+
+[Jinwoo] Kkeuchi nanneyo naui geudaeyeo
+Eodi innayo [Seungyoon] Ije urin
+[Taehyun] Chueogi dwaetjyo haengbok haesseoyo
+Nal itji marayo
+Tto dasi mannayo
+
+[Seunghoon] Johatdeon naldeulgwa
+Seulpeotdeon naldeul
+Himdeureotdeon naldeulgwa
+Haengbokhaetdeon naldeul
+Ijen jina gabeorin sigan soge chueogi doeeo
+Gwageoe meomulleo inneun geudaewa naneun Over
+Hyeonsillo doraon geot gata
+Salmui iyuga sarajyeo meoriga bokjaphae
+Achime nuneul tteumyeon
+Gaseumi teong bin geot gachi
+Gongheohameul neukkyeo neoreul mannagi jeongwa ttokgata
+
+[Seungyoon] Geoul soge nae moseubeun
+Teong bin geotcheoreom gongheohae
+([Mino] Misoga eobseo pyojeongen)
+[Seungyoon] Honja gireul georeobwado
+Teong bin georin neomu gongheohae
+([Mino] Nae maeumcheoreom joyonghae)
+
+[Seunghoon] Da ra dat dat dat dat dat dat Baby don’t worry
+([Mino] Da dat dat dat da ra)
+[Mino] Neoran kkumeseo kkaen
+Hyeonsirui achimeun gongheohae
+([Mino] Nae maeumi neomu gongheohae)
+
+[Jinwoo] Kkeuchi nanneyo naui geudaeyeo
+Eodi innayo [Seungyoon] Ije urin
+[Taehyun] Chueogi dwaetjyo haengbok haesseoyo
+Nal itji marayo
+Tto dasi mannayo
+
+[Seungyoon] Ajik areungeoryeoyo
+Nuneul gameumyeon jeomjeom
+Mudyeo jigetjyo sigani jinamyeon
+Huhoehajineun anhayo jom aswiul ppunijyo
+Bogo sipjineun anhayo geudaega geuriul ppunijyo
+
+[Mino] Yejeon gatji anheun nae moseubi jeomjeom duryeowo
+([Taehyun] Misoga eobseo pyojeongen)
+[Mino] Yakhaejyeoman ganeun nae jasineul bogiga museowo
+([Seungyoon] Nae maeumcheoreom joyonghae)
+
+[Seunghoon] Niga eomneun nae juwineun gonggi jocha mugeowo
+([Taehyun] Da ra da ra ra ra ra dat)
+[Seunghoon] Neoran kkumeseo kkaen hyeonsirui achimi
+([Seungyoon] Yeah~)
+
+[Jinwoo] Kkeuchi nanneyo ([Seungyoon] Kkeuchi nanneyo)
+Naui geudaeyeo eodi innayo ([Seungyoon] Eodi innayo)
+Ije urin
+
+[Taehyun] Chueogi dwaetjyo
+Haengbokhaesseoyo ([Seungyoon] Haengbokhaesseoyo)
+Itji marayo ([Seungyoon] Itji marayo)
+Dasi mannayo

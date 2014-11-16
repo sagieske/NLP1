@@ -1,0 +1,78 @@
+Artist: evert_taube
+Title: byssan_lull_lyrics
+Genre: Folk
+Subgenres: [u'Vocal Music', u'Concerto']
+
+Song:
+
+Byssan lull, koka kittelen full,
+Dдare kommer tre vandringsmдn pе vдgen.
+Den ene, ack sе halt,
+Den andre, o sе blind,
+Den tredje sдger alls ingenting.
+
+Byssan lull -- boil the full kettle,
+Three wanderers are coming down the road.
+The first one is limping,
+The second one is blind,
+The third one doesn't say anything.
+
+Byssan lull, koka kittelen full,
+Pе himmelen vandra tre stjдrnor.
+Den ena дare sе vit,
+Den andra дare sе rцd,
+Den tredje дare mеnen den gula.
+
+Byssan lull -- boil the full kettle,
+In the sky three stars are wandering.
+The first one is so white,
+The second one is so red,
+The third one is the yellow moon.
+
+Byssan lull, koka kittelen full,
+Dдare blеser tre vindar pе haven,
+Pе Stora ocean,
+Pе lilla Skagerack
+Och lеngt upp I Bottniska viken.
+
+Byssan lull -- boil the full kettle,
+Three winds are blowing at sea.
+One the great ocean,
+On the little Skagerrak,
+And far up on the gulf of Bothnia.
+
+Byssan lull, koka kittelen full,
+Dдare segla tre skutor pе vеgen.
+Den fцrsta дare en bark,
+Den andra дare en brigg,
+Den tredje har sе trasiga segel.
+
+Byssan lull -- boil the full kettle,
+Three sailing ships are sailing here.
+The first one is a barque,
+The second one is a brig,
+The third one has ragged sails.
+
+Byssan lull, koka kittelen full,
+Sjцkistan har trenne figurer.
+Den fцrsta дare vеare tro,
+Den andra дare vеrt hopp,
+Den tredje дare kдrleken, den rцda.
+
+Byssan lull -- boil the full kettle,
+The treasure chest has three figures.
+The first one is our faith
+The second one is hope,
+The third one is the red love.
+
+Byssan lull, koka kittelen full,
+Tre дro tingena de goda.
+Den fцrsta дare Gud Far,
+Den andra дare hans Son,
+Den tredje mild Jungfru Maria.
+
+Byssan lull -- boil the full kettle,
+There are three good things.
+The first one is God our Father,
+The second is his Son,
+The third one is the mild Virgin Mary.

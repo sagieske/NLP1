@@ -1,0 +1,57 @@
+Artist: its_a_beautiful_day
+Title: white_bird
+Genre: Pop/Rock
+Subgenres: [u'Folk-Rock', u'Psychedelic/Garage', u'Psychedelic Pop']
+
+Song:
+
+White bird,
+in a golden cage,
+on a winter's day,
+in the rain.
+
+White bird,
+in a golden cage,
+alone.
+
+The leaves blow,
+Across the long black road.
+To the darkened skies,
+in its rage
+
+But the white bird just sits in her cage,
+unknown.
+
+White bird must fly
+Or she will die
+
+White bird,
+dreams of the aspen trees,
+with their dying leaves,
+turning gold.
+
+But the white bird just sits in her cage,
+growing old.
+
+White bird must fly or she will die.
+White bird must fly or she will die.
+
+The sunsets come, the sunsets go.
+The clouds roll by,and the earth turns old.
+And the young bird's eyes do always glow.
+
+She must fly,
+She must fly,
+She must fly.
+
+White bird,
+In a golden cage,
+On a winter's day, in the rain.
+
+White bird,
+In a golden cage alone.
+
+White bird must fly or she will die.
+White bird must fly or she will die.
+White bird must fly or she will die.
+White bird must fly

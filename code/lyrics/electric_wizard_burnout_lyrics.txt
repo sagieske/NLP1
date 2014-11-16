@@ -1,0 +1,18 @@
+Artist: electric_wizard
+Title: burnout_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Alternative Metal', u'Doom Metal', u'Heavy Metal', u'Stoner Metal', u'Sludge Metal']
+
+Song:
+
+[sample: "A couple of drug crazy maniacs..."]
+
+I wish I could dream
+Dreams turned black I'll never see
+Can't you see, nothing is real
+Transparent world I cannot feel
+I cannot feel
+
+Imprisoned within my brain
+Dried and burnt out
+Chemical stained

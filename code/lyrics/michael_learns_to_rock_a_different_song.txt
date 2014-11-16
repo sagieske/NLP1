@@ -1,0 +1,58 @@
+Artist: michael_learns_to_rock
+Title: a_different_song
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Post-Grunge']
+
+Song:
+
+Ain't gonna do the gig tonight
+With the band
+
+I'm going out of town tonight
+Oh yes I am
+
+Sorry fans
+Sorry band
+I couldn't keep my promise
+I'll put on my coat and hit the road
+
+Chorus:
+Breaking up
+Breaking out
+I am leaving now you can sing it loud
+
+Have to stop
+Had enough
+Crying tough
+
+Quit the race
+Give me space
+Cos I'm so tired of being a slave
+When I'm going
+I'll sing a different song
+
+There's gonna be no wedding on
+Saturday
+
+I will be on my way then
+So far away
+
+Sorry mom
+Sorry honey
+I couldn't keep me promise
+I'll ripp off my tie and say goodbye
+
+Chorus:
+Breaking up
+Breaking out
+I am leaving now you can sing it loud
+
+Have to stop
+Had enough
+Crying tough
+
+Quit the race
+Give me space
+Cos I'm so tired of being a slave
+When I'm going
+I'll sing a different song

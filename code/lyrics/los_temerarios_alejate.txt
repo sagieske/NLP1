@@ -1,0 +1,42 @@
+Artist: los_temerarios
+Title: alejate
+Genre: Latin
+Subgenres: [u'Latin Pop', u'Mexican Traditions', u'Onda Grupera', u'Tejano']
+
+Song:
+
+Para que,
+Quieres que diga,
+Que eres tu mi gran amor,
+Si sabes bien, tu sabes bien,
+Que no.
+
+Fuiste tu, quien me dejo,
+Fuiste tu, pero no llore,
+Ni te implore,
+Es mas ya te olvide.
+
+Alejate, que no quiero
+Verte mas, con tu actitud,
+Solo lastima das.
+Alejate, no quieras
+Volver a mi, si buscas
+Amor, no hay aqui.
+
+Cruel adios, como
+Me dolio, y vienes
+A decir, que quieres
+Volver, yo no.
+
+Fuiste tu, que me dejo,
+Fuiste tu, pero no llore,
+Ni te implore,
+Es mas, ya te olvide.
+
+Alejate, que no quiero
+Verte mas, con tu actitud,
+Pena me das.
+Alejate, no quieras
+Volver a mi, si buscas
+Amor, no hay aqui.
+Alejate

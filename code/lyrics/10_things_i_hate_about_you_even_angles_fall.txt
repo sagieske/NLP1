@@ -1,0 +1,49 @@
+Artist: 10_things_i_hate_about_you
+Title: even_angles_fall
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Electro', u'Hard Rock', u'Punk-Pop']
+
+Song:
+
+You've found hope
+You've found faith,
+Found how fast she could take it away.
+Found true love,
+Lost your heart.
+Now you don't know who you are.
+
+She made it easy,
+Made it free,
+Made you hurt til you couldn't see.
+Sometimes it stops,
+Sometimes it flows,
+But baby that is how love goes.
+
+You will fly and you will crawl;
+God knows even angels fall.
+No such thing as you lost it all.
+God knows even angels fall.
+
+It's a secret no one tells;
+One day it's heaven, one day it's hell.
+It's no fairy tale;
+Take it from me,
+That's the way it's supposed to be.
+
+You will fly and you will crawl;
+God knows even angels fall.
+No such thing as you lost it all.
+God knows even angels fall.
+
+You laugh, you cry, no one knows why
+Behold the thrill of it all...
+You're on the ride
+You might as well
+Open your eyes
+
+You will fly and you will crawl;
+God knows even angels fall.
+No such thing as you lost it all.
+God knows even angels fall.
+Even angels fall
+Even angels fall

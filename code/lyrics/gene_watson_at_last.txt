@@ -1,0 +1,31 @@
+Artist: gene_watson
+Title: at_last
+Genre: Country
+Subgenres: [u'Country-Pop', u'Honky Tonk', u'Traditional Country']
+
+Song:
+
+At last, my love has come along
+My lonely days are over
+And life is like a song, Whoa.
+
+At last, the skies above are blue
+My heart was wrapped up in clover
+The night I looked at you.
+
+I found a dream that I could speak to
+A dream that I can call my own
+I found a thrill to press my cheek to
+A thrill that I have never known.
+
+Oh, you smiled, you smiled
+Oh, and then the spell was cast
+And here we are in heaven
+For you are mine at last.
+
+--- Instrumental ---
+
+Oh, Oh you smiled, you smiled
+And then the spell was cast
+And here we are in heaven
+For you are mine at last...

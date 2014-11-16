@@ -1,0 +1,19 @@
+Artist: korpiklaani
+Title: before_the_morning_sun
+Genre: Pop/Rock
+Subgenres: [u'Black Metal', u'Finnish Folk', u'Folk-Rock', u'Heavy Metal', u'Nordic Traditions', u'Psychedelic/Garage', u'Scandinavian Metal']
+
+Song:
+
+Down, in the forest path
+When the night comes closer
+Air's full of magic
+When, elfgirls dancing
+Dancing in the circle
+I watch them from the bushes
+Down, in the forest path
+When night comes closer
+When the sun goes down
+Once, once again
+I will try to sleep
+Before the morning sun

@@ -1,0 +1,9 @@
+Artist: handel_george_frideric
+Title: 03_air_for_tenor_evry_valley_shall_be_exalted
+Genre: Classical
+Subgenres: [u'Chamber Music', u'Choral', u'Concerto', u'Keyboard', u'Opera', u'Orchestral']
+
+Song:
+
+Ev'ry valley shall be exalted, and ev'ry mountain and hill made low; the
+Crooked straight and the rough places plain. (Isaiah 40: 4)

@@ -1,0 +1,27 @@
+Artist: luna
+Title: anesthesia
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Dream Pop', u'Indie Pop', u'Indie Rock']
+
+Song:
+
+I see you comin down
+Your life is flashin before ya
+I see you comin round
+You're talking over and over
+You know I tried to please ya
+You're under anesthesia
+I see you comin down
+Too bad there's nothing left over
+I don't know what you mean
+You're talkin over and over
+You know I tried to please ya
+You're under anesthesia
+You know I tried to please ya
+You're under anesthesia
+I see you wakin up
+And now the day is upon ya
+The party's over now
+You're talkin over and over
+You know I tried to please ya
+You're under anesthesia

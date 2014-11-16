@@ -1,0 +1,37 @@
+Artist: flow
+Title: blue_bird_lyrics
+Genre: Rap
+Subgenres: [u'Political Rap', u'Underground Rap']
+
+Song:
+
+Ookina kumo no mukou wa yume no sora
+Chiisana tori ga aoiro ni tokete yuku...
+
+Kotoba mo motazu yuku ate sae wakara nai mama
+Tsubasa hirogete yakusoku no chi he
+
+Dokomade susumeba tadoritsukeru no?
+Itsudemo gooru wa kokoro no naka ni...
+
+Haruka na kono sekai de tobu koto wo yurusareta kono kiseki
+Bokura wa utato deai kaze wo shitte motto omoi wa gutto
+Mune ni atsuku moe agaru
+
+Mada moromoro owatte naitte no ni tsugi no asa soko made sematte oi!
+Higashi no sora ga shirami dasu aseru kimochi niyatara muka tsuki dasu
+Asayake ni feido suru tsuki no hikari ga yume no owari kyou no hajimari da
+Mabushi sugiru kagayaki wo se ni kono te ni maiku nigiri shime I'm ready!
+
+Doredake ushinattara tsukameru no?
+Itsudemo bokura wa nakama to tomo ni...
+
+Haruka na kono sekai de tobu koto wo yurusareta kono kiseki
+Bokura wa utato deai kaze wo shitte motto omoi wa gutto
+Mune ni atsuku moe agaru
+
+Haruka na kono sekai de... (tokubetsu ja nai tsubasa datte toberu sora ga arun daze)
+Itsudemo sono bishou wo... (sou boku wa kono tsubasa de genkai koete mai agareru)
+
+Ookina kumo no mukou wa yume no sora
+Aoi tori wa ashita he habata ite yuku...

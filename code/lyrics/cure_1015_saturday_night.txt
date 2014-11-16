@@ -1,0 +1,26 @@
+Artist: cure
+Title: 1015_saturday_night
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Goth Rock', u'Post-Punk', u'Dance-Rock', u'College Rock', u'New Wave', u'Punk/New Wave']
+
+Song:
+
+10.15
+Saturday night
+And the tap drips
+Under the strip light
+And I'm sitting
+In the kitchen sink
+And the tap drips
+Drip drip drip drip drip drip drip drip
+
+Waiting
+For the telephone to ring
+And I'm wondering
+Where she's been
+And I'm crying
+For yesterday
+And the tap drips
+Drip drip drip drip drip drip drip drip
+
+It's always the same

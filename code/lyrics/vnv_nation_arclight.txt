@@ -1,0 +1,19 @@
+Artist: vnv_nation
+Title: arclight
+Genre: Pop/Rock
+Subgenres: [u'Industrial Dance', u'Alternative/Indie Rock', u'Electro-Industrial', u'Dark Ambient']
+
+Song:
+
+At first light lay proud foundations.
+Sense the greatness that before you unfolds.
+Seek no more for hollow answers.
+Answers that lay within you all along.
+Farewell to dawns seen through saddened eyes.
+Farewell to pasts to sorrows chained.
+Forget your fears.
+You will have everything.
+You will be strong and want no more.
+Youll be adored.
+You will have everything.
+Forget your fears and want no more.

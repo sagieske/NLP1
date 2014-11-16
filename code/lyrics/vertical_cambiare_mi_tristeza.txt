@@ -1,0 +1,23 @@
+Artist: vertical
+Title: cambiare_mi_tristeza
+Genre: Pop/Rock
+Subgenres: [u'American Trad Rock', u'Post-Grunge', u'Adult Alternative Pop/Rock', u'Alternative Pop/Rock', u'Alternative/Indie Rock']
+
+Song:
+
+Cambiare mi tristeza,
+Cambiare mi verguenza
+Los entregare, por el gozo de Dios
+Cambiare mi dolor y mi enfermedad
+Los entregare por el gozo de dios
+
+Si Senor si, si Senor
+
+Estando atribulado, pero nunca derrotado
+Y perseguido este hoy
+Maldiciones no me afectan
+Pues yo se a quien voy
+En su gozo fuerte soy
+
+Aunque triste en al noche yo este
+El gozo viene en la manana

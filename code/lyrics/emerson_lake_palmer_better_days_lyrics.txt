@@ -1,0 +1,39 @@
+Artist: emerson_lake_palmer
+Title: better_days_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Art Rock', u'Prog-Rock', u'Album Rock']
+
+Song:
+
+(keith emerson/greg lake)
+
+I was walking on this station
+I could see somebody lying on a chair
+I went over to him
+I said, hey man, what are you doing there
+And have you got a smoke
+I said you'd better come in out of the rain
+Before you get yourself soaked
+
+No one can feel inside
+How deep the oceans, heartaches hide
+
+Chorus
+So stand on me, I'll catch you falling
+You can stand on me and I'll help you find a way
+Stand on me, I can see our ship turning
+Stand on me, we're sailing on the wind of better days
+
+And they accuse you when you're over and out
+Ulterior motives, that's what it's all about
+It's just human nature, they try to make you flinch
+But we're takin' the higher ground inch by inch
+No one cal feel inside
+How deep the oceans, heartaches hide
+
+Chorus
+
+And if you tumble when the snowflakes fall
+(this is a jungle, it's not a waterfall)
+From where you're standing you can't get no change
+They keep moving the target clean out of range

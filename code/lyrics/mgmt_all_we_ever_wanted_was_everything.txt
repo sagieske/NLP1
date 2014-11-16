@@ -1,0 +1,19 @@
+Artist: mgmt
+Title: all_we_ever_wanted_was_everything
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Indie Electronic', u'Indie Pop', u'Neo-Psychedelia']
+
+Song:
+
+All we ever wanted was everything
+All we ever got was cold
+Get up, eat jelly
+Sandwhich bars, and barbed wire
+Squash every week into a day
+
+The sound of drums is calling
+The sound of the drum has called
+Flash of youth shoot out of the darkness
+Factorytown
+
+Oh to be the cream repeat

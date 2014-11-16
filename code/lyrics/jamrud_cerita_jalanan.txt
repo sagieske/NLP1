@@ -1,0 +1,41 @@
+Artist: jamrud
+Title: cerita_jalanan
+Genre: Jazz
+Subgenres: [u'Contemporary Jazz', u'Smooth Jazz']
+
+Song:
+
+# Ini satu sisi
+Cerita jalanan
+Di saat mentari panas
+Mulai terbenam, lalu hilang
+
+Dan ku ayunkan kaki
+Untuk lepaskan rasa bosan yang slalu berputar
+
+## Di pusat jalanan
+Diantara seribu mata
+Pandangan terpaut sesosok
+Wajah cerah
+Bagai menggoda
+
+Dan ku ajak bicara
+Ku gandeng tangannya
+Ke arah taman kota
+
+Reff:
+Dibawah sinar bulan
+Cahaya bintang-bintang
+Didalam roknya jariku menari
+Tapi apa yang terjadi
+Dia malah menjerit
+Habis mukaku dikemplang Hansip
+
+### Tak sempat berkata
+Mulut hanya menganga
+Disaat dia lari terbirit
+Bagai Kapal tanpa sayapnya
+
+Aku tinggal sendiri
+Tertawa terbahak
+Layaknya menonton komedi Ha...

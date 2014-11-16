@@ -1,0 +1,51 @@
+Artist: yves_montand
+Title: la_butte_rouge
+Genre: Vocal
+Subgenres: [u'French Pop', u'Traditional Pop', u'French', u'French Chanson', u'Vocal Pop', u'Western European Traditions', u'Film Score']
+
+Song:
+
+Sur c'te butte l?, y avait pas d'gigolette,
+Pas de marlous, ni de beaux muscalins.
+Ah, c'? Tait loin du moulin d'la galette,
+Et de Paname, qu'est le roi des pat'lins.
+
+C'qu'elle en a bu, du beau sang, cette terre,
+Sang d'ouvrier et sang de paysan,
+Car les bandits, qui sont cause des guerres,
+N'en meurent jamais, on n'tue qu'les innocents.
+
+La Butte Rouge, c'est son nom, l'bapt? Me s'fit un matin
+O? Tous ceux qui grimp? Rent, roul? Rent dans le ravin
+Aujourd'hui y a des vignes, il y pousse du raisin
+Qui boira d'ce vin l?, boira l'sang des copains
+
+Sur c'te butte l?, on n'y f'sait pas la noce,
+Comme? Montmartre, o? L'champagne coule? Fl? Ts.
+Mais les pauv' gars qu'avaient laiss? Des gosses,
+I f'saient entendre de p? Nibles sanglots.
+
+C'qu'elle en a bu, des larmes, cette terre,
+Larmes d'ouvrier et larmes de paysan,
+Car les bandits, qui sont cause des guerres,
+Ne pleurent jamais, car ce sont des tyrans.
+
+La Butte Rouge, c'est son nom, l'bapt? Me s'fit un matin
+O? Tous ceux qui grimp? Rent, roul? Rent dans le ravin
+Aujourd'hui y a des vignes, il y pousse du raisin
+Qui boit de ce vin l?, boira les larmes des copains
+
+Sur c'te butte l?, on y r'fait des vendanges,
+On y entend des cris et des chansons.
+Filles et gars, doucement, y? Changent,
+Des mots d'amour, qui donnent le frisson.
+
+Peuvent-ils songer dans leurs folles? Treintes,
+Qu'? Cet endroit o? S'? Changent leurs baisers,
+J'ai entendu, la nuit, monter des plaintes,
+Et j'y ai vu des gars au cr? Ne bris?.
+
+La Butte Rouge, c'est son nom, l'bapt? Me s'fit un matin
+O? Tous ceux qui grimp? Rent, roul? Rent dans le ravin
+Aujourd'hui y a des vignes, il y pousse du raisin
+Mais moi j'y vois des croix, portant l'nom des copains

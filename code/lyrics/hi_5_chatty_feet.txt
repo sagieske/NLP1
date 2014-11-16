@@ -1,0 +1,20 @@
+Artist: hi_5
+Title: chatty_feet
+Genre: Pop/Rock
+Subgenres: [u'Adult Alternative Pop/Rock', u'Alternative/Indie Rock', u'Contemporary Pop/Rock', u'Pop']
+
+Song:
+
+When my feet talk to me
+I always feel so happy
+There's nothing quite like chatty feet chatty feet chatty feet
+It's like they sing when they tap
+(sounds)
+There's nothing quite like chatty feet chatty feet chatty feet
+
+When my feet talk to me
+I always feel so happy
+There's nothing quite like chatty feet chatty feet chatty feet
+It's like they sing when they tap
+(sounds)
+There's nothing quite like chatty feet chatty feet chatty feet

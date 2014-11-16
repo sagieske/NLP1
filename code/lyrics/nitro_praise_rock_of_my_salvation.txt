@@ -1,0 +1,43 @@
+Artist: nitro_praise
+Title: rock_of_my_salvation
+Genre: Religious
+Subgenres: [u'CCM', u'Contemporary Christian', u'Contemporary Gospel', u'Gospel']
+
+Song:
+
+You are the rock of my salvation.
+You are the strength of my life.
+You are my hope and my inspiration.
+Lord unto You will I cry.
+
+I believe in you, believe in you.
+For your faithful love to me.
+You have been my help
+In time of need.
+Lord unto You will I cleave.
+
+You are the rock of my salvation.
+You are the strength of my life.
+You are my hope and my inspiration.
+Lord unto You will I cry.
+
+You are the rock of my salvation.
+You are the strength of my life.
+You are my hope and my inspiration.
+Lord unto You will I cry.
+
+I believe in you, believe in you.
+For your faithful love to me.
+You have been my help
+In time of need.
+Lord unto You will I cleave.
+
+You are the rock of my salvation.
+You are the strength of my life.
+You are my hope and my inspiration.
+Lord unto You will I cry.
+
+You are the rock of my salvation.
+You are the strength of my life.
+You are my hope and my inspiration.
+Lord unto You will I cry.

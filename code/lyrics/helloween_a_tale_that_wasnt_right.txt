@@ -1,0 +1,43 @@
+Artist: helloween
+Title: a_tale_that_wasnt_right
+Genre: Pop/Rock
+Subgenres: [u'Heavy Metal', u'Power Metal', u'Progressive Metal', u'Speed/Thrash Metal']
+
+Song:
+
+(M&L - Weikath)
+
+Here I stand all alone
+Have my mind turned to stone
+Have my heart filled up with ice
+To avoid It's breakin' twice
+
+Thanx to you, my dear old friend
+But you can't help. This is the end
+Of a tale that wasn't right
+I won't have no sleep tonight
+
+In my heart, in my soul
+I really hate to pay this toll
+Should be strong, young and bold
+But the only thing I feel is pain
+
+It's alright, we'll stay friends
+Trustin' In my confidence
+And Iet's say it's just alright
+You won't sleep alone tonight
+
+In my heart, in my soul
+I really hate to pay this toll
+Should be strong, young and bold
+But the only thing I feel is pain
+
+With my heart, with my soul
+Some guys cry you bought and sold
+They've been strong, young and bold
+And they say, play this song again
+
+In my heart, in my soul
+I really hate to pay this toll
+Should be strong, young and bold
+But the only thing I feel is pain

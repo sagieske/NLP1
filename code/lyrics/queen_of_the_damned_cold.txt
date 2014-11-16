@@ -1,0 +1,36 @@
+Artist: queen_of_the_damned
+Title: cold
+Genre: Pop/Rock
+Subgenres: [u'Death Metal', u'Heavy Metal']
+
+Song:
+
+We kiss
+The stars
+We writhe
+We are
+Your name
+Desire
+Your flesh
+We are
+
+Chorus:
+Cold we're so cold
+We are
+so cold we're so cold
+X2
+
+Your mouth
+These words
+Silence
+It turns
+On me
+We laugh
+My head
+Falls back
+
+Cold we're so cold
+We are
+So cold we're so cold
+
+X4

@@ -1,0 +1,96 @@
+Artist: daft_punk
+Title: around_the_world
+Genre: Electronic
+Subgenres: [u'Club/Dance', u'Electronica', u'House', u'Progressive House', u'Left-Field House']
+
+Song:
+
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world.

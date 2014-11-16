@@ -1,0 +1,20 @@
+Artist: hillsong_united
+Title: ah_lord_god
+Genre: Religious
+Subgenres: [u'CCM', u'Contemporary Christian', u'Praise & Worship', u'Alternative CCM', u'Gospel']
+
+Song:
+
+Verse:
+Ah Lord God, Thou hast made the heavens
+And the earth by Thy great power;
+Ah Lord God, Thou hast made the heavens
+And the earth by Thine outstretched arm.
+
+Refrгo
+Nothing is too difficult for Thee,
+Nothing is too difficult for Thee;
+O, great and mighty God,
+Great in power and mighty in deed,
+Nothing, nothing, absolutely nothing,
+Nothing is too difficult for Thee.

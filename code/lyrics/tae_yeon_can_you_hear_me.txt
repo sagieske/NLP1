@@ -1,0 +1,61 @@
+Artist: tae_yeon
+Title: can_you_hear_me
+Genre: Country
+Subgenres: [u'Contemporary Country', u'Country-Pop', u'Contemporary Folk', u'Contemporary Pop/Rock', u'Neo-Traditionalist Country']
+
+Song:
+
+Jogeumman apado nunmul nayo
+Gaseumi sori chyeoyo
+Geudae apeul
+Geudae gyeocheul jinamyeon
+Ontong sesangi geudae inde
+Geudaeman geurineunde
+Geudae apeseon sumeul jukyeoyo
+
+Naege geudaega inyeoni anin geotcheoreom
+Geujeo seuchineun sunganin geotcheoreom
+Swibge nal jinachineun geudae gyeote
+Ddo dagaga hangeoreum jocha
+Chae ddelsu eobseul jirado
+
+Seoseong ige hae
+Nunmul jitge hae
+Babocheoreom aicheoreom
+Charari geunyang useo beoryeo
+Jeomjeom daga seolsurok
+Jakku geobi najiman
+I sarangeun meomcheul suga eobtnabwa
+
+Wae nae sarangman deodin geojyo
+Nae sarangman himdeuljyo
+Geudae ape
+Geudae gyeote isseodo
+Ontong sesangi geudae inde
+Geudaeman boineunde
+Geudae apeseon nan meon gotman bwayo
+
+Naege geudaega ggok majimak in geotcheoreom
+Naege majimak sunganin geotcheoreom
+Swibge nal jinachineun geudae gyeote
+Ddo dagaga hangeoreum jocha
+Chae ddelsu eobseul jirado
+
+Seoseong ige hae
+Nunmul jitge hae
+Babocheoreom aicheoreom
+Charari geunyang useo beoryeo
+Jeomjeom daga seolsurok
+Jakku geobi najiman
+I sarangeun meomcheul suga eobtnabwa 
+
+Meonbal chiseo na jamsirado
+Geudae barabol su isseodo
+Geuge sarang ijyo
+Hoksi I gidarimi
+I geuri umi
+Daheul ttaemyeon deulli ttaemyeon
+Charari moreun cheok haejwoyo
+Geudae ege galsurok
+Jakku geobi najiman
+I sarangeun meomcheul suga eobtneyo

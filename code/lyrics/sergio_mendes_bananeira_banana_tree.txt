@@ -1,0 +1,34 @@
+Artist: sergio_mendes
+Title: bananeira_banana_tree
+Genre: Easy Listening
+Subgenres: [u'AM Pop', u'Bossa Nova', u'Brazilian Traditions', u'Latin Pop', u'Lounge', u'Samba', u'Soft Rock', u'Jazz Instrument', u'Keyboard', u'Piano Jazz']
+
+Song:
+
+(Joao Donato/Gilberto Gil)
+
+Bananeira nao sei
+Bananeira sera
+Bananeira sei nao
+A maneira de ver
+
+Bananeira nao sei
+Bananeira sera
+Bananeira sei nao
+Isso e la com voce
+
+Sera no fundo do quintal
+Quintal do seu olhar
+Olhar do coracao
+
+Bananeira nao sei
+Bananeira sera
+Bananeira sei nao
+A maneira de ver
+Bananeira nao sei
+Bananeira sera
+Bananeira sei nao
+Isso e la com voce
+
+Bananeira, bananeira, bananeira
+Bananeira, bananeira, bananeira?

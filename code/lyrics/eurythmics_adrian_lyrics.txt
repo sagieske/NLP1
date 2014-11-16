@@ -1,0 +1,28 @@
+Artist: eurythmics
+Title: adrian_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Pop/Rock', u'New Wave', u'Punk/New Wave', u'Synth Pop', u'Dance-Rock']
+
+Song:
+
+Adrian - don't you understand?
+Fools like us are always dreaming.
+And when you go to bed
+And cover up your head
+It's better if you try to stop remembering.
+And the world is slowly dawning
+To wake up to a new clear morning.
+Some of them just half your age
+Get written off, page by page...
+Adrian don't you understand?
+Fools like us are always dreaming.
+And when you go to bed
+And cover up your head
+It's better if you try to stop remembering.
+Some of them just half your age
+Get written off page by page...
+And the world is softly sleeping
+While your fears are in their keeping.
+All the planet's making haste
+To blow to bits in outer space...
+Adrian - don't you understand?

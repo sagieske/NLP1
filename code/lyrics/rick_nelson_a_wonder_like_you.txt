@@ -1,0 +1,40 @@
+Artist: rick_nelson
+Title: a_wonder_like_you
+Genre: Pop/Rock
+Subgenres: [u'Country-Rock', u'Rock & Roll', u'Rockabilly', u'Teen Idols', u'Early Pop/Rock', u'Vocal Music', u'Contemporary Pop/Rock', u'Film Score']
+
+Song:
+
+I've seen the snow-white mountains of Alaska
+I've sailed along the rivers of Peru
+I've seen the world and all its Seven Wonders
+But I've never seen a wonder like you
+
+I've stood upon the pyramids of Egypt
+Far away across the ocean blue
+I've seen the island beauties of Hawaii
+But I've never seen a beauty like you
+
+I've gazed at the White Cliffs of Dover
+There's not a place I didn't see
+Now that my travels are over
+I wish you had been there with me
+
+I've seen the pretty dancing girls of Siam
+The happy Polynesian people, too
+But they're not as happy as I am
+'Cause they haven't got a wonder like you
+
+I've gazed at the White Cliffs of Dover
+There's not a place I didn't see
+Now that my travels are over
+I wish you had been there with me
+
+I've seen the pretty dancing girls of Siam
+The happy Polynesian people, too
+But they're not as happy as I am
+'Cause they haven't got a wonder like you
+
+They haven't got a wonder like you
+No, they haven't got a wonder like you
+No, they haven't got a wonder like you

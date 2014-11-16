@@ -1,0 +1,23 @@
+Artist: the_muppets
+Title: a_friend_is_a_friend
+Genre: R&B
+Subgenres: [u'Contemporary R&B', u'Pop']
+
+Song:
+
+If you need a friend to pat your little head
+If you need a pal to play with you
+If you need a chum to lift your spirits up
+This is what a special friend will do-do-do-do-do
+Well a friend never bends or pretends when a friend is in need
+So depend on a friend who's a friend to his friend indeed
+No a friend never bends or pretends when his friend is in need
+So depend on a friend who's a friend to his friend indeed
+Well sometimes you'll be down and need some boosting
+Sometimes you'll be zooming way too high
+I'll be there to raise you or to roost you
+I'll be here to look you in the eye-yi-yi-yi-yi
+Well a friend never bends or pretends when a friend is in need
+So depend on a friend who's a friend to his friend indeed
+No a friend never bends or pretends when his friend is in need
+So depend on a friend who's a friend to his friend indeed

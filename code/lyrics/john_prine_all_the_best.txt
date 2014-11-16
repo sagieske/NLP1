@@ -1,0 +1,33 @@
+Artist: john_prine
+Title: all_the_best
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Folk', u'Progressive Folk', u'Singer/Songwriter', u'Folk-Rock', u'Psychedelic/Garage']
+
+Song:
+
+I wish you love and happiness
+I guess I wish you all the best
+I wish you don't do like I do
+And ever fall in love with someone like you
+Cause if you fell just like I did
+You'd probably walk around the block like a little kid.
+But kids don't know they can only guess
+How hard it is to wish you happiness
+
+I guess that love is like a christmas card
+You decorate a tree you throw it in the yard
+It decays and dies and the snowmen melt
+Well I once knew love I knew how love felt
+Yeah I knew love love knew me
+And when I walkedlove walked with me
+And I got no hate and I got no pride
+Well I got so much love that I cannot hide
+
+Say you drive a chevy say you drive a ford
+You say you drive around the town till you just get bored
+Then you change your mind for something else to do
+And your heart gets bored with your mind and it changes you
+Well it's a doggone shame and it's an awful mess
+I wish you love I wish you happiness
+I wish you love I wish you happiness
+I guess I wish you all the best

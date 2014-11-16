@@ -1,0 +1,8 @@
+Artist: erykah_badu
+Title: baby_lyrics
+Genre: R&B
+Subgenres: [u'Alternative R&B', u'Neo-Soul', u'Adult Contemporary R&B', u'Contemporary R&B']
+
+Song:
+
+Iґm looking for the song "Baby" by Erykah Badu and Roots.Thanks

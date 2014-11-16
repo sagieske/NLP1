@@ -1,0 +1,13 @@
+Artist: nine_inch_nails
+Title: a_warm_place
+Genre: Pop/Rock
+Subgenres: [u'Alternative Metal', u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Industrial', u'Industrial Metal', u'Alternative Dance']
+
+Song:
+
+The best thing about life is knowing you put it together
+The best thing about life is knowing you put it together
+The best thing about life is knowing you put it together
+The best thing about life is knowing you put it together
+The best thing about life is knowing you put it together
+The best thing about life is knowing you put it together

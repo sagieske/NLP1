@@ -1,0 +1,52 @@
+Artist: gary_jules
+Title: barstool
+Genre: Blues
+Subgenres: [u'Modern Electric Texas Blues', u'Contemporary Blues', u'Electric Blues', u'Electric Texas Blues', u'Regional Blues', u'Texas Blues', u'Blues-Rock']
+
+Song:
+
+An old man on a barstool, watchin' tv,
+He got up and came over to sit closer to me.
+He said, "You look familiar to someone I knew
+But when were your age we were older than you.
+Jimmy was twenty and I seventeen;
+To us there was nothing but girls and machines.
+Jimmy got married and I went to war;
+I still don't know what we were doing it for.
+And if you'll buy me a drink -- a Turkey on ice --
+Then I could give you some advice.
+
+"You just stay in the bar
+For as long as you can.
+'Cause as long as you're drinkin'
+Then you've got the world in your hand.
+
+"There's no shame in hangin' your world by a string;
+You know there's no harm in not thinkin' a thing
+But tryin' to find a place for yourself in this world
+Is like tryin' to make a wife of an American girl.
+And if you'll trade me a drink for a story or two,
+Then you'll know what you need to do.
+
+"You just stay in the bar
+For as long as you can.
+You know love is for sissies;
+It's whiskey that makes you a man. "
+Yeah
+
+Now the old man got up, stumbled out in the street;
+He'd been drinking all day and left his bar tab with me.
+I didn't have the money to cover his bill
+But I found me a man -- looked like me, younger still --
+And I said, "Buy me a drink and I'll tell you a tale
+About the old man who taught me so well. "
+
+He said, "Stay in the bar
+For as long as you can.
+Well, I know you're a friend;
+I can tell by the shakes in your hand.
+
+"You just stay in the bar
+For as long as you dare.
+As long as you're tipping
+Then you've got a good friend somewhere. "

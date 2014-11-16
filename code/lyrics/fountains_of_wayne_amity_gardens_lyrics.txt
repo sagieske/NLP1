@@ -1,0 +1,42 @@
+Artist: fountains_of_wayne
+Title: amity_gardens_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Power Pop']
+
+Song:
+
+Angel broke her wing
+Oh, you poor thing
+The hum of the motor gave way to
+The tick tick ticking of the clock
+And the rattle of springs
+The buick's in the drive
+It's good to be alive
+
+And if you knew now what you knew then
+You wouldn't want to go home
+Wouldn't want to go
+If you knew now what you knew then
+You wouldn't want to go to amity gardens again
+
+It isn't very much, but
+For now it's home
+A room in the shadow of a funny-looking man
+On the phone to the bank about a default loan
+I thank you very much
+Ta ta we'll be in touch
+
+And if you knew now what you knew then
+You wouldn't want to go home
+Wouldn't want to go
+If you knew now what you knew then
+You wouldn't want to go to amity gardens again
+
+Where you came from
+And act like you tried
+Cause somethings are better kept
+Deep down inside
+But you'rs not driving
+You're along for the ride
+Just checking out the scene
+And taking in the green

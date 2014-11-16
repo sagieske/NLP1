@@ -1,0 +1,26 @@
+Artist: grateful_dead
+Title: all_new_minglewood_blues
+Genre: Pop/Rock
+Subgenres: [u'Country-Rock', u'Jam Bands', u'Rock & Roll', u'Psychedelic', u'Psychedelic/Garage', u'Album Rock', u'Folk-Rock']
+
+Song:
+
+I was born in the desert Raised in a lion's den
+I was born in the desert Raised in a lion's den
+Oh, my number one occupation is stealing women from their men
+Well, I'm a wanted man in Texas, busted jail and I'm gone for good.
+Said, I'm a wanted man in Texas, busted jail and I'm gone for good.
+Well, the sheriff couldn't catch me,
+But his little girl sure wish she could.
+Well now the doctor call me crazy, sometimes I am, sometimes I ain't,
+Said now the doctor call me crazy, sometimes I am, sometimes I ain't,
+Yes, and the preacher man call me sinner
+But his little girl call me saint.
+Well a couple shots of whiskey women 'round here start looking good,
+I said a couple shots of whiskey women 'round here start looking good,
+A couple more shots of whiskey, I'm going down to Minglewood.
+Said, I was born in the desert Raised in a lion's den
+Said, I was born in the desert Raised in a lion's den
+Yes and my number one occupation is stealing women from their men
+I was born in the desert Raised in a lion's den
+Oh, my number one occupation is stealing women from their men

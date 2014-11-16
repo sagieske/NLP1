@@ -1,0 +1,21 @@
+Artist: los_temerarios
+Title: ahi_estare_yo
+Genre: Latin
+Subgenres: [u'Latin Pop', u'Mexican Traditions', u'Onda Grupera', u'Tejano']
+
+Song:
+
+No he podido, uo oh oh oh
+Conseguir que tu te fijes en mi
+He intentado casi todo
+Pero tu no quieres nada de mi
+Ni siquiera debo so? Ar
+En que tu me pudieras amar
+Ya lo se, ya lo se
+Que te debo olvidar!
+Pero como te olvido si cada
+Dia, te quiero mas y mas y mas
+Solo, solo me queda esperar
+Tal vez alguin dia tu necesites
+Y entonces
+Ahi estare yo

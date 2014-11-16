@@ -1,0 +1,56 @@
+Artist: deep_purple
+Title: a_touch_away
+Genre: Pop/Rock
+Subgenres: [u'Arena Rock', u'British Metal', u'Hard Rock', u'Heavy Metal']
+
+Song:
+
+Mother nature's been good to me
+That's why I'm sittin in this cherry tree
+But it's alright, it's alright
+It's not so bad
+I'm just a touch away
+
+The shady lady
+From shady lane
+Is lying in my bed again
+And it's alright
+It feels good
+It's not so bad
+When she's just a touch away
+
+Nothing much
+Is all I ask
+And it's alright, ok yes
+Light as a feather, oh yes
+
+Like a rosebud
+When the sun is high
+She opens up
+Before my eyes
+And the light falls
+On her wet skin
+It's alright
+I'm just a touch away
+
+Nothing much
+Is all I know
+And it's alright, oh yes
+Light as a feather,
+And just a touch away
+
+Put a finger to her lips again
+She cries with pleasure
+Cries wih pain
+And it's alright
+It feels good
+It's not so bad
+We're just a touch away
+
+Nothing much
+Is all I know
+Not too fast
+Not too slow
+And it's alright
+Soft as a feather
+And just a touch away

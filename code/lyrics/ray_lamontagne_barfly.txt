@@ -1,0 +1,27 @@
+Artist: ray_lamontagne
+Title: barfly
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Singer/Songwriter', u'Contemporary Folk', u'Adult Alternative Pop/Rock', u'Alternative/Indie Rock']
+
+Song:
+
+Barfly
+Just a barfly, baby, uh huh
+Barfly
+Just a barfly, baby, uh huh
+Kiss me before you go
+I'm going low and lately
+Barfly
+A barfly, baby, uh huh
+Barfly
+Just a barfly, baby, uh huh
+Slow down
+Slow down, you're movin' too fast
+Slow down
+Slow down, you're movin' move too fast
+Kiss me before you go
+I'm going low and lately
+Kiss me before you go
+I'm going low and lately
+I'm going nowhere
+I'm going nowhere...

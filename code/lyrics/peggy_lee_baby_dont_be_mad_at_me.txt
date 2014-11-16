@@ -1,0 +1,27 @@
+Artist: peggy_lee
+Title: baby_dont_be_mad_at_me
+Genre: Vocal
+Subgenres: [u'Swing', u'Torch Songs', u'Traditional Pop', u'Vocal Jazz', u'Show Tunes', u'Vocal Pop', u'Cast Recordings']
+
+Song:
+
+"Baby, don't be mad at me.
+If I made you cry, I'm sorry.
+Baby, don't be mad at me.
+If I told a lie forgive me.
+Baby, don't be mad at me.
+I know that I was wrong,
+But I've paid for my mistake.
+Won't you string along?
+Give a broken heart a break?
+I love only you, believe me.
+Baby please be glad at me
+Baby, don't be mad at me.
+I know that I was wrong,
+But I've paid for my mistake.
+Won't you string along?
+Give a broken heart a break?
+I love only you, believe me.
+Baby, please be glad at me.
+Baby, don't be mad at me.
+Baby, don't be mad at me. "

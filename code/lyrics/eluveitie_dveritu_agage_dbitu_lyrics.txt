@@ -1,0 +1,16 @@
+Artist: eluveitie
+Title: dveritu_agage_dbitu_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Death Metal', u'Heavy Metal']
+
+Song:
+
+Dro, o Dкvo, tovo anextlo,
+Cue ir anextlo, nertos,
+Cue ir nertos, Skyans,
+Cue ir Skyans, Gothvos,
+Cue is Gothvos, Gothvos ar vкriвnjв,
+Cue is Gothvos ar vкriвnjв, y Garo
+Cue ir Garo, grвto oljo Bewnans,
+Cue in grвto oljo Bewnans, Garo Dкvo:
+Dкvo cue ollo Dade.

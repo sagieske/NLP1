@@ -1,0 +1,30 @@
+Artist: hank_williams
+Title: a_home_in_heaven
+Genre: Country
+Subgenres: [u'Outlaw Country', u'Southern Rock', u'Urban Cowboy', u'Country-Rock', u'Traditional Country']
+
+Song:
+
+Recorded by hank williams sr. And audrey williams
+Written by hank wiliams sr.
+
+A-[a] round me [e7] many are [a] building
+[d] homes of beauty and [a] wealth
+But [d] what of a home in [a] heaven
+Where will you [e7] live after [a] death
+
+Chorus:
+Are you [d] building a home in [a] heaven
+To live in when this life is [e7] oer
+Will you [a] move to that [d] beautiful [a] city
+And live with [e7] christ ever [a] more.
+
+Long is the [d] road that leads [a] you
+To that beautiful home up [e7] there
+Is [a] work on your [d] home com-[a] pleted
+Death may [e7] be lingering [a] near.
+
+Are you ready [d] for his [a] coming
+Have you been true all a-[e7] long
+Have you [a] finished your [d] building in [a] glory
+Will you move to this [e7] heavenly [a] home.

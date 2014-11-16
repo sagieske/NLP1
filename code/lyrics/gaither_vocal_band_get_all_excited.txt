@@ -1,0 +1,21 @@
+Artist: gaither_vocal_band
+Title: get_all_excited
+Genre: Religious
+Subgenres: [u'CCM', u'Contemporary Christian', u'Contemporary Gospel', u'Traditional Gospel', u'Gospel']
+
+Song:
+
+Chorus
+Get all excited go tell everybody that jesus christ is king,
+I said get all excited go tell everybody that jesus christ is king,
+Get all excited go tell everybody that jesus christ is king,
+Jesus christ is still the king of king's
+X 2
+
+Verse
+You talk people you talk about you talk about thing's that really
+Aren't important at all
+You talk about weather you talk about problems we have here
+At home and abroad
+
+Chorus

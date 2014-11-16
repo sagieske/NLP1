@@ -1,0 +1,22 @@
+Artist: misfits
+Title: 138
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'American Underground', u'Hardcore Punk', u'Punk/New Wave']
+
+Song:
+
+We are 138, we are 138, we are 138
+We are 138, we are 138, we are 138
+We are 138, we are 138, we are 138
+In the eyes of Tiger
+
+Do you think we're robot clean
+Does this face look almost mean
+It's time to be an android not a man
+
+Whose pleasantries are gone
+We are stripped of all we've won
+In the eyes of Tiger
+
+We are 138, we are 138, we are 138
+We are 138, we are 138, we are 138

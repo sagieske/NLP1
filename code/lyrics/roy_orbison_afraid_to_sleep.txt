@@ -1,0 +1,20 @@
+Artist: roy_orbison
+Title: afraid_to_sleep
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Pop/Rock', u'Early Pop/Rock', u'Film Score', u'Rock & Roll', u'Rockabilly', u'AM Pop']
+
+Song:
+
+The night is still the wind is chilled 
+I hear the rain falling on my window pane 
+Can't close my eyes, afraid to sleep 
+Cause when I do I would only dream of you 
+I'm trying to forget that we ever met 
+But how can I forget and dream of you? 
+Afraid to sleep because I'd dream of you 
+Afraid to sleep because I'd wake up feeling blue 
+If I stay awake forever,we'd never be together 
+So I'll close my eyes and go ahead and dream 
+Sweet dreams 
+Sweet dreams 
+Sweer dreams....

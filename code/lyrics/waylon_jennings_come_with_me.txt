@@ -1,0 +1,25 @@
+Artist: waylon_jennings
+Title: come_with_me
+Genre: Country
+Subgenres: [u'Country-Folk', u'Film Score', u'Outlaw Country', u'Progressive Country', u'Traditional Country']
+
+Song:
+
+Verse 1:
+If you're in a valley, with a troubled min
+I'm a mountain, come on and climb Because you look so good, to be so down
+It won't take much girl, to turn it all around
+
+Chorus:
+Come with me, come with me
+The feeling's free, just come with me
+We'll get on a cloud girl, and ride it high
+Say hello sun, as we sail by
+
+Verse 2:
+I'll take you where, you've never been before
+Once we're there, you'll cry for more
+If it's dark in your world, come walk in mine
+My love's a light babe, it's on all the time
+
+Chorus (x2).

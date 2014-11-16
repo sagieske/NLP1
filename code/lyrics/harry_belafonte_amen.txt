@@ -1,0 +1,35 @@
+Artist: harry_belafonte
+Title: amen
+Genre: Vocal
+Subgenres: [u'Calypso', u'Caribbean Traditions', u'Traditional Folk', u'AM Pop', u'Early Pop/Rock', u'Traditional Pop']
+
+Song:
+
+See the little baby, Amen
+Wrapped in a manger Amen
+On Christmas morning,
+Amen, Amen, Amen
+
+See him in the temple, Amen
+Talking with the elders, Amen
+Who marveled at his wisdom
+Amen, Amen, Amen
+
+See him at the seaside, Amen
+Talking with the fishermen, Amen
+Walking the side pales
+Amen, Amen, Amen
+
+Oh, to in Jerusalem, Amen
+On the top branches, Amen
+He talked in splendor
+Amen, Amen, Amen
+
+See him in the garden, Amen
+Lord have mercy, Amen
+Blessed savior
+Amen, Amen, Amen
+
+Before Hiram, Amen
+They crucified him, Amen
+Amen, Amen, Amen

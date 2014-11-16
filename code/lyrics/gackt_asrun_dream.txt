@@ -1,0 +1,29 @@
+Artist: gackt
+Title: asrun_dream
+Genre: Pop/Rock
+Subgenres: [u'Japanese Rock', u'J-Pop']
+
+Song:
+
+Nagai yoru o tojikome yume ni sasowareru mama ni
+Daremo inai heya kara tsuki ni inoru
+Kiekake no hikari no you ni
+"kono mune no itami mo chiisaku nareba ii" to tsubuyaita
+Yoake no naka o tesaguri de aruite
+Hikari o abita anata no sugata ga kioku ni yakitsuite
+Imamo koko ni iru
+"mune ni kizamareta kimi no kasuka na shiroi kioku wa koori no you ni..."
+Nanimo nokosazu ni soba ni ita kamoshirenai to iu kage dake o nokoshite
+Sono kage mo sukoshizutsu oto mo tatezu shizuka ni kieteiku
+Mujaki na kao de boku ni hohoemu
+Nanigenai sonna shigusa ga
+Ima ni nareba tsuyogatte miseteta
+Anata no yasashisa
+Inoru koto no hakanasa ni kizuita boku wa
+Anata ni nanimo dekinakute
+"mune ni kizamareta kimi no kasuka na shiroi kioku wa koori no you ni..."
+Nanimo nokosazu ni soba ni ita kamoshirenai to iu kage dake o nokoshite
+"mune ni kizamareta kimi no kasuka na shiroi kioku wa koori no you ni..."
+Nanimo nokosazu ni soba ni ita kamoshirenai to iu kage dake o nokoshite
+Sono kage mo sukoshizutsu oto mo tatezu shizuka ni kieteiku
+Nagai yoru ni mou anata wa mienai...

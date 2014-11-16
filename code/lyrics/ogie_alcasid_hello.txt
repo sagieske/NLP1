@@ -1,0 +1,34 @@
+Artist: ogie_alcasid
+Title: hello
+Genre: Pop/Rock
+Subgenres: [u'International Pop']
+
+Song:
+
+Hi, hello, its nice to see you again,
+I didn't quite expect this..
+I don't know what to say,
+Seems so strange to see you standing there
+Thought you left forever now you reappear
+Yes I know its been a long long time
+And yes we left on a sad one note
+That let two has said goodbye
+But here we are my heart beats once again..
+Is this a new beginning what can I say
+Well hello.....
+
+Seems so strange to see you standing there
+Thought you left forever now you reappear
+Yes I know its been a long long time
+And yes we left on a sad one note
+That let two has said goodbye
+But here we are my heart beats once again..
+Is this a new beginning what can I say
+Well hello..
+
+Yes I know its been a long long time
+And yes we left on a sad one note
+That let two has said goodbye
+But here we are my heart beats once again..
+Is this a new beginning what can I say
+Well hello.....

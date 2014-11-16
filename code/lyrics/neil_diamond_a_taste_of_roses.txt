@@ -1,0 +1,23 @@
+Artist: neil_diamond
+Title: a_taste_of_roses
+Genre: Pop/Rock
+Subgenres: [u'Adult Contemporary', u'AM Pop', u'Contemporary Pop/Rock', u'Soft Rock', u'Singer/Songwriter']
+
+Song:
+
+A taste of roses, that's what you gave me
+And then you made me
+Turn around and walk away
+A taste of roses, that little moment
+But I have sworn that I was born
+For just that day
+
+I was a child again
+In a world orphaned with light
+You showed me the day
+And then you left me in the night
+
+A taste of roses, that sweet beginning
+Whose bitter end will be rememeber'd
+Thru the years, with a taste of tears
+A taste of tears

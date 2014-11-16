@@ -1,0 +1,36 @@
+Artist: kelly_family
+Title: amazing_grace
+Genre: Pop/Rock
+Subgenres: [u'Celtic', u'Traditional Celtic', u'Euro-Pop']
+
+Song:
+
+Amazing grace
+How sweet the sound
+That saved a wretch like me
+I once was lost
+But now I'm found
+Was blind
+But now
+I see
+I see
+I see
+Through many dangers
+Toils and snares I have already come
+'t Is grace that brought me safe thus far
+And grace will lead me home
+Me home
+'t Was grace that taught my heart to fear
+And grace my fears relieved
+How precious did that grace appear
+The hour I first believe
+Believe
+When we've been there
+Ten thousand years
+Bright shining as the sun
+We've now less days to sing God's praise
+Than when we first begun
+Begun
+Begun, begun
+Amazing grace
+Amazing grace

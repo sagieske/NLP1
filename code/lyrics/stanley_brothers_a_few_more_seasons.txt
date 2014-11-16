@@ -1,0 +1,21 @@
+Artist: stanley_brothers
+Title: a_few_more_seasons
+Genre: Country
+Subgenres: [u'Traditional Bluegrass', u'Bluegrass', u'Bluegrass-Gospel', u'Close Harmony', u'Gospel', u'Old-Timey', u'Traditional Country', u'Country-Pop']
+
+Song:
+
+Mother first was called to heaven
+Left our home all alone
+Dad took sick soon and joined her
+They're reunited on god's throne
+
+A few more tiring days still face us
+A few more weary nights shall come
+We'll all be on our way to heaven
+When a few more seasons come
+
+In springtime when the flowers blossom
+Spreading their fragrance through the air
+Walking through the little churchyard
+Soon we'll all be resting there

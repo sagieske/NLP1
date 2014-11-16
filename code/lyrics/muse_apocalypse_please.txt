@@ -1,0 +1,27 @@
+Artist: muse
+Title: apocalypse_please
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Post-Grunge', u'Britpop', u'Neo-Prog', u'Prog-Rock']
+
+Song:
+
+Declare this an emergency
+Come on and spread a sence of urgency
+And pull us through
+And pull us through
+And this is the end
+This is the end of the world
+
+It's time we saw a miracle
+Come on it's time for something biblical
+To pull us through
+And pull us through
+And this is the end
+This is the end of the world
+
+Proclaim eternal victory
+Come on and change the course of history
+And pull us through
+And pull us throuh
+And this is the end
+This is the end of the world

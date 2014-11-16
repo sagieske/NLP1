@@ -1,0 +1,37 @@
+Artist: quicksand
+Title: delusional
+Genre: Pop/Rock
+Subgenres: [u'Prog-Rock']
+
+Song:
+
+Delusional,
+I'm not impressed.
+You want to, tell me, so bad,
+Who is on your guest list, tonight,
+But I don't care.
+Save it for,
+One of your,
+Other friends,
+Or your many fans.
+Just think.
+Just,
+Think solutional,
+We have a problem.
+We don't care, who you know.
+Its too bad that you think so.
+Next time you drop a name.
+Save it for,
+One of your,
+Other friends,
+Or your many fans.
+Delusional,
+I'm not impressed.
+Illusional,
+Lies, you tell best,
+And you want me to know,
+But I can't hear at all.
+But I can't hear at all.
+I can't hear at all.
+But I can't hear at all.
+I can't hear at all

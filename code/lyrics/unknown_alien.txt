@@ -1,0 +1,42 @@
+Artist: unknown
+Title: alien
+Genre: Pop/Rock
+Subgenres: [u'Indie Pop', u'Alternative/Indie Rock', u'Neo-Psychedelia', u'Indie Electronic']
+
+Song:
+
+Lani
+
+by Larry Kaplan
+
+1. Blue skies, white clouds, fish jumpin' in your hand
+What a day to be fishin' ole Nantucket sound
+From the island up to the mainland
+
+Chorus:
+
+Get me my fiddle we'll sing all old songs
+You take the high notes, and I'll take the low
+Good times and hard times, there all worth the telling
+It don't matter to me that you sing 'em that well.
+
+2. I remember the days when you worked for a living
+Pulling hard just to get back to shore
+And you busted your back and you didn't get dinner
+we don't talk much of that anymore
+3. Stayed up with the old folks, fell asleep to their stories
+Played a tune to the hollerin' wind
+Sang a song while the children were put away warm
+And the night tides came rollin' back in.
+
+4. Worn out, smellin' of bait,
+Come home when the wind blows you home
+And the sun over west chalk, the warm summer breezes
+Make you think that things never will change.
+
+(repeat first verse)
+
+@music @fish
+filename[ LANINANT
+DC
+===DOCUMENT BOUNDARY

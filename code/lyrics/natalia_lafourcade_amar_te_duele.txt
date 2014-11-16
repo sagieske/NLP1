@@ -1,0 +1,26 @@
+Artist: natalia_lafourcade
+Title: amar_te_duele
+Genre: Latin
+Subgenres: [u'Rock en Espa\xf1ol', u'Latin Pop', u'Alternative Latin', u'Bossa Nova']
+
+Song:
+
+Te quiero de aqui a marte,
+Amarte duele tanto que no se que hacer
+Si verte en el aparador, tocarte y quererte
+Amarte duele.
+Te quiero de aqui a marte,
+Aunque la gente siga nuestros pasos yo
+Te pido que olvides, no veas el reloj
+Y quedate aunque duele.
+Y amarte duele, quiero llevarte a marte y me duele,
+Si el mundo no conspira
+No se puede, el amor
+Quiero escaparme a marte y quererte.
+Escapare contigo a marte
+Ahi no importa nada, te podr querer
+Pero tu hermana dice que no sientes lo que dices y me duele.
+Y amarte duele, quiero llevarte a marte y me duele,
+Si el mundo no conspira
+No se puede, el amor
+Quiero escaparme a marte y quererte. (x2)

@@ -1,0 +1,31 @@
+Artist: victor_wood
+Title: crying_time
+Genre: Jazz
+Subgenres: [u'Jam Bands', u'Jazz-Funk', u'Post-Bop', u'Electric Jazz', u'Modern Creative', u'Avant-Garde Jazz', u'Soul Jazz']
+
+Song:
+
+Oh, it's crying time again, you're gonna leave me
+I can see that far away look in your eyes
+I can tell by the way you hold me darling
+That it won't be long before it's crying time
+
+Now they say that absence makes the heart grow fonder
+And that tears are only rain to make love grow
+Well my love for you could never grow no stronger
+If I lived to be a hundred years old
+
+Now you say you've found someone a lot better
+That's the way it happened every time before
+And as sure as the sun shines up tomorrow
+Crying time will start when you walk out the door
+
+Oh, it's crying time again, you're gonna leave me
+I can see that far away look in your eyes
+I can tell by the way you hold me darling
+That it won't be long before it's crying time
+
+Oh, it's crying' time again, you're gonna leave me
+I can see that far away look in your eyes
+I can tell by the way you hold me darling
+That it won't be long before it's crying time

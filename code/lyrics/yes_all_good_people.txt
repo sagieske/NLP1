@@ -1,0 +1,19 @@
+Artist: yes
+Title: all_good_people
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Art Rock', u'British Psychedelia', u'Prog-Rock', u'Psychedelic/Garage', u'Contemporary Pop/Rock']
+
+Song:
+
+Squire)
+I've seen all good people turn their heads each day so satisfied I'm on my way.
+I've seen all good people turn their heads each day so satisfied I'm on my way.
+I've seen all good people turn their heads each day so satisfied I'm on my way.
+I've seen all good people turn their heads each day so satisfied I'm on my way.
+I've seen all good people turn their heads each day so satisfied I'm on my way.
+I've seen all good people turn their heads each day so satisfied I'm on my way.
+Yea, yea.
+I've seen all good people turn their heads each day so satisfied I'm on my way.
+I've seen all good people turn their heads each day so satisfied I'm on my way.
+I've seen all good people turn their heads each day so satisfied I'm on my way.
+I've seen all good people turn their heads each day so satisfied I'm on my way

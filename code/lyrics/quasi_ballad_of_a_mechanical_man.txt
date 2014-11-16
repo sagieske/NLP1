@@ -1,0 +1,19 @@
+Artist: quasi
+Title: ballad_of_a_mechanical_man
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Indie Pop', u'Indie Rock']
+
+Song:
+
+A machine came knocking at my door
+Lost & alone; hungry for oil.
+I could see he wouldn't get too far
+Shape of a man; soul of a car.
+Soon we'll all be dead.
+It makes me feel so comfortable.
+What I see & what I think I hear
+Clouds in my eye; rust in my ear.
+A machine will never have to feel.
+I know it's fake but pretend that it's real.
+Soon we'll all be dead.
+It makes me feel so comfortable

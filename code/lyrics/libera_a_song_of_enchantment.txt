@@ -1,0 +1,26 @@
+Artist: libera
+Title: a_song_of_enchantment
+Genre: New Age
+Subgenres: [u'Classical Crossover', u'Neo-Classical', u'Spiritual', u'Choral']
+
+Song:
+
+A song of enchantment I sang me there
+In a green green wood by waters fair
+Just as the words came up to me
+I sang it under a wild wood tree
+
+Widdershins turned I singing it low
+Watching the wild birds come and go
+No cloud in the deep dark to be seen
+Under the thick thatch branches green
+
+Twilight came silence came
+The planet of evening's silver flame
+By darkening paths I wandered through
+Thickets trembling with drops of dew
+
+But the music is lost and the words are gone
+Of the song I sang as I sat along
+Ages and ages have fallen on me
+On the wood and the pool and the elder tree

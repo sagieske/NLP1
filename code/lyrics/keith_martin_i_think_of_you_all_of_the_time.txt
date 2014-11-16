@@ -1,0 +1,25 @@
+Artist: keith_martin
+Title: i_think_of_you_all_of_the_time
+Genre: Country
+Subgenres: [u'Contemporary Country', u'Contemporary Pop/Rock', u'Country-Pop']
+
+Song:
+
+V: As I think about the past I can see all the love that we shared
+You and me. Do I stand alone with all my memories? Or confess
+My heart and so desprately. Knowing that you're not here with
+Now. I will try to make it somehow. Mending a broken heart I find
+You're still deep inside.
+
+Ch: I think of you all the time. And I can't get you out of my mind.
+Now that I'm on my own, when I sit alone, thoughts of you
+Stumble on my mind. That's why I think of you all of the time.
+
+V: No matter how far the distance. May be. I carry thoughts of
+You deep inside my heart. Oh yeah. There is nothing more that
+I want then to have you right here instead of crying at night. The
+Stars are my tears. Remembering the good times that we had.
+And making you smile when things made you sad. All of things
+That I gave to you, I can't believe that we're through.
+
+Ch: (To fade)

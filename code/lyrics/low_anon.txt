@@ -1,0 +1,20 @@
+Artist: low
+Title: anon
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Dream Pop', u'Indie Rock', u'Sadcore', u'Slowcore', u'Alternative Pop/Rock']
+
+Song:
+
+Clean bill of health
+Five years at the bell
+No one will admit
+The time or the places they've been
+
+Anon
+
+Three scales of men
+Trace back to begin
+No one will admit
+Ignoring the age of my skin
+
+Anon

@@ -1,0 +1,22 @@
+Artist: don_williams
+Title: easy_touch
+Genre: Country
+Subgenres: [u'Country-Pop', u'Traditional Country']
+
+Song:
+
+I'm an easy touch she knows it everybody does
+I just can't say no she calls I go
+And I would bring her the world on a silver platter
+Oh but things like that don't matter
+All she wants is all my love and for that I'm an easy touch
+I'm an easy touch I love her she don't know how much
+I just can't resist she wants she gets
+And I would gladly pay any price to be with her
+Oh there's nothing I wouldn't give her
+All she wants is all my love and for that I'm an easy touch
+
+I just love to hear her say honey there's something I need today
+It's so sure a sign that love is on the way
+[ strings ]
+And I would gladly pay any price...

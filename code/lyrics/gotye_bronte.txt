@@ -1,0 +1,30 @@
+Artist: gotye
+Title: bronte
+Genre: Pop/Rock
+Subgenres: [u'Electronica', u'Indie Electronic', u'Trip-Hop', u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Pop']
+
+Song:
+
+Now your bowl is empty
+And your feet are cold
+And your body cannot stop rocking
+I know
+It hurts to let go
+
+Since the day we found you
+You have been our friend
+And your voice still
+Echoes in the hallway of this house
+But now
+It's the end
+
+We will be with you
+When you're leaving
+We will be with you
+When you go
+We will be with you
+And hold you till you're quiet
+It hurts to let you go
+
+We will be with you
+You will stay with us

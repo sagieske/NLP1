@@ -1,0 +1,38 @@
+Artist: james_taylor
+Title: another_grey_morning
+Genre: Pop/Rock
+Subgenres: [u'Adult Contemporary', u'Singer/Songwriter', u'Soft Rock', u'Contemporary Pop/Rock', u'AM Pop']
+
+Song:
+
+When I feel as though my love is sinking down
+The sun doesn't want to shine
+When it feels like she won't face another day
+Life is unkind
+She's frozen in time
+
+And here comes another grey morning
+A not so good morning after all
+She says "well, what am I to do today
+With too much time and so much sorrow"
+
+She hears the baby waking up downstairs
+She hears the foghorn calling out across the sound
+Repetition in the morning air
+Is just too much to bear
+And no one seems to care
+If another day goes creeping by
+Empty and ashamed
+Like an old unwanted memory
+That no one will claim
+The clouds with their heads on the ground
+She's gonna have to come down
+
+She said "move me, move me
+I'm locked up inside"
+Well, I didn't understand her
+Though God knows I tried
+She said "make me angry
+But just make me cry
+But no more grey morning
+I think I'd rather die"

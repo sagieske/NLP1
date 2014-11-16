@@ -1,0 +1,16 @@
+Artist: snow_patrol
+Title: black_and_blue
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Adult Alternative Pop/Rock']
+
+Song:
+
+Blood red lips like soft intentions
+Kiss my eyes - they're black and blue
+Even if I shouldn't be here
+I cannot help myself with you
+There's something that I should have told you
+We won't get a second chance
+Just one night is all we'll spend
+Together and it's killing me
+She rescues me

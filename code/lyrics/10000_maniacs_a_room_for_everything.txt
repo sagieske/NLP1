@@ -1,0 +1,23 @@
+Artist: 10000_maniacs
+Title: a_room_for_everything
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'College Rock', u'Jangle Pop', u'Adult Alternative Pop/Rock']
+
+Song:
+
+You were looking away from me, western skies calling you.
+Colors spilling, running dazzling you.
+I was looking the other way, voices call from the east,
+I saw my roots of the trees there planted at my feet.
+It could be I'm searching for a place so small
+With room for everything where worlds on worlds revolve.
+But how can we wait?
+I wouldn't hold you back.
+Suppose I was the clere one and words came easy to me.
+I could say I was writing a song about you and me.
+Maybe that verse is yet tobe found, but waits inside of me,
+A secret room, a tangled web to unweave.
+But how can we wait knowing our ways,
+How can we hold on,
+Still you know it's not too late.
+/A/

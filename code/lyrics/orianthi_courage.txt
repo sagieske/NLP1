@@ -1,0 +1,40 @@
+Artist: orianthi
+Title: courage
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Pop/Rock', u'Guitar Virtuoso']
+
+Song:
+
+Take all my vicious words
+And turn them into something good
+Take all my preconceptions
+And let the truth be understood
+Take all my prized possessions
+Leave only what I need
+Take all my pieces of doubt
+And let me be what's underneath
+Courage is when you're afraid, 
+But you keep on moving anyway
+Courage is when you're in pain, 
+But you keep on living anyway
+We all have excuses why
+Living in fear something in us dies
+Like a bird with broken wings
+It's not how high he flies, 
+But the song he sings
+Courage is when you're afraid, 
+But you keep on moving anyway
+Courage is when you're in pain, 
+But you keep on living anyway
+It's not how many times you've been
+Knocked down
+It's how many times you get back up
+Courage is when you've lost your way, 
+But you find your strength anyway
+Courage is when you're afraid
+Courage is when it all seems grey
+Courage is when you make a change, 
+And you keep on living anyway
+You keep on moving anyway
+You keep on giving anyway
+You keep on loving anyway

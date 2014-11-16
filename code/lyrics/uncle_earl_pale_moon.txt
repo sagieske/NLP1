@@ -1,0 +1,30 @@
+Artist: uncle_earl
+Title: pale_moon
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'American Trad Rock', u'Contemporary Pop/Rock', u'Neo-Psychedelia', u'Album Rock']
+
+Song:
+
+Pale moon in the bright blue sky.
+Quiet moon in the trumpeting sunlight
+
+Full moon in the bright blue sky.
+High noon is hiding your light.
+
+I heard she's waiting. She waits for night.
+
+Crescent moon in the bright blue sky
+Tiny spoon. Little bite of the big pie.
+
+Half moon in the bright blue sky.
+Hold on. Hold back your better side.
+
+Maybe she's waiting. She waits for night.
+
+Crooked moon in the bright blue sky.
+Corner of the room. You watch from the outside.
+
+Shy moon in the bright blue sky.
+Lonesome moon. Stars more your own kind.
+
+Heard she's just waiting. She waits for night.

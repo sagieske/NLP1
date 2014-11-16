@@ -1,0 +1,25 @@
+Artist: elvis_crespo
+Title: amarte_asi_lyrics
+Genre: Latin
+Subgenres: [u'Dominican Traditions', u'Latin Dance', u'Latin Pop', u'Merengue', u'Tropical']
+
+Song:
+
+Ven aqui, ya me decidi abrir mi alma,
+Mi alma para ti.
+Ven aqui, ya no lo esperes mas,
+Te voy a decir lo que quieres escuchar,
+Parece que mi alma va a estallar
+Y mis sentimientos ya
+Quieren hablar y mi corazon no para de latir
+Todo mi ser quiere decirte a ti, a ti, asi.
+Coro:
+Nunca yo me imagine quererte tanto
+Nunca yo me imagine amarte asi
+Se que tu esperabas que mi pecho abriera y
+Dijera todo lo que siente por ti.
+No se, no se, no se, sera que me tarde
+Por miedo a fallar. No se si fue asi
+Pero mi ser quiere decirte que jamas,
+Que jamas pense amarte asi.
+Coro: (se repiten ultimas 2 estrofas)

@@ -1,0 +1,38 @@
+Artist: waifs
+Title: circles
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Folk', u'Alternative Pop/Rock', u'Alternative/Indie Rock']
+
+Song:
+
+What's your excuse for living like
+You're somebody different
+
+You're nobody different
+You're just somebody
+
+Tell me what's the reason behind
+All your frustrations
+
+It's a bad situation
+
+Can you trust me
+
+Do you think that maybe you live your
+Life in circles
+
+Going round in circles
+
+Heading nowhere
+
+Talk about it, live without it
+
+If you wanna sort it out you gotta
+Come on and talk about it, live without it
+
+What's your excuse for living like
+
+You're somebody different
+
+You're nobody different
+You're just somebody

@@ -1,0 +1,16 @@
+Artist: vern_gosdin
+Title: a_picture_of_me_without_you
+Genre: Country
+Subgenres: [u'Bluegrass', u'Contemporary Country', u'Neo-Traditionalist Country', u'Progressive Bluegrass', u'Traditional Bluegrass', u'Traditional Country']
+
+Song:
+
+Imagine a world where no music was played
+And think of a church with nobody praying
+If you; ve ever looked up at a sky without no roof
+Then you've seen a picture of me without you.
+
+Oh, have you walked through a garden where nothin' was grown
+Or stood by a river where nothin' was flowin'
+If you've seen rose bud that were kissed by the dew
+Then you've seen a picture of me without you.

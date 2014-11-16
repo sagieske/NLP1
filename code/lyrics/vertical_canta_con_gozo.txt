@@ -1,0 +1,19 @@
+Artist: vertical
+Title: canta_con_gozo
+Genre: Pop/Rock
+Subgenres: [u'American Trad Rock', u'Post-Grunge', u'Adult Alternative Pop/Rock', u'Alternative Pop/Rock', u'Alternative/Indie Rock']
+
+Song:
+
+Si tu llamas hoy el contestara
+Si lo buscas hoy lo encontraras
+Si lo alabas hoy fuerzas te dara
+Alabemos hoy oh santos de Dios
+
+Cantad con gozo a nuestro Dios
+Cantad con gozo a nuestro Dios a Dios
+
+Si lo sientes hoy es por que aqui esta
+Dale ya tu amor amandote esta
+El nos sanara y nos limpiara
+Nuestro corazon y toda nacion

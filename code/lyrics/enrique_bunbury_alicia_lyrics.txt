@@ -1,0 +1,37 @@
+Artist: enrique_bunbury
+Title: alicia_lyrics
+Genre: Latin
+Subgenres: [u'Latin Pop', u'Rock en Espa\xf1ol']
+
+Song:
+
+Ni un dia mas me quedar sentado aqui,
+En la penumbra de un jardin tan extrao.
+Cae la tarde y me olvid otra vez
+De tomar una determinacin.
+Alicia sortilegio de babia
+En el fondo del espejo.
+Alicia ni supone ni piensa,
+Con la luna por cerebro.
+Alicia en su pensamiento
+Tirando del hilo de su enredo.
+Alicia en el laberinto
+Sin minotauro me llama: Teseo!
+Alicia es siempre tan breve
+Que ya ha terminado.
+Alicia dice que te quiere
+Cuando ya te ha abandonado.
+Alicia expulsada...
+Al pais de las maravillas.
+Para Alicia hoy...
+Es siempre todavia.
+Alicia, viajando entre lunas,
+De charla con musaraas.
+Alicia tejiendo las nubes
+Con tela que nunca se acaba.
+Alicia es siempre tan breve
+Que ya ha terminado
+Alicia dice que te quiere
+Cuando ya te ha abandonado.
+Alicia expulsada...
+Al pais de las maravillas.

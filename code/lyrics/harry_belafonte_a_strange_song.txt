@@ -1,0 +1,42 @@
+Artist: harry_belafonte
+Title: a_strange_song
+Genre: Vocal
+Subgenres: [u'Calypso', u'Caribbean Traditions', u'Traditional Folk', u'AM Pop', u'Early Pop/Rock', u'Traditional Pop']
+
+Song:
+
+It's a strange song
+'Bout a boy who went wrong
+Who tried to make it up
+Inside his heart and start again
+To make a manse
+
+For livin' his strange life
+He's never made a change life
+Until one day he found himself alone
+With only him
+And oh how dim his future seemed
+
+On that day
+He searched to find a better way to be a man
+And as he tried
+He cast away his foolish pride
+And I understand
+
+His strange song
+Then he came a sing along
+Where every note was just a proper one
+To hum and sing and have a thing
+That's groovy with
+
+On that day
+He searched to find a better way to be a man
+And as he tried
+He cast away his foolish pride
+And I understand
+
+His strange song
+Then he came a sing along
+Where every note was just a proper one
+To hum and sing and have a thing
+That's groovy with

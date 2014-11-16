@@ -1,0 +1,44 @@
+Artist: melanie
+Title: again
+Genre: Pop/Rock
+Subgenres: [u'AM Pop', u'Folk-Pop', u'Folk-Rock', u'Singer/Songwriter', u'Contemporary Pop/Rock', u'Soft Rock']
+
+Song:
+
+Nothing for me to do
+But be alone
+Tonight
+Maybe I'll sit and write
+'Cause if I don't
+The ones I met won't
+Be my friends for life
+Where did I put my paper and pen
+Well, I'm looking around
+Again
+My room is a mess
+I can't find the address
+Of the ones I like best
+Again
+Nothing for me to do
+But be alone
+Again
+Where did I put my friend
+I lost the address
+Of the place I like best
+And I'm looking around
+Again
+Nothing for me to do
+Well, I'm looking around
+Again
+Where did I put my friend
+I lost the address
+Of the place I like best
+And I'm looking around
+Again
+Nothing for me to do
+But be alone
+Tonight
+Maybe I'll sit and write
+'Cause if I don't
+The ones I met won't
+Be my friends for life

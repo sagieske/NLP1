@@ -1,0 +1,19 @@
+Artist: snow_patrol
+Title: alpinestars
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Adult Alternative Pop/Rock']
+
+Song:
+
+Snow patrol
+Save your soul
+Feel the cold
+Taking hold
+(Repeat)
+We scan our eyes across the land
+In frozen time we're left behind
+The ride is our mystery find
+In search of life we are assigned
+Snow patrol
+Save your soul
+(Repeat)

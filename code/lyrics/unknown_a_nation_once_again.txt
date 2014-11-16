@@ -1,0 +1,16 @@
+Artist: unknown
+Title: a_nation_once_again
+Genre: Pop/Rock
+Subgenres: [u'Indie Pop', u'Alternative/Indie Rock', u'Neo-Psychedelia', u'Indie Electronic']
+
+Song:
+
+A Man Without a Woman
+Now a man without a woman is like a ship without a sail
+Is like a boat without a rudder, or a shirt without a tail
+Now a man without a woman is like a wreck upon the sand
+But if there is one thing worse in this universe
+Then it's a woman, I said a woman
+I mean a woman without a man
+Filename[ mannowom
+===Document boundary===

@@ -1,0 +1,32 @@
+Artist: the_platters
+Title: ebb_tide
+Genre: R&B
+Subgenres: [u'Doo Wop', u'Vocal Pop', u'Early Pop/Rock', u'Early R&B']
+
+Song:
+
+First the tide rushes in
+Plants a kiss on the shore
+Then rolls out to sea
+And the sea is very
+Still once more
+
+So I rush to your side
+Like the oncoming tide
+With one burning thought
+Will your arms open wide
+
+At last, we're face to face
+And as we kiss
+Through an embrace
+I can tell, I can feel
+You are love, you are real
+
+Really mine in the rain
+In the dark, in the sun
+
+Like the tide at it's ebb
+I'm at peace in the
+Web of your arms
+
+Ebb tide

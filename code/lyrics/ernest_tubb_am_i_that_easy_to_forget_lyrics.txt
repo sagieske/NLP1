@@ -1,0 +1,17 @@
+Artist: ernest_tubb
+Title: am_i_that_easy_to_forget_lyrics
+Genre: Country
+Subgenres: [u'Honky Tonk', u'Traditional Country']
+
+Song:
+
+You say you've found somebody new but that won't stop my loving you
+I just can't let you walk away forget the love I have for you
+Yes I could find somebody too but I don't want no one but you
+How can you leave without regret am I that easy to forget
+Before you leave be sure you find you want his love much more than mine
+Then I'll just say we've never met if I'm that easy to forget
+[ steel ]
+Yes I could find somebody too but I don't want no one but you
+I couldn't leave without regret you're not that easy to forget
+Before you leave be sure...

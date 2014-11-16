@@ -1,0 +1,18 @@
+Artist: eddie_cochran
+Title: a_million_teardrops_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Rock & Roll', u'Rockabilly', u'Honky Tonk']
+
+Song:
+
+There must be a million (there must be a million)
+Teardrops falling down (they're falling down)
+Yes, there must be a million (yes, there's one million)
+I'll forget somehow (I'll forget somehow)
+How long I am crying, still I'm yours to commend
+Take this love that I give you, here's my heart in my hand
+
+Alone, alone I am crying (Oh, how I cry)
+I am yours to commend (I'm yours to commend)
+Take this love that I give you (my, my love I give you)
+Here's my heart in my hand

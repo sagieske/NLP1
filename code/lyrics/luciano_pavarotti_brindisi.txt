@@ -1,0 +1,20 @@
+Artist: luciano_pavarotti
+Title: brindisi
+Genre: Classical
+Subgenres: [u'Classical Crossover', u'Opera', u'Vocal Music']
+
+Song:
+
+Lui:
+Libiamo, libiamo ne'lieti calici
+Che la belleza infiora.
+E la fuggevol ora s'inebrii
+A volutt?.
+Libiamo ne'dolci fremiti
+Che suscita l'amore,
+Poich? Quell'ochio al core
+Omnipotente va.
+Libiamo, amore fra I calici
+Pi? Caldi baci avr?.
+All:
+Ah, libiamo

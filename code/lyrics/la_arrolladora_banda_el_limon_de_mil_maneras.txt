@@ -1,0 +1,31 @@
+Artist: la_arrolladora_banda_el_limon
+Title: de_mil_maneras
+Genre: Latin
+Subgenres: [u'Banda', u'Corrido', u'Latin Pop', u'Mexican Traditions']
+
+Song:
+
+Habla con tu corazon antes que nada
+Y luego me diras si no me quieres
+Porque te empeсas en decirle a todo el mundo
+Que solo libertad de mi tu quieres.
+
+Yo tratare de mil maneras complacerte
+Pero no vayas otravez a arrepentirte
+Y si algun dia te decides a buscarme
+Dalo por muerto aquel amor que no quisiste.
+
+Yo tratare de mil maneras complacerte
+Pero no vayas otravez a arrepentirte
+Y si algun dia te decides a buscarme
+Dalo por muerto aquel amor que no quisiste.
+
+Yo tratare de mil maneras complacerte
+Pero no vayas otravez a arrepentirte
+Y si algun dia te decides a buscarme
+Dalo por muerto aquel amor que no quisiste.
+
+Yo tratare de mil maneras complacerte
+Pero no vayas otravez a arrepentirte
+Y si algun dia te decides a buscarme
+Dalo por muerto aquel amor que no quisiste

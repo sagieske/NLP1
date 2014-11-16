@@ -1,0 +1,19 @@
+Artist: zolof_the_rock_roll_destroyer
+Title: mean_old_coot
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Punk-Pop']
+
+Song:
+
+Hey pea we were playing. We're all so tuckered out.
+Sorry I'm becoming a mean old coot as it were.
+We stayed until 2. Let's up and get away from here.
+And there's hours to go. Let's up and get away from here.
+You don't even know.
+It's 123 chop!
+Calm down. Baby calm down.
+If I were you I'd calm down.
+We stayed until 2. Let's up and get away from here.
+And there's hours to go. Let's up and get away from here.
+You don't even know.
+It's 123 chop!

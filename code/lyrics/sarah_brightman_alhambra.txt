@@ -1,0 +1,41 @@
+Artist: sarah_brightman
+Title: alhambra
+Genre: Vocal
+Subgenres: [u'Adult Contemporary']
+
+Song:
+
+Duermen tus recuerdos
+de bano y perfume
+en tus aposentos,
+llenos de ternura,
+mi querida Alhambra.
+
+Viste mil amores
+nacer en tus entraas,
+luces que acarician
+desde tus ventanas,
+despechada Alhambra.
+
+
+Brillan tus ensueos
+en un mar de estrellas
+y la luna canta
+tu silencio, Alhambra.
+
+
+Lgrimas de yedra
+lloran los vencidos,
+Entre espada y rosa
+crecen tus olivos,
+mi querida Alhambra.
+
+
+Guardo en mi recuerdo
+tu sabor la luna,
+brillas sobre el pueblo
+como el sol, Alhambra.
+
+
+Sueo con Alhambra,
+mi querida Alhambra.

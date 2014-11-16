@@ -1,0 +1,16 @@
+Artist: willie_dixon
+Title: how_come_you_do_me_like_you_do
+Genre: Blues
+Subgenres: [u'Chicago Blues', u'Electric Chicago Blues', u'Regional Blues', u'Acoustic Chicago Blues', u'Electric Blues', u'Slide Guitar Blues', u'Piano Blues', u'Early R&B', u'Jive', u'Jump Blues']
+
+Song:
+
+How come you do me like you do, do, do?
+How come you do me like you do?
+Why do you try to make me feel so blue?
+I've done nothing to you
+
+Do me right or else just let me be
+'Cause I can beat you doing what you're doing to me
+How come you do me like you do, do, do?
+How come you do me like you do?

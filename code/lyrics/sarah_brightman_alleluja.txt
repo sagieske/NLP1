@@ -1,0 +1,30 @@
+Artist: sarah_brightman
+Title: alleluja
+Genre: Vocal
+Subgenres: [u'Adult Contemporary']
+
+Song:
+
+Alleluja, alleluja
+Alleluja, alleluja
+Alleluja, alleluja
+Alleluja, alleluja
+
+Alleluja
+Alleluja
+
+Alleluja, alleluja
+
+Alleluja, alleluja
+Allelujaaaaaaaaa, alleluja
+Alleluja, alleluja
+
+Alleluja, allelujaaaaaaaaa
+Alleluja, alleluja, alleluja
+
+Aaaaaaaaaaaaaaalleluja
+
+Alleluja, alleluja
+
+Alleluja, alleluja, alleluja
+Alleluja, alleluja, alleluja, alleluja

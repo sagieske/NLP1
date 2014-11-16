@@ -1,0 +1,13 @@
+Artist: rush
+Title: 2112_grand_finale
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Hard Rock', u'Prog-Rock', u'Arena Rock']
+
+Song:
+
+Attention all Planets of the Solar Federation
+Attention all Planets of the Solar Federation
+Attention all Planets of the Solar Federation
+We have assumed control.
+We have assumed control.
+We have assumed control.

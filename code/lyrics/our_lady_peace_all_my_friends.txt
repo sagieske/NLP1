@@ -1,0 +1,43 @@
+Artist: our_lady_peace
+Title: all_my_friends
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Post-Grunge', u'Adult Alternative Pop/Rock']
+
+Song:
+
+All my friends
+Alone on a hill
+They're just looking down
+With violent minds out on loan
+They're just not equipped
+
+Insistence
+We hope for the best
+Were not making sense in silence
+Wait for the day when you're better than...
+
+In this silence, I'm not buying
+You're not faking, you're not...
+I guess we better hold on
+
+Again this time
+We won't understand again
+I'm not waiting for some sense
+This time, we won't understand again
+I'm not waiting for
+
+Still they sit
+Alone on a hill
+Their mechanical thoughts have left
+The out on their own
+They're not buying this
+
+In this silence, I'm not buying
+You're not faking, you're not...
+I guess we better hold on
+
+Again this time
+We won't understand again
+I'm not waiting for some sense
+This time, we won't understand again
+I'm not waiting for

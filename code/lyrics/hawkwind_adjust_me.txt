@@ -1,0 +1,14 @@
+Artist: hawkwind
+Title: adjust_me
+Genre: Pop/Rock
+Subgenres: [u'Art Rock', u'Hard Rock', u'Heavy Metal', u'Prog-Rock', u'British Psychedelia', u'Psychedelic/Garage']
+
+Song:
+
+City black, encase the time
+World full of men, who all are blind
+Who walk and talk and say as one:
+"Androids are we", heir to no son
+Adjust me
+Adjust me
+Adjust me.....

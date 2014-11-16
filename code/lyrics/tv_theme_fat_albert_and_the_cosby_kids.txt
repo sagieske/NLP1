@@ -1,0 +1,32 @@
+Artist: tv_theme
+Title: fat_albert_and_the_cosby_kids
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Indie Rock', u'Post-Rock']
+
+Song:
+
+Hey, hey, hey!
+Here's Fat Albert
+And I'm gonna sing a song for you
+And this is gonna show you
+A thing or two
+You'll have some fun now
+With me and the gang
+Learning from each other
+While we do our thang
+Na, na, na
+Gonna have a good time
+Na, na, na
+Gonna have a good time
+Hey, hey, hey!
+
+This is Bill Cosby coming at cha with music and fun
+If you're not careful, you may learn something before it's done!
+Hey, hey, hey!
+
+Na, na, na
+Gonna have a good time
+Hey, hey, hey!
+Na, na, na
+Gonna have a good time
+Hey, hey, hey!

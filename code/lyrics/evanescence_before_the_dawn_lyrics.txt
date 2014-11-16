@@ -1,0 +1,34 @@
+Artist: evanescence
+Title: before_the_dawn_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Goth Metal', u'Heavy Metal', u'Post-Grunge', u'Alternative Metal']
+
+Song:
+
+Meet me after dark again and I'll hold you
+I am nothing more than to see you there
+
+[Chorus:]
+And maybe tonight, we'll fly so far away
+We'll be lost before the dawn
+
+If only night can hold you where I can see you, my love
+Then let me never ever wake again
+
+[Chorus:]
+And maybe tonight, we'll fly so far away
+We'll be lost before the dawn
+
+[Bridge:]
+Somehow I know that we can't wake again from this dream
+It's not real, but it's ours
+
+[Chorus:]
+Maybe tonight, we'll fly so far away
+We'll be lost before the dawn
+Maybe tonight, we'll fly so far away
+We'll be lost before the dawn
+
+[Chanting]
+
+[Music Fades Out]

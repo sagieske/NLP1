@@ -1,0 +1,14 @@
+Artist: newsong
+Title: arise_my_love
+Genre: Religious
+Subgenres: [u'CCM', u'Contemporary Christian', u'Gospel']
+
+Song:
+
+Not a word was heard at the tomb that day.
+Just shuffling of soldiers feet as they guarded the grave.
+One day, two days, three days had past.
+Could it be that Jesus breathed his last?
+Could it be that his Father had forsaken him?
+Turned his back on his son, dispising our sin.
+Oh hell seemed to whisper,

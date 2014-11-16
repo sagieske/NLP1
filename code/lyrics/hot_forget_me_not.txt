@@ -1,0 +1,17 @@
+Artist: hot
+Title: forget_me_not
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Post-Grunge', u'Punk Revival', u'Punk-Pop']
+
+Song:
+
+Ha na do jo ge'm do I ji mal-a io
+Nae ga giot-e is-o do I ji mal-a io
+Qo e'm do do ji ge'm dona w sa lang e'n
+Ga ga I it ne'n de do mol li it ne io
+
+Nae ga ji kio jul ge io ge' gos-i o di la do on je la do nae ga
+
+Gi da lio io nae ga gal dae ga ji qo e'm man nat don dae lo da si
+Nae ga ga ne'n gil-i jo ge'm ne't do la do
+It ji ma it ji ma nae ga qa je'l dae ga ji

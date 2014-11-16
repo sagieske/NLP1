@@ -1,0 +1,23 @@
+Artist: rick_nelson
+Title: again
+Genre: Pop/Rock
+Subgenres: [u'Country-Rock', u'Rock & Roll', u'Rockabilly', u'Teen Idols', u'Early Pop/Rock', u'Vocal Music', u'Contemporary Pop/Rock', u'Film Score']
+
+Song:
+
+Again, this couldn't happen again
+This is that once in a lifetime
+This is the thrill devine
+
+What's more, this never happened before
+Though I have prayed for a lifetime
+That such as you would suddenly be mine
+
+Mine to hold, as I'm holding you now
+And yet, never so near
+Mine to have when the now and the here disappear
+What matters dear
+
+For when, this doesn't happen again
+We'll have this moment forever
+But never, never again

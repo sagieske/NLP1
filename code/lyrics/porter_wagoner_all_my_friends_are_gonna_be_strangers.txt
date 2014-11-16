@@ -1,0 +1,26 @@
+Artist: porter_wagoner
+Title: all_my_friends_are_gonna_be_strangers
+Genre: Country
+Subgenres: [u'Country Gospel', u'Country-Pop', u'Gospel', u'Nashville Sound/Countrypolitan', u'Traditional Country']
+
+Song:
+
+All the love you promised would be mine forever
+I would have bet my bottom dollar on
+Well, it sure turned out to be a short forever
+Just once I turned my back and you were gone.
+
+From now on all my friends are gonna be strangers
+I'm all through ever trusting anyone
+The only thing I can count on now is my fingers
+I was a fool believing in you now you are gone.
+
+It amazes me not knowing any better
+Than to think I had a love that could be true
+Well, I should be taken out tired and feathered
+To let myself be taken in by you.
+
+From now on all my friends are gonna be strangers
+I'm all through ever trusting anyone
+The only thing I can count on now is my fingers
+I was a fool believing in you now you are gone...

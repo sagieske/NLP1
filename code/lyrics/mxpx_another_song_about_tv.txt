@@ -1,0 +1,29 @@
+Artist: mxpx
+Title: another_song_about_tv
+Genre: Pop/Rock
+Subgenres: [u'Alternative CCM', u'Alternative/Indie Rock', u'Christian Punk', u'Contemporary Christian', u'Punk-Pop', u'Punk Revival', u'CCM']
+
+Song:
+
+Another song about tv
+How much tv sucks
+Washes your brain of
+Intelligence you sit
+Around all night and day
+Was life really ment to
+Be thin way? tv sucks!
+Watching your life go
+Down the tube and you
+Wonder why every day's
+A re-run nothing
+Different happens
+Nothing new your life's a
+Show and the show is
+Over tv sucks! a waste of
+Time of a created mind
+Star trek's been airing far
+To long can you sleep at
+Night without sight and
+Sound what ever
+Happened to reality? tv
+Sucks!

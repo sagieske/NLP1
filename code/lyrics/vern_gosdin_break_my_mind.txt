@@ -1,0 +1,23 @@
+Artist: vern_gosdin
+Title: break_my_mind
+Genre: Country
+Subgenres: [u'Bluegrass', u'Contemporary Country', u'Neo-Traditionalist Country', u'Progressive Bluegrass', u'Traditional Bluegrass', u'Traditional Country']
+
+Song:
+
+Baby, oh baby, tell the man at the ticket stand
+That you've changed your mind
+Well, let me run on out and tell the cab to keep his meter flying
+'Cause if you say goodbye to me babe you're gonna break my mind
+
+Break my mind, break my mind.
+Well. I just can't stand to hear the big jet engines whine
+Break my mind, break my mind, oh lord
+If you leave you're gonna leave a babbling fool behind.
+
+Baby, oh baby, well, let me take your suitcase off of that scale in time
+Just tell the man that you suddenly developed a thing about high flying
+'Cause if you say goodbye to me you know you're gonna break my mind
+Well, if you leave you're gonna leave a babbling fool behind.
+
+Well, if you leave you're gonna leave a babbling fool behind...

@@ -1,0 +1,53 @@
+Artist: voivod
+Title: best_regards
+Genre: Pop/Rock
+Subgenres: [u'Heavy Metal', u'Progressive Metal', u'Speed/Thrash Metal']
+
+Song:
+
+To whom it may concern
+Your well-known address
+Again, with no answer
+To my last request
+Disregard ink spots
+My presentation
+Consider my clear thoughts
+My speculations
+
+What a warning
+
+I'm more than worried
+The way you're talking
+The sky is burning
+The clouds are falling
+I'm more than sorry
+
+You write me back
+Acknowledge my statement
+You don't write back
+
+Blank empty words
+A creased white receipt
+What a disappointment
+Was I indiscreet?
+Perhaps I'm impolite
+Have I the right to write
+Am I out of place?
+To express my case?
+
+The time is coming
+I'm more than worried
+The world is dying
+
+The clock is ticking
+Real action's missing
+I'm more than sorry
+
+Waiting for the mail
+I stay well-behaved
+Best regards, good world
+
+I stay well-behaved
+Best regards, good world
+Well into my grave
+===

@@ -1,0 +1,25 @@
+Artist: los_tigres_del_norte
+Title: alfilo_del_reloj
+Genre: Latin
+Subgenres: [u'Corrido', u'Mexican Traditions', u'Norteno', u'Tejano', u'Latin Pop', u'Tex-Mex', u'Conjunto']
+
+Song:
+
+Jornalero, jornalero Por qu llegaste tan tarde?
+El reloj te denuncio y ahora van a castigarte
+Esos son lujos de ricos que tu no puedes gastarte
+Te contare de un valiente fusilado aya en Chihuahua
+Lo sentenciaron a muerte con la firma de Carranza
+Y a las seis de la maana al pandern lo llevaban
+Y tu, pequeo hombrecillo que te conviertes en juez
+Haces el juicio a las tres y fusilas a las seis
+Despus te lavas las manos, dices se cumpli la ley
+Al doblar en las campanas fusilaron a un Austriaco
+Igual le paso a Argumedo en un panten de Durango
+Y ese tic tac del reloj la vida le iba robando
+Cuantas horas tiene un ao? Y Cuantas tiene un sexenio?
+De Septiembre hasta Diciembre las cuentas pasan haciendo
+Y ahi empiezan a olvidarse que son empleados del pueblo
+Cuantas horas han pasado? Y Cuantas nos quedaran?
+De seguro habra un reloj que nos marcara un final
+Y es que tiene tanta cuerda que tendra que reventar

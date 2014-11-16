@@ -1,0 +1,24 @@
+Artist: useless_id
+Title: at_the_stadium
+Genre: Pop/Rock
+Subgenres: [u'Punk-Pop', u'Alternative/Indie Rock', u'Alternative Pop/Rock']
+
+Song:
+
+Would I Worry If I Wouldn't Care At All
+It Is 3 Am Here, Waiting For Your Call
+Yet Another Day Has Gone By And I Haven't Heard From You
+Thursday's Got Me So Confused
+
+It Is Really Odd That Things Are Going Great
+One Foot In The Worst, The Other For The Best
+My Mind Has Signed A Petition That Is Going All To You
+It Feels Like A Dream Although It's True
+
+Wrong Turn Today, We Can't Find Our Destination
+One Hour Late, Empty Beds And Still I'm Missing You
+
+A Timing Questioned For This Brand New Start
+But At The Stadium It All Came From The Heart
+I Would Play You All The Tunes That I Know You Would Love To Hear
+In Other Words, Won't You Be My Dear?

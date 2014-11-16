@@ -1,0 +1,22 @@
+Artist: hillsong_kids
+Title: worship_you_forever
+Genre: Religious
+Subgenres: [u'Contemporary Gospel', u'Praise & Worship', u'Sing-Alongs', u'Gospel', u'CCM', u'Contemporary Christian']
+
+Song:
+
+You are God, You are Life
+I will worship You forever.
+
+You knew me before I took my first breath,
+And You know the day that I will breathe my last.
+You're the Alpha Omega, beginning and end,
+
+Forever to You I sing.
+Into Your hands I commit my spirit
+You're the only One who satisfies my soul.
+You're the Alpha Omega, beginning and end,
+Forever to You I sing.
+
+You are God, You are Life,
+I will worship You forever.

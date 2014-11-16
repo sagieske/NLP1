@@ -1,7 +1,7 @@
 Artist: crush_40
 Title: dreams_of_an_absolution
 Genre: Pop/Rock
-Subgenres: []
+Subgenres: [u'Heavy Metal']
 
 Song:
 

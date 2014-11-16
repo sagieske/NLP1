@@ -1,0 +1,35 @@
+Artist: genesis
+Title: afterglow
+Genre: Pop/Rock
+Subgenres: [u'Art Rock', u'Contemporary Pop/Rock', u'Prog-Rock', u'Adult Contemporary', u'Album Rock', u'Soft Rock']
+
+Song:
+
+Like the dust that settles all around me,
+I must find a new home.
+The ways and holes that used to give me shelter,
+Are all as one to me now.
+But I, I would search everywhere
+Just to hear your call,
+And walk upon stranger roads than this one
+In a world I used to know before.
+I miss you more.
+
+Than the sun reflecting off my pillow,
+Bringing the warmth of new life.
+And the sounds that echoed all around me,
+I caught a glimpse of in the night.
+But now, now I've lost everything,
+I give to you my soul.
+The meaning of all that I believed before
+Escapes me in this world of none, no thing, no one.
+
+And I would search everywhere
+Just to hear your call,
+And walk upon stranger roads than this one
+In a world I used to know before.
+For now I've lost everything,
+I give to you my soul.
+The meaning of all that I believed before
+Escapes me in this world of none,
+I miss you more.

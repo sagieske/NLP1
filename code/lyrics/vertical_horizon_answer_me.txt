@@ -1,0 +1,31 @@
+Artist: vertical_horizon
+Title: answer_me
+Genre: Pop/Rock
+Subgenres: [u'American Trad Rock', u'Post-Grunge', u'Adult Alternative Pop/Rock', u'Alternative Pop/Rock', u'Alternative/Indie Rock']
+
+Song:
+
+It seems you're feeling down
+You don't know how long
+But you know you don't like it
+Lost in your room
+It seems you're feeling tired
+You don't know what from
+One too many parties
+Makeup hides the wounds
+Chorus
+Answer me
+Giving up won't get you out
+Can't you hear me
+Come and leave this room of doubt
+Answer me
+It seems you're feeling scared
+You don't know how come
+Hiding in the shadows
+Praying for the sun
+Chorus
+It seems you're feeling old
+You don't know how long
+Holding on to memories
+Waiting for the song
+Chorus

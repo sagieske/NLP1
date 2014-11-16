@@ -1,0 +1,34 @@
+Artist: helen_reddy
+Title: candle_on_the_water
+Genre: Vocal
+Subgenres: [u'Adult Contemporary', u'AM Pop', u'Film Score', u'Soft Rock', u'Contemporary Pop/Rock']
+
+Song:
+
+A
+I'll be your candle on the water,
+My love for you will always burn.
+I know your lost and drifting.
+But the clouds are lifting,
+Don't give up you have somewhere to turn.
+
+I'll be your candle on the water,
+Till every wave is warm and bright.
+My soul is there beside you.
+Let this candle guide you,
+soon you'll see a golden stream of light.
+
+A cold and freindless tide has found you,
+don't let the stormy darkness pull you down.
+I'll paint a ray of hope around you,
+circling the air lighted by a prayer.
+
+I'll be your candle on the water,
+this flame inside of me will grow.
+Keep holding on, you'll make it,
+Here's my hand so take it,
+look for me reaching out to show
+as sure as rivers flow,
+I'll never let you go,
+I'll never let you go,
+I'll never let you go

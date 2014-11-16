@@ -1,0 +1,31 @@
+Artist: misfits
+Title: 1969
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'American Underground', u'Hardcore Punk', u'Punk/New Wave']
+
+Song:
+
+Well it's 1969, okay
+All across the U.S.A.
+It's another year for me and you
+Another year with nothing to do
+Well, it's another year for me and you
+Another year with nothing to do
+
+Last year I was 21
+I didn't have a lot of fun
+And now I'm gonna be 22
+I say "oh my" and "boohoo"
+Yeah now I'm gonna be 22
+Oh my and boo hoo
+
+It's 1969, okay, all across the U.S.A.
+It's another year for me and you
+Another year with nothing to do
+Another year with nothing to do
+Well it's 1969
+1969, 1969, 1969, 1969, baby
+And it's 1969, baby
+Baby
+Baby
+Baby

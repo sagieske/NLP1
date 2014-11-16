@@ -1,0 +1,24 @@
+Artist: young_heretics
+Title: i_know_im_a_wolf
+Genre: Rap
+Subgenres: [u'Gangsta Rap', u'Southern Rap']
+
+Song:
+
+Dear rabbit my legs are getting weak chasing you
+The snow fields wouldn't seem so big if you knew
+That this blood on my teeth it is far beyond dry
+And I've captured you once but I wasn't quite right
+So I'm telling you that you'll be safe with me.
+
+Rabbit my claws are dull now so don't be afraid
+I could keep you warm as long as you can just try to be brave
+Yes I know I'm a wolf and I've been known to bite
+But the rest of my pack I have left them behind
+And my teeth may be sharp and I've been raised to kill
+But the thought of fresh meat it is making me I'll
+So I'm telling you that you'll be safe with me.
+
+So rabbit please stop looking the other way
+It's cold out there so why not stay here
+Under my tail.

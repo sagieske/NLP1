@@ -1,0 +1,58 @@
+Artist: the_wiggles
+Title: camera_one
+Genre: R&B
+Subgenres: [u'Contemporary R&B', u'Pop']
+
+Song:
+
+Greg: ok camera operators, let's get ready to roll!
+Camera one, are you ready?
+Dominic: Ready for the camera.
+Camera two, are you?
+Joseph: Camera two is ready.
+Camera three has the Captain at the held.
+Captain: Oh I'm all ready, Mr. Director.
+Greg: ok!
+Camera one, zoom in
+Dominic: Okey-dokey, Director.
+Camera two, zoom out
+Joseph: Okey-dokey, Director.
+Camera three try and get the close-up
+Captain: Oh, camera three. Oh, that's me. Oh, of course, Mr. Director.
+Wiggles: And everyone goes in and out
+Up and down
+Move about
+Follow the action
+Try a wide shot
+Now a mid-shot
+Go in close
+You've captured the action
+Greg: Yes, you've captured the action.
+Wiggles: The wiggly action
+Greg: Camera one, pull back
+Dominic: Oh, what a great shot.
+Camera two, do the same
+Camera three, it's not the time to do a pirate jig.
+Captain: Ho-ho, I couldn't help myself. I love dancing.
+Greg: That's alright.
+Camera one, well done
+Dominic: Gee, this is fun.
+Camera two, you beaut
+Joseph: You beauty, director.
+Camera three, you make tv seem so easy
+Captain Feathersword: Ho-ho, thank you, Mr. Director.
+Wiggles: And everyone goes in and out
+Up and down
+Move about
+Follow the action
+Try a wide shot
+Now a mid-shot
+Go in close
+You've captured the action
+Greg: Yes, you've captured the action.
+Wiggles: The wiggly action
+Greg: ok, camera operators, that's a wrap! Time to shake hands and pat yourselves on the back for a job well done. (Captain, Joseph and Dominic shake hands together.) Captain, you did a great job out there today. Well done.
+Captain: Whoa-ho-ho! Oh, thank you very much, Greg. (chuckling and using his video camera) Oh hey, I think I might do some more filming.
+Greg: Yeah, you might. You're a genius behind the camera, Captain.
+Captain: Look at that bird over there. Oh, and that cat and those trees. Hoo-hoo! Oh and look at the posts on the harbor. I'll film that too. I'll film it every day.
+Greg: Yes, Captain. The camera's yours.

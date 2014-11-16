@@ -1,0 +1,31 @@
+Artist: george_jones
+Title: a_drunk_cant_be_a_man
+Genre: Country
+Subgenres: [u'Country-Pop', u'Honky Tonk', u'Nashville Sound/Countrypolitan', u'Traditional Country', u'Country Gospel', u'Gospel']
+
+Song:
+
+He embarrasses his child and wife
+Lord, he leads a miserable life
+But still he thinks the bottle in his right hand
+If' he can tear down more than he's ever built before
+A man can be a drunk sometimes
+But a drunk can't be a man.
+
+He left your business lag behind
+For the nightlife he can find
+Why he does all this he'll never understand
+And in the morning when he wakes up
+Lord, he can't wait to fill his cup
+A man can be a drunk sometimes
+But a drunk can't be a man.
+
+For he goes from Dr. Jekyle to Mr. Hyde
+He seems bound to have the devil for his guide
+If he keeps on reachin' out
+Lord, he needs a helping hand
+But a man can be a drunk sometimes
+But a drunk can't be a man.
+
+Yes, man can be a drunk sometimes
+But a drunk can't be a man...

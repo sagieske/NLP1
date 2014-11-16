@@ -1,0 +1,21 @@
+Artist: styx
+Title: a_salty_dog
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Arena Rock', u'Contemporary Pop/Rock', u'Hard Rock', u'Prog-Rock']
+
+Song:
+
+'all hands on deck, we've run afloat! ' I heard the captain cry
+'explore the ship, replace the cook: let no one leave alive! '
+Across the straits, around the horn: how far can sailors fly?
+A twisted path, our tortured course, and no one left alive
+
+We sailed for parts unknown to man, where ships come home to die
+No lofty peak, nor fortress bold, could match our captain's eye
+Upon the seventh seasick day we made our port of call
+A sand so white, and sea so blue, no mortal place at all
+
+We fired the gun, and burnt the mast, and rowed from ship to shore
+The captain cried, we sailors wept: our tears were tears of joy
+Now many moons and many junes have passed since we made land
+A salty dog, this seaman's log: your witness my own hand

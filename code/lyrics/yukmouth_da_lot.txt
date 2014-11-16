@@ -1,0 +1,10 @@
+Artist: yukmouth
+Title: da_lot
+Genre: Rap
+Subgenres: [u'West Coast Rap', u'Gangsta Rap', u'Hardcore Rap']
+
+Song:
+
+The total number of student at Mayfield High School is 1183.
+I have a data base of information for each student such as:
+Name, Age

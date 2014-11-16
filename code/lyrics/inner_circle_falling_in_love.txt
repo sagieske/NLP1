@@ -1,0 +1,17 @@
+Artist: inner_circle
+Title: falling_in_love
+Genre: Reggae
+Subgenres: [u'Contemporary Reggae', u'Reggae-Pop']
+
+Song:
+
+Wise men say, only fools rush in. But I can't help falling in love with you
+Shall I stay? Would it be a sin? I can't help falling in love with you
+
+As the river flows gently to the sea Darling so we go, some things were
+Meant to be Take my hand take my whole life too 'Cause I can't help falling
+In love with you
+
+As the river flows gently to the sea Darling so we go, some things were
+Meant to be Take my hand take my whole life too 'Cause I can't help falling
+In love with you

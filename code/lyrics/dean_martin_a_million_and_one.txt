@@ -1,0 +1,22 @@
+Artist: dean_martin
+Title: a_million_and_one
+Genre: Vocal
+Subgenres: [u'Traditional Pop', u'Vocal Pop', u'AM Pop']
+
+Song:
+
+(How many teardrops) have I cried over you
+A million and one tears a million and two
+(How many nighttimes' have my arms ached to you
+A million and one nights a million and two
+
+Lovin' you darling while I thought you loved me only me
+But you were just fooling and the fool you were fooling was me
+How many sweet dreams will never come true
+A million and one dreams a million and two
+
+(Lovin' you darling while I thought you loved me only me)
+But you were just fooling and the fool you were fooling was me
+(How many sweet dreams) oh will never come true
+A million and one dreams a million and two
+A million and one dreams a million and two

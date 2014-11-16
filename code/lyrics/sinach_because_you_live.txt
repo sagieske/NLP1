@@ -1,0 +1,25 @@
+Artist: sinach
+Title: because_you_live
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Screamo', u'Emo', u'Punk-Pop', u'Punk Revival']
+
+Song:
+
+You paid the price
+The highest price
+Am so grateful
+For you love
+You took my place
+Now I stand
+To be called your very own
+
+Because you live
+Jesus I live
+I have no fear
+Of what tomorrow brings
+Because you live
+Jesus I live today
+I live to praise your name
+
+I live to praise your name
+I have no fear of what tomorrow brings

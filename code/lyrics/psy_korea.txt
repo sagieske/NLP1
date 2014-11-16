@@ -1,0 +1,26 @@
+Artist: psy
+Title: korea
+Genre: Pop/Rock
+Subgenres: [u'Korean Pop', u'Comedy Rap', u'Pop', u'Asian Pop', u'Party Rap']
+
+Song:
+
+Uriui geot uriui meot sojunghan geot sarainne
+Giwang kal ppobasseumyeon murado sseoreo kkeuteul boji anheumyeon bunhaeseo
+Tteoreo
+Kkumeseo meoreojyeodo jeoldae seoreowohaji anko dallyeoga nan ajik eoryeo
+Kkeutnal ttaekkaji kkeutnan ge aniya, handa kkeutkkaji hanguk saramiya
+Modu ireona jigeum modu ireona modu ireonaya keun iri ireona
+Deulgo ireona jigeum deulgo ireona deulgo ireonaya geuraeya korea
+Korea deo keuge korea deo keuge korea deo sege korea ooo (x2)
+Pungagi ullinda pungagi ullinda 5cheonmanui hamseongi ullyeo peojinda
+Yaya, yayayaya, yayayayayayaya ooo(x2)
+Nuga nareul siheomhae geu siheomeun wiheomhae hanbeon handa hamyeon haetda
+Hamyeon eomaeomahae
+5cheonmanui hamseongi uriui soriya hanbandoui soriya korea
+Kkeutnal ttaekkaji kkeutnan ge aniya, handa kkeutkkaji hanguk saramiya
+Modu ireona jigeum modu ireona modu ireonaya keun iri ireona
+Deulgo ireona jigeum deulgo ireona deulgo ireonaya geuraeya korea
+Korea deo keuge korea deo keuge korea deo sege korea ooo (x2)
+Pungagi ullinda pungagi ullinda 5cheonmanui hamseongi ullyeo peojinda
+Yaya, yayayaya, yayayayayayaya ooo(x2)

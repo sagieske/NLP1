@@ -1,0 +1,17 @@
+Artist: unida
+Title: human_tornado
+Genre: Pop/Rock
+Subgenres: [u'Alternative Metal', u'Hard Rock', u'Heavy Metal', u'Stoner Metal']
+
+Song:
+
+Smile, the smile you used, you choose this hard life, yeah
+Get in, the villain stole your true love
+And the room, the room, the room that he gave you his hand
+And bottle, the bottle he used was just a little heavier, man
+Never again, never again, will you refuse this face
+Smoking, smoke in his eyes and your love was like, gold
+And riding, you thought of riding home alone
+And the loop, the loop, the loop that he gave you was planned
+And bottle, the bottle he used was just a little heavier, man
+Never again, never again, will you refuse this fuckin face

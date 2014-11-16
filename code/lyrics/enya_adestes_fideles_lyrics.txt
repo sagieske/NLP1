@@ -1,0 +1,30 @@
+Artist: enya
+Title: adestes_fideles_lyrics
+Genre: New Age
+Subgenres: [u'Celtic', u'Celtic New Age', u'Contemporary Celtic', u'Contemporary Instrumental', u'Ethnic Fusion', u'Adult Alternative']
+
+Song:
+
+Adeste fideles laeti triumphantes;
+Venite, venite in Bethlehem;
+Natum videte regem angelorum:
+
+Venite, adoremus,
+Venite, adoremus,
+Venite, adoremus, dominum!
+
+Deum de Deo, lumen de lumine,
+Gestant puellae viscera;
+Deum verum, genitum non factum.
+
+Venite, adoremus,
+Venite, adoremus,
+Venite, adoremus, dominum!
+
+(Cantet nunc io chorus angelorum,
+Cantet nunc aula caelestium,)
+Gloria in excelsis Deo!
+
+Venite, adoremus,
+Venite, adoremus,
+Venite, adoremus, dominum!

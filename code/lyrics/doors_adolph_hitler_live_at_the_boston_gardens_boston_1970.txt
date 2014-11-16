@@ -1,0 +1,19 @@
+Artist: doors
+Title: adolph_hitler_live_at_the_boston_gardens_boston_1970
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Hard Rock', u'Psychedelic/Garage', u'Contemporary Pop/Rock', u'Rock & Roll', u'Proto-Punk', u'AM Pop']
+
+Song:
+
+Adolf Hitler is still alive
+Ooooogh - sssssh
+I slept with her last night
+Yeah
+Come out from behind
+That false mustache, Adolf
+I know your're in there
+Ha, ha, ha, ha, ha, ha
+You favor life
+He sides with Death
+I straddle the fence
+And my balls hurt

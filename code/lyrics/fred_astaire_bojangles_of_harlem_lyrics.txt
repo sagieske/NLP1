@@ -1,0 +1,27 @@
+Artist: fred_astaire
+Title: bojangles_of_harlem_lyrics
+Genre: Vocal
+Subgenres: [u'Show Tunes', u'Tin Pan Alley Pop', u'Traditional Pop', u'Cast Recordings', u'Standards', u'Vocal Jazz', u'Vocal Music', u'Show/Musical']
+
+Song:
+
+Ask anyone up Harlem way
+Who that guy Bojangles is
+They may not know who's president
+But ask 'em who Bojangles is
+
+He's in the most entrancin' business
+It's what they call the "Dancin' business"
+When there's a beat, up on the street
+Brother, you go and bet all your dough
+Sister, you know that ain't no one but 'Bo'
+
+Oh! Bojangles of Harlem, you dance such hot stuff
+Young folks love you in Harlem, they say you've got stuff
+Tough guys rumba out of poolrooms
+And kids start truckin' out of schoolrooms
+
+Oh! Bojangles of Harlem, the whole town's at your heels
+Leaving their flats, missing their meals
+Running like rats, going astray
+Throw those long legs away

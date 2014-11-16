@@ -1,0 +1,26 @@
+Artist: tony_bennett
+Title: a_stranger_in_paradise
+Genre: Vocal
+Subgenres: [u'Traditional Pop', u'Vocal Jazz', u'Vocal Pop', u'Cast Recordings', u'Show Tunes']
+
+Song:
+
+Take my hand
+I'm a stranger in paradise
+All lost in a wonderland
+A stranger in paradise
+If I stand starry-eyed
+That's a danger in paradise
+For mortals who stand beside an angel like you
+I saw your face and I ascended
+Out of the commonplace into the rare somewhere
+In space I hang suspended
+Until I know there's a chance that you care
+Won't you answer this fervent prayer
+Of a stranger in paradise
+Don't send me in dark despair
+From all that I hunger for
+But open your angel's arms
+To this stranger in paradise
+And tell him that he need be
+A stranger no more

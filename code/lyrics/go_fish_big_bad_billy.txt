@@ -1,0 +1,36 @@
+Artist: go_fish
+Title: big_bad_billy
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Indie Rock']
+
+Song:
+
+Big bad Billy had a belly ache
+He had a bit of bad bread for dinner
+Ever since then no food he'll take
+So now Billy he's much thinner
+He's got a brother named Ben with a baseball bat
+He plays ball all day long
+Everytime I see that boy
+He's always singing his favorite song
+And it goes....
+[Chorus:] Oh me, oh my, My song has just begun
+Oh me oh my and now my song is done
+Nifty Nancy was a nanny
+She sat a baby named Sue
+They would cut out paper shapes
+And stick em together with glue
+When they were done they were so happy
+With what they did that day
+They'd join hands and do a little dance
+And everyone heard them say...
+[Chorus:]
+There was a funky fish named Franky
+He was fightin the furius flu
+But there was no pharmacy in the ocean
+So what could Franky do?
+Meanwhile up above the water
+There was a crazy cow named Curt
+He would moo his song so loud
+It would make your eardrums hurt
+[Chorus:]

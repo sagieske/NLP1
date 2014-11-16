@@ -1,0 +1,19 @@
+Artist: muddy_waters
+Title: burr_clover_blues
+Genre: Blues
+Subgenres: [u'Blues Revival', u'Chicago Blues', u'Delta Blues', u'Electric Blues', u'Electric Chicago Blues', u'Regional Blues', u'Slide Guitar Blues']
+
+Song:
+
+Well, now the reason that I love
+That ol' Stovall's farm so well.
+Yes, now the reason that I love
+That ol' Stovall's farm so well.
+Well, you know we have plenty money
+And we never be raisin' hell.
+Well, we raise plenty cotton
+And we are booked out with the corn.
+Yes, we raise plenty cotton
+And we are booked out with the corn.
+Well, you know, we have to carry the place on
+Now the main boss been here and gone

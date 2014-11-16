@@ -1,0 +1,22 @@
+Artist: waterdeep
+Title: after_40_days
+Genre: Religious
+Subgenres: [u'Alternative CCM', u'Contemporary Christian', u'Jam Bands', u'Gospel']
+
+Song:
+
+You set before me all my dreams
+And vowed to give me everything
+You said I did not have to choose
+But Father he would disagree with you
+You took Him to a mountaintop
+And showed Him all the world
+"To you I will give all you see
+If you will bow and worship me as king"
+The words that you spoke then
+Were vows to be broken
+And I will not hold on to these
+Your promises your promises
+Have only left me all alone
+And selfish dreams your selfish dreams
+I will no longer listen to them

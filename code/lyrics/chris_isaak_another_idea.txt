@@ -1,0 +1,24 @@
+Artist: chris_isaak
+Title: another_idea
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'College Rock', u'Contemporary Pop/Rock', u'Roots Rock']
+
+Song:
+
+She never sleeps at night she's quiet but she dreams.
+Her mind is racing, she plans, she plots, she schemes.
+Another idea.
+She takes apart the past and re-writes all her lines.
+She's tried to win him back a hundred different times,
+She's got another idea.
+She keeps waiting, hoping he'll come back some day,
+She'll leave me, until she does I can say.
+Wait, please don't go,
+I've got another idea.
+No fun to be the one that love is practiced on,
+Why should I leave her she wouldn't know I've gone
+I've got another idea.
+I'll keep waiting, hoping she'll love me someday,
+She'll want me until she does I can say.
+Wait, please don't go,
+I've got another idea.

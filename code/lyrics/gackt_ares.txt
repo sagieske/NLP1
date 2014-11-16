@@ -1,0 +1,40 @@
+Artist: gackt
+Title: ares
+Genre: Pop/Rock
+Subgenres: [u'Japanese Rock', u'J-Pop']
+
+Song:
+
+Kono aoi sekai
+Shinjitsu o motomeru mono wa mina onaji koto o iu
+Yuruginai sekai
+Yuki ga machi o oou you ni watashi no naka ni hirogatteyuku
+Kasuka na iro o obita sekai
+Sabishisa o shinjiru
+Watashi wa kono sekai de
+Ooku no akuma o mitekita ga
+Mada ichido mo kami ni wa deatteinai
+Subete no kakawari o sutenakereba naranai toki
+Sore wa horoscope
+Yasashii to tomo ni zankoku
+Kono komiageru mono wa nani?
+Okubyou de aru to tomo ni kyoubou
+Watashi wa ittai nani no tame ni...
+Watashi no kioku no naka de kasuka ni mieru anata wa dare...
+-English Translation-
+This blue world
+People searching for truth all say the same thing
+Unwavering world
+Like snow covering the street, it's extending inside of me
+The world tinged with dim colors
+Believe in loneliness
+In this world,
+I have seen many demons coming
+Yet haven't once met a god...
+If you don't throw away all your relationships when you must
+That's a horoscope
+Both kindness and cruelty
+What is this moving thing?
+Both in cowardice and rage
+What in the world am I doing this for...
+Inside of my memories, who do I faintly see...

@@ -1,0 +1,24 @@
+Artist: mayonnaise
+Title: bakit_part_1
+Genre: Pop/Rock
+Subgenres: []
+
+Song:
+
+Bakit pa, kailanagan kitang samahan?
+Di ba pwedeng hindi nalang sumama?
+
+Bakit ba kailanagan,
+Bakit nararamdaman,
+Bakit tinatamaan,
+At bakit nasasaktan.
+
+Di ka ba nagsasawang kausap ko?
+Pagod na pagod na ako sa'yo.
+
+Bakit ba kailanagan,
+Bakit nararamdaman,
+Bakit tinatamaan,
+At bakit nasasaktan.
+
+Bakit pa? Bakit ba? Ayoko na...

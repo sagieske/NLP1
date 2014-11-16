@@ -1,0 +1,39 @@
+Artist: nuest
+Title: happy_birthday
+Genre: Electronic
+Subgenres: []
+
+Song:
+
+Eoneu chuun gyeoul nal
+Hananim kkeseo neun han sarameul
+Wihan cheon sareul I ttange bonaet yeotjyo
+Oraen sigani jina
+Sarangeul juge doen geu cheon saneun
+Sangcheo ibeo nunmul heullyeodo
+Naegen useo jwotjyo
+Uri saranghago jamsi tteoreojin hu
+Majeun cheonsaui cheot beonjjae saengil
+Yeope isseo jujido motajiman
+Saengil chugha haeyo chugha haeyo
+Dangsini tae eonan nal
+Geubunkke gamsa deuryeoyo
+Dasi hanbeon saengil chughahaeyo
+
+Uri saranghago jamsi tteoreojin hu
+Majeun cheonsaui cheot beonjjae saengil
+Yeope isseo jujido motajiman
+Saengil chugha haeyo chugha haeyo
+Dangsini tae eonan nal
+Geubunkke gamsa deuryeoyo
+Dasi hanbeon saengil chughahaeyo
+
+Uri saranghago jamsi tteoreojin hu
+Majeun cheonsaui cheot beonjjae saengil
+Yeope isseo jujido motajiman
+Saengil chugha haeyo chugha haeyo
+Dangsini tae eonan nal
+Geubunkke gamsa deuryeoyo
+Dasi hanbeon saengil chughahaeyo
+
+Chugha haeyo manhi saranghaeyo

@@ -1,0 +1,28 @@
+Artist: helmut_lotti
+Title: amapola
+Genre: Vocal
+Subgenres: [u'Standards', u'Belgian', u'Classical Crossover', u'Western European Traditions']
+
+Song:
+
+Amapola, lindisima apapola
+Sera siempre mi alma tuya sola.
+Yo te quiero amada nia mia,
+Iqual que ama la flor la luz del dia
+Amapola, lindisima amapola
+No seas tan ingrata y amame
+Amapola, amapola
+Cmo puedes tu vivir tan sola
+De amor en los hierros de tu reja
+De amor escuche la triste queja
+De amor eschuch a mi corazn
+Diciendome asi
+Sta dulce cancin
+Amapola lindisima amapola
+Sera siempre mi alma tuya sola
+Yo te quiero amada nia mia
+Iqual que ama la flor la luz del dia
+Amapola, lindisima amapola
+No seas tan ingrata y amame
+Amapola amapola
+Cmo puedes tu vivir tan sola"

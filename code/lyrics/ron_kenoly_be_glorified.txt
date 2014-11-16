@@ -1,0 +1,34 @@
+Artist: ron_kenoly
+Title: be_glorified
+Genre: Religious
+Subgenres: [u'Black Gospel', u'CCM', u'Contemporary Christian', u'Gospel']
+
+Song:
+
+Be glorified
+Be glorified
+Be glorified
+Be glorified
+
+Be glorified
+In the heavens
+Be glorified
+In the earth
+Be glorified
+In this temple
+Jesus, Jesus
+Be thou glorified
+Jesus, Jesus
+Be thou glorified
+
+Worship the Lord
+Worship the Lord
+Worship the Lord
+Worship the Lord
+In the earth
+Worship the Lord
+In this temple
+Jesus, Jesus
+Be thou glorified
+Jesus, Jesus
+Be thou glorified

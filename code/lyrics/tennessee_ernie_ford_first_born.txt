@@ -1,0 +1,31 @@
+Artist: tennessee_ernie_ford
+Title: first_born
+Genre: Country
+Subgenres: [u'Country Boogie', u'Country Gospel', u'Country-Folk', u'Gospel', u'Nashville Sound/Countrypolitan', u'Traditional Country']
+
+Song:
+
+First born
+This infant with his mother's eyes
+Is our first born
+
+First child
+This baby I hold in my arms
+Is our first child
+
+His smile will warm
+On a cold winter night
+
+And when life
+Is stormy
+His faith in me will make things right
+
+First born
+Asleep in his crib now
+Is our first born
+
+If the good Lord's willing
+He'll bless us with many more
+
+But our first born
+Is the child we've been praying for

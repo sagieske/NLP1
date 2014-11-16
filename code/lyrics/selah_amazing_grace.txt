@@ -1,0 +1,21 @@
+Artist: selah
+Title: amazing_grace
+Genre: Religious
+Subgenres: [u'Contemporary Gospel', u'CCM', u'Contemporary Christian', u'Gospel', u'Inspirational']
+
+Song:
+
+Amazing grace how sweet the sound
+That saved a wretch like me
+I once was lost but now I'm found
+Was blind but now I see
+
+'Twas grace that taught my heart to fear
+And grace my fears relieved
+How precious did that grace appear
+The hour I first believed
+
+When we've been there ten thousand years
+Bright shining as the sun
+We've no less days to sing God's praise
+Than when we'd first begun

@@ -1,0 +1,46 @@
+Artist: wali_band
+Title: aku_bukan_bang_toyib
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Blues-Rock', u'Slide Guitar Blues', u'Southern Rock', u'Boogie Rock', u'Hard Rock']
+
+Song:
+
+Kau Bilang Padaku
+Kau Ingin Bertemu
+Ku Bilang Padamu Oh Ya Nanti Dulu
+Aku Lagi Sibuk Sayang
+Aku lagi Kerja sayang
+Untuk Membeli Beras
+Dan Sebongkah Berlian
+
+Sayang, Aku Bukanlah Bang Toyib
+Yang Tak Pulang-Pulang
+Yang Tak Pasti Dia Datang
+Sabar Sayang
+Sabarlah Sebentar
+Aku pasti Pulang
+Karna aku bukan aku bukan bang Toyib
+
+Sudah tunggu saja diriku dirumah
+Jangan marah-marah duduk yang manis ya
+Aku Lagi Sibuk Sayang
+Aku lagi Kerja sayang
+Untuk Membeli Beras
+Dan Sebongkah Berlian
+
+Sayang, Aku Bukanlah Bang Toyib
+Yang Tak Pulang-Pulang
+Yang Tak Pasti Dia Datang
+Sabar Sayang
+Sabarlah Sebentar
+Aku pasti Pulang
+Karna aku bukan aku bukan bang Toyib
+
+Sayang, Aku Bukanlah Bang Toyib
+Yang Tak Pulang-Pulang
+Yang Tak Pasti Dia Datang
+Sabar Sayang
+Sabarlah Sebentar
+Aku pasti Pulang
+Karna aku bukan aku bukan aku bukan aku bukan
+Bang Toyib

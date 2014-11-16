@@ -1,0 +1,43 @@
+Artist: freddie_mercury
+Title: i_can_hear_music_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Contemporary Pop/Rock', u'Hard Rock', u'Vocal Music']
+
+Song:
+
+This is the way
+I always dreamed it would be
+The way that it is, oh
+When you are holding me
+I never had a love of my own
+Maybe that's why when we're all a lone
+I can hear music
+I can hear music
+The sound of the city baby
+Seems to disappear, oh when
+I can hear music
+Sweet sweet music
+Whenever you touch me baby
+Whenever you're near
+Loving you
+It keeps me satisfied
+And I can't explain, oh no
+The way I'm feeling inside
+You look at me we kiss and the
+I close my eyes and here it comes again
+I can hear music
+I can hear music
+The sound of the city baby
+Seems to disappear, oh when
+I can hear music
+Sweet sweet music
+Whenever you touch me baby
+Whenever you're near
+I can hear music
+I can hear music
+The sound of the city baby
+Seems to disappear, oh when
+I can hear music
+Sweet sweet music
+Whenever you touch me baby
+Whenever you're near

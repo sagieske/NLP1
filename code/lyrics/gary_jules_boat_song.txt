@@ -1,0 +1,24 @@
+Artist: gary_jules
+Title: boat_song
+Genre: Blues
+Subgenres: [u'Modern Electric Texas Blues', u'Contemporary Blues', u'Electric Blues', u'Electric Texas Blues', u'Regional Blues', u'Texas Blues', u'Blues-Rock']
+
+Song:
+
+Boy when out on a boat tonight
+Waiting on his lover
+Seen his mermaid bride in the moonlight
+And the arms of another
+She said "standing on the water is easier to do
+Then to try and be a family living here with you
+And the more I've been thinking
+The more I know I'm living alone
+
+Now they see him out on the waterways
+Rolling on the foam
+Only memory for a future
+Only ocean for a home
+'Cause Amelia's the name that she calls herself these days
+And "birds! birds!" is all we heard before she flew away
+And the more I've been thinking
+The more I know I'm living alone

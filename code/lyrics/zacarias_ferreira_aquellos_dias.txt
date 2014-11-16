@@ -1,0 +1,30 @@
+Artist: zacarias_ferreira
+Title: aquellos_dias
+Genre: Latin
+Subgenres: [u'Bachata', u'Dominican Traditions', u'Latin Pop', u'Tropical']
+
+Song:
+
+Aquellos dias recuerdo aquellos dias
+Cuando el amor aun nos sonreia
+Toda la dicha, luz y alegria
+Como el destino de tus brazos me arranco
+Aquellos dias que lejos han quedado
+Los ha cubierto el polvo del olvido
+Solo el recuerdo de tu cario
+Sigue latente y el dolor vive conmigo
+No, no, no te reprocho ni te culpo que hayas puesto
+Esa distancia que separa nuestras vidas
+Por el contrario te recuerdo dulcemente
+Por tanta dicha que me diste aquellos dias
+Aquellos dias que lejos han quedado
+Los ha cubierto el polvo del olvido
+Solo el recuerdo de tu cario
+Sigue latente y el dolor vive conmigo
+No te reprocho ni te culpo que hayas puesto
+Esta distancia que separa nuestras vidas
+Por el contrario te recuerdo dulcemente
+Por tanta dicha que me diste aquellos dias
+Por el contrario te recuerdo dulcemente
+Por tanta dicha que me diste aquellos dias
+Por tanta dicha que me diste aquellos dias (x5)

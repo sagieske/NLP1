@@ -1,0 +1,24 @@
+Artist: new_edition
+Title: a_thousand_miles_away
+Genre: R&B
+Subgenres: [u'New Jack Swing', u'Teen Pop', u'Urban', u'Contemporary Pop/Rock', u'Contemporary R&B']
+
+Song:
+
+Ur a 1000 miles away
+But I still have ur love 2 remember you by
+Oh my darling
+Dry ur eyes
+Daddy's coming home soon
+It may be on a sunday morning
+It may be on a tuesday afternoon
+No matter what the day
+I'm going 2 make it my business
+2 get home soon
+Ur a 1000 miles away
+But I still have
+Ur love 2 remember
+You by
+Oh my darling
+Dry ur eyes
+Daddy's coming home soon

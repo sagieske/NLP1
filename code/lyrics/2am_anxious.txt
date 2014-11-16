@@ -1,0 +1,59 @@
+Artist: 2am
+Title: anxious
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'College Rock', u'Contemporary Pop/Rock', u'Post-Punk', u'Dance-Rock']
+
+Song:
+
+[Seulong]
+Nareul saranghandan moksori
+Nareul baraboneun ni nunbit
+Naeui soneul jamneun ni songil modeun ge (modeun ge)
+
+[Jinwoon]
+Ajik yejeongwa ttokgateunde
+Euishimhal geon hana eopneunde
+Wae jakku nae mami ireoneunji
+Moreugesseo moreujiman
+
+[Jokwon]
+Buranhada saranghanda malhae julsurok
+Nae soneul jabeun neoeui soni
+Himeul julsurok buranhaejinda nan
+[Changmin]
+Tto buranhada ireohke jal haejun jeok eopseoseo
+Yojeum deuro waenji moreuge deo dajeonghan neo
+Niga jakkuman deo buranhaejinda
+
+[Jinwoon]
+Gakkeum chingudeuldo mannago
+Apeul ttaemyeon jal jom swirago
+Ttaeron jeonhwaga hal andwaedo
+Gwaenchanhdago
+
+[Seulong]
+Meoshitge malhaeya haneunde
+Buranhan naega nappeun geonde
+Wae jakku nae mami ireoneunji
+Moreugesseo moreujiman
+
+[Jokwon]
+Buranhada saranghanda malhae julsurok
+Nae soneul jabeun neoeui soni
+Himeul julsurok buranhaejinda nan
+
+[Changmin]
+Tto buranhada ireohke jal haejun jeok eopseoseo
+Yojeum deuro waenji moreuge deo dajeonghan neo
+Niga jakkuman deo buranhaejinda
+
+[Jokwon]
+Ulgo shipda neoneun ajik nae saraminde
+Jigeumirado jeonhwal geolmyeon
+Mannal su inneunde nan
+
+[Changmin]
+Jakku nado moreuge nunmuri nanda
+Oh~ heeojijin anheun georago
+Ni imam jamshi jichin georago dallaebwado nan
+Teullin geol algie nunmuri nanda

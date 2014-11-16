@@ -1,0 +1,18 @@
+Artist: tv_theme
+Title: cheers
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Indie Rock', u'Post-Rock']
+
+Song:
+
+Making your way in the world today takes everything you've got
+Taking a break from all your worries, sure would help a lot.
+Wouldn't you like to get away?
+
+Sometimes you want to go where everybody knows your name,
+And they're always glad you came.
+You wanna be where you can see, our troubles are all the same
+You wanna be where everybody knows your name.
+
+You wanna go where people know, people are all the same,
+You wanna go where everybody knows your name.

@@ -1,0 +1,31 @@
+Artist: porter_wagoner
+Title: another_day_another_dollar
+Genre: Country
+Subgenres: [u'Country Gospel', u'Country-Pop', u'Gospel', u'Nashville Sound/Countrypolitan', u'Traditional Country']
+
+Song:
+
+Another day another dollar
+Daylight comes I'm on my way
+Another day another dollar
+Workin' my whole life away.
+
+The boss told me I'd get paid weakly
+And that's exactly how I'm paid
+Another day another dollar
+Workin' my whole life away.
+
+Another day another dollar
+Daylight comes I'm on my way
+Another day another dollar
+Workin' my whole life away.
+
+My family is my thanksgiving
+I love 'em more and more each day
+And they're the reason I keep living
+And working my whole life away.
+
+Another day another dollar
+Daylight comes I'm on my way
+Another day another dollar
+Workin' my whole life away.

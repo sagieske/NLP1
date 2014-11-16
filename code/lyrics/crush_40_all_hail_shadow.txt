@@ -1,7 +1,7 @@
 Artist: crush_40
 Title: all_hail_shadow
 Genre: Pop/Rock
-Subgenres: []
+Subgenres: [u'Heavy Metal']
 
 Song:
 

@@ -1,0 +1,27 @@
+Artist: the_civil_wars
+Title: cest_la_mort
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Singer/Songwriter', u'Americana']
+
+Song:
+
+Swan dive down eleven stories high
+Hold your breath until you see the light
+You can sink to the bottom of the sea
+Just don't go without me
+
+Go get lost where no one can be found
+Drink so long and deep until you drown
+Say your goodbyes, but darlin' if you please,
+Don't go without me.
+
+C'est la vie, c'est la mort.
+(It is life, it is death.)
+You and me,
+Forevermore.
+
+Let's walk down the road that has no end.
+Steal away where only angels tread.
+Heaven or hell or somewhere in between
+Cross your heart to take me when you leave.
+Don't go... Please don't go. Don't go without me.

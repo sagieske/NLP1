@@ -1,0 +1,35 @@
+Artist: los_tigres_del_norte
+Title: amigos_y_mujeres
+Genre: Latin
+Subgenres: [u'Corrido', u'Mexican Traditions', u'Norteno', u'Tejano', u'Latin Pop', u'Tex-Mex', u'Conjunto']
+
+Song:
+
+Es verdad, es verdad,
+Que un tiempo tu amante yo fui,
+Pero todo el destino cambi,
+Se acabo mi cario,
+Se acab mi ilusin.
+Maldita sea mi suerte,
+Que viva mi desgracia,
+Amigos y mujeres todos pagan con traicin,
+No hay amigos sinceros
+Se les compra con dinero,
+Y la mujer amada sin metal te paga mal.
+Yo no creo en el mundo,
+Su amor y sus bonanzas,
+Todo el que ofrece algo siempre espera algo mejor,
+Amigos y mujeres todos van a la balanza,
+Que viva mi desgracia yo regalo el corazn.
+Maldita sea mi suerte,
+Que viva mi desgracia,
+Amigos y mujeres todos pagan con traicin,
+No hay amigos sinceros
+Se les compra con dinero,
+Y la mujer amada sin metal te paga mal.
+Yo no creo en el mundo,
+Su amor y sus bonanzas,
+Todo el que ofrece algo siempre espera algo mejor,
+Amigos y mujeres todos van a la balanza,
+Que viva mi desgracia yo regalo el corazn.
+.

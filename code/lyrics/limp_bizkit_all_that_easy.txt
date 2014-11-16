@@ -1,0 +1,20 @@
+Artist: limp_bizkit
+Title: all_that_easy
+Genre: Pop/Rock
+Subgenres: [u'Heavy Metal', u'Post-Grunge', u'Rap-Metal', u'Rap-Rock', u'Alternative Metal', u'Funk Metal', u'Hard Rock']
+
+Song:
+
+In the clouds, all the grey
+I'll stay if you go away
+Concrete, tall as the sky
+All the movement passing me by
+And you blush, what a rush
+Reminisce, cold crush
+Next door, ear to the wind
+All the tension made for the core
+
+I wish, I wish,
+I wish it was all that easy
+I wish, I wish,
+I wish it was all that easy

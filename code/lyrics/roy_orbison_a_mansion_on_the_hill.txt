@@ -1,0 +1,26 @@
+Artist: roy_orbison
+Title: a_mansion_on_the_hill
+Genre: Pop/Rock
+Subgenres: [u'Contemporary Pop/Rock', u'Early Pop/Rock', u'Film Score', u'Rock & Roll', u'Rockabilly', u'AM Pop']
+
+Song:
+
+Tonight down here in the valley
+I'm lonesome and oh, how I feel
+As I sit here alone in my cabin
+I can see your mansion on the hill
+
+Do you remember when we parted?
+The story to me, you revealed
+You said, you could live without love, dear
+In your loveless mansion on the hill
+
+I've waited all through the years, love
+To give you a heart, true and real
+'Cos I know you are living in sorrow
+In your loveless mansion on the hill
+
+The light shines bright from your window
+The trees stand so silent and still
+I know you're alone with your pride, dear
+In your loveless mansion on the hill

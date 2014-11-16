@@ -1,0 +1,25 @@
+Artist: dean_martin
+Title: a_girl_named_mary_and_a_boy_named_bill
+Genre: Vocal
+Subgenres: [u'Traditional Pop', u'Vocal Pop', u'AM Pop']
+
+Song:
+
+The world looks rosy op on sweetheart hill
+For a girl named Mary and a boy named Bill
+
+Com'on get cozy says the whooperwill
+To a girl named Mary and a boy named Bill
+
+Where there's a sky that's full of moonlight
+And a Mary full of charm
+There ought to be a William
+Snuggled in her arms
+
+So if I kiss you and I think I will
+Believe me it's the only thing to do
+For you're my Mary and I'm your Bill
+And it's wonderful to be in love with you
+
+For you're my Mary and I'm your Bill
+And it's wonderful to be in love with you

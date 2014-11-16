@@ -1,0 +1,13 @@
+Artist: 2103
+Title: sweet_spirit
+Genre: Religious
+Subgenres: [u'Contemporary Gospel', u'Gospel', u'Christian Rap', u'Contemporary Christian']
+
+Song:
+
+[Into:]
+There's a sweet Spirit in this place.
+There's a sweet Spirit in this place.
+
+Watching over us and keeping us,
+Resting in our souls

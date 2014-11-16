@@ -1,0 +1,31 @@
+Artist: youth_of_today
+Title: cant_you_see
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'American Underground', u'Hardcore Punk', u'Punk/New Wave', u'Straight-Edge']
+
+Song:
+
+Pressure to drink
+Has always been there
+And to smoke and use drugs
+But I don't care
+I don't feel the pressure
+Don't listen to those jerks
+I'm straight because
+For me it works
+I'm straight-Not because it's cool
+I'm straight-Not some fool
+I'm straight-Because I want to be
+I'm straight-Can't you f*****g see
+Don't go to parties
+To get high
+Don't want to get drunk
+Don't want to try
+Won't smoke cigarettes
+To look cool
+Don't smoke pot
+I don't care about the rule
+I'm straight-Not because it's cool
+I'm straight-Not some fool
+I'm straight-Because I want to be
+I'm straight-Can't you f*****g see

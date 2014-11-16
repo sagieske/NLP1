@@ -1,0 +1,49 @@
+Artist: willie_nelson
+Title: bubbles_in_my_beer
+Genre: Country
+Subgenres: [u'Country-Pop', u'Nashville Sound/Countrypolitan', u'Outlaw Country', u'Progressive Country', u'Traditional Country', u'Contemporary Pop/Rock', u'Vocal Pop']
+
+Song:
+
+Tonight in the bar alone I'm sitting
+Apart from the laughter and the cheer
+Scenes from the past rise before me
+Watchin' the bubbles in my beer
+
+(Chorus:)
+Visions of someone who loved me
+Brings a lone silent tear to my eye
+And I know that my life's been a failure
+Watchin' the bubbles in my beer
+
+I'm seeing the road that I travel
+A road filled with heartaches and tears
+And I'm seeing the past that I've wasted
+Watchin' the bubbles in my beer
+
+(Repeat chorus)
+
+(As Performed by Ray Price on
+"San Antonio Rose - A Tribute To The Great Bob Wills)
+
+Tonight in a bar room I'm sitting
+Apart from the laughter and the cheer
+The scenes of my life pass before me
+While watchin' the bubbles in my beer
+
+Chorus:
+A vision of someone who loved me
+Brings a lone, silent tear to my eye
+I know that my life's been a failure
+Just watchin' the bubbles in my beer
+
+I'm seein' the road that I travel
+A road paved with heartaches and tears
+I'm seein' the past that I've wasted
+While watchin' the bubbles in my beer
+
+Chorus:
+I think of the heart that I've broken
+And the golden chances that have passed me by
+The dreams I once made now are over
+As empty as the bubbles in my beer

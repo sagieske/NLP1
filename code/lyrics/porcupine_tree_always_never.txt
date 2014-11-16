@@ -1,0 +1,28 @@
+Artist: porcupine_tree
+Title: always_never
+Genre: Pop/Rock
+Subgenres: [u'Ambient', u'Art Rock', u'Experimental', u'Alternative/Indie Rock', u'Post-Rock', u'Experimental Rock']
+
+Song:
+
+[Lyrics - Alan Duffy / Music - Steven Wilson]
+
+I feel no pain
+Cos I'm an island
+I will remain
+In the deafness of your silence
+
+I love you sometimes
+Always Never
+He said you're here
+Here with me now
+
+I feel no gain
+When you're around me
+I'll try again
+In the darkness you astound me
+
+It's growing cold
+I'm growing old
+Is this the only way to see the fire?
+It's raining...

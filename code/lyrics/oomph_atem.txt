@@ -1,0 +1,31 @@
+Artist: oomph
+Title: atem
+Genre: Pop/Rock
+Subgenres: [u'Alternative Metal', u'Heavy Metal', u'Industrial Metal', u'Alternative/Indie Rock', u'Electro-Industrial']
+
+Song:
+
+Tief in mir
+Ruht die sterblichkeit
+Schenk sie mir
+Deine herrlichkeit
+
+Ich werde nie verblцhn
+Ich werde nie vergehn
+Ich werde nie verglцhn
+Ich werde nie verwehn
+
+(Gib mir den atem - denn du belebst mich mit atem der ewigkeit)
+
+Tief in mir
+Ruft die endlichkeit
+Schenk sie mir
+Deine seligkeit
+
+Ich werde nie verblцhn
+Ich werde nie vergehn
+Ich werde nie verglцhn
+Ich werde nie verwehn
+
+(Gib mir den atem - denn du belebst mich mit atem der ewigkeit)
+Gib mir den atem der ewigkeit

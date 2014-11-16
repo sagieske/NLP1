@@ -1,0 +1,42 @@
+Artist: lyn
+Title: my_destiny
+Genre: Pop/Rock
+Subgenres: [u'Heavy Metal', u'N\xfc Metal']
+
+Song:
+
+Na dasi heoraghandamyeon
+Geudael dasi bol su itdamyeon
+Nae jinan gieog sogeseo
+Geu apeum sogeseo
+Geudael bulleo
+
+You're my destiny geudaen
+You're my destiny geudaen
+You're my everything
+Geudaeman bomyeonseo
+Ireoge sorieobsi bulleobobnida
+You're the one my love geudaen
+You're the one my love geudaen
+You're my delight of all
+Geudaeneun yeongwonhan naui sarangijyo
+
+Nae gyeote dagawa jwoyo
+Nal ajig saranghandamyeon
+Du nune goin nunmuri
+Geudaereul wonhajyo
+Saranghaeyo
+
+You're my destiny geudaen
+You're my destiny geudaen
+You're my everything
+Byeonhaji anhneungeon
+Geudaereul hyanghan naui sarangibnida
+You're the one my love geudaen
+You're the one my love geudaen
+You're my delight of all
+Sesangi byeonhaedo
+Geudaeman saranghaneun nareul anayo
+My Destiny
+
+Geudaereul bulleobobnida.

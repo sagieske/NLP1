@@ -1,0 +1,25 @@
+Artist: nirvana
+Title: about_a_girl
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Grunge']
+
+Song:
+
+I need an easy friend. I do, with an ear to lend.
+I do think you fit this shoe. I do, won't you have a clue.
+
+[Chorus:] I'll take advantage while. You hang me out to dry.
+But I can't see you every night, free.
+
+I'm standing in your line. I do hope you have the time.
+I do pick a number two. I do keep a date with you.
+
+[Chorus:]...
+
+(Solo)...
+
+I need an easy friend. I do, with an ear to lend.
+I do think you fit this shoe. I do, won't you have a clue.
+
+I'll take advantage while. You hang me out to dry.
+But I can't see you every night. No I can't see you every night, free. I do. (x4)

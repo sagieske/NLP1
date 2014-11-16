@@ -1,0 +1,28 @@
+Artist: george_jones
+Title: a_girl_i_used_to_know
+Genre: Country
+Subgenres: [u'Country-Pop', u'Honky Tonk', u'Nashville Sound/Countrypolitan', u'Traditional Country', u'Country Gospel', u'Gospel']
+
+Song:
+
+There's a picture that I carry, 
+One we made some time ago
+If they ask who's in the picture with me, 
+I say just a girl, I used to know.
+
+Just a girl, I used to go around with
+Just a friend, from long ago, 
+I don't tell them how lost I am without her
+I say she's just a girl, I used to know.
+
+I say, she's just another girl now
+Just a flame, that's lost it's glow
+And I say, her name has slipped my mind now, 
+And she's just a girl, I used to know.
+
+Just a girl, I used to spend some time with
+Just a friend, from long ago, 
+I don't talk about the nights I cry about her
+I say she's just a girl, I used to know.
+
+Just a girl I used to know...

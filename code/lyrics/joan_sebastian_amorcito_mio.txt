@@ -1,0 +1,26 @@
+Artist: joan_sebastian
+Title: amorcito_mio
+Genre: Latin
+Subgenres: [u'Mexican Traditions', u'Norteno', u'Tejano', u'Ranchera']
+
+Song:
+
+Amorcito mio
+Mio tan de adentro
+Mio tan en secreto
+Mio tan especial
+Amorcito mio
+Si no te presumo, ni te grito al viento, es por no hacerte mal
+Te puedo gritar un te amo callado, por verte a mi lado
+Yo puedo esperar un dia, unos meses, un ano, o un siglo
+Que al fin yo he de amarte una eternidad
+Amorcito mio
+Mio tan del alma
+Mio tan escondido
+Mio tan especial
+Amorcito mio
+Quererte no es mal y menos pecado es ecepcional
+Te pudeo gritar un tu amo callado, por verte a mi lado
+Yo puedo esperar un dia, unos meses, un ano, o un siglo
+Que al fin yo he de amarte una eternidad
+Amorcito mio

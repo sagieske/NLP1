@@ -1,0 +1,19 @@
+Artist: donovan
+Title: a_funny_man
+Genre: Pop/Rock
+Subgenres: [u'British Invasion', u'British Psychedelia', u'Folk-Rock', u'Psychedelic Pop', u'Psychedelic/Garage', u'British Folk', u'Singer/Songwriter']
+
+Song:
+
+One day a funny kind of man came walking down this street,
+he wore a shoe upon his head and hats upon his feet.
+He raised the shoe and smiled at me, his manners were polite,
+But never had I seen before such a funny sounding sight.
+He said, "Allow me to present your highness wit h a rose"
+And taking out a currant bun, he held it to my nose.
+I staggered back against the wall and then I answered, "Well,
+I never saw a rose with such a funny looking smell.
+He then began tol sing a song -mm - and sat down on the ground,
+You never heard in all your life such a funny feeling sound.
+"My friend, why do you werar two hats upon your feet ?" I said,
+He turned the other way and hopped home on his head

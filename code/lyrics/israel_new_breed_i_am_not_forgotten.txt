@@ -1,0 +1,29 @@
+Artist: israel_new_breed
+Title: i_am_not_forgotten
+Genre: Pop/Rock
+Subgenres: [u'CCM', u'Contemporary Christian', u'Praise & Worship', u'Inspirational', u'Contemporary Gospel', u'Urban', u'Gospel']
+
+Song:
+
+I am not forgotten
+I am not forgotten
+I am not forgotten
+God knows my name.
+He knows my name.
+
+Light over darkness
+Strength over weakness
+Joy over sadness
+He knows my name
+
+Father to the Fatherless
+Friend to the friendless
+Hope for the hopeless
+He knows my name
+
+I will praise You
+I will praise You
+For I am fearfully and wonderfully made.
+
+I am not forgotten
+Never forsaken

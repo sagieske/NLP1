@@ -1,0 +1,31 @@
+Artist: elvis_crespo
+Title: bailalo_lyrics
+Genre: Latin
+Subgenres: [u'Dominican Traditions', u'Latin Dance', u'Latin Pop', u'Merengue', u'Tropical']
+
+Song:
+
+Te invito esta noche
+Pa'que lo bailes conmigo
+Pa'que lo bailes conmigo tu
+No tengas miedo, acercate
+Que quiero sentir
+El calor de tu cuerpo.
+
+Pa'que lo bailes conmigo
+Pa'que lo bailes conmigo tu
+
+Se apago la luz
+Se unen nuestros cuerpos
+Con ese ritmo intenso
+Que nos lleva a bailar
+Aprovecho el momento
+La comienzo apretar
+Ella se va soltando
+No lo puedo evitar
+Comienza a provocarme
+De forma peculiar
+No puede contenerme.
+
+Coro:
+Bailalo, bailalo...

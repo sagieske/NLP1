@@ -1,0 +1,31 @@
+Artist: fred_astaire
+Title: cheek_to_cheek_lyrics
+Genre: Vocal
+Subgenres: [u'Show Tunes', u'Tin Pan Alley Pop', u'Traditional Pop', u'Cast Recordings', u'Standards', u'Vocal Jazz', u'Vocal Music', u'Show/Musical']
+
+Song:
+
+Heaven, I'm in Heaven,
+And my heart beats so that I can hardly speak;
+And I seem to find the happiness I seek
+When we're out together dancing, cheek to cheek.
+Heaven, I'm in Heaven,
+And the cares that hang around me thro' the week
+Seem to vanish like a gambler's lucky streak
+When we're out together dancing, cheek to cheek.
+Oh! I love to climb a mountain,
+And to reach the highest peak,
+But it doesn't thrill me half as much
+As dancing cheek to cheek.
+Oh! I love to go out fishing
+In a river or a creek,
+But I don't enjoy it half as much
+As dancing cheek to cheek.
+Dance with me
+I want my arm about you;
+The charm about you
+Will carry me thro' to Heaven
+I'm in Heaven,
+And my heart beats so that I can hardly speak;
+And I seem to find the happiness I seek
+When we're out together dancing cheek to cheek

@@ -1,0 +1,32 @@
+Artist: muse
+Title: assassin
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Post-Grunge', u'Britpop', u'Neo-Prog', u'Prog-Rock']
+
+Song:
+
+War is overdue
+The time has come for you
+To shoot your leaders down
+Join forces underground
+
+Lose control
+In increasing pace
+Warped and bewitched
+A time to erase
+Whatever they say
+These people are torn
+Wild and bereft
+Assassin is born (yeah)
+
+Appose and disagree
+Destroy Demonocracy
+
+Lose control
+In increasing pace
+Warped and bewitched
+A time to erase
+Whatever they say
+These people are torn
+Wild and bereft
+Assassin is born (yeah)

@@ -1,0 +1,35 @@
+Artist: over_the_rhine
+Title: bluer
+Genre: Pop/Rock
+Subgenres: [u'Adult Alternative Pop/Rock', u'Alternative Pop/Rock', u'Alternative/Indie Rock']
+
+Song:
+
+I cry just a little bit, just a little bit, everyday
+Get by just a little bit, just a little bit that way
+I know, I know, I should have known
+
+Bluer, than the blue devils
+Bluer than this pale blue angel
+Bluer than all of my troubles
+Love is never far from danger
+
+I die just a little bit, just a little bit, everyday
+Get by just a little bit, just a little bit, that way
+Let go, let go now that you've gone
+
+Bluer, than the blue devils
+Bluer than this pale blue angel
+Bluer than all of my troubles
+Are we gonna leave here strangers?
+
+Bluer, than the blue devils
+Bluer than this pale blue angel
+Bluer than all of my troubles
+Love is never far from danger
+
+Bluer, than the blue devils
+Bluer than this pale blue angel
+Bluer than all of my troubles
+Are we gonna leave
+Are we gonna leave here strangers?

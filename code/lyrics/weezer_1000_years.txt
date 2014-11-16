@@ -1,0 +1,40 @@
+Artist: weezer
+Title: 1000_years
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Punk-Pop', u'Emo']
+
+Song:
+
+Starry sky,
+Oh starry sky,
+Tell me if you can,
+Why oh why,
+Your famous smile,
+Is this in your plan?
+(chorus)
+Every hour of
+Every day,
+She'll await for you,
+She'll await 1000 years
+To save herself for you.
+
+Bible man
+Oh bible man,
+Tell me if you know,
+Why do all these strange events
+Wreck upon the shore?
+
+(chorus)
+
+Alone,
+Just like the sea
+Corroding endlessly,
+
+Every hour of everyday,
+She'll await for you
+
+(chorus)
+
+Alone,
+Just like the sea
+Corroding endlessly,

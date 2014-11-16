@@ -1,0 +1,24 @@
+Artist: unseen
+Title: are_we_dead_yet
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Punk Revival', u'Oi!', u'Punk/New Wave', u'Alternative Pop/Rock', u'Hardcore Punk']
+
+Song:
+
+There's a heat down on the street
+And it's radiating through my feet
+There will be trouble in Allston tonight
+There's a kid with a silent shout
+'Cause he's livin' off of hand to mouth
+Hey generation, I'm talkin' to You
+
+Are we dead yet?
+
+Street lamps flicker and the young wolves wail
+As the vultures drag another off to jail
+We would've been dead 20 years ago
+Do you think they really care about you?
+No way
+
+How's this for an answer?
+F**k you

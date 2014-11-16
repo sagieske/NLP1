@@ -1,0 +1,36 @@
+Artist: owl_city
+Title: butterfly_wings
+Genre: Pop/Rock
+Subgenres: [u'Indie Electronic', u'Alternative/Indie Rock', u'Emo-Pop', u'Pop']
+
+Song:
+
+If I was a raindrop
+Would you be my thunderstorm
+It's cold, so surround me
+With rain clouds to keep me warm
+I feel like I'm falling
+So Darling, don't let me go
+The thought is appalling
+But should I slip away into the stormy sea
+Will you remember me
+
+Asleep in our warm cocoons
+We dream of lovely things
+We're both gonna wake up soon
+So we hope that tomorrow brings us our butterfly wings
+
+If I was a grain of sand
+Would you be Miami Beach
+So dusty with starlight
+Close your eyes and cuddle close to me
+I'll try not to wake you
+Or make a sound while you're dozing off
+But in the night should the high tides
+Sweep me away from you
+Tell me again my dear, will you be waiting here
+
+Whenever we leave the ground
+And take to the sky
+I'll smile as I'm gazing down
+Cause I've always wondered why we won't need feathers to fly

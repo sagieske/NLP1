@@ -1,0 +1,40 @@
+Artist: first_circle
+Title: kamandag_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Post-Hardcore', u'Screamo']
+
+Song:
+
+Anong hiwaga bumabalot sayong katauhan
+At ang lakas ay dumadaloy sayong dugo
+Anong hiwaga bumabalot sayong mundo
+Ngunit pag-ibig pa rin ang namumuno
+(Refrain)
+Sino kaba alagad kaba ng kabutihan
+O isa ka sa mapanlinlang tulad nila
+Mabangis na halimaw ngunit ang puso mo ay tapat
+Oh! Ipamalas mo ang lihim mong lakas
+(Churos)
+Kamandag!!!
+Lakas at kapangyarihan
+Kamanda!!! Aaagggg!!!
+Lipunin mo ang kabutihan
+Kamandag...
+
+Ikay mapangahas kasinlakas ng isang ahas
+Oh! Bakit hinuhuli ka ng batas
+Ikay mapangahas mabilis at malakas
+Wag kang magpadaig sa madilim na butas
+(Repeat Refrain)
+(Repeat Churos)
+Kamandag!!!
+Ikay magpakatatag
+Kamandag!!! Wag!!!
+Mong hayang ikay matinag
+(Repeat Churos)
+Ohhhhhhhhhh
+Kmandag!!!
+Lakas at kapangyarihan!!!
+Kamandag!!!
+Kamandag!!!
+Kamandag...

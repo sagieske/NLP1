@@ -1,7 +1,7 @@
 Artist: david_guetta
 Title: baby_when_the_light
 Genre: Electronic
-Subgenres: [u'Club/Dance', u'EDM', u'House', u'Progressive House']
+Subgenres: [u'Club/Dance', u'EDM', u'House', u'Progressive House', u'Left-Field Pop', u'Pop']
 
 Song:
 

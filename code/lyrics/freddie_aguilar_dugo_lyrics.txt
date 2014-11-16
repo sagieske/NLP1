@@ -1,0 +1,19 @@
+Artist: freddie_aguilar
+Title: dugo_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Contemporary Pop/Rock', u'Hard Rock', u'Vocal Music']
+
+Song:
+
+Buhay nga ba'y sadyang ganyan
+Ang hirap ay 'di natin maiwasan
+Kalungkutan ay lagi na lang
+Kasiyahan ay minsan lang makamtan
+
+Refrain
+O, buhay
+
+Kahit sa mga mayaman
+Ay 'di lubos ang kanilang kasiyahan
+Sa buhay ng mahirap ay gayon din
+Lalo pa't kay dami mong mga utang

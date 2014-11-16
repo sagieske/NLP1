@@ -1,0 +1,8 @@
+Artist: gipsy_kings
+Title: ami_wa_wa_solo_por_ti
+Genre: Latin
+Subgenres: [u'Contemporary Flamenco', u'Ethnic Fusion', u'Western European Traditions', u'Flamenco', u'Spanish Folk', u'Worldbeat']
+
+Song:
+
+This tribal song with Gipsy background vocals is aimed at the women who share their life. It fans the flames of their desire and the possessiveness they feel over their men.

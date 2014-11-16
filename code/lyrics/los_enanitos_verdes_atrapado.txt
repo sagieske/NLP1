@@ -1,0 +1,30 @@
+Artist: los_enanitos_verdes
+Title: atrapado
+Genre: International
+Subgenres: [u'Rock en Espa\xf1ol']
+
+Song:
+
+Como en un juego
+Cai en tu seduccion
+Como en un juego
+Llevaba la de perdedor
+
+Atrapado
+Me siento atrapado
+Atrapado
+Es mi condicion
+Atrapado
+Por tu corazon
+
+Como en un juego
+Al principio me dejaste ganar
+Como en un juego
+Abusaste de mi ansiedad
+
+Atrapado
+Me siento atrapado
+Atrapado
+Es mi condicion
+Atrapado
+Por tu corazon

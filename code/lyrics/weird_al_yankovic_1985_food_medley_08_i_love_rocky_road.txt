@@ -1,0 +1,20 @@
+Artist: weird_al_yankovic
+Title: 1985_food_medley_08_i_love_rocky_road
+Genre: Comedy/Spoken
+Subgenres: [u'Comedy Rock', u'Novelty', u'Song Parody', u'Contemporary Pop/Rock', u'Comedy']
+
+Song:
+
+[parody of "I Love Rock 'n Roll" by Joan Jett & The Blackhearts]
+I hear those ice cream bells and I start to drool.
+Keep a couple quarts in my locker at school.
+Yeah, but chocolate's gettin' old,
+Vanilla just leaves me cold.
+There's just one flavor good enough for me, yeah me!
+Don't gimme no crummy taste spoon, I know what I need.
+
+Baby, I love rocky road,
+So won't you go and buy half a gallon, baby?
+I love rocky road,
+Now have another triple scoop with me!
+Ow!

@@ -1,0 +1,32 @@
+Artist: uncle_earl
+Title: sleepy_desert
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'American Trad Rock', u'Contemporary Pop/Rock', u'Neo-Psychedelia', u'Album Rock']
+
+Song:
+
+Awake, awake, you sleepy desert
+Awake, awake, it's a-comin' day
+Stick your head out of the window
+And see what your true lover says
+
+Some people say that courting's pleasure
+Oh what pleasure do I see
+The dearest girl in this world
+Has gone and turned her back on me
+
+Awake, awake...
+
+You needn't to bother asking my papa
+He's in his room taking his rest
+And in his hand he holds a weapon
+To kill the man that I love best
+
+Awake, awake...
+
+I have no one to follow to the bedroom
+I have no one to sleep with me
+I have a wife way up in heaven
+And the lord knows she loves me
+
+Awake, awake...

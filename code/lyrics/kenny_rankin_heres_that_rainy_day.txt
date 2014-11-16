@@ -1,0 +1,31 @@
+Artist: kenny_rankin
+Title: heres_that_rainy_day
+Genre: Pop/Rock
+Subgenres: [u'Adult Contemporary', u'AM Pop', u'Contemporary Pop/Rock', u'Standards', u'Vocal Pop']
+
+Song:
+
+Maybe I Should Have Saved
+Those Leftover Dreams
+Funny Here's That Rainy Day
+
+Here's That Rainy Day
+They Told Me About
+And I Laughed At The Thought
+That It Might Turn Out This Way
+
+Where's The Worn Out Wish
+That I Threw Aside
+After It Brought My Lover Near
+And It's Funny How Love Becomes
+A Cold Rainy Day
+Funny That Rainy Day Is Here
+
+Where's The Worn Out Wish
+That I Threw Aside
+After It Brought My Lover Near
+Funny How Love Becomes
+A Cold Rainy Day
+Funny That Rainy Day Is Here
+We're Clear To Peer
+That Rainy Day Is Here

@@ -1,0 +1,26 @@
+Artist: kris_kristofferson
+Title: anthem_84
+Genre: Country
+Subgenres: [u'Outlaw Country', u'Progressive Country', u'Singer/Songwriter', u'Country-Rock', u'Soft Rock', u'Traditional Country']
+
+Song:
+
+If you're looking for a fighter who'll defend you
+And love you for your Freedom. I'm your man.
+And I ain't gonna leave you for the crazy things you're doing
+But don't ask me to lend a helping hand.
+
+You were such a pretty dream as I remember
+You were young and strong and God was on your side.
+But vision slowly faded like the wonder from your eyes
+And you traded your compassion for your pride.
+
+But I still believe in all that we believed in.
+And I pray to God that you will in the end.
+And you'll see the golden chances that you're wasting.
+And be the loving beauty that you can.
+
+But I still believe in all that we believed in.
+And I pray to God that you will in the end.
+And you'll see the golden chances that you're wasting.
+And be the loving beauty that you can.

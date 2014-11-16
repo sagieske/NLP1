@@ -1,0 +1,21 @@
+Artist: waterboys
+Title: a_man_is_in_love
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Celtic Rock', u'College Rock']
+
+Song:
+
+A man is in love, how do I know?
+He came and walked with me, and he told me so
+In a song he sang, and then I knew
+A man is in love with you
+
+A man is in love, how did I hear?
+I heard him talk too much whenever you're near
+He whispered your name when his eyes were closed
+A man is in love and he knows
+
+A man is in love, how did I guess?
+I figuered it out while he was watching you dress
+He'd give you his all, if you'd but agree
+A man is in love and he's me

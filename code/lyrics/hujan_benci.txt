@@ -1,0 +1,19 @@
+Artist: hujan
+Title: benci
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock']
+
+Song:
+
+Oh... Bertikam lidah
+Oh takkan sudah
+Oh... Bagai mimpi indah
+Jika satu diantaranya berubah
+
+Sukar untuk buat kau percaya
+Asalkan dikau bahagia
+
+Benci mengapa kau benci
+Mengapa merungut lagi
+Cuba cuba kau hayati
+Mengapa merungut lagi

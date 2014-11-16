@@ -1,0 +1,37 @@
+Artist: queens_of_the_stone_age
+Title: auto_pilot
+Genre: Pop/Rock
+Subgenres: [u'Alternative Metal', u'Hard Rock', u'Heavy Metal', u'Stoner Metal', u'Alternative/Indie Rock']
+
+Song:
+
+Silent hell on the marble slab
+The best trip that I've ever had
+Higher than a jet plane, pass it around
+My drinks on empty, need another round
+
+[chorus:]
+I wanna fly, wanna ride with you
+Is this the best that you can do?
+I wanna fly, wanna ride with you
+Higher than a jet plane with you
+
+Will we arrive in the middle of nowhere
+Don't act like you know, I been here so many times
+I never seen you before
+But now that I have, I don't wanna see you no more
+
+Higher than a jet plane with you
+Higher than a jet plane with you
+
+[repeat chorus]
+
+Ah-ah, auto pilot no control
+Ah-ah, ahh
+Ah-ah, auto pilot no control
+Ah-ah, ahh
+
+Higher than a jet plane with you
+Higher than a jet plane with you
+
+[repeat chorus]

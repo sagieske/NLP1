@@ -1,0 +1,18 @@
+Artist: david_crowder_band
+Title: all_creatures_of_our_god_and_king
+Genre: Religious
+Subgenres: [u'CCM', u'Alternative CCM', u'Contemporary Christian', u'Praise & Worship', u'Bluegrass', u'Gospel', u'Progressive Bluegrass']
+
+Song:
+
+All creatures of our God and King
+Lift up your voice and with us sing
+Oh, praise Him!
+Alleluia!
+Thou burning sun with golden beam
+Thou silver moon with softer gleam
+Oh, praise Him!
+Oh, praise Him!
+Alleluia!
+Alleluia!
+Alleluia!

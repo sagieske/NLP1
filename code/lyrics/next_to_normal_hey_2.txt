@@ -1,0 +1,64 @@
+Artist: next_to_normal
+Title: hey_2
+Genre: Pop/Rock
+Subgenres: [u'Neo-Prog', u'Post-Grunge', u'Hard Rock']
+
+Song:
+
+Henry:
+Hey
+
+Natalie:
+Hey
+
+Henry:
+So tomorrow's the dance,
+It's annoying I know
+But let's go.
+
+Natalie:
+Not a chance.
+
+Henry:
+Let me know you again.
+
+Natalie:
+Not right now.
+
+Henry:
+Ok, when?
+Say wait and I'll wait.
+
+(Overlapping)
+Natalie:
+It's already too late.
+Hey, hey!
+Will you listen?
+Just shut up and listen.
+
+Henry:
+There's no way it's too late.
+There's no way
+I stayed by your side.
+
+Why do I get denied?
+
+Natalie:
+You remind me of me.
+And how f****d up I can be.
+
+Henry:
+Ok, hey.
+Let's start over, clean slate.
+I'll come by here at 8.
+If you show then we'll go.
+If you don't, well we'll see.
+
+Natalie:
+You just don't give up.
+
+Henry:
+So don't give up on me.
+
+Natalie:
+Goodbye, Henry.

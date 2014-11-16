@@ -1,0 +1,39 @@
+Artist: oak_ridge_boys
+Title: american_made
+Genre: Country
+Subgenres: [u'Country Gospel', u'Country-Pop', u'Gospel']
+
+Song:
+
+Seems everything I buy these days
+Has got a foreign name
+From the kind of car I drive
+To my video game
+I got a NIKKON camera
+A Sony color Tee Vee
+But the one that I love is from the U.S.A.
+And standing next to me.
+
+My baby is American Made
+Born and bred in the U.S.A.
+From her silky long hair to her sexy long legs
+My baby is American Made.
+
+She looks good in her tight blue jeans
+She bought in Mexico
+And she loves wearing French perfume
+Everywhere we go
+But when it comes to the lovin' part
+One thing is true
+My baby's genuine U.S.A.
+Red White and Blue
+
+My baby is American Made
+Oh yes she is
+Born and bred in the U.S.A.
+From her silky long hair to her sexy long legs
+My baby is American Made.
+My baby is American Made
+Born and bred in the U.S.A.
+From her silky long hair to her sexy long legs
+My baby is American Made.

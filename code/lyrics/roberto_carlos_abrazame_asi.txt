@@ -1,0 +1,25 @@
+Artist: roberto_carlos
+Title: abrazame_asi
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Indie Rock', u'Post-Rock']
+
+Song:
+
+Abrázame así
+Que esta noche yo quiero sentir
+De tu pecho el inquieto latir
+Cuando estás a mi lado
+
+Abrázame asi
+Que en la vida no hay nada mejor
+Que decirle que sí al corazón
+Cuando pide cariño
+
+Abrázame así
+Que en un beso te voy a contar
+El más dulce secreto de amor
+Que hay en mi corazón
+
+Acércate a mí
+Que esta noche vivamos los dos
+La más linda locura de amor

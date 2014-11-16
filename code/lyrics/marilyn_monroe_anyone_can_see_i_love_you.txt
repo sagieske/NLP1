@@ -1,0 +1,27 @@
+Artist: marilyn_monroe
+Title: anyone_can_see_i_love_you
+Genre: Vocal
+Subgenres: [u'Vocal Pop', u'Celebrity', u'Traditional Pop', u'American Popular Song', u'Film Score', u'Show/Musical']
+
+Song:
+
+Anyone can see I love you,
+Anyone can see I care,
+The way I hold your hand,
+And smile in your direction,
+Tells the world my heart is filled with
+Nothing but affection.
+
+Lock me in your arms forever,
+That's the place I want to be,
+So anyone can see,
+That I belong to you,
+And you belong to me.
+
+(Music break)
+
+Lock me in your arms forever,
+That's the place I want to be,
+So anyone can see,
+That I belong to you,
+And you belong to me.

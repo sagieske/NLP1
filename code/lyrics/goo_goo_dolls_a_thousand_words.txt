@@ -1,0 +1,23 @@
+Artist: goo_goo_dolls
+Title: a_thousand_words
+Genre: Pop/Rock
+Subgenres: [u'Adult Alternative Pop/Rock', u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Post-Grunge', u'Hard Rock', u'Contemporary Pop/Rock']
+
+Song:
+
+A thousand words that no one's spoken
+Now there's nothing left to say
+Another dream just got broken
+You suggest you're not that way, yeah
+
+I want you to love me
+Want you to know I'm just like you
+Just like you
+
+Another dream just got broken
+Another dreamer just like you
+You
+
+A thousand words just like you
+A thousand words just like you
+A thousand words just like you

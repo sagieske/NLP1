@@ -1,0 +1,26 @@
+Artist: wayne_newton
+Title: everybody_loves_somebody_sometime
+Genre: Vocal
+Subgenres: [u'Cast Recordings', u'Early Pop/Rock', u'Show Tunes', u'Traditional Pop', u'Vocal Pop', u'AM Pop', u'Contemporary Pop/Rock']
+
+Song:
+
+Everybody loves somebody sometime
+Everybody falls in love somehow
+Something in your kiss just told me
+My sometime is now
+
+Everybody finds somebody someplace
+There's no telling where love may appear
+Something in my heart keeps saying
+My someplace is here
+
+If I had it in my power
+I'd arrange for every girl to have your charms
+Then every minute every hour
+Every boy would find what I found in your arms
+
+Everybody loves somebody sometime
+And although my dream was overdue
+Your love made it well worth waiting
+For someone like you

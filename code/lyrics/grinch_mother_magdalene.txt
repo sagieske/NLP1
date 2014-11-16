@@ -1,0 +1,18 @@
+Artist: grinch
+Title: mother_magdalene
+Genre: Latin
+Subgenres: [u'Latin Rap']
+
+Song:
+
+My head bowed down
+As I walked through the projects
+Sirens till ringing in my ears
+Heavy of heart
+'Till something twitched in the gutter
+An angel lay there soaked in her own
+And she spoke...
+She said, "My name is Mary"
+She asked me if I'd like to take her home
+A glass eye and a toothless grin
+She took my hand and led me to salvation

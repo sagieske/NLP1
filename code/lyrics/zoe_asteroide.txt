@@ -1,0 +1,30 @@
+Artist: zoe
+Title: asteroide
+Genre: Latin
+Subgenres: [u'Rock en Espa\xf1ol', u'Latin Pop', u'Alternative Pop/Rock', u'Alternative/Indie Rock']
+
+Song:
+
+Djate ver,
+Estuvo chido poder besar,
+Tu estereocuerpo lunar,
+Tus ojos brillan mas cada vez.
+Y viajas sobre un asteroide,
+Clavando tus espinas contra el rbital,
+De un planeta helado.
+Y viajas sobre un asteroide,
+Esprame, quiero borrar mi rastro.
+Asteroide, asteroide.
+Quiero volver,
+Estuvo chido hacer el amor,
+En el asiento de atras,
+Alucinando mas cada vez.
+Y viajas sobre un asteroide,
+Clavando tus espinas en el rbital,
+De un planeta helado.
+Y viajas sobre un asteroide,
+Esprame, pens en decirte tanto
+Pens en decirte tanto,
+Pero no pude articular,
+La nave se destroza lentamente.
+Asteroide, asteroide

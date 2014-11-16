@@ -1,0 +1,26 @@
+Artist: diana_krall
+Title: all_or_nothing_at_all
+Genre: Jazz
+Subgenres: [u'Contemporary Jazz', u'Torch Songs', u'Traditional Pop', u'Vocal Jazz', u'Neo-Bop', u'Film Score']
+
+Song:
+
+All or nothing at all
+Half a love never appealed to me
+If your heart never could yield to me
+Then I'd rather have nothing at all
+
+All or nothing at all
+If it's love there ain't no in-between
+Why begin and cry for something that might have been
+No I'd rather have nothing at all
+
+Please don't put your lips so close to my cheek
+Don't smile or I'll be lost beyond recall
+The kiss in your eyes the touch of your hand makes me weak
+And my heart may grow dizzy and fall
+
+And if I fell under the spell of your call
+I would be caught in the undertow
+So you see I've got to say no
+All or nothing at all

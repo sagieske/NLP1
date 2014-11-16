@@ -1,0 +1,24 @@
+Artist: xo
+Title: wait_for_you
+Genre: Electronic
+Subgenres: [u'Club/Dance', u'Pop']
+
+Song:
+
+Waltz around the house alone
+To the music in your head
+Lay in bed on rainy days
+And I'll hold you like a child and kiss your head
+But all these states are in my way
+So I won't be there tonight
+But soon the day will come
+When I wake up in a bed next to you
+I'll wait. I'll wait. I'll wait for you.
+
+Waltz around the house alone
+Feel the boards below your feet
+But all these states are in my way
+So I won't be there tonight
+I'll drive all night
+And I'll follow the lights to see you again
+I'll wait. I'll wait. I'll wait for you.

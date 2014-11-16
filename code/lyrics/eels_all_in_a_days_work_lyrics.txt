@@ -1,0 +1,36 @@
+Artist: eels
+Title: all_in_a_days_work_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Adult Alternative Pop/Rock', u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Post-Grunge']
+
+Song:
+
+When I was born
+The doctor said
+There's something wrong
+Inside that baby head
+When I was a boy
+In Sunday school
+I told them all
+That they were fools
+
+All in a day's work
+To live and breathe
+A sight to see
+And so it goes
+
+I went into
+The fortune teller's
+She wouldn't read
+My horoscope
+I go into
+The laundromat
+The people all
+Buy extra soap
+
+All in a day's work
+To live and breathe
+A sight to see
+All in a day's work
+To live and breathe
+A sight to see

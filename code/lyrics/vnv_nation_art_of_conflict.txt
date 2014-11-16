@@ -1,0 +1,49 @@
+Artist: vnv_nation
+Title: art_of_conflict
+Genre: Pop/Rock
+Subgenres: [u'Industrial Dance', u'Alternative/Indie Rock', u'Electro-Industrial', u'Dark Ambient']
+
+Song:
+
+The art of war is of vital importance to the state.
+It is a matter of life and death,
+A road either to safety or to ruin.
+
+To fight and conquer in all your battles is not supreme excellence
+Supreme excellence consists in breaking the enemy's resistance without having to fight
+
+If you know the enemy and know yourself, your victory will not stand in doubt
+If you know heaven and you know Earth, you may make your victory
+
+If you know the enemy and know yourself, you need not fear results of a hundred battles
+If you know yourself but not the enemy, for every victory gained you will also suffer defeat.
+If you know neither the enemy nor yourself, you will succumb in every battle.
+
+Treat your soldiers as your beloved children
+And they will follow you into the deepest valleys.
+To defeat your enemy, you must pretend inferiority and encourage your enemy's arrogance.
+
+Making no mistakes is what establishes the certainty of victory
+For it means conquering an enemy that is already defeated.
+
+There is no instance of a nation benefiting from prolonged warfare.
+
+Speed is the essence of war.
+
+The art of war teaches us to rely not on the likelihood of the enemy's not coming,
+But on our own readiness to receive our enemy;
+Not on the chance of our enemies not attacking,
+But rather on the fact that we have made our position unassailable.
+
+The general who advances without seeking fame and retreats without fearing disgrace,
+Whose only thought is to protect his country and do service for his sovereign,
+Is the jewel of his kingdom.
+
+The victorious strategist only seeks battle after the victory has been won
+Whereas he who is destined to defeat first fights and afterwards looks for victory.
+
+Speed is the essence of war.
+Speed is the essence of war.
+
+It is only one who is thoroughly acquainted with the evils of war
+Who can thoroughly understand how to profit from waging war.

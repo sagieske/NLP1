@@ -1,0 +1,28 @@
+Artist: dwight_yoakam
+Title: a_heart_like_mine
+Genre: Country
+Subgenres: [u'Alt-Country', u'Alternative/Indie Rock', u'Bakersfield Sound', u'Contemporary Country', u'New Traditionalist', u'Country-Rock', u'Country-Pop', u'Neo-Traditionalist Country']
+
+Song:
+
+I saw you comin'
+You saw me and took off runnin'
+Those shadows in your eyes
+Were such a sweet disguise
+
+Chorus:
+Oh I, I wonder why
+You never tried
+To understand
+A heart like mine
+
+I just wasted time
+Till I lost all I could find
+So any that you see
+Surely must belong to me
+
+Chorus: (x2)
+I wonder why
+You never tried
+To understand
+A heart like mine

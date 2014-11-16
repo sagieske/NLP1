@@ -1,0 +1,16 @@
+Artist: howlin_wolf
+Title: commit_a_crime
+Genre: Blues
+Subgenres: [u'Chicago Blues', u'Electric Chicago Blues', u'Regional Blues', u'Acoustic Chicago Blues', u'Early R&B', u'Electric Memphis Blues', u'Piano Blues', u'Jive', u'Jump Blues']
+
+Song:
+
+I'm gonna leave you woman, before I commit a crime.
+I'm gonna leave you woman, before I commit a crime.
+You tried so hard to kill me, woman it just was not my time.
+You put poison in my coffee, instead of milk or cream.
+You put poison in my coffee, instead of milk or cream.
+You bout the evilest woman, that I ever seen.
+You mixed my drinks, with a can of Red Devil lye.
+You mixed my drinks, with a can of Red Devil lye.
+Then you sit down, watch me, hopin that I might die

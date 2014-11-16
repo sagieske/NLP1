@@ -1,0 +1,23 @@
+Artist: zao
+Title: a_pirates_prayer
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Punk Revival', u'Christian Punk', u'Alternative Metal', u'Heavy Metal']
+
+Song:
+
+Marked to be alone,
+And my eyes are closed.
+Drawn and separate.
+For sakes of discernment.
+Walk with the broken pieces.
+They do not say a word.
+They speak not a word to the broken sea.
+Not burnt by the fire.
+Or pulled by the flood.
+They come to rest in crimson pools of blood.
+Guided by the wind.
+Not burnt by the fire.
+Not pulled by the flood.
+The come to rest (alone, alone) But they,
+They go, so we ride. But the candle burns alone.
+It guides us safetly home.

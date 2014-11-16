@@ -1,0 +1,31 @@
+Artist: limp_bizkit
+Title: a_lesson_learned
+Genre: Pop/Rock
+Subgenres: [u'Heavy Metal', u'Post-Grunge', u'Rap-Metal', u'Rap-Rock', u'Alternative Metal', u'Funk Metal', u'Hard Rock']
+
+Song:
+
+This pain, this pain
+In my stomach, won't go away
+I assume, this is punishment
+From all the mistakes, I've made
+
+In a world, where my actions speak louder than words
+In a world, where my actions speak louder than words
+
+I know more people than ever before
+One lesson, I've learned from it all
+Fortune and fame are disguised as your friend
+'Cuz I'm lonelier now, than I've ever been
+
+'Cuz this pain in my stomach, won't go away
+I assume, this is punishment
+For the mistakes, I've made
+
+In a world, where my actions speak louder than words
+In a world, where my actions speak louder than words
+
+I know more people than ever before
+One lesson, I've learned from it all
+Fortune and fame are disguised as your friend
+'Cuz I'm lonelier now, than I've ever been

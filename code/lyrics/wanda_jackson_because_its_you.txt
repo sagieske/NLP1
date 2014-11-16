@@ -1,0 +1,18 @@
+Artist: wanda_jackson
+Title: because_its_you
+Genre: Pop/Rock
+Subgenres: [u'Country Gospel', u'Gospel', u'Rockabilly', u'Traditional Country', u'Honky Tonk']
+
+Song:
+
+If this is the life you crave honky tonks night and day
+Well I guess I have to learn to like it too
+I'll try hard to be like you I wanna do the same you do
+I'll meet you on your side of town because it's you
+I could never love another if we go down we'll go together
+I wanna ride where the tight care is you
+Where the wine and liquor flow stay there till it's time to close
+Right or wrong I'll tag along because it's you
+[ steel ]
+I could never love another...
+Right or wrong I'll tag along because it's you

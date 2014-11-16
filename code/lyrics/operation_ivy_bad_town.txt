@@ -1,0 +1,37 @@
+Artist: operation_ivy
+Title: bad_town
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Ska-Punk', u'Third Wave Ska Revival']
+
+Song:
+
+Lets go
+Verse
+They call it a scene I call it disaster
+Down here the kids grow up faster
+Scared they're scared to the bone
+Like a pack of wolves they don't run alone
+One on one they won't look you in the eye
+But when the pack's together there's a battle cry
+I saw it fifteen on one
+When the crowd dispersed the kid was done
+
+Chorus
+No (no more)
+No (bad town)
+No more bad town
+
+No (no more)
+No (bad town)
+No more bad town
+
+Verse
+Yeah, down there you gotta have a label
+Just like a cattle in a stable
+Knee jerk reaction I call it violence
+Why speak out when you could be silenced
+Down there out on the dance floor
+Too much violence I don't want more
+Down there out on the street
+I can see the air I can see the heat
+[Chorus:]

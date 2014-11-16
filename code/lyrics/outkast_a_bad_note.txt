@@ -1,0 +1,24 @@
+Artist: outkast
+Title: a_bad_note
+Genre: Rap
+Subgenres: [u'Dirty South', u'Southern Rap', u'Pop-Rap', u'Alternative Rap']
+
+Song:
+
+[Andre 3000]
+A bad note ain't no bad note
+If it's a good note
+A bad note ain't no bad note
+If it's a good note
+A bad note ain't no bad note
+If it's a good note
+A bad note ain't no bad note
+If it's a good note
+A bad note ain't no bad note
+If it's a good note
+A bad note ain't no bad note
+If it's a good note
+A bad note ain't no bad note
+If it's a good note
+A bad note ain't no bad note
+If it's a good note

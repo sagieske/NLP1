@@ -1,0 +1,42 @@
+Artist: f4
+Title: ask_for_more_lyrics
+Genre: Latin
+Subgenres: []
+
+Song:
+
+Ask for more
+Yong gan zhui zhe shi zui hao de ji hui
+Gan jue xiang guan yi kou mao zhe pao de kuai le
+Xiang qian fei wu fa fu zhi de ti hui
+Wei you ni jie wo zhe ke
+Rang ke wang wu shen de zai shen zhang
+Ai ding bu zhi shi wang xiang
+Rang zhe shi jie shui zhe yan jing qing, yang chang
+You xiang xiang jiu you neng li zai fei shang
+Don't Stop, Ask For More
+Women zhi de zui tebie de geng hao geng duo
+Ni de wen shi sheng ming li zui tian mei de pei fang
+Cong ci yi qie bian de bu zai yi yang
+Yong gan zhui zhe shi zui hao de ji hui
+Gan jue xiang guan yi kou mao zhe pao de kuai le
+Xiang qian fei wu fa fu zhi de ti hui
+Wei you ni jie wo de ke
+Zai meng xiang li zai tan shuo
+Rang ke wang wu xian de zai sheng zhang
+Ai bing bu zhi shi huan xiang woo...
+Rang zhe shi jie sui zhe yan jing yan chang
+You xiang xiang jiu you neng liang zai fei xiang
+Don't Stop, Ask For More
+Women zhi de zui tebie de geng hao geng duo
+Ni de wen shi sheng ming li zui tian mei de pei fang
+Cong ci yi qie bian de bu zai yi yang
+Yong gan zhui zhe shi zui hao de ji hui
+Gan jue xiang guan yi kou mao zhe pao de kuai le
+Xiang qian fei wu fa fu zhi de ti hui
+Wei you ni jie wo de ke
+Zai meng xiang li zai tan shuo
+Don't Stop, Ask For More
+Women zhi de zui tebie de geng hao geng duo
+Ni de wen shi sheng ming li zui tian mei de pei fang
+Cong ci yi qie bian de bu zai yi yang

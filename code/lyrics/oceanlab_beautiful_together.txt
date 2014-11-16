@@ -1,0 +1,27 @@
+Artist: oceanlab
+Title: beautiful_together
+Genre: Electronic
+Subgenres: [u'Club/Dance', u'Progressive Trance', u'Trance']
+
+Song:
+
+Sunday
+Sunrise
+Looking out across the bay
+And in your eyes
+I see all I want to say
+And now you love me
+The clouds above me
+Couldn't stop the way I'm feeling
+
+Together we are beautiful, I miss you
+
+I see clearly
+I am not afraid to fall
+And with you near me
+I can rise above it all
+And now you love me
+The clouds above me
+Couldn't stop the way I'm feeling
+
+Together we are beautiful, I miss you

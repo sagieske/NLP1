@@ -1,0 +1,48 @@
+Artist: dawn
+Title: dreams
+Genre: Rap
+Subgenres: [u'Alternative Rap', u'Pop-Rap', u'Urban']
+
+Song:
+
+Intro:
+Dreams are made for children
+Reasons you and I can see
+The answers are a-plenty
+They happen to you and me.
+
+(Repeat Intro)
+
+Chorus:
+Dreams are made for children
+Well, now you do not see
+The answers you no longer find
+What has happened to you, to you and me?
+
+Stanza 1:
+Have the years passed?
+Has our love not soared?
+When have you dreamt last?
+Oh, now you're bored.
+
+(Repeat Chorus 2x)
+
+Stanza 2:
+Now at the wall we stare
+Back against the door
+Looking for that dream so rare
+From what sky did we fall?
+
+(Repeat Chorus)
+
+Coda:
+Dream, dream away
+Dream, dream, dream away
+Dream, dream, dream away
+Dream, dream, dream away.
+
+(Repeat Chorus)
+
+(Repeat Coda 2x)
+
+Fade:

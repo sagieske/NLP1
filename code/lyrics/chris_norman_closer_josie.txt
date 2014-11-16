@@ -1,0 +1,27 @@
+Artist: chris_norman
+Title: closer_josie
+Genre: R&B
+Subgenres: [u'Contemporary R&B', u'Pop', u'Dance-Pop']
+
+Song:
+
+Chorus:
+Closer, closer Josie
+Girl I want to hold you
+I remember the first time, 
+That I ever told you
+And I can still recall
+The way I whispered to you
+I said girl I want to be with you, 
+So closer, closer Josie
+
+You were not my first love, 
+You won't be my last
+When I wanted to touch you, 
+You said I move too fast
+Go out to a movie
+To watch the late late show
+When you whisper to me
+I guess it's time to go
+
+Chorus repeats to end

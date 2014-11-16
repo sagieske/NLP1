@@ -1,0 +1,28 @@
+Artist: keane
+Title: atlantic
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Britpop']
+
+Song:
+
+I hope all my days will be lit by your face
+I hope all the years will hold tight our promises
+
+I don't want to be old and sleep alone
+An empty house is not a home
+
+I don't want to be old and feel afraid
+I don't want to be old and sleep alone
+An empty house is not a home
+
+I don't want to be old and feel afraid
+And if I need anything at all
+I need a place that's hidden in the deep
+Where lonely angels sing you to your sleep
+Though all the world is broken
+
+I need a place where I can make my bed
+A lover's lap where I can lay my head
+Cos now the room is spinning
+
+The day's beginning

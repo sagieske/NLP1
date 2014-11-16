@@ -1,0 +1,33 @@
+Artist: marilyn_manson
+Title: abuse_part_1
+Genre: Pop/Rock
+Subgenres: [u'Alternative Metal', u'Heavy Metal', u'Industrial Metal']
+
+Song:
+
+(Tony Wiggins, man, woman)
+Man: You want it now, this is what you want right here. This is what you want. This is what you want.
+Woman: _____
+Man: ____ You're ok.
+Woman: Oh god yes.
+Man: You like it don't you? Don't you?
+Woman: Oh god yes.
+Man: Don't you?
+Woman: Yes.
+Man: Don't you?
+Woman: Yes. I like it.
+Man: Yes you do.
+Woman: ____
+Man: ____
+Man: we're not gonna kill you. Just relax, it's all right. Relax and enjoy the pain. There is pain involved. There is pain involved. 1. 2. 3. Ok. There is pain involved. You like it.
+Woman: Tony ______
+Man: Ok. You ok?
+Woman: Yeah, are you?
+Man: Are you ok?
+Woman: Yes. Yes.
+Man: I'm not gonna kill you.
+Woman: I don't f*****g care.
+Man: You know I'm not gonna kill you.
+Woman: This is so f*****g good.
+Man: You know I'm not gonna kill you.
+Woman: This is f*****g awesome

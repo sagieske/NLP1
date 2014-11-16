@@ -1,0 +1,16 @@
+Artist: terry_macalmon
+Title: heal_me
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Noise Pop', u'Punk-Pop', u'Garage Punk', u'Alternative/Indie Rock']
+
+Song:
+
+Verse 1:
+Heal me, heal me
+I need a brand new touch
+From You my Lord
+
+Verse 2:
+Heal me, heal me
+Let the fullness of your life
+Now be restored

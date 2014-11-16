@@ -1,0 +1,23 @@
+Artist: francoise_hardy
+Title: allamore_che_penso_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Early Pop/Rock', u'French Pop', u'Girl Groups', u'Vocal Pop', u'AM Pop', u'Contemporary Pop/Rock', u'French', u'Western European Traditions']
+
+Song:
+
+Appena tu vieni da me a mormorar
+Mille parole che spiegar non saprт mai
+E' all'amor che fai pensar
+A quell'amor che io sperai
+E quando tu non parli piщ senza un perchй
+E poi mi stringi dolcemente e baci me
+E' all'amor che fai pensar
+A quell'amor che io sognai
+A quell'amor che in silenzio aspettai
+Oggi giuri che mi ami
+Ma lo so che giа domani ti stancherai
+Di stare con me
+E quando tu un altro amor incontrerai
+E come me in un sospir la bacerai
+E' all'amor che pensero' e io allor mi chiederт
+Se tu esistevi veramente oppure no.

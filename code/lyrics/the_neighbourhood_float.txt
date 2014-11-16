@@ -1,0 +1,42 @@
+Artist: the_neighbourhood
+Title: float
+Genre: R&B
+Subgenres: [u'Contemporary R&B', u'Pop']
+
+Song:
+
+Imagine breathing in
+Imagine leaving all your air behind
+What matters in the end
+A matter of opinion til' you find out
+Life can only, mean hardly anything
+All I'll ever be is hardly settled in
+[Chorus:]
+They'll show you how to swim
+They'll throw you in the deep end
+I've been learning since
+But it doesn't mean I'l float
+I won't float
+I had a funny sleep
+I didn't have a dream cuz' I don't believe in them
+Life can only mean, hardly anything
+All I'll ever be is hardly settled in
+[Chorus:]
+They'll show you how to swim
+They'll throw you in the deep end
+I've been learning since
+But it doesn't mean I'l float
+I won't float
+Float away then come right back to me
+(2x)
+[Chorus:]
+They'll show you how to swim
+They'll throw you in the deep end
+I've been learning since
+But it doesn't mean I'l float
+I won't float
+What if I don't float
+(2x)
+I think I'll float
+I'll float
+I'll float away

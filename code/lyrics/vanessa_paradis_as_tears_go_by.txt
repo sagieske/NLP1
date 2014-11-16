@@ -1,0 +1,22 @@
+Artist: vanessa_paradis
+Title: as_tears_go_by
+Genre: Pop/Rock
+Subgenres: [u'Adult Alternative Pop/Rock', u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Club/Dance', u'French Pop', u'Dance-Pop']
+
+Song:
+
+It is the evening of the day
+I sit and watch the children play
+Smiling faces I can see, but not for me
+I sit and watch as tears go by
+
+My riches can't buy everything
+I want to hear the children sing
+All I ever hear is the sound of rain falling on the ground
+I sit and watch as tears go by
+
+It is the evening of the day
+I sit and watch the children play
+Doin' things I used to do, they think they are new
+I sit and watch as tears go by
+Mm mm mm...

@@ -1,0 +1,51 @@
+Artist: wali_band
+Title: kekasih_halal
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Blues-Rock', u'Slide Guitar Blues', u'Southern Rock', u'Boogie Rock', u'Hard Rock']
+
+Song:
+
+Aku telah lelah
+Memilih memilah mencari wanita
+Siapakah dirinya
+Yang kan menjadi kekasih halalku
+Tiba-tiba aku terpana
+Ada kejutan tak terduga
+
+Dia gadis berkerudung merah
+Hatiku tergoda tergugah
+Tak cuma parasnya yang indah
+Dia baik dia soleha
+
+Dia gadis berkerudung merah
+Bawalah diriku padanya
+Takkan habis ku berdoa
+Jadi kekasih halalnya
+
+Jadikan diriku halal
+Memeluk halal menciummu
+Lekaslah jangan tunda
+Untuk menjadi kekasih halalku
+
+Tiba-tiba aku terpana
+Ada kejutan tak terduga
+
+Dia gadis berkerudung merah
+Hatiku tergoda tergugah
+Tak cuma parasnya yang indah
+Dia baik dia soleha
+
+Dia gadis berkerudung merah
+Bawalah diriku padanya
+Takkan habis ku berdoa
+Jadi kekasih halalnya
+
+Itu itu dia gadis berkerudung merah
+Hatiku tergoda tergugah
+Tak cuma parasnya yang indah
+Dia baik dia soleha
+
+Dia gadis berkerudung merah
+Bawalah diriku padanya
+Takkan habis ku berdoa
+Jadi kekasih halalnya

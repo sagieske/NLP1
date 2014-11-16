@@ -1,0 +1,11 @@
+Artist: hi_5
+Title: captain_puffy_pants
+Genre: Pop/Rock
+Subgenres: [u'Adult Alternative Pop/Rock', u'Alternative/Indie Rock', u'Contemporary Pop/Rock', u'Pop']
+
+Song:
+
+My name is Captain Puffy Pants
+I love to do a sailor's dance
+I dance and sing and jig all day
+Except my pants get in the way

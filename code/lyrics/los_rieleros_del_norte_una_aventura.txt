@@ -1,0 +1,56 @@
+Artist: los_rieleros_del_norte
+Title: una_aventura
+Genre: Latin
+Subgenres: [u'Conjunto', u'Mexican Traditions', u'Norteno', u'Tex-Mex']
+
+Song:
+
+Que te quize mucho
+no podras negarlo
+y que mi carino
+no supiste amar
+
+Que te di mi vida
+sin pedirte nada
+solo me enganabas
+me hiciste llorar
+
+Solo sufrimiento
+distes a mi vida
+ese cruel despecho
+no lo eh de borrar
+
+Y aun despues de todo
+yo te sigo amando
+y quiensabe cuando
+te podre olvidar
+
+Muy ilucionado
+estaba yo contigo
+como fui tan ciego
+para no entender
+
+Que era una aventura
+lo que tu buscabas
+y yo por confiado
+donde fui a caer
+
+Solo sufrimiento
+distes a mi vida
+ese cruel despecho
+no lo eh de borrar
+
+Y hoy despues de todo
+yo te sigo amando
+y quiensabe cuando
+te podre olvidar
+
+Muy iluciondado
+estaba yo contigo
+como fui tan ciego
+para no entender
+
+Que era una aventura
+lo que tu buscabas
+y yo por confiado
+donde fui a caer

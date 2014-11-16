@@ -1,0 +1,17 @@
+Artist: raffi
+Title: anansi
+Genre: Children's
+Subgenres: [u"Children's Folk", u'Gospel', u'Sing-Alongs', u"Children's Songwriters", u'Calypso', u'Caribbean Traditions', u'Holidays']
+
+Song:
+
+Verse 1:
+Naughty little spider man speaks with a lisp
+Naughty little spider man lives of his wits
+Rascle hero the workers friend
+Driving the bacra around the bend
+Chorus:
+Anansi naughty little spider man
+Anansi magical man
+Anansi naughty little spider man
+Anansi magical man

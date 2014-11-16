@@ -1,0 +1,39 @@
+Artist: lobo
+Title: armstrong
+Genre: Pop/Rock
+Subgenres: [u'AM Pop', u'Soft Rock', u'Contemporary Pop/Rock']
+
+Song:
+
+Black boy in Chicago
+Playin' in the street
+Not enough to wear
+Not near enough to eat
+But don't you know he saw it
+On that July afternoon
+Saw a man named Armstrong
+Walk upon the moon
+
+Young girl in Calcutta
+Barely eight years old
+The fly's that swarm the market place
+Will see she don't grow old
+But don't you know she heard it
+On a July afternoon
+Heard a man named Armstrong
+
+Walk upon the moon
+
+River's getting dirty
+The wind in getting bad
+War and hate are killing off
+The only earth we have
+But the whole world stopped to watch it
+On that July afternoon
+Watched a man named Armstrong
+Walk upon the moon
+
+And I wonder if a long time ago
+Somewhere in the universe
+They watched a man named Adam
+Walk upon the earth

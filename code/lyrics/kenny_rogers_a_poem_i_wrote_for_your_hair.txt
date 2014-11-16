@@ -1,0 +1,36 @@
+Artist: kenny_rogers
+Title: a_poem_i_wrote_for_your_hair
+Genre: Country
+Subgenres: [u'Adult Contemporary', u'Country-Pop', u'Soft Rock', u'Urban Cowboy', u'AM Pop', u'Contemporary Pop/Rock']
+
+Song:
+
+October, in the wind
+November, in the skies
+Winter is just around the corner
+Wearing an old man’s disguise
+
+His thoughts they are barren
+His language is poor
+Soon he’ll come knocking
+At your door
+
+Leaves shy from the trees
+Geese fly to the moon
+Winter is starving in shirt sleeves
+Wrapping a can with his spool
+
+His clothes they are ragged
+His feet they are bare
+But soon he will prosper
+He’ll have his share
+
+I can’t keep you from the rainfall
+I can’t keep you from the snow
+I can’t keep you warm in the storm
+Where the wintry winds do blow
+
+And I have no wools to bring you love
+I have no cloak to share
+And I only came to sing you love
+A poem I wrote for your hair

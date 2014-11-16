@@ -1,0 +1,18 @@
+Artist: delbert_mcclinton
+Title: a_real_bad_day
+Genre: Blues
+Subgenres: [u'Americana', u'Roots Rock', u'Blues-Rock', u'Country-Rock', u'Modern Electric Blues', u'Progressive Country']
+
+Song:
+
+I found her number and a note she wrote
+Deep in a pocket of a real old coat
+It just got by me someway
+I must have had a real bad day
+
+Said she was all moved in
+And I promise it sure look fine
+Suggested I come by and see her sometime
+Said all the pictures are new
+And I'll turn them all for you
+She said

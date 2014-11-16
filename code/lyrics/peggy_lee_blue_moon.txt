@@ -1,0 +1,34 @@
+Artist: peggy_lee
+Title: blue_moon
+Genre: Vocal
+Subgenres: [u'Swing', u'Torch Songs', u'Traditional Pop', u'Vocal Jazz', u'Show Tunes', u'Vocal Pop', u'Cast Recordings']
+
+Song:
+
+Blue moon, you saw me standin' alone
+Without a dream in my heart, without a love of my own
+Blue moon, you knew just what I was there for
+You heard me sayin' a prayer for
+Someone I really could care for
+
+And then there suddenly appeared before me
+The only one my arms will hold
+I heard somebody whisper "please adore me"
+And when I looked, the moon had turned to gold
+
+Blue moon, now I'm no longer alone
+Without a dream in my heart
+Without a love of my own
+
+And then there suddenly appeared before me
+The only one my arms will ever hold
+I heard somebody whisper "please adore me"
+And when I looked, the moon had turned to gold
+
+Blue moon, now I'm no longer alone
+Without a dream in my heart
+Without a love of my own
+
+Blue moon, now I'm no longer alone
+Without a dream in my heart
+Without a love of my own

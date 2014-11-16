@@ -1,0 +1,15 @@
+Artist: tommy_walker
+Title: jesus_that_name
+Genre: Pop/Rock
+Subgenres: [u'Alternative/Indie Rock', u'Baroque Pop', u'Experimental Rock', u'Soft Rock', u'AM Pop']
+
+Song:
+
+Jesus, that name by which we have been saved
+Jesus, what joy and peace just the sound of it brings
+That name high above all name
+
+No other name can make the darkness flee
+No other name can our salvation bring
+No other name can set the sinner free
+Only Jesus Christ the King

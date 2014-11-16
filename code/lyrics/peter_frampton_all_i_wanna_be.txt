@@ -1,0 +1,26 @@
+Artist: peter_frampton
+Title: all_i_wanna_be
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Arena Rock', u'Contemporary Pop/Rock']
+
+Song:
+
+Do what you do don't bring me down
+I went to the doctor he's just another clown
+Don't stand alone you might turn to stone
+I wish there was a pill for that - you're on your own
+
+Can't you see what it's doing to me
+All I wanna be is by your side
+I don't care if they cut my hair
+All I wanna be is by your side
+
+Shake me down you wanna put me on the ground
+There's money in my pocket I won't make a sound
+Run me over or pick a four leaf clover
+Now they cut the lights down, this record's going slower
+
+Can't you see what it's doing to me
+All I wanna be is by your side
+I don't care if they cut my hair
+All I wanna be is by your side

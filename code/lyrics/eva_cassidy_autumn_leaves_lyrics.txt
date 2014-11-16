@@ -1,0 +1,29 @@
+Artist: eva_cassidy
+Title: autumn_leaves_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Adult Alternative Pop/Rock', u'Alternative/Indie Rock', u'Contemporary Singer/Songwriter']
+
+Song:
+
+Artist: Eva Cassidy
+English Lyrics by Johnny Mercer and Music by Joseph Kosma
+
+The falling leaves drift by my window
+The falling leaves of red and gold
+I see your lips, the summer kisses
+The sunburned hands I used to hold
+
+Since you went away the days grow long
+And soon I'll hear old winter's song
+But I miss you most of all, my darling
+When autumn leaves start to fall
+
+(Instrumental for 1 minute)
+
+Since you went away the days grow long
+And soon I'll hear old winter's song
+But I miss you most of all, my darling
+When autumn leaves start to fall
+
+I miss you most of all, my darling
+When autumn leaves start to fall

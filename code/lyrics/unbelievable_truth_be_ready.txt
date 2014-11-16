@@ -1,0 +1,21 @@
+Artist: unbelievable_truth
+Title: be_ready
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Britpop']
+
+Song:
+
+I never wanted you to be
+Another substitute for me.
+Be ready to go.
+Be ready to go.
+And now the nights are thickening,
+Another place is beckonin
+This house isn't our own house.
+These thoughts are mine.
+And all the hours we spend alone
+We never make it out of bed.
+Be ready to go.
+Be ready to go.
+Be ready to go.
+I know that you will understand.

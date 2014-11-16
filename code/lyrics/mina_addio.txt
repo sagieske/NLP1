@@ -1,0 +1,18 @@
+Artist: mina
+Title: addio
+Genre: Pop/Rock
+Subgenres: [u'Euro-Pop', u'Italian Pop', u'Adult Contemporary']
+
+Song:
+
+Ti dico addio ma come ? triste riperderti
+e pi? mi guardi e pi? capisco di amarti
+ma c'? qualcuno che sta aspettandomi
+cosa farebbe mai senza di me.
+Ti amo tanto ma io ritorno da lui.
+E' troppo tardi, troppo tardi per noi.
+Ancora un bacio ma sar? l'ultimo,
+io dovr? vivere senza di te.
+E pi? ti guardo e pi? capisco di amarti,
+ma ? troppo tardi, troppo tardi per noi.
+E pi? mi guardi e pi? capisco di amarti

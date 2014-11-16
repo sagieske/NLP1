@@ -1,0 +1,36 @@
+Artist: eric_clapton
+Title: aint_nobodys_business_if_i_do_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Album Rock', u'Blues-Rock', u'British Blues', u'Contemporary Pop/Rock', u'Regional Blues', u'Adult Contemporary', u'Hard Rock']
+
+Song:
+
+There ain't nothing I can do, or nothing I can say,
+Some folks will criticize me.
+So I'm gonna do just what I want to anyway,
+And don't care if you all despise me.
+
+If I should take a notion
+To jump into the ocean,
+It ain't nobody's business if I do.
+
+If I go to church on Sunday
+And I shimmy down on Monday,
+It ain't nobody's business if I do.
+
+And if my friend ain't got no money
+And I say, "All right, take all of mine honey,"
+It ain't nobody's business if I do.
+
+If I lend her my last nickel
+And it leaves me in a pickle,
+It ain't nobody's business if I do.
+
+I would rather my gal would hit me
+Than to haul right up and quit me.
+It ain't nobody's business if I do.
+
+I know that she won't call no copper
+If she gets beat up by her poppa.
+It ain't nobody's business if I do, Lord no.
+Well, it ain't nobody's business if I do.

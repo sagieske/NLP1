@@ -1,0 +1,15 @@
+Artist: eddie_cochran
+Title: always_late_lyrics
+Genre: Pop/Rock
+Subgenres: [u'Rock & Roll', u'Rockabilly', u'Honky Tonk']
+
+Song:
+
+Always late with your kisses
+Won't you come to my arms sweet darling and stay
+Always late with your kisses
+Why-why-why do you want to do me this way (do me this way)
+How long do you think I can wait
+When you know you're always late (always late)
+Always late with your kisses
+Why-why-why do you want to do me this way

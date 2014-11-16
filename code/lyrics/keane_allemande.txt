@@ -1,0 +1,39 @@
+Artist: keane
+Title: allemande
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Britpop']
+
+Song:
+
+Allemande, where have you gone?
+Did I know anything about you?
+Many moons have come and gone
+They wane so easily without you
+
+All along I said we'd be sorry
+Sorry, and so we are
+But ain't that the way that
+The way that the wind blows
+And ain't that the way that
+The way that the wind blows
+And ain't that the way that
+The way that the wind blows you home?
+Sorry, sorry, and so we are
+
+
+Allemande, your face so long
+And all my silly hopes hung on you
+
+All along I said we'd be sorry
+Sorry, and so we are
+And ain't that the way that
+The way that the wind blows
+And ain't that the way that
+The way that the wind blows
+And ain't that the way that
+The way that the wind blows you home?
+Sorry, sorry, and so we are
+
+
+Oh, the way that the wind blows you home
+Sorry, sorry, and so we are

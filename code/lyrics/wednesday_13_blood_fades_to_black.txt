@@ -1,0 +1,30 @@
+Artist: wednesday_13
+Title: blood_fades_to_black
+Genre: Latin
+Subgenres: [u'Latin Rap', u'Reggaeton', u'Alternative Latin']
+
+Song:
+
+Forever pieces
+Forever death
+No longer life
+No longer flesh
+Forever gone
+No looking back
+Blood fades to black
+
+Lets start clean
+And shine a light
+Into the darkness
+It's hard to find
+Forever gone
+No looking back
+Blood fades to black
+
+In this moment
+Things can be mean
+So bitter sweet
+I'm on the "T"
+Forever gone
+No looking back
+Blood fades to black

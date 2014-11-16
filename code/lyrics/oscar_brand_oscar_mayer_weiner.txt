@@ -1,0 +1,13 @@
+Artist: oscar_brand
+Title: oscar_mayer_weiner
+Genre: Folk
+Subgenres: [u'Folksongs', u'Singer/Songwriter', u'Traditional Folk', u'Folk Revival']
+
+Song:
+
+I wish I were an Oscar Mayer Weiner
+That is what I truly wish to be
+Cause if I were a oscar mayer weiner
+Everyone would be in love
+Oh everyone would be in love
+Everyone would be in love with me

@@ -1,0 +1,50 @@
+Artist: three_days_grace
+Title: are_you_ready
+Genre: Pop/Rock
+Subgenres: [u'Alternative Metal', u'Heavy Metal']
+
+Song:
+
+You'd said we'd never get this far
+You said your words, we've played our parts
+Said your two cents now
+It's my turn
+So, sit down, shut up
+Are you ready?
+
+So, you think you know how this story goes
+Are you ready for this?
+
+Sit down, are you ready for this?
+Shut up, are you ready for this?
+Stand up, are you ready for this?
+Restrain,
+Are you ready?
+
+I thought you'd never come this far
+I thought your words meant something more
+Said my two cents now
+It's your turn
+So stand up and scream
+Are you ready?
+
+So you think you know how this story goes
+Are you ready for this?
+
+Sit down, are you ready for this?
+Shut up, are you ready for this?
+Stand up, are you ready for this?
+Restrain,
+Are you ready?
+
+Are You ready?
+Are You Ready?
+Are you ready?
+
+Are you ready for this?
+
+Sit down, are you ready for this?
+Shut up, are you ready for this?
+Stand up, are you ready for this?
+Restrain,
+Are you ready for this?

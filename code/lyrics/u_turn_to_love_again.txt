@@ -1,0 +1,41 @@
+Artist: u_turn
+Title: to_love_again
+Genre: Pop/Rock
+Subgenres: [u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'College Rock', u'Contemporary Pop/Rock', u'Post-Punk', u'Dance-Rock']
+
+Song:
+
+Radio's fine
+It helps me forget for awhile
+I look back and recall
+Those days I had with you
+Sometimes I need a friend
+Just to make it through
+Another day without you
+
+You gave me all the reasons to live
+Then you had to go
+And I just got to let you know
+It's hard to love again
+Just to make it through
+Another day spent without you
+
+[Chorus:]
+And I don't want to go on pretending
+That it's going to be a happy ending
+If I should love again
+Once I've learned to love again
+And, no, it will never be the same
+Without you baby
+This pain inside me is driving me crazy
+'Cause, it's hard to love again
+
+Friends are great
+They cheer me up for sometime
+When the day is done
+My mind is back again with you
+Oh God, I need a friend
+Just to make it through
+Another day spent without you
+
+[Repeat chorus 'til fade]

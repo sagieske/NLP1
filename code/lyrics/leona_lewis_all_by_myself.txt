@@ -1,0 +1,45 @@
+Artist: leona_lewis
+Title: all_by_myself
+Genre: Pop/Rock
+Subgenres: [u'Pop', u'Pop Idol', u'Adult Alternative Pop/Rock', u'Alternative/Indie Rock', u'Contemporary R&B', u'Adult Contemporary']
+
+Song:
+
+When I was young
+I never needed anyone
+And making love was just for fun
+Those days are gone
+
+Living alone
+I think of all the friends I've known
+When I dial the telephone
+Nobody's home
+
+All by myself
+Don't wanna be
+All by myself
+Anymore
+
+All by myself
+Don't wanna live
+All by myself
+Anymore
+
+Hard to be sure
+Sometimes I feel so insecure
+And loves so distant and obscure
+Remains the cure
+
+All by myself
+Don't wanna be
+All by myself
+Anymore
+
+Ooooooh... 
+
+All by myself
+Don't wanna live
+All by myself
+Don't wanna be
+By myself, by myself
+Anymore

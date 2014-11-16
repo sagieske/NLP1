@@ -1,0 +1,14 @@
+Artist: ozomatli
+Title: chang_oacute
+Genre: Pop/Rock
+Subgenres: [u'Alternative Latin', u'Alternative Pop/Rock', u'Alternative/Indie Rock', u'Rock en Espa\xf1ol', u'Alternative Rap', u'Latin Pop', u'Salsa']
+
+Song:
+
+El otro dia yo vi un hombre
+Un hombre feo, parece chango
+Esta peludo hasta la barrigay
+En su espalda parece bosque
+Pero ay feo, feo
+Que feo chango
+Miralo (repeat)

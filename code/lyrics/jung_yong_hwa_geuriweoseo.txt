@@ -1,0 +1,57 @@
+Artist: jung_yong_hwa
+Title: geuriweoseo
+Genre: Pop/Rock
+Subgenres: [u'Korean Pop', u'Korean Rock', u'Asian Pop']
+
+Song:
+
+Neul ttokgateun haneure
+Neul gateun haru
+Geudaega eopneun geot malgoneun
+Dallajin ge eopneunde
+
+Nan utgoman shipeunde
+Da ijeun deushi
+Amuil aneun deut geureohke
+Useumyeon salgopeunde
+
+Geuriweo geuriweoseo
+Geudaega geuriweoseo
+Maeil nan honjaseoman
+Geudareul bureugo bulleobwayo
+
+Bogopa bogopaseo
+Geudaega bogopaseo
+Ije nan seubgwan cheoreom
+Geudae ireumman bureuneyo
+Oneuldo
+
+Nan bonaenjul aratjyo
+Da namgim eopshi
+Anijyo anijyo nan ajik
+Geudaereul mot bonaetjyo
+
+Geuriweo geuriweoseo
+Geudaega geuriweoseo
+Maeil nan honjaseoman
+Geudareul bureugo bulleobwayo
+
+Bogopa bogopaseo
+Geudaega bogopaseo
+Ije nan seubgwan cheoreom
+Geudae ireumman bureuneyo
+Oneuldo
+
+Haruharuga jugeul geotman gateun
+Eotteohke haeya haeyo
+
+Saranghae saranghaeyo
+Geudaereul saranghaeyo
+Maljocha mothagoseo
+Geudaereul geureohke bonaenneyo
+
+Mianhae mianhaeyo
+Nae mari deullinayo
+Dwineuseun nae gobaegeul
+Geudaen deureul su isseulkkayo
+Saranghaeyo
