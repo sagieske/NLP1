@@ -6,14 +6,43 @@ import pickle
 import nltk
 from nltk.corpus import stopwords
 
-class feature_extraction:
+class preprocessing:
 	
 	FOLDER = 'lyrics/'
 	DUMPFILE = 'file_dump'
+	DUMPFILE_CLEAN = 'lyrics_clean_dump'
 	vocabulary = []
+	# TODO: In preprocessing *** are also removed. May be useful for swearing words..?
 
-	def __init__(self, dump=True, load=False):
+	def __init__(self, dump=True, load=False, dump_clean=True, load_clean=False):
 		""" Get all file information. Possible to dump to a specific file or load from a specific file"""
+		# Load all files
+		loaded_files = self.load_all_files(dump=False, load=True)
+		# Clean all lyrics
+		lyrics = self.clean_all_files(loaded_files,dump=False, load=True)
+
+		self.create_vocabulary(lyrics)
+		"""
+		# set vocabulary dictionary
+		self.vocabulary = dict.fromkeys(set(all_words),0)
+		print " Calculating word counts"
+		all_lyrics_count = self.calculate_word_counts(lyrics_info_words)
+		print all_lyrics_count[('1st lady','baby i love you')]
+		"""
+
+	def create_vocabulary(self, lyrics):
+		""" Create vocabulary from lyrics. Set global variable vocabulary"""
+		# Remove possible Nones due to different language of lyrics
+		lyrics_no_none = [x for x in lyrics if x is not None]
+		all_words = [item for sublist in lyrics_no_none for item in sublist]
+		self.vocabulary = dict.fromkeys(set(all_words),0)
+	
+	def load_all_files(self, dump=True, load=False):
+		"""
+		Load all lyrics from txt files
+		dump/load: booleans to pickle dump or load.
+		Returns array where each item is: (information_song, lyrics)
+		"""
 		if load:
 			try:
 				print "Load information from dumpfile: ", (self.DUMPFILE)
@@ -25,6 +54,7 @@ class feature_extraction:
 		else:
 			os.chdir(self.FOLDER)
 			loaded_files = []
+			print "Loading files.."
 			for filename in glob.glob("*.txt"):
 				(information_song, lyrics) = self.load_file(filename)
 				if lyrics is not None:
@@ -37,27 +67,48 @@ class feature_extraction:
 			print "Dump information to dumpfile: ", self.DUMPFILE
 			with open(self.DUMPFILE,'wb') as f:
 				pickle.dump(loaded_files, f)
+		return loaded_files
 
-		counter = 0
-		lyrics_info_words = []
-		all_words = []
-		# Clean all lyrics
-		for item in loaded_files:
-			counter +=1
-			cleaned_wordlist = self.clean(item[-1])
-			lyrics_info_words.append( item[:-1] + (cleaned_wordlist,) )
-			# Add to list of all words found
-			if cleaned_wordlist:
-				all_words += cleaned_wordlist
+	def clean_all_files(self, loaded_files, dump=True, load=False):
+		"""
+		Cleans all lyrics and calculates
+		dump/load:	booleans to load or dump using pickle
+		"""
+		# Load cleaned text
+		if load:
+			try:
+				print "Load clean lyrics from file: ", (self.DUMPFILE_CLEAN)
+				with open(self.DUMPFILE_CLEAN,'r') as f:
+					clean_lyrics = pickle.load(f)
+			except:
+				print "File possibly corrupted"
+		else:
+			clean_lyrics = []
+			# Clean all lyrics
+			print "Cleaning lyrics"
+			for index in range(0,len(loaded_files)):
+				# Clean lyrics
+				cleaned_wordlist = self.clean(loaded_files[index][-1])
+				clean_lyrics.append(cleaned_wordlist)
 
-		# set vocabulary dictionary
-		self.vocabulary = dict.fromkeys(set(all_words),0)
-		print self.vocabulary
-		self.calculate_word_counts(lyrics_info_words)
+
+		# Dump information to file
+		if dump:
+			print "Dump cleaned lyrics to file: ", self.DUMPFILE_CLEAN
+			with open(self.DUMPFILE_CLEAN,'wb') as f:
+				pickle.dump(clean_lyrics, f)
+
+		return clean_lyrics
+	
+
+
+	def get_vocabulary(self):
+		""" Returns vocabulary dictionary"""
+		return self.vocabulary
 		
-
 	def calculate_word_counts(self, lyrics_info_words):
 		""" Calculate words """
+		all_lyrics_count = {}
 		# Loop over all lyrics
 		for item in lyrics_info_words:
 			word_list = item[-1]
@@ -65,13 +116,16 @@ class feature_extraction:
 				lyric_count = {}
 				for word in word_list:
 					# Update vocabulary count
-					# TODO! Gives error about unseen word but should not be possible
-					# self.vocabulary[word] += 1
-					self.vocabulary[word] = lyric_count.get(word, 0) +1
+					self.vocabulary[word] += 1
 					# Update count in lyric
 					lyric_count[word] = lyric_count.get(word, 0) +1
 				# Update tuple with information
 				item += (lyric_count,)
+				# Save in dictionary under key (artist, title)
+				key = (item[0][0], item[0][1])
+				print key
+				all_lyrics_count[key] = lyric_count
+		return all_lyrics_count
 
 
 			
@@ -131,7 +185,7 @@ class feature_extraction:
 
 	def load_file(self, filename):
 		"""
-		Load lyrics
+		Load lyrics from file
 		"""
 		file = open(filename,'r')
 		# Read file and strip newline
@@ -147,7 +201,6 @@ class feature_extraction:
 
 
 	def get_info_title(self, info_array):
-
 		""" Get information from title """
 		# Substitute _ for spaces and convert everything to spaces
 		clean_info_array = [re.sub('_', ' ', str(x)).lower() for x in info_array]
@@ -162,4 +215,4 @@ class feature_extraction:
 
 
 if __name__ == "__main__":
-	program = feature_extraction(dump=False, load=True)
+	program = preprocessing(dump=False, load=True)
