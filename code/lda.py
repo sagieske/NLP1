@@ -1,7 +1,7 @@
 import sys
 import argparse
 import numpy as np
-import preprocessing as prep
+import preprocessing
 
 class lda():
 
@@ -15,6 +15,9 @@ class lda():
 		self.alpha = alpha
 		self.beta = beta
 		self.nr_topics = nr_topics
+		prep = preprocessing.preprocessing()
+		lyrics = prep.get_lyrics()
+		print lyrics
 
 	def start_lda(self):
 		""" """

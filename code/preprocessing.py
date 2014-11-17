@@ -10,18 +10,17 @@ class preprocessing:
 	
 	FOLDER = 'lyrics/'
 	DUMPFILE = 'file_dump'
-	DUMPFILE_CLEAN = 'lyrics_clean_dump'
-	vocabulary = []
+	DUMPFILE_CLEAN = 'lyrics_clean'
 	# TODO: In preprocessing *** are also removed. May be useful for swearing words..?
 
 	def __init__(self, dump=True, load=False, dump_clean=True, load_clean=False):
 		""" Get all file information. Possible to dump to a specific file or load from a specific file"""
 		# Load all files
-		loaded_files = self.load_all_files(dump=False, load=True)
+		self.loaded_files = self.load_all_files(dump=False, load=True)
 		# Clean all lyrics
-		lyrics = self.clean_all_files(loaded_files,dump=False, load=True)
+		self.lyrics = self.clean_all_files(self.loaded_files,dump=True, load=False)
 
-		self.create_vocabulary(lyrics)
+		self.create_vocabulary(self.lyrics)
 		"""
 		# set vocabulary dictionary
 		self.vocabulary = dict.fromkeys(set(all_words),0)
@@ -90,6 +89,7 @@ class preprocessing:
 				# Clean lyrics
 				cleaned_wordlist = self.clean(loaded_files[index][-1])
 				clean_lyrics.append(cleaned_wordlist)
+			os.chdir('../')
 
 
 		# Dump information to file
@@ -101,11 +101,18 @@ class preprocessing:
 		return clean_lyrics
 	
 
-
 	def get_vocabulary(self):
 		""" Returns vocabulary dictionary"""
 		return self.vocabulary
+
+	def get_lyrics(self):
+		""" Returns lyrics of all songs and their information"""
+		return self.lyrics
 		
+	def get_lyric_info(self):
+		"""" Return song information of all lyrics"""
+		return [song_info[0] for song_info in self.loaded_files]
+		 
 	def calculate_word_counts(self, lyrics_info_words):
 		""" Calculate words """
 		all_lyrics_count = {}
@@ -123,7 +130,6 @@ class preprocessing:
 				item += (lyric_count,)
 				# Save in dictionary under key (artist, title)
 				key = (item[0][0], item[0][1])
-				print key
 				all_lyrics_count[key] = lyric_count
 		return all_lyrics_count
 
@@ -178,10 +184,6 @@ class preprocessing:
 		""" Remove stopwords for given language from word list"""
 		stops = stopwords.words(language)
 		return [word for word in word_list if word not in stops]
-
-
-
-
 
 	def load_file(self, filename):
 		"""
