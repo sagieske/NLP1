@@ -13,21 +13,18 @@ class preprocessing:
 	DUMPFILE_CLEAN = 'lyrics_clean'
 	# TODO: In preprocessing *** are also removed. May be useful for swearing words..?
 
-	def __init__(self, dump=True, load=False, dump_clean=True, load_clean=False):
+	def __init__(self, dump_files=True, load_files=False, dump_clean=True, load_clean=False):
 		""" Get all file information. Possible to dump to a specific file or load from a specific file"""
 		# Load all files
-		self.loaded_files = self.load_all_files(dump=False, load=True)
+		loaded_files = self.load_all_files(dump=dump_files, load=load_files)
 		# Clean all lyrics
-		self.lyrics = self.clean_all_files(self.loaded_files,dump=True, load=False)
+		non_english, self.lyrics = self.clean_all_files(loaded_files,dump=dump_clean, load=load_clean)
+
+		# Delete all non-english files
+		self.loaded_files = [i for j, i in enumerate(loaded_files) if j not in non_english]
 
 		self.create_vocabulary(self.lyrics)
-		"""
-		# set vocabulary dictionary
-		self.vocabulary = dict.fromkeys(set(all_words),0)
-		print " Calculating word counts"
-		all_lyrics_count = self.calculate_word_counts(lyrics_info_words)
-		print all_lyrics_count[('1st lady','baby i love you')]
-		"""
+
 
 	def create_vocabulary(self, lyrics):
 		""" Create vocabulary from lyrics. Set global variable vocabulary"""
@@ -35,6 +32,7 @@ class preprocessing:
 		lyrics_no_none = [x for x in lyrics if x is not None]
 		all_words = [item for sublist in lyrics_no_none for item in sublist]
 		self.vocabulary = dict.fromkeys(set(all_words),0)
+		return self.vocabulary
 	
 	def load_all_files(self, dump=True, load=False):
 		"""
@@ -78,27 +76,31 @@ class preprocessing:
 			try:
 				print "Load clean lyrics from file: ", (self.DUMPFILE_CLEAN)
 				with open(self.DUMPFILE_CLEAN,'r') as f:
-					clean_lyrics = pickle.load(f)
+					non_english, clean_lyrics = pickle.load(f)
 			except:
 				print "File possibly corrupted"
 		else:
 			clean_lyrics = []
+			non_english = []
 			# Clean all lyrics
 			print "Cleaning lyrics"
 			for index in range(0,len(loaded_files)):
 				# Clean lyrics
 				cleaned_wordlist = self.clean(loaded_files[index][-1])
-				clean_lyrics.append(cleaned_wordlist)
-			os.chdir('../')
+				# lyric is not english
+				if cleaned_wordlist == 0:
+					non_english.append(index)
+				else:
+					clean_lyrics.append(cleaned_wordlist)
 
 
 		# Dump information to file
 		if dump:
 			print "Dump cleaned lyrics to file: ", self.DUMPFILE_CLEAN
 			with open(self.DUMPFILE_CLEAN,'wb') as f:
-				pickle.dump(clean_lyrics, f)
+				pickle.dump((non_english, clean_lyrics), f)
 
-		return clean_lyrics
+		return non_english, clean_lyrics
 	
 
 	def get_vocabulary(self):
@@ -139,7 +141,7 @@ class preprocessing:
 	def clean(self, sentence_array):
 		"""
 		Cleans lyrics by setting everything to lower case, removing stopwords and further cleaning. 
-		Returns cleaned list of words or None (when language is not english)
+		Returns cleaned list of words or 0 (when language is not english)
 		"""
 		# Split all sentences to words:
 		word_list = []
@@ -152,7 +154,7 @@ class preprocessing:
 		# Check language of tex
 		probable_language = self.check_language(word_list)
 		if probable_language != 'english':
-			return None
+			return 0
 		# Filter out stopwords
 		word_list = self.remove_stopwords(probable_language, word_list)
 		cleaned_list = []

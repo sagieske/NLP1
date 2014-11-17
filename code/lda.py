@@ -15,13 +15,38 @@ class lda():
 		self.alpha = alpha
 		self.beta = beta
 		self.nr_topics = nr_topics
-		prep = preprocessing.preprocessing()
+		# Preprocess data
+		prep = preprocessing.preprocessing(dump_files=False, load_files=True, dump_clean=True, load_clean=False)
+		# Get lyrics
 		lyrics = prep.get_lyrics()
-		print lyrics
+		# Create vocabulary
+		self.total_vocab = prep.get_vocabulary(lyrics)
+		self._initialize_counts(lyrics)
+
+	def _initialize_counts(self,lyrics):
+		""" Initialize the counts of all words in documents """
+		print "Count words.."
+		# Initialize matrix for occurance words in documents [N x V]
+		nr_lyrics = len(lyrics)
+		vocab = self.total_vocab.keys()
+		self.doc_word = np.zeros((nr_lyrics, len(vocab)))
+
+		# Loop over documents:
+		for i in range(0, nr_lyrics):
+			# Loop over words in doc:
+			for j in range(0, len(lyrics[i])): 
+				word = lyrics[i][j]
+				# Update word count in total vocabulary
+				self.total_vocab[word] = self.total_vocab.get(word,0) + 1
+				wordindex = vocab.index(word)
+				self.doc_word[i][wordindex] += 1
+
+		print self.doc_word[1][:]
+
 
 	def start_lda(self):
 		""" """
-		# TODO: just put some functions here
+		# TODO: just put some functions here which are needed in lda
 		# Get topic mixture distribution
 		theta = self.dirichlet(self.alpha)
 		# Pick a topic
