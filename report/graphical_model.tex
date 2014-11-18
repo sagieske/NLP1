@@ -11,6 +11,7 @@
 \usepackage{tikz}
 \usetikzlibrary{arrows,decorations.pathmorphing,fit,positioning}
 \usepackage{algorithmic}
+\usepackage[margin=1.2in]{geometry}
 
 \title{Graphical model :\\ Lyric-based genre classification}
 \author{David van Erkelens (10264019)\\ Sharon Gieske (6167667)\\ Elise Koster (5982448)}
@@ -92,14 +93,43 @@ To model topic distributions over genres, the dataset is split into the individu
   \label{fig:graphical-model}
 \end{figure}
 
+\begin{table}[h]
+\begin{tabular}{l l}
+\tiny\textsc{SYMBOL} & \tiny\textsc{DESCRIPTION}\\
+\hline
+$K$ & \# of topics\\
+$G$ & \# of genres\\
+$N$ & \# of documents\\
+$M_i$ & \# of words in document i\\
+$y_i$ & genre of document i\\
+$w_{i,j}$ & word in document i at position j\\
+$z_{i,j}$ & topic assignment for word $w_{i,j}$\\
+$\theta_g$ & probabilities of topics given genre g\\
+$\varphi_k $ & probability of words given topic k\\
+$\alpha$ & Dirichlet prior for genre distribution\\
+$\beta$ & Dirichlet prior for topic distribution
+\end{tabular}
+\end{table}
+
 \section{Derivation}
 \begin{align}
 P(w, z, \varphi, \theta | \alpha, \beta, y) &= P(\varphi | \beta)P(\theta | \alpha)P(z | \theta, y)P(w | \varphi, z)\\
-&= p(\theta|\alpha) p(\varphi|\beta)\prod^N_{i=1}\prod^{M_i}_{j=1} p(z_{i,j}|\theta_{y_i}) p(w_{i,j}|\varphi_{z_{i,j}})\\
+\end{align}
+Separate probabilities:
+\begin{align}
 P(\varphi | \beta) &= \prod\limits_{k=1}^K P(\varphi_k|\beta)\\
 P(\theta | \alpha) &= \prod\limits_{g=1}^G P(\theta_g|\alpha)\\
-P(z | \theta, y) &= \prod\limits_{i=1}^N \prod\limits_{j=1}^{M_i} P(z_{i,j}|\theta_g(z_{i,j}), y_i)\\
+P(z | \theta, y) &= \prod\limits_{i=1}^N \prod\limits_{j=1}^{M_i} P(z_{i,j}|\theta_{y_i})\\
 P(w | \varphi, z) &= \prod\limits_{i=1}^N \prod\limits_{j=1}^{M_i} P(w_{i,j}|\varphi_z(w_{i,j}))
+\end{align}
+Joined together:
+\begin{align}
+P(w, z, \varphi, \theta | \alpha, \beta, y) &= \prod\limits_{k=1}^K P(\varphi_k|\beta) \prod\limits_{g=1}^G P(\theta_g|\alpha) \prod^N_{i=1}\prod^{M_i}_{j=1} P(z_{i,j}|\theta_{y_i}) P(w_{i,j}|\varphi_z(w_{i,j}))
+\end{align}
+Integrate over joint:
+\begin{align}
+\int \int P(w, z, \varphi, \theta | \alpha, \beta, y) d\varphi d\theta &= \int \prod\limits_{k=1}^K P(\varphi_k|\beta) \prod^N_{i=1}\prod^{M_i}_{j=1} P(w_{i,j}|\varphi_z(w_{i,j})) d\varphi\\
+&\times \int \prod\limits_{g=1}^G P(\theta_g|\alpha) \prod^N_{i=1}\prod^{M_i}_{j=1} P(z_{i,j}|\theta_{y_i}) d\theta
 \end{align}
 \bibliography{../papers/bibliography}
 \bibliographystyle{plain}
