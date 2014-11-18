@@ -12,7 +12,7 @@
 \usetikzlibrary{arrows,decorations.pathmorphing,fit,positioning}
 \usepackage{algorithmic}
 
-\title{Graphical model:\\ Lyric-based genre classification}
+\title{Graphical model :\\ Lyric-based genre classification}
 \author{David van Erkelens (10264019)\\ Sharon Gieske (6167667)\\ Elise Koster (5982448)}
 
 \usepackage{fancyhdr}
@@ -47,30 +47,27 @@ To model topic distributions over genres, the dataset is split into the individu
       post/.style={->,>=stealth',semithick},
     ]
 
-    \node (w-j) [observed] at (0,0) {$w_{m,n}$};
+    \node (w-j) [observed] at (0,0) {$w_w$};
     
-    \node (z-j) [unobserved] at (0,2) {$z_{m,n}$};
-
-    \node (y) [observed] at (0,4) {$y_n$};
+    \node (z-j) [unobserved] at (-2,0) {$z_w$};
     
-    \node (z-prior) [unobserved] at (4,2) {$\theta_g$};
+    \node (z-prior) [unobserved] at (-5,0) {$\theta_d$};
     
-    \node (w-prior) [unobserved] at (-4,0) {$\varphi_k$};
+    \node (w-prior) [unobserved] at (5,0) {$\varphi_k$};
     
-    \node (z-hyper) [label=below:$\alpha$] at (4,0) {};
+    \node (z-hyper) [label=above:$\alpha$] at (-5,3) {};
     
-    \filldraw [black] (4,0) circle (3pt);
+    \filldraw [black] (-5,3) circle (3pt);
     
-    \node (w-hyper) [label=above:$\beta$] at (-4,3) {};
+    \node (w-hyper) [label=above:$\beta$] at (5,3) {};
     
-    \filldraw [black] (-4,3) circle (3pt);
+    \filldraw [black] (5,3) circle (3pt);
     
     \path
     (z-j) edge [post] (w-j)
     
     (z-hyper) edge [post] (z-prior)
     (z-prior) edge [post] (z-j)
-    (y) edge [post] (z-j)
 
 
     (w-hyper) edge [post] (w-prior)
@@ -78,14 +75,14 @@ To model topic distributions over genres, the dataset is split into the individu
     (w-prior) edge [post] (w-j)
     ;
 
-    \node [draw,fit=(w-j) (y), inner sep=30pt] (plate-context) {};
-    \node [above left] at (plate-context.south east) {$N$};
+    \node [draw,fit=(w-j) (z-prior), inner sep=30pt] (plate-context) {};
+    \node [above left] at (plate-context.south east) {$D$};
     \node [draw, fit=(w-prior), inner sep=20pt] (plate-prior) {};
     \node [above left] at (plate-prior.south east) {$K$};
     \node [draw,fit=(w-j) (z-j), inner sep=15pt] (plate-token) {};
-    \node [above left] at (plate-token.south east) {$M$};
-    \node [draw, fit=(z-prior), inner sep=20pt] (plate-z-prior) {};
-    \node [above left] at (plate-z-prior.south east) {$G$};
+    \node [above left] at (plate-token.south east) {$N$};
+    \node [draw,fit=(z-prior)(w-prior), inner sep=50pt] (plate-masta) {};
+    \node [above left] at (plate-masta.south east) {$G$};
 
   \end{tikzpicture}
   \caption{Graphical model}
@@ -94,10 +91,10 @@ To model topic distributions over genres, the dataset is split into the individu
 
 \section{Derivation}
 \begin{align}
-P(w, z, \varphi, \theta | \alpha, \beta) &= P(\varphi | \beta)P(\theta | \alpha)P(z | \theta)P(w | \varphi, z)\\
+P(w, z, \varphi, \theta | \alpha, \beta) &= P(\varphi | \beta)P(\theta | \alpha)P(z | \theta, y)P(w | \varphi, z)\\
 P(\varphi | \beta) &= \prod\limits_{k=1}^K P(\varphi_k|\beta)\\
 P(\theta | \alpha) &= \prod\limits_{g=1}^G P(\theta_g|\alpha)\\
-P(z | \theta, y) &= \prod\limits_{i=1}^N \prod\limits_{j=1}^{M_i} P(z_{m,n}|\theta_g(z_{m,n}))P(y_i)\\
+P(z | \theta, y) &= \prod\limits_{i=1}^N \prod\limits_{j=1}^{M_i} P(z_{m,n}|\theta_g(z_{m,n}), y_i)\\
 P(w | \varphi, z) &= \prod\limits_{i=1}^N \prod\limits_{j=1}^{M_i} P(w_{m,n}|\varphi_z(w_{m,n}))
 \end{align}
 \bibliography{../papers/bibliography}
