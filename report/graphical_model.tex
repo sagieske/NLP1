@@ -97,8 +97,8 @@ To model topic distributions over genres, the dataset is split into the individu
 P(w, z, \varphi, \theta | \alpha, \beta, y) &= P(\varphi | \beta)P(\theta | \alpha)P(z | \theta, y)P(w | \varphi, z)\\
 P(\varphi | \beta) &= \prod\limits_{k=1}^K P(\varphi_k|\beta)\\
 P(\theta | \alpha) &= \prod\limits_{g=1}^G P(\theta_g|\alpha)\\
-P(z | \theta, y) &= \prod\limits_{i=1}^N \prod\limits_{j=1}^{M_i} P(z_{m,n}|\theta_g(z_{m,n}), y_i)\\
-P(w | \varphi, z) &= \prod\limits_{i=1}^N \prod\limits_{j=1}^{M_i} P(w_{m,n}|\varphi_z(w_{m,n}))
+P(z | \theta, y) &= \prod\limits_{i=1}^N \prod\limits_{j=1}^{M_i} P(z_{i,j}|\theta_g(z_{i,j}), y_i)\\
+P(w | \varphi, z) &= \prod\limits_{i=1}^N \prod\limits_{j=1}^{M_i} P(w_{i,j}|\varphi_z(w_{i,j}))
 \end{align}
 \bibliography{../papers/bibliography}
 \bibliographystyle{plain}
