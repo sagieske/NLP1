@@ -2,6 +2,7 @@ import sys
 import argparse
 import numpy as np
 import preprocessing
+import itertools
 
 class lda():
 
@@ -16,9 +17,25 @@ class lda():
 		self.beta = beta
 		self.nr_topics = nr_topics
 		# Preprocess data
-		prep = preprocessing.preprocessing(dump_files=False, load_files=True, dump_clean=True, load_clean=False)
+		prep = preprocessing.preprocessing(dump_files=False, load_files=True, dump_clean=False, load_clean=True)
 		# Get lyrics
 		lyrics = prep.get_lyrics()
+		# Get lyric info
+		lyric_info = prep.get_lyric_info()
+
+		# Count unknowns:
+		artists_unknown = [item[0] for item in lyric_info].count('unknown')
+		title_unknown = [item[1] for item in lyric_info].count('unknown')
+		genre_unknown = [item[2] for item in lyric_info].count('unknown')
+		subgenre_unknown = [item[3] for item in lyric_info].count(['unknown'])
+		#print "total unknown: artist: %i, title: %i, genre: %i, subgenre: %i" %(artists_unknown, title_unknown, genre_unknown, subgenre_unknown)
+		
+		# Get all genre and subgenres
+		all_genres = [item[2] for item in lyric_info]
+		all_subgenres_nested = [item[3] for item in lyric_info]
+		chain = itertools.chain(*all_subgenres_nested )
+		#print set(list(chain))
+		
 		# Create vocabulary
 		self.total_vocab = prep.get_vocabulary(lyrics)
 		self._initialize_counts(lyrics)

@@ -9,8 +9,8 @@ from nltk.corpus import stopwords
 class preprocessing:
 	
 	FOLDER = 'lyrics/'
-	DUMPFILE = 'file_dump'
-	DUMPFILE_CLEAN = 'lyrics_clean'
+	DUMPFILE = 'file_dump2'
+	DUMPFILE_CLEAN = 'lyrics_clean2'
 	# TODO: In preprocessing *** are also removed. May be useful for swearing words..?
 
 	def __init__(self, dump_files=True, load_files=False, dump_clean=True, load_clean=False):
@@ -62,7 +62,7 @@ class preprocessing:
 		# Dump information to file
 		if dump:
 			print "Dump information to dumpfile: ", self.DUMPFILE
-			with open(self.DUMPFILE,'wb') as f:
+			with open(self.DUMPFILE,'w+') as f:
 				pickle.dump(loaded_files, f)
 		return loaded_files
 
@@ -97,7 +97,7 @@ class preprocessing:
 		# Dump information to file
 		if dump:
 			print "Dump cleaned lyrics to file: ", self.DUMPFILE_CLEAN
-			with open(self.DUMPFILE_CLEAN,'wb') as f:
+			with open(self.DUMPFILE_CLEAN,'w+') as f:
 				pickle.dump((non_english, clean_lyrics), f)
 
 		return non_english, clean_lyrics
@@ -208,12 +208,31 @@ class preprocessing:
 		""" Get information from title """
 		# Substitute _ for spaces and convert everything to spaces
 		clean_info_array = [re.sub('_', ' ', str(x)).lower() for x in info_array]
-		# Collect information
-		artist = re.sub('artist: ', '', clean_info_array[0])
-		title = re.sub('title: ', '', clean_info_array[1])
-		genre = re.sub('genre: ', '', clean_info_array[2])
-		subgenres_str = re.sub("(subgenres: |u'|')", '', clean_info_array[3])
-		subgenres_array = re.split(',', subgenres_str[1:-1])
+		# Collect information by regex search
+		match_artist = re.search(r"artist:\s(.*)", clean_info_array[0])
+		match_title = re.search(r"title:\s(.*)", clean_info_array[1])
+		match_genre = re.search(r"genre:\s(.*)", clean_info_array[2])
+		match_subgenre = re.search(r"subgenres:\s(.*)", clean_info_array[3])
+
+		# Set to unknown if not found
+		if match_artist:
+			artist =  match_artist.group(1)
+		else:
+			artist = 'unknown'
+		if match_title:
+			title = match_title.group(1)
+		else:
+			title = 'unknown'
+		if match_genre:
+			genre = match_genre.group(1)
+		else:
+			genre = 'unknown'
+		if match_subgenre:
+			subgenres_str = re.sub("(subgenres: |u'|')", '', match_subgenre.group(1))
+			subgenres_array = re.split(',', subgenres_str[1:-1])
+		else:
+			subgenres_array = ['unknown']
+
 		return (artist, title, genre, subgenres_array)
 		
 
