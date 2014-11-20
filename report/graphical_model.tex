@@ -11,7 +11,7 @@
 \usepackage{tikz}
 \usetikzlibrary{arrows,decorations.pathmorphing,fit,positioning}
 \usepackage{algorithmic}
-\usepackage[margin=1.2in]{geometry}
+\usepackage[margin=1in]{geometry}
 
 \title{Graphical model :\\ Lyric-based genre classification}
 \author{David van Erkelens (10264019)\\ Sharon Gieske (6167667)\\ Elise Koster (5982448)}
@@ -130,6 +130,38 @@ Integrate over joint:
 \begin{align}
 \int \int P(w, z, \varphi, \theta | \alpha, \beta, y) d\varphi d\theta &= \int \prod\limits_{k=1}^K P(\varphi_k|\beta) \prod^N_{i=1}\prod^{M_i}_{j=1} P(w_{i,j}|\varphi_{z_{i,j}}) d\varphi\\
 &\times \int \prod\limits_{g=1}^G P(\theta_g|\alpha) \prod^N_{i=1}\prod^{M_i}_{j=1} P(z_{i,j}|\theta_{y_i}) d\theta
+\end{align}
+\subsection{Derivation of $\int \prod\limits_{k=1}^K P(\varphi_k|\beta) \prod^N_{i=1}\prod^{M_i}_{j=1} P(w_{i,j}|\varphi_{z_{i,j}}) d\varphi$}
+~\\Use $C(k,w)$ as the number of times word $w$ is assigned to topic $k$ in any document.
+\begin{align}
+\prod\limits_{k=1}^K P(\varphi_k|\beta) \prod^N_{i=1}\prod^{M_i}_{j=1} P(w_{i,j}|\varphi_{z_{i,j}}) d\varphi
+\end{align}
+\begin{align}
+&= \prod\limits_{k=1}^K \int\frac{\Gamma (\sum\limits_{w=1}^V \beta)}{\prod\limits_{w=1}^V \Gamma(\beta)} \prod\limits_{w=1}^V  \varphi_{k}(w)^{\beta-1}  \prod^N_{i=1}\prod^{M_i}_{j=1} \varphi_{z_{i,j}}(w_{i,j})) d\varphi\\
+&= \prod\limits_{k=1}^K \int \frac{\Gamma (V \beta)}{(\Gamma(\beta))^V} \prod\limits_{w=1}^V  \varphi_{k}(w)^{\beta-1}  \prod\limits_{w=1}^V \varphi_{k}(w)^{C(k,w)} d\varphi\\
+&= \prod\limits_{k=1}^K \int \frac{\Gamma (V \beta)}{(\Gamma(\beta))^V}  \prod\limits_{w=1}^V \varphi_{k}(w)^{\beta + C(k,w) -1} d\varphi\\
+&= \prod\limits_{k=1}^K \frac{\Gamma (V \beta)}{(\Gamma(\beta))^V}  \frac{\prod\limits_{w=1}^V \Gamma(C(k,w)-1)}{\Gamma(\sum\limits_{w=1}^V C(k,w)-1))} \int \frac{\Gamma(\sum\limits_{w=1}^V C(k,w)-1))}{\prod\limits_{w=1}^V \Gamma(C(k,w)-1}  \prod\limits_{w=1}^V \varphi_{k}(w)^{\beta + C(k,w) -1} d\varphi\\
+&=  \prod\limits_{k=1}^K \frac{\Gamma (V \beta)}{(\Gamma(\beta))^V}  \frac{\prod\limits_{w=1}^V \Gamma(C(k,w)-1)}{\Gamma(\sum\limits_{w=1}^V C(k,w)-1))}\\
+&\propto \prod\limits_{k=1}^K \frac{\prod\limits_{w=1}^V \Gamma(C(k,w)-1)}{\Gamma(\sum\limits_{w=1}^V C(k,w)-1))}
+\end{align}
+\subsection{Derivation of $\prod\limits_{g=1}^G P(\theta_g|\alpha) \prod^N_{i=1}\prod^{M_i}_{j=1} P(z_{i,j}|\theta_{y_i}) d\theta$}
+~\\Use $C(g,k)$ as the number of times topic $k$ is assigned to genre $g$ in any document.
+\begin{align}
+\prod\limits_{g=1}^G P(\theta_g|\alpha) \prod^N_{i=1}\prod^{M_i}_{j=1} P(z_{i,j}|\theta_{y_i}) d\theta
+\end{align}
+\begin{align}
+&= \prod\limits_{g=1}^G \int\frac{\Gamma (\sum\limits_{k=1}^K \alpha)}{\prod\limits_{k=1}^K \Gamma(\alpha)} \prod\limits_{k=1}^K  \theta_{g}(k)^{\alpha-1}  \prod^N_{i=1}\prod^{M_i}_{j=1} \theta_{y_{i}}(k_{i,j})) d\theta\\
+&= \prod\limits_{g=1}^G \int \frac{\Gamma (K \alpha)}{(\Gamma(\alpha))^K} \prod\limits_{k=1}^K  \theta_{g}(k)^{\alpha-1}  \prod\limits_{k=1}^K \theta_g(k)^{C(g,k)} d\theta\\
+&= \prod\limits_{g=1}^G \int \frac{\Gamma (K \alpha)}{(\Gamma(\alpha))^K}  \prod\limits_{k=1}^K \varphi_{k}(w)^{\alpha + C(g,k) -1} d\theta\\
+&= \prod\limits_{g=1}^G  \frac{\Gamma (K \alpha)}{(\Gamma(\alpha))^K}  \frac{\prod\limits_{k=1}^K \Gamma(C(g,k)-1)}{\Gamma(\sum\limits_{k=1}^K C(g,k)-1))} \int \frac{\Gamma(\sum\limits_{k=1}^K C(g,k)-1))}{\prod\limits_{k=1}^K \Gamma(C(g,k)-1}  \prod\limits_{k=1}^K \varphi_{k}(w)^{\alpha + C(g,k) -1} d\theta\\
+&=  \prod\limits_{g=1}^G  \frac{\Gamma (K \alpha)}{(\Gamma(\alpha))^K}  \frac{\prod\limits_{k=1}^K \Gamma(C(g,k)-1)}{\Gamma(\sum\limits_{k=1}^K C(g,k)-1))} \\
+&\propto  \prod\limits_{g=1}^G   \frac{\prod\limits_{k=1}^K \Gamma(C(g,k)-1)}{\Gamma(\sum\limits_{k=1}^K C(g,k)-1))} 
+\end{align}
+
+\subsection{}
+~\\ Use $\neg w_{i,j}$ as collection that not uses word from document i at position j. Use $\widetilde{C}$ as a count that does not include word from document i at position j.
+\begin{align}
+P(z_{i,j} = k | Z_{\neg w_{i,j}}, \alpha, \beta, W) &\propto \frac{\beta + \widetilde{C}(k, w_{i,j})}{V\beta + \widetilde{C}(k)} \times \frac{\alpha + \widetilde{C}(g, k)}{K\alpha + \widetilde{C}(g)}
 \end{align}
 \bibliography{../papers/bibliography}
 \bibliographystyle{plain}
