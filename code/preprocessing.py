@@ -7,6 +7,13 @@ import nltk
 from nltk.corpus import stopwords
 
 class preprocessing:
+	"""
+	global variables:
+	- loaded_files: 	array of dictionaries with keys: artist, title, genre, subgenres(array), original_lyrics (array) 
+	- english_lyrics: 	array of dictionaries of all english song-items linked to their loaded_files dictionaries, with addition of cleaned_lyrics (array).
+				IMPORTANT: change in a dictionary in loaded_files results in change in dictionary in english_lyrics
+	- vocabulary:		dictionary with all encountered words as keys and their counts
+	"""
 	
 	FOLDER = 'lyrics/'
 	DUMPFILE = 'file_dump2'
@@ -17,14 +24,12 @@ class preprocessing:
 		""" Get all file information. Possible to dump to a specific file or load from a specific file"""
 		# Load all files
 		loaded_files = self.load_all_files(dump=dump_files, load=load_files)
+
 		# Clean all lyrics
-		non_english, self.lyrics = self.clean_all_files(loaded_files,dump=dump_clean, load=load_clean)
+		non_english_index, self.english_lyrics = self.clean_all_files(loaded_files,dump=dump_clean, load=load_clean)
 
-		# Delete all non-english files
-		self.loaded_files = [i for j, i in enumerate(loaded_files) if j not in non_english]
-
-		self.create_vocabulary(self.lyrics)
-
+		# Create vocabulary
+		self.create_vocabulary(self.english_lyrics)
 
 	def create_vocabulary(self, lyrics):
 		""" Create vocabulary from lyrics. Set global variable vocabulary"""
@@ -51,12 +56,18 @@ class preprocessing:
 		else:
 			os.chdir(self.FOLDER)
 			loaded_files = []
-			print "Loading files.."
+			print "Importing from files.."
+			counter = 0
 			for filename in glob.glob("*.txt"):
-				(information_song, lyrics) = self.load_file(filename)
-				if lyrics is not None:
-					info = (information_song, lyrics)
-					loaded_files.append(info)
+				if counter > 1000: 
+					break
+				info_dictionary = self.load_file(filename)
+				# Lyrics are found
+				if info_dictionary['original_lyrics'] is not None:
+					loaded_files.append(info_dictionary)
+				else:
+					print "No lyrics found in file: %s" %(filename)
+				counter += 1
 			os.chdir('../')
 
 		# Dump information to file
@@ -86,12 +97,14 @@ class preprocessing:
 			print "Cleaning lyrics"
 			for index in range(0,len(loaded_files)):
 				# Clean lyrics
-				cleaned_wordlist = self.clean(loaded_files[index][-1])
+				cleaned_wordlist = self.clean(loaded_files[index]['original_lyrics'])
 				# lyric is not english
 				if cleaned_wordlist == 0:
 					non_english.append(index)
 				else:
-					clean_lyrics.append(cleaned_wordlist)
+					# Add cleaned lyrics to dictionary
+					loaded_files[index]['cleaned_lyrics'] = cleaned_wordlist
+					clean_lyrics.append(loaded_files[index])
 
 
 		# Dump information to file
@@ -107,14 +120,28 @@ class preprocessing:
 		""" Returns vocabulary dictionary"""
 		return self.vocabulary
 
-	def get_lyrics(self):
-		""" Returns lyrics of all songs and their information"""
-		return self.lyrics
+	def get_dataset(self):
+		""" Returns dataset of english lyrics of all songs and their information"""
+		return self.english_lyrics
 		
-	def get_lyric_info(self):
-		"""" Return song information of all lyrics"""
-		return [song_info[0] for song_info in self.loaded_files]
-		 
+	def get_information_dictionary(self, key, value):
+		""""
+		Return dictionary with keys of specified key(string) and as array of value(string)
+		for example: get_information_dictionary('artist', 'title')
+		"""
+		# Initialize dictionary
+		information_dictionary = {}
+		
+		# loop over all english lyrics
+		for item in self.english_lyrics:
+			artist_name = item[key]
+			title = item[value]
+			# Append to list of titles (initialize with [] if artist not yet in dict)
+ 			information_dictionary.setdefault(artist_name, []).append(title)
+		return information_dictionary
+
+
+
 	def calculate_word_counts(self, lyrics_info_words):
 		""" Calculate words """
 		all_lyrics_count = {}
@@ -189,7 +216,8 @@ class preprocessing:
 
 	def load_file(self, filename):
 		"""
-		Load lyrics from file
+		Load lyrics from file, 
+		Return as dictionary with keys artist, title, genre, subgenres and original_lyrics
 		"""
 		file = open(filename,'r')
 		# Read file and strip newline
@@ -201,7 +229,8 @@ class preprocessing:
 		data_description = datafile[:4]
 		lyrics = datafile[7:]
 		information_song = self.get_info_title(data_description)
-		return (information_song, lyrics)
+		information_song['original_lyrics'] = lyrics
+		return information_song
 
 
 	def get_info_title(self, info_array):
@@ -230,12 +259,17 @@ class preprocessing:
 		if match_subgenre:
 			subgenres_str = re.sub("(subgenres: |u'|')", '', match_subgenre.group(1))
 			subgenres_array = re.split(',', subgenres_str[1:-1])
+			# '' means unknown
+			if len(subgenres_array) == 1 and subgenres_array[0] == '':
+				subgenres_array = ['unknown']
+			
 		else:
 			subgenres_array = ['unknown']
 
-		return (artist, title, genre, subgenres_array)
+		info = {'artist': artist, 'title': title, 'genre': genre, 'subgenres': subgenres_array}
+		return info
 		
 
 
 if __name__ == "__main__":
-	program = preprocessing(dump=False, load=True)
+	program = preprocessing(dump_files=True, load_files=False, dump_clean=True, load_clean=False)
