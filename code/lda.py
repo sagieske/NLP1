@@ -3,15 +3,18 @@ import argparse
 import numpy as np
 import preprocessing
 import itertools
+import random
 
 class lda():
-
+	"""
+	Global variables
+	- alpha: 		scalar for dirichlet distribution
+	- beta: 		scalar for dirichlet distribution
+	- nr_topics: 	scalar for number of desired topics
+	- total_genres: scalar for total number of genres encountered
+	"""
 	def __init__(self, alpha, beta, nr_topics):
-		"""
-		Initialize values as global variables
-		alpha: scalar for dirichlet distribution
-		beta: scalar for dirichlet distribution
-		nr_topics: scalar for number of desired topics
+		""" Initialize
 		"""
 		self.alpha = alpha
 		self.beta = beta
@@ -30,35 +33,55 @@ class lda():
 
 		# Get all genre and subgenres
 		all_genres = prep.get_information_dictionary('genre', 'title').keys()
-		print all_genres
-		sys.exit()
-		all_subgenres_nested = [item[3] for item in lyric_info]
-		chain = itertools.chain(*all_subgenres_nested )
+		self.all_genres =  all_genres
+		#all_subgenres_nested = [item[3] for item in lyric_info]
+		#chain = itertools.chain(*all_subgenres_nested )
 		#print set(list(chain))
 		
 		# Create vocabulary
-		self.total_vocab = prep.get_vocabulary(lyrics)
-		self._initialize_counts(lyrics)
+		self.total_vocab = prep.get_vocabulary()
+		self._initialize_counts(dataset)
 
-	def _initialize_counts(self,lyrics):
+	def _initialize_counts(self,dataset):
 		""" Initialize the counts of all words in documents """
 		print "Count words.."
 		# Initialize matrix for occurance words in documents [N x V]
-		nr_lyrics = len(lyrics)
+		nr_lyrics = len(dataset)
 		vocab = self.total_vocab.keys()
 		self.doc_word = np.zeros((nr_lyrics, len(vocab)))
+		
+		# Save count for words assigned to a topic
+		nr_genres = len(self.all_genres)
+		self.words_topics = np.zeros((len(vocab), self.nr_topics))
+		self.topics_genres = np.zeros((self.nr_topics, nr_genres))
+		genre_list = self.all_genres
 
+
+		# Initialize all counts
 		# Loop over documents:
 		for i in range(0, nr_lyrics):
+			genre_i = dataset[i]['genre']
+			genre_index = genre_list.index(genre_i)
+			#print "Genre of %i : %s (index: %i)" %(i, genre_i, genre_index)
 			# Loop over words in doc:
-			for j in range(0, len(lyrics[i])): 
-				word = lyrics[i][j]
+			cleaned_lyrics =  dataset[i]['cleaned_lyrics']
+			for j in range(0, len(cleaned_lyrics)): 
+				word = cleaned_lyrics[j]
 				# Update word count in total vocabulary
 				self.total_vocab[word] = self.total_vocab.get(word,0) + 1
 				wordindex = vocab.index(word)
 				self.doc_word[i][wordindex] += 1
 
-		print self.doc_word[1][:]
+
+				# CHoose random topic
+				k = random.randint(0,self.nr_topics-1)
+				# Update lists
+				self.words_topics[wordindex][k] +=1
+				self.topics_genres[k][genre_index] += 1
+				#print "word: %s (index %i), chosen_topic: %i" %(word, wordindex,k)
+				#print "updates: words_topics[%i][%i] to %i and topics_genres[%i][%i] to %i" %(wordindex, k, self.words_topics[wordindex][k], k, genre_index, self.topics_genres[k][genre_index])
+
+		#print self.doc_word[1][:]
 
 
 	def start_lda(self):
