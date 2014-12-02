@@ -85,7 +85,6 @@ class lda():
 				# Update lists
 				self.words_topics[wordindex][k] +=1
 				self.topics_genres[k][genre_index] += 1
-<<<<<<< HEAD
 				# print "word: %s (index %i), chosen_topic: %i" %(word, wordindex,k)
 				# print "updates: words_topics[%i][%i] to %i and topics_genres[%i][%i] to %i" %(wordindex, k, self.words_topics[wordindex][k], k, genre_index, self.topics_genres[k][genre_index])
 
@@ -96,8 +95,6 @@ class lda():
 			#sys.exit()
 
 		#print self.doc_word[1][:]
-=======
->>>>>>> 811d6990f3860d7bf8f9ca5bdbe71831dffc954a
 
 
 	def start_lda(self):
