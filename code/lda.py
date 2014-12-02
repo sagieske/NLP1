@@ -12,13 +12,15 @@ class lda():
 	- beta: 		scalar for dirichlet distribution
 	- nr_topics: 		scalar for number of desired topics
 	- all_genres: 		scalar for total number of genres encountered
+	Arrays
 	- vocab 		list of vocabulary words used for indices
 	- genre_list		list of genres used for indices
-
 	Matrixes:
 	- doc_word:		count of times word occurs in document
 	- words_topics:		count of times word belongs to a topic
 	- topics_genres:	count of times topic belongs to a genre (and indirectly the words)
+	Dictionary
+	- topics		dictionary with tuple (doc, wordposition), also (i,j), as key and value is topic that is assigned
 	"""
 
 	def __init__(self, alpha, beta, nr_topics):
@@ -56,20 +58,21 @@ class lda():
 		# Initialize matrix for occurance words in documents [N x V]
 		nr_lyrics = len(self.dataset)
 		self.vocab = self.total_vocab.keys()
-		self.doc_word = np.zeros((nr_lyrics, len(vocab)))
+		self.doc_word = np.zeros((nr_lyrics, len(self.vocab)))
 		
 		# Save count for words assigned to a topic
 		nr_genres = len(self.all_genres)
-		self.words_topics = np.zeros((len(vocab), self.nr_topics))
+		self.words_topics = np.zeros((len(self.vocab), self.nr_topics))
 		self.topics_genres = np.zeros((self.nr_topics, nr_genres))
 		self.genre_list = self.all_genres
 
+		self.topics = {}
 
 		# Initialize all counts
 		# Loop over documents:
 		for i in range(0, nr_lyrics):
 			genre_i = self.dataset[i]['genre']
-			genre_index = genre_list.index(genre_i)
+			genre_index = self.genre_list.index(genre_i)
 			#print "Genre of %i : %s (index: %i)" %(i, genre_i, genre_index)
 			# Loop over words in doc:
 			cleaned_lyrics =  self.dataset[i]['cleaned_lyrics']
@@ -77,7 +80,7 @@ class lda():
 				word = cleaned_lyrics[j]
 				# Update word count in total vocabulary
 				self.total_vocab[word] = self.total_vocab.get(word,0) + 1
-				wordindex = vocab.index(word)
+				wordindex = self.vocab.index(word)
 				self.doc_word[i][wordindex] += 1
 
 				# CHoose random topic
@@ -85,6 +88,9 @@ class lda():
 				# Update lists
 				self.words_topics[wordindex][k] +=1
 				self.topics_genres[k][genre_index] += 1
+
+				# Set topic of ij to k
+				self.topics[(i,j)] = k
 
 
 	def start_lda(self):
@@ -94,27 +100,51 @@ class lda():
 		theta = self.dirichlet(self.alpha)
 		# Pick a topic
 		topic = self.sample_multinomial(theta)
-
+		print "start LDA!"
 
 		nr_lyrics = len(self.dataset)
 		# Loop through all documents
 		for i in range(0, nr_lyrics):
 			genre_i = self.dataset[i]['genre']
-			genre_index = genre_list.index(genre_i)
+			genre_index = self.genre_list.index(genre_i)
 			cleaned_lyrics = self.dataset[i]['cleaned_lyrics']
 			# Loop through all words
 			for j in range(0, len(cleaned_lyrics)): 
 				word = cleaned_lyrics[j]
 				# Get index of vocabulary
-				wordindex = vocab.index(word)
+				word_index = self.vocab.index(word)
 				p_zij = self.probability_topic(word_index, genre_index)
-				k = sample_multinomial(p_zij)
+				k = self.sample_multinomial(p_zij)
 
-				# UPDATE ALL
-				print "a"
+				# update matrices etc
+				position = (i,j)
+				self.update(position, word_index, genre_index, k)
+
+	def update(self, position, word_index, genre_index, topic_index):
+		""" Update values in matrices using indies"""
+		# Get previous topic 
+		previous_topic_index = self.topics[position]
+		# Subtract in matrices the old topic index
+		self.words_topics[word_index][previous_topic_index] -= 1
+		self.topics_genres[previous_topic_index][genre_index] -= 1
+
+		# Add in matrices the new topic index
+		self.words_topics[word_index][topic_index] +=1
+		self.topics_genres[topic_index][genre_index] += 1
+
+		# Update topic assignment
+		self.topics[position] = topic_index
+		print "Updated word %i from topic %i to topic %i" %(word_index, previous_topic_index, topic_index)
+
+
 
 	def probability_topic(self, word_index, genre_index):
-		p_zij = np.random.rand(self.nr_topics)
+		"""
+		Calculate probabilities of topics for word_ij.
+		TODO: Now randomly initialized.. use formula from report
+		"""
+		#p_zij = np.random.rand(self.nr_topics)
+		p_zij = [1/float(self.nr_topics)] * self.nr_topics
 		return p_zij
 
 	def sample_multinomial(self, distribution):
@@ -154,5 +184,6 @@ if __name__ == "__main__":
 		nr_topics = vars(args)['topics']
 
 	lda = lda(alpha, beta, nr_topics)
+	lda.start_lda()
 
 	
