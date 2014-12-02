@@ -188,11 +188,17 @@ class lda():
 			c = self.alpha + self.count_genre_topic(genre_index, i)
 			d = self.nr_topics * self.alpha + self.count_genre(genre_index)
 
-			result = (a/b) * (c/d)
+			result = (float(a)/float(b)) * (float(c)/float(d))
 
 			p_zij[i] = result
 
-		return np.divide(p_zij, float(sum(p_zij)))
+		p_zij = np.divide(p_zij, float(sum(p_zij)))
+
+
+		# print "Sum of probability: %f " %(sum(p_zij))
+		# print "p_zij: ", p_zij
+
+		return p_zij
 
 	def sample_multinomial(self, distribution):
 		"""
@@ -209,18 +215,18 @@ class lda():
 
 	def count_words_topic(self, wordindex, topic):
 		# wordindex = self.total_vocab.keys().index(word)
-		return self.words_topics[wordindex, topic] - 1
+		return self.words_topics[wordindex, topic]
 
 	def count_topic(self, topic):
-		return sum(self.words_topics[:, topic]) - 1
+		return sum(self.words_topics[:, topic])
 
 	def count_genre_topic(self, genre_index, topic):
 		# genre_index = self.all_genres.index(genre)
-		return self.topics_genres[topic, genre_index] - 1
+		return self.topics_genres[topic, genre_index]
 
 	def count_genre(self, genre_index):
 		# genre_index = self.all_genres.index(genre)
-		return sum(self.topics_genres[:, genre_index]) - 1
+		return sum(self.topics_genres[:, genre_index])
 
 
 
