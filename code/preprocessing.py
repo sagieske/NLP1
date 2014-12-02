@@ -34,8 +34,9 @@ class preprocessing:
 	def create_vocabulary(self, lyrics):
 		""" Create vocabulary from lyrics. Set global variable vocabulary"""
 		# Remove possible Nones due to different language of lyrics
-		lyrics_no_none = [x for x in lyrics if x is not None]
-		all_words = [item for sublist in lyrics_no_none for item in sublist]
+		sublist_words = [lyriclist['cleaned_lyrics'] for lyriclist in lyrics]
+		all_words = [item for sublist in sublist_words for item in sublist]
+
 		self.vocabulary = dict.fromkeys(set(all_words),0)
 		return self.vocabulary
 	
