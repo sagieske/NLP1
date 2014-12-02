@@ -46,12 +46,16 @@ class lda():
 		
 		# Create vocabulary
 		self.total_vocab = prep.get_vocabulary()
+		# Initialization of matrices and dictionaries 
 		self._initialize_lists()
+		# Initialize counts for matrices
 		self._initialize_counts()
 
 	def _initialize_lists(self):
-		"""
-		Initialize all matrices and dictionaries
+		"""	
+		Initialize all matrices and dictionaries.
+		Dictionaries vocab and genre_list are initialized with its key (word or genre) and as value a index created by counter.
+		This is because dictionary lookups are faster than array .index() function
 		"""
 		# Initialize matrix for occurance words in documents [N x V]
 		nr_lyrics = len(self.dataset)
@@ -82,8 +86,13 @@ class lda():
 
 
 	def _initialize_counts(self):
-		""" Initialize the counts of all words in documents """
-		print "Count words.."
+		"""
+		Initialize the counts of all words in documents
+		Loop through all documents and get its genre.
+		Loop through all words in document. Then choose random topic to initialize values in matrices
+		"""
+
+		print "Initialize counts.."
 		# Get sizes
 		nr_lyrics = len(self.dataset)
 		nr_genres = len(self.all_genres)
@@ -91,12 +100,11 @@ class lda():
 		# Initialize all counts
 		# Loop over documents:
 		for i in range(0, nr_lyrics):
-			genre_i = self.dataset[i]['genre']
-			genre_index = self.genre_list[genre_i]
-			#print "Genre of %i : %s (index: %i)" %(i, genre_i, genre_index)
-
-			# Loop over words in doc:
+			# Get index of document and associated genre
+			genre_index = self.genre_list[self.dataset[i]['genre']]
+			# Get cleaned lyrics of item
 			cleaned_lyrics =  self.dataset[i]['cleaned_lyrics']
+			# Loop over words in doc:
 			for j in range(0, len(cleaned_lyrics)): 
 				word = cleaned_lyrics[j]
 				# Update word count in total vocabulary
@@ -104,21 +112,12 @@ class lda():
 				wordindex = self.vocab[word]
 				self.doc_word[i][wordindex] += 1
 
-				# CHoose random topic
+				# Choose random topic
 				k = random.randint(0,self.nr_topics-1)
-				# Update lists
+
+				# Update matrices
 				self.words_topics[wordindex][k] +=1
 				self.topics_genres[k][genre_index] += 1
-				# print "word: %s (index %i), chosen_topic: %i" %(word, wordindex,k)
-				# print "updates: words_topics[%i][%i] to %i and topics_genres[%i][%i] to %i" %(wordindex, k, self.words_topics[wordindex][k], k, genre_index, self.topics_genres[k][genre_index])
-
-			#print "Genre pop/rock has been assigned %i + 1 times. cleaned_lyrics is %i items long" %(self.count_genre('pop/rock'), len(cleaned_lyrics))
-			#print "Genre pop/rock has been assigned %i times to topic 4." %(self.count_genre_topic('pop/rock', 4))
-			#print "Topic 4 has been assigned %i times" %(self.count_topic(4))
-
-			#sys.exit()
-
-		#print self.doc_word[1][:]
 
 				# Set topic of ij to k
 				self.topics[(i,j)] = k
@@ -139,23 +138,28 @@ class lda():
 			# Loop through all documents
 			for i in range(0, nr_lyrics):
 				# get genre (and corresponding index)
-				genre_i = self.dataset[i]['genre']
-				genre_index = self.genre_list[genre_i]
+				genre_index = self.genre_list[self.dataset[i]['genre']]
 				cleaned_lyrics = self.dataset[i]['cleaned_lyrics']
 				# Loop through all words
 				for j in range(0, len(cleaned_lyrics)): 
 					# Get word (and corresponding index)
 					word = cleaned_lyrics[j]
 					word_index = self.vocab[word]
+					# Get topic probability distribution
 					p_zij = self.probability_topic(word_index, genre_index)
+					# Get topic index using topic distribution
 					k = self.sample_multinomial(p_zij)
 
-					# update matrices etc
+					# update matrices
 					position = (i,j)
 					self.update(position, word_index, genre_index, k)
 
 	def update(self, position, word_index, genre_index, topic_index):
-		""" Update values in matrices using indies"""
+		"""
+		Update values in matrices using indices. 
+		Get previous topic that was assigned to word at that position.
+		Subtract 1 from matrices
+		"""
 		# Get previous topic 
 		previous_topic_index = self.topics[position]
 		# Subtract in matrices the old topic index
@@ -233,8 +237,8 @@ if __name__ == "__main__":
 	parser.add_argument('-topics', metavar='Specify number of topics.', type=int)
 	args = parser.parse_args()
 
-	alpha = 0.01
-	beta = 0.01
+	alpha = 0.1
+	beta = 0.4
 	nr_topics = 10
 
 	if(vars(args)['a'] is not None):
