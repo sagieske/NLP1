@@ -62,7 +62,7 @@ class lda():
 		for i in range(0, nr_lyrics):
 			genre_i = dataset[i]['genre']
 			genre_index = genre_list.index(genre_i)
-			#print "Genre of %i : %s (index: %i)" %(i, genre_i, genre_index)
+			print "Genre of %i : %s (index: %i)" %(i, genre_i, genre_index)
 			# Loop over words in doc:
 			cleaned_lyrics =  dataset[i]['cleaned_lyrics']
 			for j in range(0, len(cleaned_lyrics)): 
@@ -78,8 +78,14 @@ class lda():
 				# Update lists
 				self.words_topics[wordindex][k] +=1
 				self.topics_genres[k][genre_index] += 1
-				#print "word: %s (index %i), chosen_topic: %i" %(word, wordindex,k)
-				#print "updates: words_topics[%i][%i] to %i and topics_genres[%i][%i] to %i" %(wordindex, k, self.words_topics[wordindex][k], k, genre_index, self.topics_genres[k][genre_index])
+				# print "word: %s (index %i), chosen_topic: %i" %(word, wordindex,k)
+				# print "updates: words_topics[%i][%i] to %i and topics_genres[%i][%i] to %i" %(wordindex, k, self.words_topics[wordindex][k], k, genre_index, self.topics_genres[k][genre_index])
+
+			#print "Genre pop/rock has been assigned %i + 1 times. cleaned_lyrics is %i items long" %(self.count_genre('pop/rock'), len(cleaned_lyrics))
+			#print "Genre pop/rock has been assigned %i times to topic 4." %(self.count_genre_topic('pop/rock', 4))
+			#print "Topic 4 has been assigned %i times" %(self.count_topic(4))
+
+			#sys.exit()
 
 		#print self.doc_word[1][:]
 
@@ -106,6 +112,20 @@ class lda():
 		"""
 		return np.random.mtrand.dirichlet([alpha] * self.nr_topics)
 
+	def count_words_topics(self, word, topic):
+		wordindex = self.total_vocab.keys().index(word)
+		return self.words_topics[wordindex, topic] - 1
+
+	def count_topic(self, topic):
+		return sum(self.words_topics[:, topic]) - 1
+
+	def count_genre_topic(self, genre, topic):
+		genre_index = self.all_genres.index(genre)
+		return self.topics_genres[topic, genre_index] - 1
+
+	def count_genre(self, genre):
+		genre_index = self.all_genres.index(genre)
+		return sum(self.topics_genres[:, genre_index]) - 1
 
 
 
