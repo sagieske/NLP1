@@ -152,11 +152,24 @@ class lda():
 	def probability_topic(self, word_index, genre_index):
 		"""
 		Calculate probabilities of topics for word_ij.
-		TODO: Now randomly initialized.. use formula from report
 		"""
-		#p_zij = np.random.rand(self.nr_topics)
-		p_zij = [1/float(self.nr_topics)] * self.nr_topics
-		return p_zij
+
+		# For each topic k:
+			# ((beta + count_words_topic) / (aantal woorden * beta + topic count)) * ((alpha + count_genre_topic) / (aantal topics * alpha + count_genre))
+
+		p_zij = np.zeros(self.nr_topics)
+
+		for i in range(0, self.nr_topics):
+			a = self.beta + self.count_words_topic(word_index, i)
+			b = len(self.vocab) * self.beta + self.count_topic(i)
+			c = self.alpha + self.count_genre_topic(genre_index, i)
+			d = self.nr_topics * self.alpha + self.count_genre(genre_index)
+
+			result = (a/b) * (c/d)
+
+			p_zij[i] = result
+
+		return np.divide(p_zij, float(sum(p_zij)))
 
 	def sample_multinomial(self, distribution):
 		"""
@@ -171,19 +184,19 @@ class lda():
 		"""
 		return np.random.mtrand.dirichlet([alpha] * self.nr_topics)
 
-	def count_words_topics(self, word, topic):
-		wordindex = self.total_vocab.keys().index(word)
+	def count_words_topic(self, wordindex, topic):
+		# wordindex = self.total_vocab.keys().index(word)
 		return self.words_topics[wordindex, topic] - 1
 
 	def count_topic(self, topic):
 		return sum(self.words_topics[:, topic]) - 1
 
-	def count_genre_topic(self, genre, topic):
-		genre_index = self.all_genres.index(genre)
+	def count_genre_topic(self, genre_index, topic):
+		# genre_index = self.all_genres.index(genre)
 		return self.topics_genres[topic, genre_index] - 1
 
-	def count_genre(self, genre):
-		genre_index = self.all_genres.index(genre)
+	def count_genre(self, genre_index):
+		# genre_index = self.all_genres.index(genre)
 		return sum(self.topics_genres[:, genre_index]) - 1
 
 
