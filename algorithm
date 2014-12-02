@@ -1,0 +1,40 @@
+1. Extract clean lyrics from lyrics files
+
+2. Build vocabulary of all possible words
+
+3. Randomly initialize Gibbs sampler
+
+4. Repeat N times:
+
+	Loop though documents:
+
+		Loop though words:
+
+			For each topic:
+
+				Update the topic propability
+
+
+5. Initialize genre topic distribution
+
+6. Loop though documents:
+	
+	Initialize document topic distribution
+
+		Loop trough words:
+
+			Add topic propabilities to document topic distribution
+
+		Add document topic distribution to genre topic distribution
+
+7. Train learning algorithm (ie SVM) with genre topic distributions
+
+8. When testing a lyric:
+
+	- Clean lyric
+	- Repeat N times:
+		Loop trough words:
+			For each topic:
+				Update the topic propability
+	- Determine the document topic propability
+	- Feed document topic propability to learning algorithm, due to supervised learning the response will be the most likely genre of the lyric
