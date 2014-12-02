@@ -10,3 +10,6 @@ E- Built crawler: Retrieves cleaned-up text from lyricsmode.com (their top n < 1
 
 14-11:
 D- Improved crawler by adding pause after a few requests, fixing a few errors and speeding it up seriously by requesting artist data only once instead of for every song. Dataset build.
+
+2/12:
+DS - Implementing LDA
