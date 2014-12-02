@@ -57,12 +57,12 @@ class lda():
 		nr_lyrics = len(self.dataset)
 		nr_vocab = len(self.total_vocab.keys())
 		#self.vocab = self.total_vocab.keys()
-		self.doc_word = np.zeros((nr_lyrics, nr_vocab))
+		self.doc_word = np.zeros((nr_lyrics, nr_vocab),  dtype=int)
 		
 		# Save count for words assigned to a topic
 		nr_genres = len(self.all_genres)
-		self.words_topics = np.zeros((nr_vocab, self.nr_topics))
-		self.topics_genres = np.zeros((self.nr_topics, nr_genres))
+		self.words_topics = np.zeros((nr_vocab, self.nr_topics),  dtype=int)
+		self.topics_genres = np.zeros((self.nr_topics, nr_genres),  dtype=int)
 		#self.genre_list = self.all_genres
 
 		self.topics = {}
