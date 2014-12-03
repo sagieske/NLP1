@@ -161,7 +161,7 @@ Integrate over joint:
 \subsection{}
 ~\\ Use $\neg w_{i,j}$ as collection that not uses word from document i at position j. Use $\widetilde{C}$ as a count that does not include word from document i at position j.
 \begin{align}
-P(z_{i,j} = k | Z_{\neg w_{i,j}}, \alpha, \beta, W) &\propto \frac{\beta + \widetilde{C}(k, w_{i,j})}{V\beta + \widetilde{C}(k)} \times \frac{\alpha + \widetilde{C}(g, k)}{K\alpha + \widetilde{C}(g)}
+P(z_{i,j} = k | Z_{\neg w_{i,j}}, \alpha, \beta, W, Y) &\propto \frac{\beta + \widetilde{C}(k, w_{i,j})}{V\beta + \widetilde{C}(k)} \times \frac{\alpha + \widetilde{C}(y_i, k)}{K\alpha + \widetilde{C}(y_i)}
 \end{align}
 \bibliography{../papers/bibliography}
 \bibliographystyle{plain}
