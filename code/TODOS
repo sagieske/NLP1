@@ -1,0 +1,8 @@
+TODO
+
+Functions:
+- Get top 25 words corresponding to a topic
+- Get top topic(s) corresponding to genre represented by its top 25 words?
+- Think of something to do all this for subgenres (problem= a document has multiple subgenres, in contrast to 1 genre)
+- write document as distribution of topics
+- Implement svm:  each document is given as its distribution of topics and output is the genre
