@@ -4,22 +4,23 @@ import numpy as np
 import preprocessing
 import itertools
 import random
+import sklearn
 
 class lda():
 	"""
 	Global variables
-	- alpha: 			scalar for dirichlet distribution
-	- beta: 			scalar for dirichlet distribution
+	- alpha: 		scalar for dirichlet distribution
+	- beta: 		scalar for dirichlet distribution
 	- nr_topics: 		scalar for number of desired topics
 	- all_genres: 		scalar for total number of genres encountered
 	Matrixes:
-	- doc_word:			count of times word occurs in document
+	- doc_word:		count of times word occurs in document
 	- words_topics:		count of times word belongs to a topic
 	- topics_genres:	count of times topic belongs to a genre (and indirectly the words)
 	Dictionary
-	- topics			dictionary with tuple (doc, wordposition), also (i,j), as key and value is topic that is assigned
-	- vocab 			dictionary with vocabulary words as keys and scalar as index used for the matrices
-	- genre_list		dictionary with genresas keys and scalar as index used for the matrices
+	- topics		dictionary with tuple (doc, wordposition), also (i,j), as key and value is topic that is assigned
+	- vocab 		dictionary with vocabulary words as keys and scalar as index used for the matrices
+	- genre_list		dictionary with genres as keys and scalar as index used for the matrices
 	"""
 
 	def __init__(self, alpha, beta, nr_topics):
@@ -65,8 +66,8 @@ class lda():
 		
 		# Save count for words assigned to a topic
 		nr_genres = len(self.all_genres)
-		self.words_topics = np.zeros((nr_vocab, self.nr_topics),  dtype=int)
-		self.topics_genres = np.zeros((self.nr_topics, nr_genres),  dtype=int)
+		self.words_topics = np.zeros((nr_vocab, self.nr_topics),  dtype=int) + beta
+		self.topics_genres = np.zeros((self.nr_topics, nr_genres),  dtype=int) + alpha
 		#self.genre_list = self.all_genres
 
 		self.topics = {}
@@ -145,23 +146,24 @@ class lda():
 					# Get word (and corresponding index)
 					word = cleaned_lyrics[j]
 					word_index = self.vocab[word]
+					position = (i,j)
+
+					current_topic = self.topics[position]
+
 					# Get topic probability distribution
-					p_zij = self.probability_topic(word_index, genre_index)
+					p_zij = self.probability_topic(current_topic,word_index, genre_index)
 					# Get topic index using topic distribution
 					k = self.sample_multinomial(p_zij)
 
 					# update matrices
-					position = (i,j)
-					self.update(position, word_index, genre_index, k)
+					self.update(current_topic, position, word_index, genre_index, k)
 
-	def update(self, position, word_index, genre_index, topic_index):
+	def update(self, previous_topic_index, position, word_index, genre_index, topic_index):
 		"""
 		Update values in matrices using indices. 
 		Get previous topic that was assigned to word at that position.
 		Subtract 1 from matrices
 		"""
-		# Get previous topic 
-		previous_topic_index = self.topics[position]
 		# Subtract in matrices the old topic index
 		self.words_topics[word_index][previous_topic_index] -= 1
 		self.topics_genres[previous_topic_index][genre_index] -= 1
@@ -172,35 +174,32 @@ class lda():
 
 		# Update topic assignment
 		self.topics[position] = topic_index
-		print "Updated word %i from topic %i to topic %i" %(word_index, previous_topic_index, topic_index)
+		#print "Updated word %i from topic %i to topic %i" %(word_index, previous_topic_index, topic_index)
 
 
 
-	def probability_topic(self, word_index, genre_index):
+	def probability_topic(self, current_topic, word_index, genre_index):
 		"""
-		Calculate probabilities of topics for word_ij.
+		Calculate probabilities of topics for word_ij and return array (sums to 1)
 		"""
-
 		# For each topic k:
 			# ((beta + count_words_topic) / (aantal woorden * beta + topic count)) * ((alpha + count_genre_topic) / (aantal topics * alpha + count_genre))
 
 		p_zij = np.zeros(self.nr_topics)
 
 		for i in range(0, self.nr_topics):
-			a = self.beta + self.count_words_topic(word_index, i)
-			b = len(self.vocab) * self.beta + self.count_topic(i)
-			c = self.alpha + self.count_genre_topic(genre_index, i)
-			d = self.nr_topics * self.alpha + self.count_genre(genre_index)
+			a = self.beta + self.count_words_topic(current_topic, word_index, i)
+			b = len(self.vocab) * self.beta + self.count_topic(current_topic, i)
+			c = self.alpha + self.count_genre_topic(current_topic, genre_index, i)
+			d = self.nr_topics * self.alpha + self.count_genre(current_topic, genre_index)
 
-			result = (float(a)/float(b)) * (float(c)/float(d))
+			result = (a/float(b)) * (c/float(d))
 
 			p_zij[i] = result
 
-		p_zij = np.divide(p_zij, float(sum(p_zij)))
-
-
-		# print "Sum of probability: %f " %(sum(p_zij))
-		# print "p_zij: ", p_zij
+		# Normalize array to sum up to 1
+		total = np.sum( p_zij,axis=0)
+		p_zij = np.divide(p_zij, total)
 
 		return p_zij
 
@@ -209,7 +208,26 @@ class lda():
 		Take multinomial distribution given specific distribution.
 		Return index of chosen item
 		"""
-		return np.random.multinomial(1,distribution).argmax()
+		# numpy function cries when array does not sum up to one
+		# (can occur due to float rounding errors) so catch
+		try:
+			return np.random.multinomial(1,distribution).argmax()
+
+		except:
+			newlist = []
+			if sum(distribution[:-1]) >= 1.0:
+				extra = 1.0000000000000000000000001 - sum(distribution[:-1])
+				for index in range(0,len(distribution)):
+					newlist.append(distribution[index] - extra/float(len(distribution)))
+				print "TEST"
+			else:
+				newlist = distribution
+			if sum(newlist[:-1]) > 1.0:
+				print "STILLLL"
+				# Set default list
+				newlist = [1/float(len(distribution))] * len(distribution)
+			return np.random.multinomial(1,newlist).argmax()
+
 
 	def dirichlet(self, alpha):
 		""" Sample from dirichlet distribution given dirichlet parameter
@@ -217,20 +235,42 @@ class lda():
 		"""
 		return np.random.mtrand.dirichlet([alpha] * self.nr_topics)
 
-	def count_words_topic(self, wordindex, topic):
-		# wordindex = self.total_vocab.keys().index(word)
-		return self.words_topics[wordindex, topic]
+	def count_words_topic(self, current_topic, wordindex, topic):
+		""" Count the number of times this similar word(wordindex) is associated with topic, excluding the word at given position"""
+		# If word has same topic, remove 1 from count
+		if current_topic == topic:
+			return self.words_topics[wordindex, topic] - 1
+		else:
+			return self.words_topics[wordindex, topic] 
 
-	def count_topic(self, topic):
-		return sum(self.words_topics[:, topic])
+		
 
-	def count_genre_topic(self, genre_index, topic):
-		# genre_index = self.all_genres.index(genre)
-		return self.topics_genres[topic, genre_index]
+	def count_topic(self, current_topic, topic):
+		""" Count the total number of words associated with topic, excluding word at given position"""
+		# Excluded word is associated with this topic, so subtract 1
+		if current_topic == topic:
+			return sum(self.words_topics[:, topic]) -1
+		# Current word is not associated with this topic
+		else:
+			return sum(self.words_topics[:, topic])
 
-	def count_genre(self, genre_index):
-		# genre_index = self.all_genres.index(genre)
-		return sum(self.topics_genres[:, genre_index])
+	def count_genre_topic(self, current_topic, genre_index, topic):
+		""" Count the number of times this specific topic is associated with the genre, excluding the word at given position"""
+		# Topic of excluding word is associated with this topic, so subtract 1
+		if current_topic == topic:
+			return self.topics_genres[topic, genre_index] -1 
+		# Topic of excluding word is not associated with this topic
+		else:
+			return self.topics_genres[topic, genre_index] 
+
+	def count_genre(self, current_topic, genre_index):
+		""" Count the total number of topics associated with genre, excluding topic of word at given position"""
+		# Topic of excluding word is associated with this genre, so subtract 1
+		if self.topics_genres[current_topic, genre_index] > 0:		
+			return sum(self.topics_genres[:, genre_index]) -1
+		# Topic of excluding word is not associated with this genre
+		else: 
+			return sum(self.topics_genres[:, genre_index])
 
 
 
