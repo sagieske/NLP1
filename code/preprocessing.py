@@ -60,14 +60,16 @@ class preprocessing:
 			print "Importing from files.."
 			counter = 0
 			for filename in glob.glob("*.txt"):
-				if counter > 1000: 
-					break
 				info_dictionary = self.load_file(filename)
+				print info_dictionary
 				# Lyrics are found
-				if info_dictionary['original_lyrics'] is not None:
-					loaded_files.append(info_dictionary)
-				else:
-					print "No lyrics found in file: %s" %(filename)
+				try:
+					if info_dictionary['original_lyrics'] is not None:
+						loaded_files.append(info_dictionary)
+					else:
+						print "No lyrics found in file: %s" %(filename)
+				except:
+					print "Error found in file: %s" %(filename)
 				counter += 1
 			os.chdir('../')
 
