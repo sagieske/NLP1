@@ -27,7 +27,7 @@ class lda():
 	"""
 	#TODO: preprocessing now only words with 1000 for testing purposes. It is so goddamn slow
 
-	def __init__(self, alpha, beta, nr_topics):
+	def __init__(self, alpha, beta, nr_topics, load_init=False):
 		""" Initialize
 		"""
 		self.alpha = alpha
@@ -52,16 +52,17 @@ class lda():
 		# Create vocabulary
 		self.total_vocab = prep.get_vocabulary()
 		# Initialization of matrices and dictionaries 
-		self._initialize_lists()
+		self._initialize_lists(load=load_init)
 		# Initialize counts for matrices
-		self._initialize_counts()
+		self._initialize_counts(load=load_init)
 
-	def _initialize_lists(self):
+	def _initialize_lists(self, load=False):
 		"""	
 		Initialize all matrices and dictionaries.
 		Dictionaries vocab and genre_list are initialized with its key (word or genre) and as value a index created by counter.
 		This is because dictionary lookups are faster than array .index() function
 		"""
+
 		# Initialize matrix for occurance words in documents [N x V]
 		nr_lyrics = len(self.dataset)
 		nr_vocab = len(self.total_vocab.keys())
@@ -99,7 +100,7 @@ class lda():
 		self.index_to_genre = dict((y,x) for x,y in self.genre_list.iteritems())
 
 
-	def _initialize_counts(self):
+	def _initialize_counts(self, load=False):
 		"""
 		Initialize the counts of all words in documents
 		Loop through all documents and get its genre.
@@ -364,9 +365,9 @@ if __name__ == "__main__":
 	if(vars(args)['topics'] is not None):
 		nr_topics = vars(args)['topics']
 
-	lda = lda(alpha, beta, nr_topics)
+	lda = lda(alpha, beta, nr_topics, load_init=True)
 
-	#lda.start_lda(1)
+	lda.start_lda(1)
 	# Testing for print out topic words and genres
 	for i in range(0,nr_topics):
 		print "topic: ",i
