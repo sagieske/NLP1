@@ -345,6 +345,9 @@ if __name__ == "__main__":
 	parser.add_argument('-a', metavar='Specify value for alpha', type=float)
 	parser.add_argument('-b', metavar='Specify value for beta', type=float)
 	parser.add_argument('-topics', metavar='Specify number of topics.', type=int)
+	parser.add_argument('-runs', metavar='Specify number of iterations of gibbs.', type=int)
+	parser.add_argument('-toptopics', metavar='Specify number of top words shown for a topic.', type=int)
+	parser.add_argument('-topwords', metavar='Specify number of top topics shown for a genre.', type=int)
 	args = parser.parse_args()
 
 	# TODO: chosing alpha/beta: http://psiexp.ss.uci.edu/research/papers/sciencetopics.pdf
@@ -353,10 +356,12 @@ if __name__ == "__main__":
 	level of scientific disciplines, whereas smaller values of beta will
 	produce more topics that address specific areas of research.
 	"""
-	nr_topics = 10
+	nr_topics = 20
 	alpha = 50/float(nr_topics)
 	beta = 0.1
-
+	nr_runs = 1
+	top_words = 50
+	top_topics = 5
 
 	if(vars(args)['a'] is not None):
 		alpha = vars(args)['a']
@@ -364,16 +369,24 @@ if __name__ == "__main__":
 		beta = vars(args)['b']
 	if(vars(args)['topics'] is not None):
 		nr_topics = vars(args)['topics']
+	if(vars(args)['runs'] is not None):
+		nr_runs = vars(args)['runs']
+	if(vars(args)['toptopics'] is not None):
+		top_topics = vars(args)['toptopics']
+	if(vars(args)['topwords'] is not None):
+		top_words = vars(args)['topwords']
+
+	print "Info:\n- %i runs with: %i topics, alpha: %f, beta: %f\n- number of top words shown for a topic: %i\n- number of top topics shown for a genre: %i\n" %(nr_runs, nr_topics, alpha, beta, top_words, top_topics)
 
 	lda = lda(alpha, beta, nr_topics, load_init=True)
 
-	lda.start_lda(1)
+	lda.start_lda(nr_runs)
 	# Testing for print out topic words and genres
 	for i in range(0,nr_topics):
 		print "topic: ",i
-		max_indices = lda.get_top_words_topic(i, 50)
+		max_indices = lda.get_top_words_topic(i, top_words)
 		lda.get_from_indices(max_indices, 'words')
 	for i in range(0,len(lda.all_genres)):
-		lda.get_top_genre(i, 5, 20)
+		lda.get_top_genre(i, top_topics, top_words)
 
 	
