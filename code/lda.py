@@ -155,9 +155,9 @@ class lda():
 				# get genre (and corresponding index)
 				genre_index = self.genre_list[self.dataset[i]['genre']]
 				cleaned_lyrics = self.dataset[i]['cleaned_lyrics']
+				print "lyrics has words: %i" %(len(cleaned_lyrics))
 				# Loop through all words
 				for j in range(0, len(cleaned_lyrics)): 
-					print "lyrics has words: %i" %(len(cleaned_lyrics))
 					# Get word (and corresponding index)
 					word = cleaned_lyrics[j]
 					word_index = self.vocab[word]
@@ -316,6 +316,23 @@ class lda():
 		for index in indices_array:
 			string_list.append(chosen_dict[index])
 		print string_list
+
+	def get_top_genre(self, genre_index, nr_topics, nr_words):
+		"""
+		Get # top words associated with topic. 
+		"""
+		print "Genre %s" %(self.index_to_genre[genre_index])
+		# Get vector of the counts per topic associated with this genre
+		vector_topics = self.topics_genres[:, genre_index]
+		# Get indices of topics with highest counts
+		indices_max_topics = vector_topics.argsort()[-nr_topics:][::-1]
+
+		# For every topic, get their top words and print
+		for topic_index in indices_max_topics:
+			print "Topic %i for genre %s (count: %i)" %(topic_index, self.index_to_genre[genre_index], int(self.topics_genres[topic_index, genre_index]))
+			indices_max_words = self.get_top_words_topic(topic_index, nr_words)
+			self.get_from_indices(indices_max_words, 'words')
+		
 		
 
 
@@ -329,9 +346,16 @@ if __name__ == "__main__":
 	parser.add_argument('-topics', metavar='Specify number of topics.', type=int)
 	args = parser.parse_args()
 
-	alpha = 0.1
-	beta = 0.4
+	# TODO: chosing alpha/beta: http://psiexp.ss.uci.edu/research/papers/sciencetopics.pdf
+	"""With scientific documents, a large value of beta would lead the
+	model to find a relatively small number of topics, perhaps at the
+	level of scientific disciplines, whereas smaller values of beta will
+	produce more topics that address specific areas of research.
+	"""
 	nr_topics = 10
+	alpha = 50/float(nr_topics)
+	beta = 0.1
+
 
 	if(vars(args)['a'] is not None):
 		alpha = vars(args)['a']
@@ -341,11 +365,14 @@ if __name__ == "__main__":
 		nr_topics = vars(args)['topics']
 
 	lda = lda(alpha, beta, nr_topics)
-	lda.start_lda(1)
+
+	#lda.start_lda(1)
+	# Testing for print out topic words and genres
 	for i in range(0,nr_topics):
 		print "topic: ",i
-		max_indices = lda.get_top_words_topic(i, 20)
+		max_indices = lda.get_top_words_topic(i, 50)
 		lda.get_from_indices(max_indices, 'words')
-	
+	for i in range(0,len(lda.all_genres)):
+		lda.get_top_genre(i, 5, 20)
 
 	
