@@ -5,6 +5,7 @@ import preprocessing
 import itertools
 import random
 import sklearn
+import time
 
 class lda():
 	"""
@@ -21,7 +22,10 @@ class lda():
 	- topics		dictionary with tuple (doc, wordposition), also (i,j), as key and value is topic that is assigned
 	- vocab 		dictionary with vocabulary words as keys and scalar as index used for the matrices
 	- genre_list		dictionary with genres as keys and scalar as index used for the matrices
+	- index_to_vocab	dictionary which maps index to word (reverse of vocab dictionary)
+	- index_to_genre	dictionary which maps index to genre (reverse of genre_list dictionary)
 	"""
+	#TODO: preprocessing now only words with 1000 for testing purposes. It is so goddamn slow
 
 	def __init__(self, alpha, beta, nr_topics):
 		""" Initialize
@@ -30,7 +34,7 @@ class lda():
 		self.beta = beta
 		self.nr_topics = nr_topics
 		# Preprocess data
-		prep = preprocessing.preprocessing(dump_files=False, load_files=False, dump_clean=False, load_clean=False)
+		prep = preprocessing.preprocessing(dump_files=False, load_files=True, dump_clean=False, load_clean=True)
 		# Get lyrics
 		self.dataset = prep.get_dataset()
 
@@ -74,16 +78,25 @@ class lda():
 		self.vocab = {}
 		self.genre_list = {}
 
-		# initialize indices fro matrices
+		# initialize indices from matrices
 		vocab_index_counter= 0
+		# Map word to indices
 		for item in self.total_vocab.keys():
 			self.vocab[item] = vocab_index_counter
 			vocab_index_counter += 1
 
+		# Create reverse dictionary to map indices to words 
+		self.index_to_vocab = dict((y,x) for x,y in self.vocab.iteritems())
+
+		# Map genres to indices
 		genre_index_counter = 0
 		for genre in self.all_genres:
 			self.genre_list[genre] = genre_index_counter
 			genre_index_counter += 1
+
+
+		# Create reverse dictionary to map indices to words 
+		self.index_to_genre = dict((y,x) for x,y in self.genre_list.iteritems())
 
 
 	def _initialize_counts(self):
@@ -132,6 +145,7 @@ class lda():
 		# Pick a topic
 		topic = self.sample_multinomial(theta)
 		print "start LDA!"
+		start = time.time()
 
 		nr_lyrics = len(self.dataset)
 		# Do gibbs sampling N times for all items
@@ -143,6 +157,7 @@ class lda():
 				cleaned_lyrics = self.dataset[i]['cleaned_lyrics']
 				# Loop through all words
 				for j in range(0, len(cleaned_lyrics)): 
+					print "lyrics has words: %i" %(len(cleaned_lyrics))
 					# Get word (and corresponding index)
 					word = cleaned_lyrics[j]
 					word_index = self.vocab[word]
@@ -157,6 +172,9 @@ class lda():
 
 					# update matrices
 					self.update(current_topic, position, word_index, genre_index, k)
+				if i % 10 == 0 and i != 0:
+					print "- lyrics done: %i" %(i)
+			print "done iteration %i (stopwatch: %s)" %(iteration, str(time.time()-start))
 
 	def update(self, previous_topic_index, position, word_index, genre_index, topic_index):
 		"""
@@ -273,6 +291,34 @@ class lda():
 			return sum(self.topics_genres[:, genre_index])
 
 
+	def get_top_words_topic(self, topic_index, nr_top):
+		"""
+		Get # top words associated with topic. 
+		"""
+		# Get vector of the counts per word associated with this topic
+		vector_words = self.words_topics[:, topic_index]
+		# Get indices of words with highest counts
+		indices_max = vector_words.argsort()[-nr_top:][::-1]
+		return indices_max
+
+	def get_from_indices(self, indices_array, dict_type):
+		"""
+		Return words corresponding to dictionary. Dict_type can be 'genre' or 'word' which correspond to global dictionary choice
+		"""
+		if dict_type == 'genre':
+			chosen_dict = self.index_to_genre
+		elif dict_type == 'words':
+			chosen_dict = self.index_to_vocab
+		else:
+			print "wrong input dict. Now using dictionary for words"
+			chosen_dict = self.index_to_vocab
+		string_list = []
+		for index in indices_array:
+			string_list.append(chosen_dict[index])
+		print string_list
+		
+
+
 
 if __name__ == "__main__":
 
@@ -296,5 +342,10 @@ if __name__ == "__main__":
 
 	lda = lda(alpha, beta, nr_topics)
 	lda.start_lda(1)
+	for i in range(0,nr_topics):
+		print "topic: ",i
+		max_indices = lda.get_top_words_topic(i, 20)
+		lda.get_from_indices(max_indices, 'words')
+	
 
 	
