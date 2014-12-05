@@ -35,7 +35,7 @@ class lda():
 		self.beta = beta
 		self.nr_topics = nr_topics
 		# Preprocess data
-		prep = preprocessing.preprocessing(dump_files=False, load_files=True, dump_clean=True, load_clean=False)
+		prep = preprocessing.preprocessing(dump_files=False, load_files=True, dump_clean=False, load_clean=True)
 		sys.exit()
 		# Get lyrics
 		self.dataset = prep.get_dataset()[:1000]
