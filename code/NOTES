@@ -1,0 +1,4 @@
+Notities:
+- removed stopwords from set (ntlk and english.txt): 1.166.073
+- removed stopwords only from nltk: 1.054.979
+
