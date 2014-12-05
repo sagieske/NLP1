@@ -27,7 +27,6 @@ class preprocessing:
 
 		# Clean all lyrics
 		non_english_index, self.english_lyrics = self.clean_all_files(loaded_files,dump=dump_clean, load=load_clean)
-
 		# Create vocabulary
 		self.create_vocabulary(self.english_lyrics)
 
@@ -96,11 +95,15 @@ class preprocessing:
 		else:
 			clean_lyrics = []
 			non_english = []
+
+			# Load extra stopwords fie
+			stopwords_file = [word for line in open('english.txt', 'r') for word in line.split()]
+
 			# Clean all lyrics
 			print "Cleaning lyrics"
 			for index in range(0,len(loaded_files)):
 				# Clean lyrics
-				cleaned_wordlist = self.clean(loaded_files[index]['original_lyrics'])
+				cleaned_wordlist = self.clean(loaded_files[index]['original_lyrics'], stopwords_file)
 				# lyric is not english
 				if cleaned_wordlist == 0:
 					non_english.append(index)
@@ -168,7 +171,7 @@ class preprocessing:
 
 			
 
-	def clean(self, sentence_array):
+	def clean(self, sentence_array, stopwords_list):
 		"""
 		Cleans lyrics by setting everything to lower case, removing stopwords and further cleaning. 
 		Returns cleaned list of words or 0 (when language is not english)
@@ -186,7 +189,7 @@ class preprocessing:
 		if probable_language != 'english':
 			return 0
 		# Filter out stopwords
-		word_list = self.remove_stopwords(probable_language, word_list)
+		word_list = self.remove_stopwords(probable_language, word_list, stopwords_list)
 		cleaned_list = []
 		for word in word_list:
 			# Remove triple (or more) occurance of letter
@@ -212,10 +215,12 @@ class preprocessing:
 		most_rated_language = max(languages_ratios, key=languages_ratios.get)
 		return most_rated_language
 
-	def remove_stopwords(self, language, word_list):
+	def remove_stopwords(self, language, word_list, stopwords_list):
 		""" Remove stopwords for given language from word list"""
 		stops = stopwords.words(language)
-		return [word for word in word_list if word not in stops]
+		all_stopwords = set(stops + stopwords_list)
+		return [word for word in word_list if word not in all_stopwords]
+
 
 	def load_file(self, filename):
 		"""
