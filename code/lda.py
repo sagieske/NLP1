@@ -38,10 +38,11 @@ class lda():
 		prep = preprocessing.preprocessing(dump_files=False, load_files=True, dump_clean=True, load_clean=False)
 		sys.exit()
 		# Get lyrics
-		self.dataset = prep.get_dataset()[:10]
+		self.dataset = prep.get_dataset()[:1000]
 		# Use smaller dataset add [:set]:
 		#self.dataset = prep.get_dataset()[:10]
 		print "total nr of lyrics:", len(self.dataset)
+
 
 		# Count unknowns:
 		artists_unknown = [item['artist'] for item in self.dataset].count('unknown')
