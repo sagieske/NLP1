@@ -36,7 +36,7 @@ class lda():
 		# Preprocess data
 		prep = preprocessing.preprocessing(dump_files=False, load_files=True, dump_clean=False, load_clean=True)
 		# Get lyrics
-		self.dataset = prep.get_dataset()
+		self.dataset = prep.get_dataset()[:1000]
 
 		# Count unknowns:
 		artists_unknown = [item['artist'] for item in self.dataset].count('unknown')
@@ -71,8 +71,8 @@ class lda():
 		
 		# Save count for words assigned to a topic
 		nr_genres = len(self.all_genres)
-		self.words_topics = np.zeros((nr_vocab, self.nr_topics),  dtype=int) + beta
-		self.topics_genres = np.zeros((self.nr_topics, nr_genres),  dtype=int) + alpha
+		self.words_topics = np.zeros((nr_vocab, self.nr_topics),  dtype=int)
+		self.topics_genres = np.zeros((self.nr_topics, nr_genres),  dtype=int)
 		#self.genre_list = self.all_genres
 
 		self.topics = {}
