@@ -19,6 +19,7 @@ class lda():
 	- words_topics:		count of times word belongs to a topic
 	- topics_genres:	count of times topic belongs to a genre (and indirectly the words)
 	Dictionary
+	- total_vocab		dictionary with vocabulary words as keys and  as value the counts of this word
 	- topics		dictionary with tuple (doc, wordposition), also (i,j), as key and value is topic that is assigned
 	- vocab 		dictionary with vocabulary words as keys and scalar as index used for the matrices
 	- genre_list		dictionary with genres as keys and scalar as index used for the matrices
@@ -34,9 +35,13 @@ class lda():
 		self.beta = beta
 		self.nr_topics = nr_topics
 		# Preprocess data
-		prep = preprocessing.preprocessing(dump_files=False, load_files=True, dump_clean=False, load_clean=True)
+		prep = preprocessing.preprocessing(dump_files=False, load_files=True, dump_clean=True, load_clean=False)
+		sys.exit()
 		# Get lyrics
-		self.dataset = prep.get_dataset()
+		self.dataset = prep.get_dataset()[:10]
+		# Use smaller dataset add [:set]:
+		#self.dataset = prep.get_dataset()[:10]
+		print "total nr of lyrics:", len(self.dataset)
 
 		# Count unknowns:
 		artists_unknown = [item['artist'] for item in self.dataset].count('unknown')
@@ -71,8 +76,8 @@ class lda():
 		
 		# Save count for words assigned to a topic
 		nr_genres = len(self.all_genres)
-		self.words_topics = np.zeros((nr_vocab, self.nr_topics),  dtype=int) + beta
-		self.topics_genres = np.zeros((self.nr_topics, nr_genres),  dtype=int) + alpha
+		self.words_topics = np.zeros((nr_vocab, self.nr_topics),  dtype=int)
+		self.topics_genres = np.zeros((self.nr_topics, nr_genres),  dtype=int)
 		#self.genre_list = self.all_genres
 
 		self.topics = {}
@@ -156,7 +161,6 @@ class lda():
 				# get genre (and corresponding index)
 				genre_index = self.genre_list[self.dataset[i]['genre']]
 				cleaned_lyrics = self.dataset[i]['cleaned_lyrics']
-				print "lyrics has words: %i" %(len(cleaned_lyrics))
 				# Loop through all words
 				for j in range(0, len(cleaned_lyrics)): 
 					# Get word (and corresponding index)
@@ -173,7 +177,7 @@ class lda():
 
 					# update matrices
 					self.update(current_topic, position, word_index, genre_index, k)
-				if i % 10 == 0 and i != 0:
+				if i % 100 == 0 and i != 0:
 					print "- lyrics done: %i" %(i)
 			print "done iteration %i (stopwatch: %s)" %(iteration, str(time.time()-start))
 
@@ -356,7 +360,7 @@ if __name__ == "__main__":
 	level of scientific disciplines, whereas smaller values of beta will
 	produce more topics that address specific areas of research.
 	"""
-	nr_topics = 20
+	nr_topics = 100
 	alpha = 50/float(nr_topics)
 	beta = 0.1
 	nr_runs = 1
@@ -382,10 +386,12 @@ if __name__ == "__main__":
 
 	lda.start_lda(nr_runs)
 	# Testing for print out topic words and genres
+	print "########################"
 	for i in range(0,nr_topics):
 		print "topic: ",i
 		max_indices = lda.get_top_words_topic(i, top_words)
 		lda.get_from_indices(max_indices, 'words')
+	print "########################"
 	for i in range(0,len(lda.all_genres)):
 		lda.get_top_genre(i, top_topics, top_words)
 
