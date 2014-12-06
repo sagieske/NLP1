@@ -24,11 +24,14 @@ class preprocessing:
 		""" Get all file information. Possible to dump to a specific file or load from a specific file"""
 		# Load all files
 		loaded_files = self.load_all_files(dump=dump_files, load=load_files)
-
 		# Clean all lyrics
 		non_english_index, self.english_lyrics = self.clean_all_files(loaded_files,dump=dump_clean, load=load_clean)
+		sys.exit()
 		# Create vocabulary
-		self.create_vocabulary(self.english_lyrics)
+		self.create_vocabulary(self.english_lyrics[:10])
+		print self.vocabulary
+		sys.exit()
+
 
 	def create_vocabulary(self, lyrics):
 		""" Create vocabulary from lyrics. Set global variable vocabulary"""
@@ -36,7 +39,17 @@ class preprocessing:
 		sublist_words = [lyriclist['cleaned_lyrics'] for lyriclist in lyrics]
 		all_words = [item for sublist in sublist_words for item in sublist]
 
-		self.vocabulary = dict.fromkeys(set(all_words),0)
+		self.vocabulary = dict.fromkeys(set(all_words),(0,0))
+		# Count in how many docs word occurs
+		for key in self.vocabulary.keys():
+			doc_counter = 0
+			word_counter = 0
+			for sublist in sublist_words:
+				if key in sublist:
+					doc_counter += 1
+				word_counter += sublist.count(key)
+			self.vocabulary[key] = (doc_counter, word_counter)
+
 		return self.vocabulary
 	
 	def load_all_files(self, dump=True, load=False):
@@ -150,6 +163,7 @@ class preprocessing:
 
 	def calculate_word_counts(self, lyrics_info_words):
 		""" Calculate words """
+		#TODO: is not used??!
 		all_lyrics_count = {}
 		# Loop over all lyrics
 		for item in lyrics_info_words:
@@ -197,6 +211,14 @@ class preprocessing:
 			# Remove non words
 			word = re.sub(r'(\W)','', word)
 			cleaned_list.append(word)
+		# Remove empty words
+		if '' in cleaned_list:
+			cleaned_list.remove('')
+
+		# Again try to remove stopwords that are now possibly found after non-words are removed
+		# example: (the) in lyrics will not be removed and is still in words_list, () are removed in cleaned_list 
+		# and then again are removed as stopwords
+		cleaned_list2 = self.remove_stopwords(probable_language, cleaned_list, stopwords_list)
 		return cleaned_list
 
 
