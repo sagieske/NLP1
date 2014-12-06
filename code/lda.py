@@ -10,17 +10,19 @@ import time
 class lda():
 	"""
 	Global variables
-	- alpha: 		scalar for dirichlet distribution
-	- beta: 		scalar for dirichlet distribution
+	- alpha: 			scalar for dirichlet distribution
+	- beta: 			scalar for dirichlet distribution
 	- nr_topics: 		scalar for number of desired topics
 	- all_genres: 		scalar for total number of genres encountered
+	- topic_count:		the number of times a certain topic occurs
+	- genre_count: 		the number of times a certain genre occurs
 	Matrixes:
-	- doc_word:		count of times word occurs in document
+	- doc_word:			count of times word occurs in document
 	- words_topics:		count of times word belongs to a topic
 	- topics_genres:	count of times topic belongs to a genre (and indirectly the words)
 	Dictionary
-	- topics		dictionary with tuple (doc, wordposition), also (i,j), as key and value is topic that is assigned
-	- vocab 		dictionary with vocabulary words as keys and scalar as index used for the matrices
+	- topics			dictionary with tuple (doc, wordposition), also (i,j), as key and value is topic that is assigned
+	- vocab 			dictionary with vocabulary words as keys and scalar as index used for the matrices
 	- genre_list		dictionary with genres as keys and scalar as index used for the matrices
 	- index_to_vocab	dictionary which maps index to word (reverse of vocab dictionary)
 	- index_to_genre	dictionary which maps index to genre (reverse of genre_list dictionary)
@@ -66,6 +68,10 @@ class lda():
 		# Initialize matrix for occurance words in documents [N x V]
 		nr_lyrics = len(self.dataset)
 		nr_vocab = len(self.total_vocab.keys())
+
+
+		print "Matrix size: %d x %d" %(nr_lyrics, nr_vocab)
+
 		#self.vocab = self.total_vocab.keys()
 		self.doc_word = np.zeros((nr_lyrics, nr_vocab),  dtype=int)
 		
@@ -112,11 +118,15 @@ class lda():
 		nr_lyrics = len(self.dataset)
 		nr_genres = len(self.all_genres)
 
+		self.genre_count = np.zeros(nr_genres, dtype=int)
+		self.topic_count = np.zeros(self.nr_topics, dtype=int)
+
 		# Initialize all counts
 		# Loop over documents:
 		for i in range(0, nr_lyrics):
 			# Get index of document and associated genre
 			genre_index = self.genre_list[self.dataset[i]['genre']]
+			self.genre_count[genre_index] += 1
 			# Get cleaned lyrics of item
 			cleaned_lyrics =  self.dataset[i]['cleaned_lyrics']
 			# Loop over words in doc:
@@ -129,6 +139,8 @@ class lda():
 
 				# Choose random topic
 				k = random.randint(0,self.nr_topics-1)
+
+				self.topic_count[k] += 1
 
 				# Update matrices
 				self.words_topics[wordindex][k] +=1
@@ -186,10 +198,12 @@ class lda():
 		# Subtract in matrices the old topic index
 		self.words_topics[word_index][previous_topic_index] -= 1
 		self.topics_genres[previous_topic_index][genre_index] -= 1
+		self.topic_count[previous_topic_index] -= 1
 
 		# Add in matrices the new topic index
 		self.words_topics[word_index][topic_index] +=1
 		self.topics_genres[topic_index][genre_index] += 1
+		self.topic_count[topic_index] += 1
 
 		# Update topic assignment
 		self.topics[position] = topic_index
@@ -268,10 +282,12 @@ class lda():
 		""" Count the total number of words associated with topic, excluding word at given position"""
 		# Excluded word is associated with this topic, so subtract 1
 		if current_topic == topic:
-			return sum(self.words_topics[:, topic]) -1
+			#return sum(self.words_topics[:, topic]) -1
+			return self.topic_count[topic] - 1
 		# Current word is not associated with this topic
 		else:
-			return sum(self.words_topics[:, topic])
+			# return sum(self.words_topics[:, topic])
+			return self.topic_count[topic]
 
 	def count_genre_topic(self, current_topic, genre_index, topic):
 		""" Count the number of times this specific topic is associated with the genre, excluding the word at given position"""
@@ -286,10 +302,12 @@ class lda():
 		""" Count the total number of topics associated with genre, excluding topic of word at given position"""
 		# Topic of excluding word is associated with this genre, so subtract 1
 		if self.topics_genres[current_topic, genre_index] > 0:		
-			return sum(self.topics_genres[:, genre_index]) -1
+			#return sum(self.topics_genres[:, genre_index]) -1
+			return self.genre_count[genre_index] - 1
 		# Topic of excluding word is not associated with this genre
 		else: 
-			return sum(self.topics_genres[:, genre_index])
+			#return sum(self.topics_genres[:, genre_index])
+			return self.genre_count[genre_index]
 
 
 	def get_top_words_topic(self, topic_index, nr_top):
