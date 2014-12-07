@@ -10,14 +10,12 @@ import time
 class lda():
 	"""
 	Global variables
-	- alpha: 			scalar for dirichlet distribution
-	- beta: 			scalar for dirichlet distribution
+	- alpha: 		scalar for dirichlet distribution
+	- beta: 		scalar for dirichlet distribution
 	- nr_topics: 		scalar for number of desired topics
 	- all_genres: 		scalar for total number of genres encountered
-	- topic_count:		the number of times a certain topic occurs
-	- genre_count: 		the number of times a certain genre occurs
 	Matrixes:
-	- doc_word:			count of times word occurs in document
+	- doc_word:		count of times word occurs in document
 	- words_topics:		count of times word belongs to a topic
 	- topics_genres:	count of times topic belongs to a genre (and indirectly the words)
 	Dictionary
@@ -37,10 +35,10 @@ class lda():
 		self.beta = beta
 		self.nr_topics = nr_topics
 		# Preprocess data
-		prep = preprocessing.preprocessing(dump_files=False, load_files=True, dump_clean=False, load_clean=True)
-		sys.exit()
+		prep = preprocessing.preprocessing(dump_files=False, load_files=False, dump_clean=False, load_clean=False)
+		# sys.exit()
 		# Get lyrics
-		self.dataset = prep.get_dataset()[:1000]
+		self.dataset = prep.get_dataset()
 		# Use smaller dataset add [:set]:
 		#self.dataset = prep.get_dataset()[:10]
 		print "total nr of lyrics:", len(self.dataset)
@@ -74,10 +72,6 @@ class lda():
 		# Initialize matrix for occurance words in documents [N x V]
 		nr_lyrics = len(self.dataset)
 		nr_vocab = len(self.total_vocab.keys())
-
-
-		print "Matrix size: %d x %d" %(nr_lyrics, nr_vocab)
-
 		#self.vocab = self.total_vocab.keys()
 		self.doc_word = np.zeros((nr_lyrics, nr_vocab),  dtype=int)
 		
@@ -139,13 +133,13 @@ class lda():
 			for j in range(0, len(cleaned_lyrics)): 
 				word = cleaned_lyrics[j]
 				# Update word count in total vocabulary
-				self.total_vocab[word] = self.total_vocab.get(word,0) + 1
+				# self.total_vocab[word] = self.total_vocab.get(word,0) + 1
+				# print self.vocab
 				wordindex = self.vocab[word]
 				self.doc_word[i][wordindex] += 1
 
 				# Choose random topic
 				k = random.randint(0,self.nr_topics-1)
-
 				self.topic_count[k] += 1
 
 				# Update matrices
@@ -307,11 +301,11 @@ class lda():
 		""" Count the total number of topics associated with genre, excluding topic of word at given position"""
 		# Topic of excluding word is associated with this genre, so subtract 1
 		if self.topics_genres[current_topic, genre_index] > 0:		
-			#return sum(self.topics_genres[:, genre_index]) -1
+			# return sum(self.topics_genres[:, genre_index]) -1
 			return self.genre_count[genre_index] - 1
 		# Topic of excluding word is not associated with this genre
 		else: 
-			#return sum(self.topics_genres[:, genre_index])
+			# return sum(self.topics_genres[:, genre_index])
 			return self.genre_count[genre_index]
 
 
