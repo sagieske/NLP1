@@ -26,11 +26,11 @@ class preprocessing:
 		loaded_files = self.load_all_files(dump=dump_files, load=load_files)
 		# Clean all lyrics
 		non_english_index, self.english_lyrics = self.clean_all_files(loaded_files,dump=dump_clean, load=load_clean)
-		sys.exit()
+		#sys.exit()
 		# Create vocabulary
-		self.create_vocabulary(self.english_lyrics[:10])
+		self.create_vocabulary(self.english_lyrics)
 		print self.vocabulary
-		sys.exit()
+		#sys.exit()
 
 
 	def create_vocabulary(self, lyrics):

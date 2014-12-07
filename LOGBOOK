@@ -13,3 +13,9 @@ D- Improved crawler by adding pause after a few requests, fixing a few errors an
 
 2/12:
 DS - Implementing LDA
+
+5/12:
+E - Start work on naive classifier (using word counts)
+
+07/12:
+E - Start working on report
