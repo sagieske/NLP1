@@ -2,7 +2,11 @@ import re
 import sys
 import glob
 import os
-import pickle
+# cPickle is much faster.
+try:
+    import cPickle as pickle
+except:
+    import pickle
 import nltk
 from nltk.corpus import stopwords
 
@@ -24,12 +28,17 @@ class preprocessing:
 		""" Get all file information. Possible to dump to a specific file or load from a specific file"""
 		# Load all files
 		loaded_files = self.load_all_files(dump=dump_files, load=load_files)
+		#self.count_nltk = 0
+		#self.count_all = 0
+		#self.total_words = 0
+		#self.total_left = 0
 		# Clean all lyrics
 		non_english_index, self.english_lyrics = self.clean_all_files(loaded_files,dump=dump_clean, load=load_clean)
-		#sys.exit()
+		#print "Total words: %i, total ntlk removed:  %i, total removed (nltk and english.txt): %i. total left: %i" %(self.total_words, self.count_nltk,self.count_all, self.total_left)
 		# Create vocabulary
 		self.create_vocabulary(self.english_lyrics)
 		print self.vocabulary
+
 		#sys.exit()
 
 
@@ -70,20 +79,28 @@ class preprocessing:
 			os.chdir(self.FOLDER)
 			loaded_files = []
 			print "Importing from files.."
+			unknown_genres = 0
 			counter = 0
 			for filename in glob.glob("*.txt"):
 				info_dictionary = self.load_file(filename)
-				print info_dictionary
-				# Lyrics are found
-				try:
-					if info_dictionary['original_lyrics'] is not None:
-						loaded_files.append(info_dictionary)
-					else:
-						print "No lyrics found in file: %s" %(filename)
-				except:
-					print "Error found in file: %s" %(filename)
-				counter += 1
+				# if genre is unknown, info_dictionary is None. Ignore these files!
+				if info_dictionary is None:
+					#print "Unknown genre for file: %s" %(filename)
+					unknown_genres +=1
+					continue
+				else:
+					# Lyrics are found
+					try:
+						if info_dictionary['original_lyrics'] is not None:
+							loaded_files.append(info_dictionary)
+						else:
+							print "No lyrics found in file: %s" %(filename)
+					except:
+						print "Error found in file: %s" %(filename)
+					counter += 1
+
 			os.chdir('../')
+			print "total unknown genres: %i" %(unknown_genres)
 
 		# Dump information to file
 		if dump:
@@ -198,6 +215,8 @@ class preprocessing:
 			lower_case_words = [word.lower() for word in words]
 			word_list += lower_case_words
 
+		#self.total_words += len(word_list)
+
 		# Check language of tex
 		probable_language = self.check_language(word_list)
 		if probable_language != 'english':
@@ -211,15 +230,15 @@ class preprocessing:
 			# Remove non words
 			word = re.sub(r'(\W)','', word)
 			cleaned_list.append(word)
-		# Remove empty words
-		if '' in cleaned_list:
-			cleaned_list.remove('')
+		# Remove possible empty words
+		cleaned_list= filter(None, cleaned_list)
 
 		# Again try to remove stopwords that are now possibly found after non-words are removed
 		# example: (the) in lyrics will not be removed and is still in words_list, () are removed in cleaned_list 
 		# and then again are removed as stopwords
-		cleaned_list2 = self.remove_stopwords(probable_language, cleaned_list, stopwords_list)
-		return cleaned_list
+		last_cleaned_list = self.remove_stopwords(probable_language, cleaned_list, stopwords_list)
+		#self.total_left += len(last_cleaned_list)
+		return last_cleaned_list
 
 
 	def check_language(self, word_list):
@@ -241,6 +260,8 @@ class preprocessing:
 		""" Remove stopwords for given language from word list"""
 		stops = stopwords.words(language)
 		all_stopwords = set(stops + stopwords_list)
+		#self.count_nltk += len([word for word in word_list if word in stops])
+		#self.count_all += len([word for word in word_list if word in all_stopwords])
 		return [word for word in word_list if word not in all_stopwords]
 
 
@@ -257,8 +278,12 @@ class preprocessing:
 			return (filename, None)
 		# Get information of song and seperate lyrics
 		data_description = datafile[:4]
-		lyrics = datafile[7:]
 		information_song = self.get_info_title(data_description)
+		# Delete unknown genres
+		if information_song['genre'] == 'unknown':
+			return None
+		# Set lyrics for known genre
+		lyrics = datafile[7:]
 		information_song['original_lyrics'] = lyrics
 		return information_song
 
