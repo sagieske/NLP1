@@ -37,7 +37,7 @@ class lda():
 		# Preprocess data
 		#prep = preprocessing.preprocessing(dump_files=False, load_files=True, dump_clean=False, load_clean=True)
 		#sys.exit()
-		prep = preprocessing.preprocessing(dump_files=False, load_files=False, dump_clean=False, load_clean=False)
+		prep = preprocessing.preprocessing(dump_files=False, load_files=True, dump_clean=False, load_clean=True)
 		# Get lyrics
 		self.dataset = prep.get_dataset()
 		# Use smaller dataset add [:set]:

@@ -8,6 +8,8 @@ import sklearn
 import time
 from lda import lda
 from sklearn import svm
+from sklearn.multiclass import OneVsRestClassifier
+from sklearn.svm import LinearSVC
 
 nr_topics = 20
 alpha = 50/float(nr_topics)
@@ -35,7 +37,9 @@ training_genre = genre_list[:3000]
 test_genre = genre_list[3000:]
 
 print "Training classifier..."
-classifier = svm.SVC()
+#classifier = svm.SVC()
+#classifier.fit(training_set, training_genre)
+classifier = OneVsRestClassifier(LinearSVC())
 classifier.fit(training_set, training_genre)
 
 
