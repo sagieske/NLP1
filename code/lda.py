@@ -9,19 +9,21 @@ import time
 
 class lda():
 	"""
-	Global variables
-	- alpha: 		scalar for dirichlet distribution
-	- beta: 		scalar for dirichlet distribution
+	Instance variables
+	- alpha: 			scalar for dirichlet distribution
+	- beta: 			scalar for dirichlet distribution
 	- nr_topics: 		scalar for number of desired topics
 	- all_genres: 		scalar for total number of genres encountered
+	Array
+	- genre_count		array of total count of assignments per genre
+	- topic_count 		array of total count of word assignments per topic
 	Matrixes:
-	- doc_word:		count of times word occurs in document
+	- doc_word:			count of times word occurs in document
 	- words_topics:		count of times word belongs to a topic
 	- topics_genres:	count of times topic belongs to a genre (and indirectly the words)
 	Dictionary
-	- total_vocab		dictionary with vocabulary words as keys and  as value the counts of this word
-	- topics		dictionary with tuple (doc, wordposition), also (i,j), as key and value is topic that is assigned
-	- vocab 		dictionary with vocabulary words as keys and scalar as index used for the matrices
+	- topics			dictionary with tuple (doc, wordposition), also (i,j), as key and value is topic that is assigned
+	- vocab 			dictionary with vocabulary words as keys and scalar as index used for the matrices
 	- genre_list		dictionary with genres as keys and scalar as index used for the matrices
 	- index_to_vocab	dictionary which maps index to word (reverse of vocab dictionary)
 	- index_to_genre	dictionary which maps index to genre (reverse of genre_list dictionary)
@@ -35,13 +37,10 @@ class lda():
 		self.beta = beta
 		self.nr_topics = nr_topics
 		# Preprocess data
-		#prep = preprocessing.preprocessing(dump_files=False, load_files=True, dump_clean=False, load_clean=True)
-		#sys.exit()
 		prep = preprocessing.preprocessing(dump_files=False, load_files=True, dump_clean=False, load_clean=True)
 		# Get lyrics
 		self.dataset = prep.get_dataset()
-		# Use smaller dataset add [:set]:
-		#self.dataset = prep.get_dataset()[:10]
+		# Use smaller dataset add [:set]
 		print "total nr of lyrics:", len(self.dataset)
 
 		# Count unknowns:
@@ -54,9 +53,7 @@ class lda():
 		# Get all genre and subgenres
 		all_genres = prep.get_information_dictionary('genre', 'title').keys()
 		self.all_genres =  all_genres
-		
-		# Create vocabulary
-		self.total_vocab = prep.get_vocabulary()
+
 		# Initialization of matrices and dictionaries 
 		self._initialize_lists(load=load_init)
 		# Initialize counts for matrices
@@ -68,42 +65,32 @@ class lda():
 		Dictionaries vocab and genre_list are initialized with its key (word or genre) and as value a index created by counter.
 		This is because dictionary lookups are faster than array .index() function
 		"""
+		# Get all words
+		sublist_words = [lyriclist['cleaned_lyrics'] for lyriclist in self.dataset]
+		# Get set for vocabulary
+		all_words = list(set([item for sublist in sublist_words for item in sublist]))
 
-		# Initialize matrix for occurance words in documents [N x V]
-		nr_lyrics = len(self.dataset)
-		nr_vocab = len(self.total_vocab.keys())
-		#self.vocab = self.total_vocab.keys()
-		self.doc_word = np.zeros((nr_lyrics, nr_vocab),  dtype=int)
-		
+		# Create indices for words and viceversa
+		self.index_to_vocab =  dict(enumerate(all_words))
+		self.vocab = dict((y,x) for x,y in self.index_to_vocab.iteritems())
+
+		# Create indices for genres and viceversa
+		self.index_to_genre = dict(enumerate(self.all_genres)) 
+		self.genre_list = dict((y,x) for x,y in self.index_to_genre.iteritems())
+
+		# Initialize topic dictionary
+		self.topics = {}
+
 		# Save count for words assigned to a topic
 		nr_genres = len(self.all_genres)
+		nr_lyrics = len(self.dataset)
+		nr_vocab = len(all_words)
+
+		# Initialize matrices
 		self.words_topics = np.zeros((nr_vocab, self.nr_topics),  dtype=int)
 		self.topics_genres = np.zeros((self.nr_topics, nr_genres),  dtype=int)
-		#self.genre_list = self.all_genres
-
-		self.topics = {}
-		self.vocab = {}
-		self.genre_list = {}
-
-		# initialize indices from matrices
-		vocab_index_counter= 0
-		# Map word to indices
-		for item in self.total_vocab.keys():
-			self.vocab[item] = vocab_index_counter
-			vocab_index_counter += 1
-
-		# Create reverse dictionary to map indices to words 
-		self.index_to_vocab = dict((y,x) for x,y in self.vocab.iteritems())
-
-		# Map genres to indices
-		genre_index_counter = 0
-		for genre in self.all_genres:
-			self.genre_list[genre] = genre_index_counter
-			genre_index_counter += 1
-
-
-		# Create reverse dictionary to map indices to words 
-		self.index_to_genre = dict((y,x) for x,y in self.genre_list.iteritems())
+		# Initialize matrix for occurance words in documents [N x V]
+		self.doc_word = np.zeros((nr_lyrics,len(all_words)),  dtype=int)
 
 
 	def _initialize_counts(self, load=False):
@@ -133,8 +120,6 @@ class lda():
 			for j in range(0, len(cleaned_lyrics)): 
 				word = cleaned_lyrics[j]
 				# Update word count in total vocabulary
-				# self.total_vocab[word] = self.total_vocab.get(word,0) + 1
-				# print self.vocab
 				wordindex = self.vocab[word]
 				self.doc_word[i][wordindex] += 1
 
@@ -154,9 +139,9 @@ class lda():
 		""" """
 		# TODO: just put some functions here which are needed in lda
 		# Get topic mixture distribution
-		theta = self.dirichlet(self.alpha)
+		#theta = self.dirichlet(self.alpha)
 		# Pick a topic
-		topic = self.sample_multinomial(theta)
+		#topic = self.sample_multinomial(theta)
 		print "start LDA!"
 		start = time.time()
 
@@ -374,7 +359,7 @@ if __name__ == "__main__":
 	produce more topics that address specific areas of research.
 	"""
 	nr_topics = 100
-	alpha = 50/float(nr_topics)
+	alpha = 0.1
 	beta = 0.1
 	nr_runs = 1
 	top_words = 50
