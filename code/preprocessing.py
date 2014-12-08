@@ -2,21 +2,21 @@ import re
 import sys
 import glob
 import os
-# cPickle is much faster.
+# cPickle is much faster. But if not found, just use pickle
 try:
     import cPickle as pickle
 except:
     import pickle
 import nltk
 from nltk.corpus import stopwords
+import numpy as np
 
 class preprocessing:
 	"""
-	global variables:
+	instance variables:
 	- loaded_files: 	array of dictionaries with keys: artist, title, genre, subgenres(array), original_lyrics (array) 
 	- english_lyrics: 	array of dictionaries of all english song-items linked to their loaded_files dictionaries, with addition of cleaned_lyrics (array).
-				IMPORTANT: change in a dictionary in loaded_files results in change in dictionary in english_lyrics
-	- vocabulary:		dictionary with all encountered words as keys and their counts
+						IMPORTANT: change in a dictionary in loaded_files results in change in dictionary in english_lyrics
 	"""
 	
 	FOLDER = 'lyrics/'
@@ -35,31 +35,7 @@ class preprocessing:
 		# Clean all lyrics
 		non_english_index, self.english_lyrics = self.clean_all_files(loaded_files,dump=dump_clean, load=load_clean)
 		#print "Total words: %i, total ntlk removed:  %i, total removed (nltk and english.txt): %i. total left: %i" %(self.total_words, self.count_nltk,self.count_all, self.total_left)
-		# Create vocabulary
-		self.create_vocabulary(self.english_lyrics)
-		print self.vocabulary
 
-		#sys.exit()
-
-
-	def create_vocabulary(self, lyrics):
-		""" Create vocabulary from lyrics. Set global variable vocabulary"""
-		# Remove possible Nones due to different language of lyrics
-		sublist_words = [lyriclist['cleaned_lyrics'] for lyriclist in lyrics]
-		all_words = [item for sublist in sublist_words for item in sublist]
-
-		self.vocabulary = dict.fromkeys(set(all_words),(0,0))
-		# Count in how many docs word occurs
-		for key in self.vocabulary.keys():
-			doc_counter = 0
-			word_counter = 0
-			for sublist in sublist_words:
-				if key in sublist:
-					doc_counter += 1
-				word_counter += sublist.count(key)
-			self.vocabulary[key] = (doc_counter, word_counter)
-
-		return self.vocabulary
 	
 	def load_all_files(self, dump=True, load=False):
 		"""
@@ -152,10 +128,6 @@ class preprocessing:
 		return non_english, clean_lyrics
 	
 
-	def get_vocabulary(self):
-		""" Returns vocabulary dictionary"""
-		return self.vocabulary
-
 	def get_dataset(self):
 		""" Returns dataset of english lyrics of all songs and their information"""
 		return self.english_lyrics
@@ -175,30 +147,6 @@ class preprocessing:
 			# Append to list of titles (initialize with [] if artist not yet in dict)
  			information_dictionary.setdefault(artist_name, []).append(title)
 		return information_dictionary
-
-
-
-	def calculate_word_counts(self, lyrics_info_words):
-		""" Calculate words """
-		#TODO: is not used??!
-		all_lyrics_count = {}
-		# Loop over all lyrics
-		for item in lyrics_info_words:
-			word_list = item[-1]
-			if word_list is not None:
-				lyric_count = {}
-				for word in word_list:
-					# Update vocabulary count
-					self.vocabulary[word] += 1
-					# Update count in lyric
-					lyric_count[word] = lyric_count.get(word, 0) +1
-				# Update tuple with information
-				item += (lyric_count,)
-				# Save in dictionary under key (artist, title)
-				key = (item[0][0], item[0][1])
-				all_lyrics_count[key] = lyric_count
-		return all_lyrics_count
-
 
 			
 
