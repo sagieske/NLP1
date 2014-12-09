@@ -5,7 +5,13 @@ import preprocessing
 import itertools
 import random
 import sklearn
+import ast
 import time
+
+# try:
+#     import cPickle as pickle
+# except:
+import pickle
 
 class lda():
 	"""
@@ -30,8 +36,9 @@ class lda():
 	"""
 	#TODO: preprocessing now only words with 1000 for testing purposes. It is so goddamn slow
 
-	def __init__(self, alpha, beta, nr_topics, load_init=False):
+	def __init__(self, alpha, beta, nr_topics, load_init=True):
 		""" Initialize
+		TODO: load_init is to be used for initialization from pickle load from file. NOT USED YET!
 		"""
 		self.alpha = alpha
 		self.beta = beta
@@ -86,6 +93,8 @@ class lda():
 		nr_lyrics = len(self.dataset)
 		nr_vocab = len(all_words)
 
+		# sys.exit()
+
 		# Initialize matrices
 		self.words_topics = np.zeros((nr_vocab, self.nr_topics),  dtype=int)
 		self.topics_genres = np.zeros((self.nr_topics, nr_genres),  dtype=int)
@@ -100,48 +109,55 @@ class lda():
 		Loop through all words in document. Then choose random topic to initialize values in matrices
 		"""
 
-		print "Initialize counts.."
-		# Get sizes
-		nr_lyrics = len(self.dataset)
-		nr_genres = len(self.all_genres)
+		if(load):
+			self.load_data('init_data')
+		else:
 
-		self.genre_count = np.zeros(nr_genres, dtype=int)
-		self.topic_count = np.zeros(self.nr_topics, dtype=int)
+			print "Initialize counts.."
+			# Get sizes
+			nr_lyrics = len(self.dataset)
+			nr_genres = len(self.all_genres)
 
-		# Initialize all counts
-		# Loop over documents:
-		for i in range(0, nr_lyrics):
-			# Get index of document and associated genre
-			genre_index = self.genre_list[self.dataset[i]['genre']]
-			self.genre_count[genre_index] += 1
-			# Get cleaned lyrics of item
-			cleaned_lyrics =  self.dataset[i]['cleaned_lyrics']
-			# Loop over words in doc:
-			for j in range(0, len(cleaned_lyrics)): 
-				word = cleaned_lyrics[j]
-				# Update word count in total vocabulary
-				wordindex = self.vocab[word]
-				self.doc_word[i][wordindex] += 1
+			self.genre_count = np.zeros(nr_genres, dtype=int)
+			self.topic_count = np.zeros(self.nr_topics, dtype=int)
 
-				# Choose random topic
-				k = random.randint(0,self.nr_topics-1)
-				self.topic_count[k] += 1
+			# Initialize all counts
+			# Loop over documents:
+			for i in range(0, nr_lyrics):
+				# Get index of document and associated genre
+				genre_index = self.genre_list[self.dataset[i]['genre']]
+				self.genre_count[genre_index] += 1
+				# Get cleaned lyrics of item
+				cleaned_lyrics =  self.dataset[i]['cleaned_lyrics']
+				# Loop over words in doc:
+				for j in range(0, len(cleaned_lyrics)): 
+					word = cleaned_lyrics[j]
+					# Update word count in total vocabulary
+					wordindex = self.vocab[word]
+					self.doc_word[i][wordindex] += 1
 
-				# Update matrices
-				self.words_topics[wordindex][k] +=1
-				self.topics_genres[k][genre_index] += 1
+					# Choose random topic
+					k = random.randint(0,self.nr_topics-1)
+					self.topic_count[k] += 1
 
-				# Set topic of ij to k
-				self.topics[(i,j)] = k
+					# Update matrices
+					self.words_topics[wordindex][k] +=1
+					self.topics_genres[k][genre_index] += 1
+
+					# Set topic of ij to k
+					self.topics[(i,j)] = k
+
+			self.dump_data('init_data')
 
 
-	def start_lda(self, N):
+	def start_lda(self, N, topwords, toptopics, filename):
 		""" """
 		# TODO: just put some functions here which are needed in lda
 		# Get topic mixture distribution
 		#theta = self.dirichlet(self.alpha)
 		# Pick a topic
 		#topic = self.sample_multinomial(theta)
+
 		print "start LDA!"
 		start = time.time()
 
@@ -172,6 +188,12 @@ class lda():
 				if i % 100 == 0 and i != 0:
 					print "- lyrics done: %i" %(i)
 			print "done iteration %i (stopwatch: %s)" %(iteration, str(time.time()-start))
+			self.print_to_file(N, topwords, toptopics, filename, iteration)
+
+		# prints initialization
+		if N == 0:
+			iteration = N
+			self.print_to_file(N, topwords, toptopics, filename, iteration)
 
 	def update(self, previous_topic_index, position, word_index, genre_index, topic_index):
 		"""
@@ -246,6 +268,46 @@ class lda():
 			return np.random.multinomial(1,newlist).argmax()
 
 
+	def dump_data(self, filename):
+		to_dump = {}
+		to_dump['topics'] = self.topics
+		to_dump['alpha'] = self.alpha
+		to_dump['beta'] = self.beta
+		to_dump['nr_topics'] = self.nr_topics
+		to_dump['words_topics'] = self.words_topics
+		to_dump['topics_genres'] = self.topics_genres
+		print "Dump information to dumpfile: ", filename
+		pickle.dump(to_dump, open(filename,"wb"))
+
+	def load_data(self, filename):
+		try:
+			print "Load data from file: ", (filename)
+			with open(filename,'r') as f:
+				dumped = pickle.load(f)
+				self.topics = dumped['topics']
+				self.alpha = dumped['alpha']
+				self.beta = dumped['beta']
+				self.nr_topics = dumped['nr_topics']
+				self.words_topics = dumped['words_topics']
+				self.topics_genres = dumped['topics_genres']
+		except:
+			print "File %s corrupted, not found or Memory Error." %(filename)
+			self._initialize_counts(False)
+			# sys.exit()
+
+
+	def document_topic_distribution(self):
+		nr_lyrics = len(self.dataset)
+		dt_dist = np.zeros((nr_lyrics, self.nr_topics))
+		for i in range(0, nr_lyrics):
+			for j in range(0, len(self.dataset[i]['cleaned_lyrics'])):
+				k = self.topics[(i, j)]
+				dt_dist[i][k] += 1
+			total = np.sum(dt_dist[i], axis=0)
+			dt_dist[i] = np.divide(dt_dist[i], total)
+		return dt_dist
+
+
 	def dirichlet(self, alpha):
 		""" Sample from dirichlet distribution given dirichlet parameter
 		Returns array of size nr_topics
@@ -318,23 +380,73 @@ class lda():
 		string_list = []
 		for index in indices_array:
 			string_list.append(chosen_dict[index])
-		print string_list
+		return string_list
 
 	def get_top_genre(self, genre_index, nr_topics, nr_words):
 		"""
-		Get # top words associated with topic. 
+		Get # top words associated with topic of top topics that are associated with genre.
+		Returns a list of list of words. Each sublist corresponds to the top topic and its elements are the top words for a topic. 
 		"""
-		print "Genre %s" %(self.index_to_genre[genre_index])
 		# Get vector of the counts per topic associated with this genre
 		vector_topics = self.topics_genres[:, genre_index]
 		# Get indices of topics with highest counts
 		indices_max_topics = vector_topics.argsort()[-nr_topics:][::-1]
 
-		# For every topic, get their top words and print
+		top_topics = []
+		# For every topic, get their top words and append to list
 		for topic_index in indices_max_topics:
-			print "Topic %i for genre %s (count: %i)" %(topic_index, self.index_to_genre[genre_index], int(self.topics_genres[topic_index, genre_index]))
 			indices_max_words = self.get_top_words_topic(topic_index, nr_words)
-			self.get_from_indices(indices_max_words, 'words')
+			top_words = self.get_from_indices(indices_max_words, 'words')
+			top_topics.append(top_words)
+		return indices_max_topics ,top_topics
+
+	def print_to_file(self, runs, top_words, top_topics, filename, iteration):
+		"""
+		Write top words per topic and top topics per genre to file
+		"""
+		# Get top words per topic
+		words_topic_total = []
+		for i in range(0,self.nr_topics):
+			max_indices = self.get_top_words_topic(i, top_words)
+			words_topic = self.get_from_indices(max_indices, 'words')
+			words_topic_total.append(words_topic)
+
+		# Get top topics per genre
+		genre_list_total = []
+		indices_max_topics_total  = []
+		for i in range(0,len(self.all_genres)):
+			# Genre list is list of topics, which are represented as list of words. Indices_max_topics are the indices of topics
+			indices_max_topics, genre_list = self.get_top_genre(i, top_topics, top_words)
+			genre_list_total.append(genre_list)
+			indices_max_topics_total.append(indices_max_topics)
+
+	
+		total_filename_topics = filename + "_" + str(iteration) + "_topics.txt"
+		total_filename_genre = filename + "_" + str(iteration) + "_genre.txt"
+		# Write to file for topics (if not exists open!)
+		print "write to file: %s" %(filename)
+		with open(total_filename_topics, 'w+') as f:
+			f.write('Runs: %i, alpha: %.2f, beta: %.2f, nr topics: %i, nr genres: %i, iteration: %i, top_topics: %i, top_words: %i\n\n' \
+				%(runs, self.alpha, self.beta, self.nr_topics, len(self.all_genres), iteration, top_topics, top_words) )
+			f.write('TOPIC-WORD DISTRIBUTION at iteration %i/%i \n' %(iteration, runs))
+			# Print list for every topic
+			for i in range(0,len(words_topic_total)):
+        			f.write('Topic %i\n%s\n' %(i, str(words_topic_total[i])))
+
+		# Write to file for genres (if not exists open!)
+		with open(total_filename_genre, 'w+') as f:
+			f.write('Runs: %i, alpha: %.2f, beta: %.2f, nr topics: %i, nr genres: %i, iteration: %i, top_topics: %i, top_words: %i\n\n' \
+				%(runs, self.alpha, self.beta, self.nr_topics, len(self.all_genres), iteration, top_topics, top_words) )
+			f.write('GENRE-TOPIC DISTRIBUTION at iteration %i/%i \n' %(iteration, runs))
+			# Print every genre
+			for i in range(0,len(genre_list_total)):
+        			f.write('\nGENRE %i \t (topics: %s)\n' %(i, str(indices_max_topics_total[i]) ) )
+				# Print every topic
+				for j in range(0,len(genre_list)):
+					f.write('--> Topic %i\n' %(indices_max_topics_total[i][j]))
+					f.write('%s\n' %(str(genre_list[j])))
+
+
 		
 		
 
@@ -350,6 +462,7 @@ if __name__ == "__main__":
 	parser.add_argument('-runs', metavar='Specify number of iterations of gibbs.', type=int)
 	parser.add_argument('-toptopics', metavar='Specify number of top words shown for a topic.', type=int)
 	parser.add_argument('-topwords', metavar='Specify number of top topics shown for a genre.', type=int)
+	parser.add_argument('-f', metavar='Specify filename to write output to', type=str)
 	args = parser.parse_args()
 
 	# TODO: chosing alpha/beta: http://psiexp.ss.uci.edu/research/papers/sciencetopics.pdf
@@ -364,6 +477,7 @@ if __name__ == "__main__":
 	nr_runs = 1
 	top_words = 50
 	top_topics = 5
+	filename = ''
 
 	if(vars(args)['a'] is not None):
 		alpha = vars(args)['a']
@@ -377,20 +491,26 @@ if __name__ == "__main__":
 		top_topics = vars(args)['toptopics']
 	if(vars(args)['topwords'] is not None):
 		top_words = vars(args)['topwords']
+	if(vars(args)['f'] is not None):
+		filename = vars(args)['f']
+
+	# template for filename
+	if filename is '':
+		filename = 'output/topics%i_a%.2f_b%.2f_runs%i' %(nr_topics, alpha, beta, nr_runs)
 
 	print "Info:\n- %i runs with: %i topics, alpha: %f, beta: %f\n- number of top words shown for a topic: %i\n- number of top topics shown for a genre: %i\n" %(nr_runs, nr_topics, alpha, beta, top_words, top_topics)
 
 	lda = lda(alpha, beta, nr_topics, load_init=True)
 
-	lda.start_lda(nr_runs)
+	lda.start_lda(nr_runs, top_words, top_topics, filename)
 	# Testing for print out topic words and genres
-	print "########################"
-	for i in range(0,nr_topics):
-		print "topic: ",i
-		max_indices = lda.get_top_words_topic(i, top_words)
-		lda.get_from_indices(max_indices, 'words')
-	print "########################"
-	for i in range(0,len(lda.all_genres)):
-		lda.get_top_genre(i, top_topics, top_words)
+	#print "########################"
+	#for i in range(0,nr_topics):
+	#	print "topic: ",i
+		#max_indices = lda.get_top_words_topic(i, top_words)
+	#	lda.get_from_indices(max_indices, 'words')
+	#print "########################"
+	#for i in range(0,len(lda.all_genres)):
+	#	lda.get_top_genre(i, top_topics, top_words)
 
 	
