@@ -1,0 +1,3384 @@
+Info:
+- 30 runs with: 100 topics, alpha: 0.100000, beta: 0.100000
+- number of top words shown for a topic: 25
+- number of top topics shown for a genre: 5
+
+Load information from dumpfile:  file_dump2
+Load clean lyrics from file:  lyrics_clean2
+total nr of lyrics: 9728
+total unknown: artist: 5, title: 0, genre: 0, subgenre: 802
+Initialize counts..
+start LDA!
+- lyrics done: 100
+- lyrics done: 200
+- lyrics done: 300
+- lyrics done: 400
+- lyrics done: 500
+- lyrics done: 600
+- lyrics done: 700
+- lyrics done: 800
+- lyrics done: 900
+- lyrics done: 1000
+- lyrics done: 1100
+- lyrics done: 1200
+- lyrics done: 1300
+- lyrics done: 1400
+- lyrics done: 1500
+- lyrics done: 1600
+- lyrics done: 1700
+- lyrics done: 1800
+- lyrics done: 1900
+- lyrics done: 2000
+- lyrics done: 2100
+- lyrics done: 2200
+- lyrics done: 2300
+- lyrics done: 2400
+- lyrics done: 2500
+- lyrics done: 2600
+- lyrics done: 2700
+- lyrics done: 2800
+- lyrics done: 2900
+- lyrics done: 3000
+- lyrics done: 3100
+- lyrics done: 3200
+- lyrics done: 3300
+- lyrics done: 3400
+- lyrics done: 3500
+- lyrics done: 3600
+- lyrics done: 3700
+- lyrics done: 3800
+- lyrics done: 3900
+- lyrics done: 4000
+- lyrics done: 4100
+- lyrics done: 4200
+- lyrics done: 4300
+- lyrics done: 4400
+- lyrics done: 4500
+- lyrics done: 4600
+- lyrics done: 4700
+- lyrics done: 4800
+- lyrics done: 4900
+- lyrics done: 5000
+- lyrics done: 5100
+- lyrics done: 5200
+- lyrics done: 5300
+- lyrics done: 5400
+- lyrics done: 5500
+- lyrics done: 5600
+- lyrics done: 5700
+- lyrics done: 5800
+- lyrics done: 5900
+- lyrics done: 6000
+- lyrics done: 6100
+- lyrics done: 6200
+- lyrics done: 6300
+- lyrics done: 6400
+- lyrics done: 6500
+- lyrics done: 6600
+- lyrics done: 6700
+- lyrics done: 6800
+- lyrics done: 6900
+- lyrics done: 7000
+- lyrics done: 7100
+- lyrics done: 7200
+- lyrics done: 7300
+- lyrics done: 7400
+- lyrics done: 7500
+- lyrics done: 7600
+- lyrics done: 7700
+- lyrics done: 7800
+- lyrics done: 7900
+- lyrics done: 8000
+- lyrics done: 8100
+- lyrics done: 8200
+- lyrics done: 8300
+- lyrics done: 8400
+- lyrics done: 8500
+- lyrics done: 8600
+- lyrics done: 8700
+- lyrics done: 8800
+- lyrics done: 8900
+- lyrics done: 9000
+- lyrics done: 9100
+- lyrics done: 9200
+- lyrics done: 9300
+- lyrics done: 9400
+- lyrics done: 9500
+- lyrics done: 9600
+- lyrics done: 9700
+done iteration 0 (stopwatch: 10656.2819569)
+- lyrics done: 100
+- lyrics done: 200
+- lyrics done: 300
+- lyrics done: 400
+- lyrics done: 500
+- lyrics done: 600
+- lyrics done: 700
+- lyrics done: 800
+- lyrics done: 900
+- lyrics done: 1000
+- lyrics done: 1100
+- lyrics done: 1200
+- lyrics done: 1300
+- lyrics done: 1400
+- lyrics done: 1500
+- lyrics done: 1600
+- lyrics done: 1700
+- lyrics done: 1800
+- lyrics done: 1900
+- lyrics done: 2000
+- lyrics done: 2100
+- lyrics done: 2200
+- lyrics done: 2300
+- lyrics done: 2400
+- lyrics done: 2500
+- lyrics done: 2600
+- lyrics done: 2700
+- lyrics done: 2800
+- lyrics done: 2900
+- lyrics done: 3000
+- lyrics done: 3100
+- lyrics done: 3200
+- lyrics done: 3300
+- lyrics done: 3400
+- lyrics done: 3500
+- lyrics done: 3600
+- lyrics done: 3700
+- lyrics done: 3800
+- lyrics done: 3900
+- lyrics done: 4000
+- lyrics done: 4100
+- lyrics done: 4200
+- lyrics done: 4300
+- lyrics done: 4400
+- lyrics done: 4500
+- lyrics done: 4600
+- lyrics done: 4700
+- lyrics done: 4800
+- lyrics done: 4900
+- lyrics done: 5000
+- lyrics done: 5100
+- lyrics done: 5200
+- lyrics done: 5300
+- lyrics done: 5400
+- lyrics done: 5500
+- lyrics done: 5600
+- lyrics done: 5700
+- lyrics done: 5800
+- lyrics done: 5900
+- lyrics done: 6000
+- lyrics done: 6100
+- lyrics done: 6200
+- lyrics done: 6300
+- lyrics done: 6400
+- lyrics done: 6500
+- lyrics done: 6600
+- lyrics done: 6700
+- lyrics done: 6800
+- lyrics done: 6900
+- lyrics done: 7000
+- lyrics done: 7100
+- lyrics done: 7200
+- lyrics done: 7300
+- lyrics done: 7400
+- lyrics done: 7500
+- lyrics done: 7600
+- lyrics done: 7700
+- lyrics done: 7800
+- lyrics done: 7900
+- lyrics done: 8000
+- lyrics done: 8100
+- lyrics done: 8200
+- lyrics done: 8300
+- lyrics done: 8400
+- lyrics done: 8500
+- lyrics done: 8600
+- lyrics done: 8700
+- lyrics done: 8800
+- lyrics done: 8900
+- lyrics done: 9000
+- lyrics done: 9100
+- lyrics done: 9200
+- lyrics done: 9300
+- lyrics done: 9400
+- lyrics done: 9500
+- lyrics done: 9600
+- lyrics done: 9700
+done iteration 1 (stopwatch: 11362.805795)
+- lyrics done: 100
+- lyrics done: 200
+- lyrics done: 300
+- lyrics done: 400
+- lyrics done: 500
+- lyrics done: 600
+- lyrics done: 700
+- lyrics done: 800
+- lyrics done: 900
+- lyrics done: 1000
+- lyrics done: 1100
+- lyrics done: 1200
+- lyrics done: 1300
+- lyrics done: 1400
+- lyrics done: 1500
+- lyrics done: 1600
+- lyrics done: 1700
+- lyrics done: 1800
+- lyrics done: 1900
+- lyrics done: 2000
+- lyrics done: 2100
+- lyrics done: 2200
+- lyrics done: 2300
+- lyrics done: 2400
+- lyrics done: 2500
+- lyrics done: 2600
+- lyrics done: 2700
+- lyrics done: 2800
+- lyrics done: 2900
+- lyrics done: 3000
+- lyrics done: 3100
+- lyrics done: 3200
+- lyrics done: 3300
+- lyrics done: 3400
+- lyrics done: 3500
+- lyrics done: 3600
+- lyrics done: 3700
+- lyrics done: 3800
+- lyrics done: 3900
+- lyrics done: 4000
+- lyrics done: 4100
+- lyrics done: 4200
+- lyrics done: 4300
+- lyrics done: 4400
+- lyrics done: 4500
+- lyrics done: 4600
+- lyrics done: 4700
+- lyrics done: 4800
+- lyrics done: 4900
+- lyrics done: 5000
+- lyrics done: 5100
+- lyrics done: 5200
+- lyrics done: 5300
+- lyrics done: 5400
+- lyrics done: 5500
+- lyrics done: 5600
+- lyrics done: 5700
+- lyrics done: 5800
+- lyrics done: 5900
+- lyrics done: 6000
+- lyrics done: 6100
+- lyrics done: 6200
+- lyrics done: 6300
+- lyrics done: 6400
+- lyrics done: 6500
+- lyrics done: 6600
+- lyrics done: 6700
+- lyrics done: 6800
+- lyrics done: 6900
+- lyrics done: 7000
+- lyrics done: 7100
+- lyrics done: 7200
+- lyrics done: 7300
+- lyrics done: 7400
+- lyrics done: 7500
+- lyrics done: 7600
+- lyrics done: 7700
+- lyrics done: 7800
+- lyrics done: 7900
+- lyrics done: 8000
+- lyrics done: 8100
+- lyrics done: 8200
+- lyrics done: 8300
+- lyrics done: 8400
+- lyrics done: 8500
+- lyrics done: 8600
+- lyrics done: 8700
+- lyrics done: 8800
+- lyrics done: 8900
+- lyrics done: 9000
+- lyrics done: 9100
+- lyrics done: 9200
+- lyrics done: 9300
+- lyrics done: 9400
+- lyrics done: 9500
+- lyrics done: 9600
+- lyrics done: 9700
+done iteration 2 (stopwatch: 12082.3248758)
+- lyrics done: 100
+- lyrics done: 200
+- lyrics done: 300
+- lyrics done: 400
+- lyrics done: 500
+- lyrics done: 600
+- lyrics done: 700
+- lyrics done: 800
+- lyrics done: 900
+- lyrics done: 1000
+- lyrics done: 1100
+- lyrics done: 1200
+- lyrics done: 1300
+- lyrics done: 1400
+- lyrics done: 1500
+- lyrics done: 1600
+- lyrics done: 1700
+- lyrics done: 1800
+- lyrics done: 1900
+- lyrics done: 2000
+- lyrics done: 2100
+- lyrics done: 2200
+- lyrics done: 2300
+- lyrics done: 2400
+- lyrics done: 2500
+- lyrics done: 2600
+- lyrics done: 2700
+- lyrics done: 2800
+- lyrics done: 2900
+- lyrics done: 3000
+- lyrics done: 3100
+- lyrics done: 3200
+- lyrics done: 3300
+- lyrics done: 3400
+- lyrics done: 3500
+- lyrics done: 3600
+- lyrics done: 3700
+- lyrics done: 3800
+- lyrics done: 3900
+- lyrics done: 4000
+- lyrics done: 4100
+- lyrics done: 4200
+- lyrics done: 4300
+- lyrics done: 4400
+- lyrics done: 4500
+- lyrics done: 4600
+- lyrics done: 4700
+- lyrics done: 4800
+- lyrics done: 4900
+- lyrics done: 5000
+- lyrics done: 5100
+- lyrics done: 5200
+- lyrics done: 5300
+- lyrics done: 5400
+- lyrics done: 5500
+- lyrics done: 5600
+- lyrics done: 5700
+- lyrics done: 5800
+- lyrics done: 5900
+- lyrics done: 6000
+- lyrics done: 6100
+- lyrics done: 6200
+- lyrics done: 6300
+- lyrics done: 6400
+- lyrics done: 6500
+- lyrics done: 6600
+- lyrics done: 6700
+- lyrics done: 6800
+- lyrics done: 6900
+- lyrics done: 7000
+- lyrics done: 7100
+- lyrics done: 7200
+- lyrics done: 7300
+- lyrics done: 7400
+- lyrics done: 7500
+- lyrics done: 7600
+- lyrics done: 7700
+- lyrics done: 7800
+- lyrics done: 7900
+- lyrics done: 8000
+- lyrics done: 8100
+- lyrics done: 8200
+- lyrics done: 8300
+- lyrics done: 8400
+- lyrics done: 8500
+- lyrics done: 8600
+- lyrics done: 8700
+- lyrics done: 8800
+- lyrics done: 8900
+- lyrics done: 9000
+- lyrics done: 9100
+- lyrics done: 9200
+- lyrics done: 9300
+- lyrics done: 9400
+- lyrics done: 9500
+- lyrics done: 9600
+- lyrics done: 9700
+done iteration 3 (stopwatch: 12886.641947)
+- lyrics done: 100
+- lyrics done: 200
+- lyrics done: 300
+- lyrics done: 400
+- lyrics done: 500
+- lyrics done: 600
+- lyrics done: 700
+- lyrics done: 800
+- lyrics done: 900
+- lyrics done: 1000
+- lyrics done: 1100
+- lyrics done: 1200
+- lyrics done: 1300
+- lyrics done: 1400
+- lyrics done: 1500
+- lyrics done: 1600
+- lyrics done: 1700
+- lyrics done: 1800
+- lyrics done: 1900
+- lyrics done: 2000
+- lyrics done: 2100
+- lyrics done: 2200
+- lyrics done: 2300
+- lyrics done: 2400
+- lyrics done: 2500
+- lyrics done: 2600
+- lyrics done: 2700
+- lyrics done: 2800
+- lyrics done: 2900
+- lyrics done: 3000
+- lyrics done: 3100
+- lyrics done: 3200
+- lyrics done: 3300
+- lyrics done: 3400
+- lyrics done: 3500
+- lyrics done: 3600
+- lyrics done: 3700
+- lyrics done: 3800
+- lyrics done: 3900
+- lyrics done: 4000
+- lyrics done: 4100
+- lyrics done: 4200
+- lyrics done: 4300
+- lyrics done: 4400
+- lyrics done: 4500
+- lyrics done: 4600
+- lyrics done: 4700
+- lyrics done: 4800
+- lyrics done: 4900
+- lyrics done: 5000
+- lyrics done: 5100
+- lyrics done: 5200
+- lyrics done: 5300
+- lyrics done: 5400
+- lyrics done: 5500
+- lyrics done: 5600
+- lyrics done: 5700
+- lyrics done: 5800
+- lyrics done: 5900
+- lyrics done: 6000
+- lyrics done: 6100
+- lyrics done: 6200
+- lyrics done: 6300
+- lyrics done: 6400
+- lyrics done: 6500
+- lyrics done: 6600
+- lyrics done: 6700
+- lyrics done: 6800
+- lyrics done: 6900
+- lyrics done: 7000
+- lyrics done: 7100
+- lyrics done: 7200
+- lyrics done: 7300
+- lyrics done: 7400
+- lyrics done: 7500
+- lyrics done: 7600
+- lyrics done: 7700
+- lyrics done: 7800
+- lyrics done: 7900
+- lyrics done: 8000
+- lyrics done: 8100
+- lyrics done: 8200
+- lyrics done: 8300
+- lyrics done: 8400
+- lyrics done: 8500
+- lyrics done: 8600
+- lyrics done: 8700
+- lyrics done: 8800
+- lyrics done: 8900
+- lyrics done: 9000
+- lyrics done: 9100
+- lyrics done: 9200
+- lyrics done: 9300
+- lyrics done: 9400
+- lyrics done: 9500
+- lyrics done: 9600
+- lyrics done: 9700
+done iteration 4 (stopwatch: 13689.6009588)
+- lyrics done: 100
+- lyrics done: 200
+- lyrics done: 300
+- lyrics done: 400
+- lyrics done: 500
+- lyrics done: 600
+- lyrics done: 700
+- lyrics done: 800
+- lyrics done: 900
+- lyrics done: 1000
+- lyrics done: 1100
+- lyrics done: 1200
+- lyrics done: 1300
+- lyrics done: 1400
+- lyrics done: 1500
+- lyrics done: 1600
+- lyrics done: 1700
+- lyrics done: 1800
+- lyrics done: 1900
+- lyrics done: 2000
+- lyrics done: 2100
+- lyrics done: 2200
+- lyrics done: 2300
+- lyrics done: 2400
+- lyrics done: 2500
+- lyrics done: 2600
+- lyrics done: 2700
+- lyrics done: 2800
+- lyrics done: 2900
+- lyrics done: 3000
+- lyrics done: 3100
+- lyrics done: 3200
+- lyrics done: 3300
+- lyrics done: 3400
+- lyrics done: 3500
+- lyrics done: 3600
+- lyrics done: 3700
+- lyrics done: 3800
+- lyrics done: 3900
+- lyrics done: 4000
+- lyrics done: 4100
+- lyrics done: 4200
+- lyrics done: 4300
+- lyrics done: 4400
+- lyrics done: 4500
+- lyrics done: 4600
+- lyrics done: 4700
+- lyrics done: 4800
+- lyrics done: 4900
+- lyrics done: 5000
+- lyrics done: 5100
+- lyrics done: 5200
+- lyrics done: 5300
+- lyrics done: 5400
+- lyrics done: 5500
+- lyrics done: 5600
+- lyrics done: 5700
+- lyrics done: 5800
+- lyrics done: 5900
+- lyrics done: 6000
+- lyrics done: 6100
+- lyrics done: 6200
+- lyrics done: 6300
+- lyrics done: 6400
+- lyrics done: 6500
+- lyrics done: 6600
+- lyrics done: 6700
+- lyrics done: 6800
+- lyrics done: 6900
+- lyrics done: 7000
+- lyrics done: 7100
+- lyrics done: 7200
+- lyrics done: 7300
+- lyrics done: 7400
+- lyrics done: 7500
+- lyrics done: 7600
+- lyrics done: 7700
+- lyrics done: 7800
+- lyrics done: 7900
+- lyrics done: 8000
+- lyrics done: 8100
+- lyrics done: 8200
+- lyrics done: 8300
+- lyrics done: 8400
+- lyrics done: 8500
+- lyrics done: 8600
+- lyrics done: 8700
+- lyrics done: 8800
+- lyrics done: 8900
+- lyrics done: 9000
+- lyrics done: 9100
+- lyrics done: 9200
+- lyrics done: 9300
+- lyrics done: 9400
+- lyrics done: 9500
+- lyrics done: 9600
+- lyrics done: 9700
+done iteration 5 (stopwatch: 14506.6440959)
+- lyrics done: 100
+- lyrics done: 200
+- lyrics done: 300
+- lyrics done: 400
+- lyrics done: 500
+- lyrics done: 600
+- lyrics done: 700
+- lyrics done: 800
+- lyrics done: 900
+- lyrics done: 1000
+- lyrics done: 1100
+- lyrics done: 1200
+- lyrics done: 1300
+- lyrics done: 1400
+- lyrics done: 1500
+- lyrics done: 1600
+- lyrics done: 1700
+- lyrics done: 1800
+- lyrics done: 1900
+- lyrics done: 2000
+- lyrics done: 2100
+- lyrics done: 2200
+- lyrics done: 2300
+- lyrics done: 2400
+- lyrics done: 2500
+- lyrics done: 2600
+- lyrics done: 2700
+- lyrics done: 2800
+- lyrics done: 2900
+- lyrics done: 3000
+- lyrics done: 3100
+- lyrics done: 3200
+- lyrics done: 3300
+- lyrics done: 3400
+- lyrics done: 3500
+- lyrics done: 3600
+- lyrics done: 3700
+- lyrics done: 3800
+- lyrics done: 3900
+- lyrics done: 4000
+- lyrics done: 4100
+- lyrics done: 4200
+- lyrics done: 4300
+- lyrics done: 4400
+- lyrics done: 4500
+- lyrics done: 4600
+- lyrics done: 4700
+- lyrics done: 4800
+- lyrics done: 4900
+- lyrics done: 5000
+- lyrics done: 5100
+- lyrics done: 5200
+- lyrics done: 5300
+- lyrics done: 5400
+- lyrics done: 5500
+- lyrics done: 5600
+- lyrics done: 5700
+- lyrics done: 5800
+- lyrics done: 5900
+- lyrics done: 6000
+- lyrics done: 6100
+- lyrics done: 6200
+- lyrics done: 6300
+- lyrics done: 6400
+- lyrics done: 6500
+- lyrics done: 6600
+- lyrics done: 6700
+- lyrics done: 6800
+- lyrics done: 6900
+- lyrics done: 7000
+- lyrics done: 7100
+- lyrics done: 7200
+- lyrics done: 7300
+- lyrics done: 7400
+- lyrics done: 7500
+- lyrics done: 7600
+- lyrics done: 7700
+- lyrics done: 7800
+- lyrics done: 7900
+- lyrics done: 8000
+- lyrics done: 8100
+- lyrics done: 8200
+- lyrics done: 8300
+- lyrics done: 8400
+- lyrics done: 8500
+- lyrics done: 8600
+- lyrics done: 8700
+- lyrics done: 8800
+- lyrics done: 8900
+- lyrics done: 9000
+- lyrics done: 9100
+- lyrics done: 9200
+- lyrics done: 9300
+- lyrics done: 9400
+- lyrics done: 9500
+- lyrics done: 9600
+- lyrics done: 9700
+done iteration 6 (stopwatch: 15240.2229569)
+- lyrics done: 100
+- lyrics done: 200
+- lyrics done: 300
+- lyrics done: 400
+- lyrics done: 500
+- lyrics done: 600
+- lyrics done: 700
+- lyrics done: 800
+- lyrics done: 900
+- lyrics done: 1000
+- lyrics done: 1100
+- lyrics done: 1200
+- lyrics done: 1300
+- lyrics done: 1400
+- lyrics done: 1500
+- lyrics done: 1600
+- lyrics done: 1700
+- lyrics done: 1800
+- lyrics done: 1900
+- lyrics done: 2000
+- lyrics done: 2100
+- lyrics done: 2200
+- lyrics done: 2300
+- lyrics done: 2400
+- lyrics done: 2500
+- lyrics done: 2600
+- lyrics done: 2700
+- lyrics done: 2800
+- lyrics done: 2900
+- lyrics done: 3000
+- lyrics done: 3100
+- lyrics done: 3200
+- lyrics done: 3300
+- lyrics done: 3400
+- lyrics done: 3500
+- lyrics done: 3600
+- lyrics done: 3700
+- lyrics done: 3800
+- lyrics done: 3900
+- lyrics done: 4000
+- lyrics done: 4100
+- lyrics done: 4200
+- lyrics done: 4300
+- lyrics done: 4400
+- lyrics done: 4500
+- lyrics done: 4600
+- lyrics done: 4700
+- lyrics done: 4800
+- lyrics done: 4900
+- lyrics done: 5000
+- lyrics done: 5100
+- lyrics done: 5200
+- lyrics done: 5300
+- lyrics done: 5400
+- lyrics done: 5500
+- lyrics done: 5600
+- lyrics done: 5700
+- lyrics done: 5800
+- lyrics done: 5900
+- lyrics done: 6000
+- lyrics done: 6100
+- lyrics done: 6200
+- lyrics done: 6300
+- lyrics done: 6400
+- lyrics done: 6500
+- lyrics done: 6600
+- lyrics done: 6700
+- lyrics done: 6800
+- lyrics done: 6900
+- lyrics done: 7000
+- lyrics done: 7100
+- lyrics done: 7200
+- lyrics done: 7300
+- lyrics done: 7400
+- lyrics done: 7500
+- lyrics done: 7600
+- lyrics done: 7700
+- lyrics done: 7800
+- lyrics done: 7900
+- lyrics done: 8000
+- lyrics done: 8100
+- lyrics done: 8200
+- lyrics done: 8300
+- lyrics done: 8400
+- lyrics done: 8500
+- lyrics done: 8600
+- lyrics done: 8700
+- lyrics done: 8800
+- lyrics done: 8900
+- lyrics done: 9000
+- lyrics done: 9100
+- lyrics done: 9200
+- lyrics done: 9300
+- lyrics done: 9400
+- lyrics done: 9500
+- lyrics done: 9600
+- lyrics done: 9700
+done iteration 7 (stopwatch: 15986.6725528)
+- lyrics done: 100
+- lyrics done: 200
+- lyrics done: 300
+- lyrics done: 400
+- lyrics done: 500
+- lyrics done: 600
+- lyrics done: 700
+- lyrics done: 800
+- lyrics done: 900
+- lyrics done: 1000
+- lyrics done: 1100
+- lyrics done: 1200
+- lyrics done: 1300
+- lyrics done: 1400
+- lyrics done: 1500
+- lyrics done: 1600
+- lyrics done: 1700
+- lyrics done: 1800
+- lyrics done: 1900
+- lyrics done: 2000
+- lyrics done: 2100
+- lyrics done: 2200
+- lyrics done: 2300
+- lyrics done: 2400
+- lyrics done: 2500
+- lyrics done: 2600
+- lyrics done: 2700
+- lyrics done: 2800
+- lyrics done: 2900
+- lyrics done: 3000
+- lyrics done: 3100
+- lyrics done: 3200
+- lyrics done: 3300
+- lyrics done: 3400
+- lyrics done: 3500
+- lyrics done: 3600
+- lyrics done: 3700
+- lyrics done: 3800
+- lyrics done: 3900
+- lyrics done: 4000
+- lyrics done: 4100
+- lyrics done: 4200
+- lyrics done: 4300
+- lyrics done: 4400
+- lyrics done: 4500
+- lyrics done: 4600
+- lyrics done: 4700
+- lyrics done: 4800
+- lyrics done: 4900
+- lyrics done: 5000
+- lyrics done: 5100
+- lyrics done: 5200
+- lyrics done: 5300
+- lyrics done: 5400
+- lyrics done: 5500
+- lyrics done: 5600
+- lyrics done: 5700
+- lyrics done: 5800
+- lyrics done: 5900
+- lyrics done: 6000
+- lyrics done: 6100
+- lyrics done: 6200
+- lyrics done: 6300
+- lyrics done: 6400
+- lyrics done: 6500
+- lyrics done: 6600
+- lyrics done: 6700
+- lyrics done: 6800
+- lyrics done: 6900
+- lyrics done: 7000
+- lyrics done: 7100
+- lyrics done: 7200
+- lyrics done: 7300
+- lyrics done: 7400
+- lyrics done: 7500
+- lyrics done: 7600
+- lyrics done: 7700
+- lyrics done: 7800
+- lyrics done: 7900
+- lyrics done: 8000
+- lyrics done: 8100
+- lyrics done: 8200
+- lyrics done: 8300
+- lyrics done: 8400
+- lyrics done: 8500
+- lyrics done: 8600
+- lyrics done: 8700
+- lyrics done: 8800
+- lyrics done: 8900
+- lyrics done: 9000
+- lyrics done: 9100
+- lyrics done: 9200
+- lyrics done: 9300
+- lyrics done: 9400
+- lyrics done: 9500
+- lyrics done: 9600
+- lyrics done: 9700
+done iteration 8 (stopwatch: 16674.5226278)
+- lyrics done: 100
+- lyrics done: 200
+- lyrics done: 300
+- lyrics done: 400
+- lyrics done: 500
+- lyrics done: 600
+- lyrics done: 700
+- lyrics done: 800
+- lyrics done: 900
+- lyrics done: 1000
+- lyrics done: 1100
+- lyrics done: 1200
+- lyrics done: 1300
+- lyrics done: 1400
+- lyrics done: 1500
+- lyrics done: 1600
+- lyrics done: 1700
+- lyrics done: 1800
+- lyrics done: 1900
+- lyrics done: 2000
+- lyrics done: 2100
+- lyrics done: 2200
+- lyrics done: 2300
+- lyrics done: 2400
+- lyrics done: 2500
+- lyrics done: 2600
+- lyrics done: 2700
+- lyrics done: 2800
+- lyrics done: 2900
+- lyrics done: 3000
+- lyrics done: 3100
+- lyrics done: 3200
+- lyrics done: 3300
+- lyrics done: 3400
+- lyrics done: 3500
+- lyrics done: 3600
+- lyrics done: 3700
+- lyrics done: 3800
+- lyrics done: 3900
+- lyrics done: 4000
+- lyrics done: 4100
+- lyrics done: 4200
+- lyrics done: 4300
+- lyrics done: 4400
+- lyrics done: 4500
+- lyrics done: 4600
+- lyrics done: 4700
+- lyrics done: 4800
+- lyrics done: 4900
+- lyrics done: 5000
+- lyrics done: 5100
+- lyrics done: 5200
+- lyrics done: 5300
+- lyrics done: 5400
+- lyrics done: 5500
+- lyrics done: 5600
+- lyrics done: 5700
+- lyrics done: 5800
+- lyrics done: 5900
+- lyrics done: 6000
+- lyrics done: 6100
+- lyrics done: 6200
+- lyrics done: 6300
+- lyrics done: 6400
+- lyrics done: 6500
+- lyrics done: 6600
+- lyrics done: 6700
+- lyrics done: 6800
+- lyrics done: 6900
+- lyrics done: 7000
+- lyrics done: 7100
+- lyrics done: 7200
+- lyrics done: 7300
+- lyrics done: 7400
+- lyrics done: 7500
+- lyrics done: 7600
+- lyrics done: 7700
+- lyrics done: 7800
+- lyrics done: 7900
+- lyrics done: 8000
+- lyrics done: 8100
+- lyrics done: 8200
+- lyrics done: 8300
+- lyrics done: 8400
+- lyrics done: 8500
+- lyrics done: 8600
+- lyrics done: 8700
+- lyrics done: 8800
+- lyrics done: 8900
+- lyrics done: 9000
+- lyrics done: 9100
+- lyrics done: 9200
+- lyrics done: 9300
+- lyrics done: 9400
+- lyrics done: 9500
+- lyrics done: 9600
+- lyrics done: 9700
+done iteration 9 (stopwatch: 17373.8456888)
+- lyrics done: 100
+- lyrics done: 200
+- lyrics done: 300
+- lyrics done: 400
+- lyrics done: 500
+- lyrics done: 600
+- lyrics done: 700
+- lyrics done: 800
+- lyrics done: 900
+- lyrics done: 1000
+- lyrics done: 1100
+- lyrics done: 1200
+- lyrics done: 1300
+- lyrics done: 1400
+- lyrics done: 1500
+- lyrics done: 1600
+- lyrics done: 1700
+- lyrics done: 1800
+- lyrics done: 1900
+- lyrics done: 2000
+- lyrics done: 2100
+- lyrics done: 2200
+- lyrics done: 2300
+- lyrics done: 2400
+- lyrics done: 2500
+- lyrics done: 2600
+- lyrics done: 2700
+- lyrics done: 2800
+- lyrics done: 2900
+- lyrics done: 3000
+- lyrics done: 3100
+- lyrics done: 3200
+- lyrics done: 3300
+- lyrics done: 3400
+- lyrics done: 3500
+- lyrics done: 3600
+- lyrics done: 3700
+- lyrics done: 3800
+- lyrics done: 3900
+- lyrics done: 4000
+- lyrics done: 4100
+- lyrics done: 4200
+- lyrics done: 4300
+- lyrics done: 4400
+- lyrics done: 4500
+- lyrics done: 4600
+- lyrics done: 4700
+- lyrics done: 4800
+- lyrics done: 4900
+- lyrics done: 5000
+- lyrics done: 5100
+- lyrics done: 5200
+- lyrics done: 5300
+- lyrics done: 5400
+- lyrics done: 5500
+- lyrics done: 5600
+- lyrics done: 5700
+- lyrics done: 5800
+- lyrics done: 5900
+- lyrics done: 6000
+- lyrics done: 6100
+- lyrics done: 6200
+- lyrics done: 6300
+- lyrics done: 6400
+- lyrics done: 6500
+- lyrics done: 6600
+- lyrics done: 6700
+- lyrics done: 6800
+- lyrics done: 6900
+- lyrics done: 7000
+- lyrics done: 7100
+- lyrics done: 7200
+- lyrics done: 7300
+- lyrics done: 7400
+- lyrics done: 7500
+- lyrics done: 7600
+- lyrics done: 7700
+- lyrics done: 7800
+- lyrics done: 7900
+- lyrics done: 8000
+- lyrics done: 8100
+- lyrics done: 8200
+- lyrics done: 8300
+- lyrics done: 8400
+- lyrics done: 8500
+- lyrics done: 8600
+- lyrics done: 8700
+- lyrics done: 8800
+- lyrics done: 8900
+- lyrics done: 9000
+- lyrics done: 9100
+- lyrics done: 9200
+- lyrics done: 9300
+- lyrics done: 9400
+- lyrics done: 9500
+- lyrics done: 9600
+- lyrics done: 9700
+done iteration 10 (stopwatch: 18090.7550199)
+- lyrics done: 100
+- lyrics done: 200
+- lyrics done: 300
+- lyrics done: 400
+- lyrics done: 500
+- lyrics done: 600
+- lyrics done: 700
+- lyrics done: 800
+- lyrics done: 900
+- lyrics done: 1000
+- lyrics done: 1100
+- lyrics done: 1200
+- lyrics done: 1300
+- lyrics done: 1400
+- lyrics done: 1500
+- lyrics done: 1600
+- lyrics done: 1700
+- lyrics done: 1800
+- lyrics done: 1900
+- lyrics done: 2000
+- lyrics done: 2100
+- lyrics done: 2200
+- lyrics done: 2300
+- lyrics done: 2400
+- lyrics done: 2500
+- lyrics done: 2600
+- lyrics done: 2700
+- lyrics done: 2800
+- lyrics done: 2900
+- lyrics done: 3000
+- lyrics done: 3100
+- lyrics done: 3200
+- lyrics done: 3300
+- lyrics done: 3400
+- lyrics done: 3500
+- lyrics done: 3600
+- lyrics done: 3700
+- lyrics done: 3800
+- lyrics done: 3900
+- lyrics done: 4000
+- lyrics done: 4100
+- lyrics done: 4200
+- lyrics done: 4300
+- lyrics done: 4400
+- lyrics done: 4500
+- lyrics done: 4600
+- lyrics done: 4700
+- lyrics done: 4800
+- lyrics done: 4900
+- lyrics done: 5000
+- lyrics done: 5100
+- lyrics done: 5200
+- lyrics done: 5300
+- lyrics done: 5400
+- lyrics done: 5500
+- lyrics done: 5600
+- lyrics done: 5700
+- lyrics done: 5800
+- lyrics done: 5900
+- lyrics done: 6000
+- lyrics done: 6100
+- lyrics done: 6200
+- lyrics done: 6300
+- lyrics done: 6400
+- lyrics done: 6500
+- lyrics done: 6600
+- lyrics done: 6700
+- lyrics done: 6800
+- lyrics done: 6900
+- lyrics done: 7000
+- lyrics done: 7100
+- lyrics done: 7200
+- lyrics done: 7300
+- lyrics done: 7400
+- lyrics done: 7500
+- lyrics done: 7600
+- lyrics done: 7700
+- lyrics done: 7800
+- lyrics done: 7900
+- lyrics done: 8000
+- lyrics done: 8100
+- lyrics done: 8200
+- lyrics done: 8300
+- lyrics done: 8400
+- lyrics done: 8500
+- lyrics done: 8600
+- lyrics done: 8700
+- lyrics done: 8800
+- lyrics done: 8900
+- lyrics done: 9000
+- lyrics done: 9100
+- lyrics done: 9200
+- lyrics done: 9300
+- lyrics done: 9400
+- lyrics done: 9500
+- lyrics done: 9600
+- lyrics done: 9700
+done iteration 11 (stopwatch: 18813.5149519)
+- lyrics done: 100
+- lyrics done: 200
+- lyrics done: 300
+- lyrics done: 400
+- lyrics done: 500
+- lyrics done: 600
+- lyrics done: 700
+- lyrics done: 800
+- lyrics done: 900
+- lyrics done: 1000
+- lyrics done: 1100
+- lyrics done: 1200
+- lyrics done: 1300
+- lyrics done: 1400
+- lyrics done: 1500
+- lyrics done: 1600
+- lyrics done: 1700
+- lyrics done: 1800
+- lyrics done: 1900
+- lyrics done: 2000
+- lyrics done: 2100
+- lyrics done: 2200
+- lyrics done: 2300
+- lyrics done: 2400
+- lyrics done: 2500
+- lyrics done: 2600
+- lyrics done: 2700
+- lyrics done: 2800
+- lyrics done: 2900
+- lyrics done: 3000
+- lyrics done: 3100
+- lyrics done: 3200
+- lyrics done: 3300
+- lyrics done: 3400
+- lyrics done: 3500
+- lyrics done: 3600
+- lyrics done: 3700
+- lyrics done: 3800
+- lyrics done: 3900
+- lyrics done: 4000
+- lyrics done: 4100
+- lyrics done: 4200
+- lyrics done: 4300
+- lyrics done: 4400
+- lyrics done: 4500
+- lyrics done: 4600
+- lyrics done: 4700
+- lyrics done: 4800
+- lyrics done: 4900
+- lyrics done: 5000
+- lyrics done: 5100
+- lyrics done: 5200
+- lyrics done: 5300
+- lyrics done: 5400
+- lyrics done: 5500
+- lyrics done: 5600
+- lyrics done: 5700
+- lyrics done: 5800
+- lyrics done: 5900
+- lyrics done: 6000
+- lyrics done: 6100
+- lyrics done: 6200
+- lyrics done: 6300
+- lyrics done: 6400
+- lyrics done: 6500
+- lyrics done: 6600
+- lyrics done: 6700
+- lyrics done: 6800
+- lyrics done: 6900
+- lyrics done: 7000
+- lyrics done: 7100
+- lyrics done: 7200
+- lyrics done: 7300
+- lyrics done: 7400
+- lyrics done: 7500
+- lyrics done: 7600
+- lyrics done: 7700
+- lyrics done: 7800
+- lyrics done: 7900
+- lyrics done: 8000
+- lyrics done: 8100
+- lyrics done: 8200
+- lyrics done: 8300
+- lyrics done: 8400
+- lyrics done: 8500
+- lyrics done: 8600
+- lyrics done: 8700
+- lyrics done: 8800
+- lyrics done: 8900
+- lyrics done: 9000
+- lyrics done: 9100
+- lyrics done: 9200
+- lyrics done: 9300
+- lyrics done: 9400
+- lyrics done: 9500
+- lyrics done: 9600
+- lyrics done: 9700
+done iteration 12 (stopwatch: 19566.9340189)
+- lyrics done: 100
+- lyrics done: 200
+- lyrics done: 300
+- lyrics done: 400
+- lyrics done: 500
+- lyrics done: 600
+- lyrics done: 700
+- lyrics done: 800
+- lyrics done: 900
+- lyrics done: 1000
+- lyrics done: 1100
+- lyrics done: 1200
+- lyrics done: 1300
+- lyrics done: 1400
+- lyrics done: 1500
+- lyrics done: 1600
+- lyrics done: 1700
+- lyrics done: 1800
+- lyrics done: 1900
+- lyrics done: 2000
+- lyrics done: 2100
+- lyrics done: 2200
+- lyrics done: 2300
+- lyrics done: 2400
+- lyrics done: 2500
+- lyrics done: 2600
+- lyrics done: 2700
+- lyrics done: 2800
+- lyrics done: 2900
+- lyrics done: 3000
+- lyrics done: 3100
+- lyrics done: 3200
+- lyrics done: 3300
+- lyrics done: 3400
+- lyrics done: 3500
+- lyrics done: 3600
+- lyrics done: 3700
+- lyrics done: 3800
+- lyrics done: 3900
+- lyrics done: 4000
+- lyrics done: 4100
+- lyrics done: 4200
+- lyrics done: 4300
+- lyrics done: 4400
+- lyrics done: 4500
+- lyrics done: 4600
+- lyrics done: 4700
+- lyrics done: 4800
+- lyrics done: 4900
+- lyrics done: 5000
+- lyrics done: 5100
+- lyrics done: 5200
+- lyrics done: 5300
+- lyrics done: 5400
+- lyrics done: 5500
+- lyrics done: 5600
+- lyrics done: 5700
+- lyrics done: 5800
+- lyrics done: 5900
+- lyrics done: 6000
+- lyrics done: 6100
+- lyrics done: 6200
+- lyrics done: 6300
+- lyrics done: 6400
+- lyrics done: 6500
+- lyrics done: 6600
+- lyrics done: 6700
+- lyrics done: 6800
+- lyrics done: 6900
+- lyrics done: 7000
+- lyrics done: 7100
+- lyrics done: 7200
+- lyrics done: 7300
+- lyrics done: 7400
+- lyrics done: 7500
+- lyrics done: 7600
+- lyrics done: 7700
+- lyrics done: 7800
+- lyrics done: 7900
+- lyrics done: 8000
+- lyrics done: 8100
+- lyrics done: 8200
+- lyrics done: 8300
+- lyrics done: 8400
+- lyrics done: 8500
+- lyrics done: 8600
+- lyrics done: 8700
+- lyrics done: 8800
+- lyrics done: 8900
+- lyrics done: 9000
+- lyrics done: 9100
+- lyrics done: 9200
+- lyrics done: 9300
+- lyrics done: 9400
+- lyrics done: 9500
+- lyrics done: 9600
+- lyrics done: 9700
+done iteration 13 (stopwatch: 20317.56286)
+- lyrics done: 100
+- lyrics done: 200
+- lyrics done: 300
+- lyrics done: 400
+- lyrics done: 500
+- lyrics done: 600
+- lyrics done: 700
+- lyrics done: 800
+- lyrics done: 900
+- lyrics done: 1000
+- lyrics done: 1100
+- lyrics done: 1200
+- lyrics done: 1300
+- lyrics done: 1400
+- lyrics done: 1500
+- lyrics done: 1600
+- lyrics done: 1700
+- lyrics done: 1800
+- lyrics done: 1900
+- lyrics done: 2000
+- lyrics done: 2100
+- lyrics done: 2200
+- lyrics done: 2300
+- lyrics done: 2400
+- lyrics done: 2500
+- lyrics done: 2600
+- lyrics done: 2700
+- lyrics done: 2800
+- lyrics done: 2900
+- lyrics done: 3000
+- lyrics done: 3100
+- lyrics done: 3200
+- lyrics done: 3300
+- lyrics done: 3400
+- lyrics done: 3500
+- lyrics done: 3600
+- lyrics done: 3700
+- lyrics done: 3800
+- lyrics done: 3900
+- lyrics done: 4000
+- lyrics done: 4100
+- lyrics done: 4200
+- lyrics done: 4300
+- lyrics done: 4400
+- lyrics done: 4500
+- lyrics done: 4600
+- lyrics done: 4700
+- lyrics done: 4800
+- lyrics done: 4900
+- lyrics done: 5000
+- lyrics done: 5100
+- lyrics done: 5200
+- lyrics done: 5300
+- lyrics done: 5400
+- lyrics done: 5500
+- lyrics done: 5600
+- lyrics done: 5700
+- lyrics done: 5800
+- lyrics done: 5900
+- lyrics done: 6000
+- lyrics done: 6100
+- lyrics done: 6200
+- lyrics done: 6300
+- lyrics done: 6400
+- lyrics done: 6500
+- lyrics done: 6600
+- lyrics done: 6700
+- lyrics done: 6800
+- lyrics done: 6900
+- lyrics done: 7000
+- lyrics done: 7100
+- lyrics done: 7200
+- lyrics done: 7300
+- lyrics done: 7400
+- lyrics done: 7500
+- lyrics done: 7600
+- lyrics done: 7700
+- lyrics done: 7800
+- lyrics done: 7900
+- lyrics done: 8000
+- lyrics done: 8100
+- lyrics done: 8200
+- lyrics done: 8300
+- lyrics done: 8400
+- lyrics done: 8500
+- lyrics done: 8600
+- lyrics done: 8700
+- lyrics done: 8800
+- lyrics done: 8900
+- lyrics done: 9000
+- lyrics done: 9100
+- lyrics done: 9200
+- lyrics done: 9300
+- lyrics done: 9400
+- lyrics done: 9500
+- lyrics done: 9600
+- lyrics done: 9700
+done iteration 14 (stopwatch: 21046.6511979)
+- lyrics done: 100
+- lyrics done: 200
+- lyrics done: 300
+- lyrics done: 400
+- lyrics done: 500
+- lyrics done: 600
+- lyrics done: 700
+- lyrics done: 800
+- lyrics done: 900
+- lyrics done: 1000
+- lyrics done: 1100
+- lyrics done: 1200
+- lyrics done: 1300
+- lyrics done: 1400
+- lyrics done: 1500
+- lyrics done: 1600
+- lyrics done: 1700
+- lyrics done: 1800
+- lyrics done: 1900
+- lyrics done: 2000
+- lyrics done: 2100
+- lyrics done: 2200
+- lyrics done: 2300
+- lyrics done: 2400
+- lyrics done: 2500
+- lyrics done: 2600
+- lyrics done: 2700
+- lyrics done: 2800
+- lyrics done: 2900
+- lyrics done: 3000
+- lyrics done: 3100
+- lyrics done: 3200
+- lyrics done: 3300
+- lyrics done: 3400
+- lyrics done: 3500
+- lyrics done: 3600
+- lyrics done: 3700
+- lyrics done: 3800
+- lyrics done: 3900
+- lyrics done: 4000
+- lyrics done: 4100
+- lyrics done: 4200
+- lyrics done: 4300
+- lyrics done: 4400
+- lyrics done: 4500
+- lyrics done: 4600
+- lyrics done: 4700
+- lyrics done: 4800
+- lyrics done: 4900
+- lyrics done: 5000
+- lyrics done: 5100
+- lyrics done: 5200
+- lyrics done: 5300
+- lyrics done: 5400
+- lyrics done: 5500
+- lyrics done: 5600
+- lyrics done: 5700
+- lyrics done: 5800
+- lyrics done: 5900
+- lyrics done: 6000
+- lyrics done: 6100
+- lyrics done: 6200
+- lyrics done: 6300
+- lyrics done: 6400
+- lyrics done: 6500
+- lyrics done: 6600
+- lyrics done: 6700
+- lyrics done: 6800
+- lyrics done: 6900
+- lyrics done: 7000
+- lyrics done: 7100
+- lyrics done: 7200
+- lyrics done: 7300
+- lyrics done: 7400
+- lyrics done: 7500
+- lyrics done: 7600
+- lyrics done: 7700
+- lyrics done: 7800
+- lyrics done: 7900
+- lyrics done: 8000
+- lyrics done: 8100
+- lyrics done: 8200
+- lyrics done: 8300
+- lyrics done: 8400
+- lyrics done: 8500
+- lyrics done: 8600
+- lyrics done: 8700
+- lyrics done: 8800
+- lyrics done: 8900
+- lyrics done: 9000
+- lyrics done: 9100
+- lyrics done: 9200
+- lyrics done: 9300
+- lyrics done: 9400
+- lyrics done: 9500
+- lyrics done: 9600
+- lyrics done: 9700
+done iteration 15 (stopwatch: 21860.6404688)
+- lyrics done: 100
+- lyrics done: 200
+- lyrics done: 300
+- lyrics done: 400
+- lyrics done: 500
+- lyrics done: 600
+- lyrics done: 700
+- lyrics done: 800
+- lyrics done: 900
+- lyrics done: 1000
+- lyrics done: 1100
+- lyrics done: 1200
+- lyrics done: 1300
+- lyrics done: 1400
+- lyrics done: 1500
+- lyrics done: 1600
+- lyrics done: 1700
+- lyrics done: 1800
+- lyrics done: 1900
+- lyrics done: 2000
+- lyrics done: 2100
+- lyrics done: 2200
+- lyrics done: 2300
+- lyrics done: 2400
+- lyrics done: 2500
+- lyrics done: 2600
+- lyrics done: 2700
+- lyrics done: 2800
+- lyrics done: 2900
+- lyrics done: 3000
+- lyrics done: 3100
+- lyrics done: 3200
+- lyrics done: 3300
+- lyrics done: 3400
+- lyrics done: 3500
+- lyrics done: 3600
+- lyrics done: 3700
+- lyrics done: 3800
+- lyrics done: 3900
+- lyrics done: 4000
+- lyrics done: 4100
+- lyrics done: 4200
+- lyrics done: 4300
+- lyrics done: 4400
+- lyrics done: 4500
+- lyrics done: 4600
+- lyrics done: 4700
+- lyrics done: 4800
+- lyrics done: 4900
+- lyrics done: 5000
+- lyrics done: 5100
+- lyrics done: 5200
+- lyrics done: 5300
+- lyrics done: 5400
+- lyrics done: 5500
+- lyrics done: 5600
+- lyrics done: 5700
+- lyrics done: 5800
+- lyrics done: 5900
+- lyrics done: 6000
+- lyrics done: 6100
+- lyrics done: 6200
+- lyrics done: 6300
+- lyrics done: 6400
+- lyrics done: 6500
+- lyrics done: 6600
+- lyrics done: 6700
+- lyrics done: 6800
+- lyrics done: 6900
+- lyrics done: 7000
+- lyrics done: 7100
+- lyrics done: 7200
+- lyrics done: 7300
+- lyrics done: 7400
+- lyrics done: 7500
+- lyrics done: 7600
+- lyrics done: 7700
+- lyrics done: 7800
+- lyrics done: 7900
+- lyrics done: 8000
+- lyrics done: 8100
+- lyrics done: 8200
+- lyrics done: 8300
+- lyrics done: 8400
+- lyrics done: 8500
+- lyrics done: 8600
+- lyrics done: 8700
+- lyrics done: 8800
+- lyrics done: 8900
+- lyrics done: 9000
+- lyrics done: 9100
+- lyrics done: 9200
+- lyrics done: 9300
+- lyrics done: 9400
+- lyrics done: 9500
+- lyrics done: 9600
+- lyrics done: 9700
+done iteration 16 (stopwatch: 22672.4026189)
+- lyrics done: 100
+- lyrics done: 200
+- lyrics done: 300
+- lyrics done: 400
+- lyrics done: 500
+- lyrics done: 600
+- lyrics done: 700
+- lyrics done: 800
+- lyrics done: 900
+- lyrics done: 1000
+- lyrics done: 1100
+- lyrics done: 1200
+- lyrics done: 1300
+- lyrics done: 1400
+- lyrics done: 1500
+- lyrics done: 1600
+- lyrics done: 1700
+- lyrics done: 1800
+- lyrics done: 1900
+- lyrics done: 2000
+- lyrics done: 2100
+- lyrics done: 2200
+- lyrics done: 2300
+- lyrics done: 2400
+- lyrics done: 2500
+- lyrics done: 2600
+- lyrics done: 2700
+- lyrics done: 2800
+- lyrics done: 2900
+- lyrics done: 3000
+- lyrics done: 3100
+- lyrics done: 3200
+- lyrics done: 3300
+- lyrics done: 3400
+- lyrics done: 3500
+- lyrics done: 3600
+- lyrics done: 3700
+- lyrics done: 3800
+- lyrics done: 3900
+- lyrics done: 4000
+- lyrics done: 4100
+- lyrics done: 4200
+- lyrics done: 4300
+- lyrics done: 4400
+- lyrics done: 4500
+- lyrics done: 4600
+- lyrics done: 4700
+- lyrics done: 4800
+- lyrics done: 4900
+- lyrics done: 5000
+- lyrics done: 5100
+- lyrics done: 5200
+- lyrics done: 5300
+- lyrics done: 5400
+- lyrics done: 5500
+- lyrics done: 5600
+- lyrics done: 5700
+- lyrics done: 5800
+- lyrics done: 5900
+- lyrics done: 6000
+- lyrics done: 6100
+- lyrics done: 6200
+- lyrics done: 6300
+- lyrics done: 6400
+- lyrics done: 6500
+- lyrics done: 6600
+- lyrics done: 6700
+- lyrics done: 6800
+- lyrics done: 6900
+- lyrics done: 7000
+- lyrics done: 7100
+- lyrics done: 7200
+- lyrics done: 7300
+- lyrics done: 7400
+- lyrics done: 7500
+- lyrics done: 7600
+- lyrics done: 7700
+- lyrics done: 7800
+- lyrics done: 7900
+- lyrics done: 8000
+- lyrics done: 8100
+- lyrics done: 8200
+- lyrics done: 8300
+- lyrics done: 8400
+- lyrics done: 8500
+- lyrics done: 8600
+- lyrics done: 8700
+- lyrics done: 8800
+- lyrics done: 8900
+- lyrics done: 9000
+- lyrics done: 9100
+- lyrics done: 9200
+- lyrics done: 9300
+- lyrics done: 9400
+- lyrics done: 9500
+- lyrics done: 9600
+- lyrics done: 9700
+done iteration 17 (stopwatch: 23522.5201368)
+- lyrics done: 100
+- lyrics done: 200
+- lyrics done: 300
+- lyrics done: 400
+- lyrics done: 500
+- lyrics done: 600
+- lyrics done: 700
+- lyrics done: 800
+- lyrics done: 900
+- lyrics done: 1000
+- lyrics done: 1100
+- lyrics done: 1200
+- lyrics done: 1300
+- lyrics done: 1400
+- lyrics done: 1500
+- lyrics done: 1600
+- lyrics done: 1700
+- lyrics done: 1800
+- lyrics done: 1900
+- lyrics done: 2000
+- lyrics done: 2100
+- lyrics done: 2200
+- lyrics done: 2300
+- lyrics done: 2400
+- lyrics done: 2500
+- lyrics done: 2600
+- lyrics done: 2700
+- lyrics done: 2800
+- lyrics done: 2900
+- lyrics done: 3000
+- lyrics done: 3100
+- lyrics done: 3200
+- lyrics done: 3300
+- lyrics done: 3400
+- lyrics done: 3500
+- lyrics done: 3600
+- lyrics done: 3700
+- lyrics done: 3800
+- lyrics done: 3900
+- lyrics done: 4000
+- lyrics done: 4100
+- lyrics done: 4200
+- lyrics done: 4300
+- lyrics done: 4400
+- lyrics done: 4500
+- lyrics done: 4600
+- lyrics done: 4700
+- lyrics done: 4800
+- lyrics done: 4900
+- lyrics done: 5000
+- lyrics done: 5100
+- lyrics done: 5200
+- lyrics done: 5300
+- lyrics done: 5400
+- lyrics done: 5500
+- lyrics done: 5600
+- lyrics done: 5700
+- lyrics done: 5800
+- lyrics done: 5900
+- lyrics done: 6000
+- lyrics done: 6100
+- lyrics done: 6200
+- lyrics done: 6300
+- lyrics done: 6400
+- lyrics done: 6500
+- lyrics done: 6600
+- lyrics done: 6700
+- lyrics done: 6800
+- lyrics done: 6900
+- lyrics done: 7000
+- lyrics done: 7100
+- lyrics done: 7200
+- lyrics done: 7300
+- lyrics done: 7400
+- lyrics done: 7500
+- lyrics done: 7600
+- lyrics done: 7700
+- lyrics done: 7800
+- lyrics done: 7900
+- lyrics done: 8000
+- lyrics done: 8100
+- lyrics done: 8200
+- lyrics done: 8300
+- lyrics done: 8400
+- lyrics done: 8500
+- lyrics done: 8600
+- lyrics done: 8700
+- lyrics done: 8800
+- lyrics done: 8900
+- lyrics done: 9000
+- lyrics done: 9100
+- lyrics done: 9200
+- lyrics done: 9300
+- lyrics done: 9400
+- lyrics done: 9500
+- lyrics done: 9600
+- lyrics done: 9700
+done iteration 18 (stopwatch: 24397.0710759)
+- lyrics done: 100
+- lyrics done: 200
+- lyrics done: 300
+- lyrics done: 400
+- lyrics done: 500
+- lyrics done: 600
+- lyrics done: 700
+- lyrics done: 800
+- lyrics done: 900
+- lyrics done: 1000
+- lyrics done: 1100
+- lyrics done: 1200
+- lyrics done: 1300
+- lyrics done: 1400
+- lyrics done: 1500
+- lyrics done: 1600
+- lyrics done: 1700
+- lyrics done: 1800
+- lyrics done: 1900
+- lyrics done: 2000
+- lyrics done: 2100
+- lyrics done: 2200
+- lyrics done: 2300
+- lyrics done: 2400
+- lyrics done: 2500
+- lyrics done: 2600
+- lyrics done: 2700
+- lyrics done: 2800
+- lyrics done: 2900
+- lyrics done: 3000
+- lyrics done: 3100
+- lyrics done: 3200
+- lyrics done: 3300
+- lyrics done: 3400
+- lyrics done: 3500
+- lyrics done: 3600
+- lyrics done: 3700
+- lyrics done: 3800
+- lyrics done: 3900
+- lyrics done: 4000
+- lyrics done: 4100
+- lyrics done: 4200
+- lyrics done: 4300
+- lyrics done: 4400
+- lyrics done: 4500
+- lyrics done: 4600
+- lyrics done: 4700
+- lyrics done: 4800
+- lyrics done: 4900
+- lyrics done: 5000
+- lyrics done: 5100
+- lyrics done: 5200
+- lyrics done: 5300
+- lyrics done: 5400
+- lyrics done: 5500
+- lyrics done: 5600
+- lyrics done: 5700
+- lyrics done: 5800
+- lyrics done: 5900
+- lyrics done: 6000
+- lyrics done: 6100
+- lyrics done: 6200
+- lyrics done: 6300
+- lyrics done: 6400
+- lyrics done: 6500
+- lyrics done: 6600
+- lyrics done: 6700
+- lyrics done: 6800
+- lyrics done: 6900
+- lyrics done: 7000
+- lyrics done: 7100
+- lyrics done: 7200
+- lyrics done: 7300
+- lyrics done: 7400
+- lyrics done: 7500
+- lyrics done: 7600
+- lyrics done: 7700
+- lyrics done: 7800
+- lyrics done: 7900
+- lyrics done: 8000
+- lyrics done: 8100
+- lyrics done: 8200
+- lyrics done: 8300
+- lyrics done: 8400
+- lyrics done: 8500
+- lyrics done: 8600
+- lyrics done: 8700
+- lyrics done: 8800
+- lyrics done: 8900
+- lyrics done: 9000
+- lyrics done: 9100
+- lyrics done: 9200
+- lyrics done: 9300
+- lyrics done: 9400
+- lyrics done: 9500
+- lyrics done: 9600
+- lyrics done: 9700
+done iteration 19 (stopwatch: 25463.0597429)
+- lyrics done: 100
+- lyrics done: 200
+- lyrics done: 300
+- lyrics done: 400
+- lyrics done: 500
+- lyrics done: 600
+- lyrics done: 700
+- lyrics done: 800
+- lyrics done: 900
+- lyrics done: 1000
+- lyrics done: 1100
+- lyrics done: 1200
+- lyrics done: 1300
+- lyrics done: 1400
+- lyrics done: 1500
+- lyrics done: 1600
+- lyrics done: 1700
+- lyrics done: 1800
+- lyrics done: 1900
+- lyrics done: 2000
+- lyrics done: 2100
+- lyrics done: 2200
+- lyrics done: 2300
+- lyrics done: 2400
+- lyrics done: 2500
+- lyrics done: 2600
+- lyrics done: 2700
+- lyrics done: 2800
+- lyrics done: 2900
+- lyrics done: 3000
+- lyrics done: 3100
+- lyrics done: 3200
+- lyrics done: 3300
+- lyrics done: 3400
+- lyrics done: 3500
+- lyrics done: 3600
+- lyrics done: 3700
+- lyrics done: 3800
+- lyrics done: 3900
+- lyrics done: 4000
+- lyrics done: 4100
+- lyrics done: 4200
+- lyrics done: 4300
+- lyrics done: 4400
+- lyrics done: 4500
+- lyrics done: 4600
+- lyrics done: 4700
+- lyrics done: 4800
+- lyrics done: 4900
+- lyrics done: 5000
+- lyrics done: 5100
+- lyrics done: 5200
+- lyrics done: 5300
+- lyrics done: 5400
+- lyrics done: 5500
+- lyrics done: 5600
+- lyrics done: 5700
+- lyrics done: 5800
+- lyrics done: 5900
+- lyrics done: 6000
+- lyrics done: 6100
+- lyrics done: 6200
+- lyrics done: 6300
+- lyrics done: 6400
+- lyrics done: 6500
+- lyrics done: 6600
+- lyrics done: 6700
+- lyrics done: 6800
+- lyrics done: 6900
+- lyrics done: 7000
+- lyrics done: 7100
+- lyrics done: 7200
+- lyrics done: 7300
+- lyrics done: 7400
+- lyrics done: 7500
+- lyrics done: 7600
+- lyrics done: 7700
+- lyrics done: 7800
+- lyrics done: 7900
+- lyrics done: 8000
+- lyrics done: 8100
+- lyrics done: 8200
+- lyrics done: 8300
+- lyrics done: 8400
+- lyrics done: 8500
+- lyrics done: 8600
+- lyrics done: 8700
+- lyrics done: 8800
+- lyrics done: 8900
+- lyrics done: 9000
+- lyrics done: 9100
+- lyrics done: 9200
+- lyrics done: 9300
+- lyrics done: 9400
+- lyrics done: 9500
+- lyrics done: 9600
+- lyrics done: 9700
+done iteration 20 (stopwatch: 26164.0701978)
+- lyrics done: 100
+- lyrics done: 200
+- lyrics done: 300
+- lyrics done: 400
+- lyrics done: 500
+- lyrics done: 600
+- lyrics done: 700
+- lyrics done: 800
+- lyrics done: 900
+- lyrics done: 1000
+- lyrics done: 1100
+- lyrics done: 1200
+- lyrics done: 1300
+- lyrics done: 1400
+- lyrics done: 1500
+- lyrics done: 1600
+- lyrics done: 1700
+- lyrics done: 1800
+- lyrics done: 1900
+- lyrics done: 2000
+- lyrics done: 2100
+- lyrics done: 2200
+- lyrics done: 2300
+- lyrics done: 2400
+- lyrics done: 2500
+- lyrics done: 2600
+- lyrics done: 2700
+- lyrics done: 2800
+- lyrics done: 2900
+- lyrics done: 3000
+- lyrics done: 3100
+- lyrics done: 3200
+- lyrics done: 3300
+- lyrics done: 3400
+- lyrics done: 3500
+- lyrics done: 3600
+- lyrics done: 3700
+- lyrics done: 3800
+- lyrics done: 3900
+- lyrics done: 4000
+- lyrics done: 4100
+- lyrics done: 4200
+- lyrics done: 4300
+- lyrics done: 4400
+- lyrics done: 4500
+- lyrics done: 4600
+- lyrics done: 4700
+- lyrics done: 4800
+- lyrics done: 4900
+- lyrics done: 5000
+- lyrics done: 5100
+- lyrics done: 5200
+- lyrics done: 5300
+- lyrics done: 5400
+- lyrics done: 5500
+- lyrics done: 5600
+- lyrics done: 5700
+- lyrics done: 5800
+- lyrics done: 5900
+- lyrics done: 6000
+- lyrics done: 6100
+- lyrics done: 6200
+- lyrics done: 6300
+- lyrics done: 6400
+- lyrics done: 6500
+- lyrics done: 6600
+- lyrics done: 6700
+- lyrics done: 6800
+- lyrics done: 6900
+- lyrics done: 7000
+- lyrics done: 7100
+- lyrics done: 7200
+- lyrics done: 7300
+- lyrics done: 7400
+- lyrics done: 7500
+- lyrics done: 7600
+- lyrics done: 7700
+- lyrics done: 7800
+- lyrics done: 7900
+- lyrics done: 8000
+- lyrics done: 8100
+- lyrics done: 8200
+- lyrics done: 8300
+- lyrics done: 8400
+- lyrics done: 8500
+- lyrics done: 8600
+- lyrics done: 8700
+- lyrics done: 8800
+- lyrics done: 8900
+- lyrics done: 9000
+- lyrics done: 9100
+- lyrics done: 9200
+- lyrics done: 9300
+- lyrics done: 9400
+- lyrics done: 9500
+- lyrics done: 9600
+- lyrics done: 9700
+done iteration 21 (stopwatch: 27132.044579)
+- lyrics done: 100
+- lyrics done: 200
+- lyrics done: 300
+- lyrics done: 400
+- lyrics done: 500
+- lyrics done: 600
+- lyrics done: 700
+- lyrics done: 800
+- lyrics done: 900
+- lyrics done: 1000
+- lyrics done: 1100
+- lyrics done: 1200
+- lyrics done: 1300
+- lyrics done: 1400
+- lyrics done: 1500
+- lyrics done: 1600
+- lyrics done: 1700
+- lyrics done: 1800
+- lyrics done: 1900
+- lyrics done: 2000
+- lyrics done: 2100
+- lyrics done: 2200
+- lyrics done: 2300
+- lyrics done: 2400
+- lyrics done: 2500
+- lyrics done: 2600
+- lyrics done: 2700
+- lyrics done: 2800
+- lyrics done: 2900
+- lyrics done: 3000
+- lyrics done: 3100
+- lyrics done: 3200
+- lyrics done: 3300
+- lyrics done: 3400
+- lyrics done: 3500
+- lyrics done: 3600
+- lyrics done: 3700
+- lyrics done: 3800
+- lyrics done: 3900
+- lyrics done: 4000
+- lyrics done: 4100
+- lyrics done: 4200
+- lyrics done: 4300
+- lyrics done: 4400
+- lyrics done: 4500
+- lyrics done: 4600
+- lyrics done: 4700
+- lyrics done: 4800
+- lyrics done: 4900
+- lyrics done: 5000
+- lyrics done: 5100
+- lyrics done: 5200
+- lyrics done: 5300
+- lyrics done: 5400
+- lyrics done: 5500
+- lyrics done: 5600
+- lyrics done: 5700
+- lyrics done: 5800
+- lyrics done: 5900
+- lyrics done: 6000
+- lyrics done: 6100
+- lyrics done: 6200
+- lyrics done: 6300
+- lyrics done: 6400
+- lyrics done: 6500
+- lyrics done: 6600
+- lyrics done: 6700
+- lyrics done: 6800
+- lyrics done: 6900
+- lyrics done: 7000
+- lyrics done: 7100
+- lyrics done: 7200
+- lyrics done: 7300
+- lyrics done: 7400
+- lyrics done: 7500
+- lyrics done: 7600
+- lyrics done: 7700
+- lyrics done: 7800
+- lyrics done: 7900
+- lyrics done: 8000
+- lyrics done: 8100
+- lyrics done: 8200
+- lyrics done: 8300
+- lyrics done: 8400
+- lyrics done: 8500
+- lyrics done: 8600
+- lyrics done: 8700
+- lyrics done: 8800
+- lyrics done: 8900
+- lyrics done: 9000
+- lyrics done: 9100
+- lyrics done: 9200
+- lyrics done: 9300
+- lyrics done: 9400
+- lyrics done: 9500
+- lyrics done: 9600
+- lyrics done: 9700
+done iteration 22 (stopwatch: 28233.9588828)
+- lyrics done: 100
+- lyrics done: 200
+- lyrics done: 300
+- lyrics done: 400
+- lyrics done: 500
+- lyrics done: 600
+- lyrics done: 700
+- lyrics done: 800
+- lyrics done: 900
+- lyrics done: 1000
+- lyrics done: 1100
+- lyrics done: 1200
+- lyrics done: 1300
+- lyrics done: 1400
+- lyrics done: 1500
+- lyrics done: 1600
+- lyrics done: 1700
+- lyrics done: 1800
+- lyrics done: 1900
+- lyrics done: 2000
+- lyrics done: 2100
+- lyrics done: 2200
+- lyrics done: 2300
+- lyrics done: 2400
+- lyrics done: 2500
+- lyrics done: 2600
+- lyrics done: 2700
+- lyrics done: 2800
+- lyrics done: 2900
+- lyrics done: 3000
+- lyrics done: 3100
+- lyrics done: 3200
+- lyrics done: 3300
+- lyrics done: 3400
+- lyrics done: 3500
+- lyrics done: 3600
+- lyrics done: 3700
+- lyrics done: 3800
+- lyrics done: 3900
+- lyrics done: 4000
+- lyrics done: 4100
+- lyrics done: 4200
+- lyrics done: 4300
+- lyrics done: 4400
+- lyrics done: 4500
+- lyrics done: 4600
+- lyrics done: 4700
+- lyrics done: 4800
+- lyrics done: 4900
+- lyrics done: 5000
+- lyrics done: 5100
+- lyrics done: 5200
+- lyrics done: 5300
+- lyrics done: 5400
+- lyrics done: 5500
+- lyrics done: 5600
+- lyrics done: 5700
+- lyrics done: 5800
+- lyrics done: 5900
+- lyrics done: 6000
+- lyrics done: 6100
+- lyrics done: 6200
+- lyrics done: 6300
+- lyrics done: 6400
+- lyrics done: 6500
+- lyrics done: 6600
+- lyrics done: 6700
+- lyrics done: 6800
+- lyrics done: 6900
+- lyrics done: 7000
+- lyrics done: 7100
+- lyrics done: 7200
+- lyrics done: 7300
+- lyrics done: 7400
+- lyrics done: 7500
+- lyrics done: 7600
+- lyrics done: 7700
+- lyrics done: 7800
+- lyrics done: 7900
+- lyrics done: 8000
+- lyrics done: 8100
+- lyrics done: 8200
+- lyrics done: 8300
+- lyrics done: 8400
+- lyrics done: 8500
+- lyrics done: 8600
+- lyrics done: 8700
+- lyrics done: 8800
+- lyrics done: 8900
+- lyrics done: 9000
+- lyrics done: 9100
+- lyrics done: 9200
+- lyrics done: 9300
+- lyrics done: 9400
+- lyrics done: 9500
+- lyrics done: 9600
+- lyrics done: 9700
+done iteration 23 (stopwatch: 29279.253336)
+- lyrics done: 100
+- lyrics done: 200
+- lyrics done: 300
+- lyrics done: 400
+- lyrics done: 500
+- lyrics done: 600
+- lyrics done: 700
+- lyrics done: 800
+- lyrics done: 900
+- lyrics done: 1000
+- lyrics done: 1100
+- lyrics done: 1200
+- lyrics done: 1300
+- lyrics done: 1400
+- lyrics done: 1500
+- lyrics done: 1600
+- lyrics done: 1700
+- lyrics done: 1800
+- lyrics done: 1900
+- lyrics done: 2000
+- lyrics done: 2100
+- lyrics done: 2200
+- lyrics done: 2300
+- lyrics done: 2400
+- lyrics done: 2500
+- lyrics done: 2600
+- lyrics done: 2700
+- lyrics done: 2800
+- lyrics done: 2900
+- lyrics done: 3000
+- lyrics done: 3100
+- lyrics done: 3200
+- lyrics done: 3300
+- lyrics done: 3400
+- lyrics done: 3500
+- lyrics done: 3600
+- lyrics done: 3700
+- lyrics done: 3800
+- lyrics done: 3900
+- lyrics done: 4000
+- lyrics done: 4100
+- lyrics done: 4200
+- lyrics done: 4300
+- lyrics done: 4400
+- lyrics done: 4500
+- lyrics done: 4600
+- lyrics done: 4700
+- lyrics done: 4800
+- lyrics done: 4900
+- lyrics done: 5000
+- lyrics done: 5100
+- lyrics done: 5200
+- lyrics done: 5300
+- lyrics done: 5400
+- lyrics done: 5500
+- lyrics done: 5600
+- lyrics done: 5700
+- lyrics done: 5800
+- lyrics done: 5900
+- lyrics done: 6000
+- lyrics done: 6100
+- lyrics done: 6200
+- lyrics done: 6300
+- lyrics done: 6400
+- lyrics done: 6500
+- lyrics done: 6600
+- lyrics done: 6700
+- lyrics done: 6800
+- lyrics done: 6900
+- lyrics done: 7000
+- lyrics done: 7100
+- lyrics done: 7200
+- lyrics done: 7300
+- lyrics done: 7400
+- lyrics done: 7500
+- lyrics done: 7600
+- lyrics done: 7700
+- lyrics done: 7800
+- lyrics done: 7900
+- lyrics done: 8000
+- lyrics done: 8100
+- lyrics done: 8200
+- lyrics done: 8300
+- lyrics done: 8400
+- lyrics done: 8500
+- lyrics done: 8600
+- lyrics done: 8700
+- lyrics done: 8800
+- lyrics done: 8900
+- lyrics done: 9000
+- lyrics done: 9100
+- lyrics done: 9200
+- lyrics done: 9300
+- lyrics done: 9400
+- lyrics done: 9500
+- lyrics done: 9600
+- lyrics done: 9700
+done iteration 24 (stopwatch: 30110.8915398)
+- lyrics done: 100
+- lyrics done: 200
+- lyrics done: 300
+- lyrics done: 400
+- lyrics done: 500
+- lyrics done: 600
+- lyrics done: 700
+- lyrics done: 800
+- lyrics done: 900
+- lyrics done: 1000
+- lyrics done: 1100
+- lyrics done: 1200
+- lyrics done: 1300
+- lyrics done: 1400
+- lyrics done: 1500
+- lyrics done: 1600
+- lyrics done: 1700
+- lyrics done: 1800
+- lyrics done: 1900
+- lyrics done: 2000
+- lyrics done: 2100
+- lyrics done: 2200
+- lyrics done: 2300
+- lyrics done: 2400
+- lyrics done: 2500
+- lyrics done: 2600
+- lyrics done: 2700
+- lyrics done: 2800
+- lyrics done: 2900
+- lyrics done: 3000
+- lyrics done: 3100
+- lyrics done: 3200
+- lyrics done: 3300
+- lyrics done: 3400
+- lyrics done: 3500
+- lyrics done: 3600
+- lyrics done: 3700
+- lyrics done: 3800
+- lyrics done: 3900
+- lyrics done: 4000
+- lyrics done: 4100
+- lyrics done: 4200
+- lyrics done: 4300
+- lyrics done: 4400
+- lyrics done: 4500
+- lyrics done: 4600
+- lyrics done: 4700
+- lyrics done: 4800
+- lyrics done: 4900
+- lyrics done: 5000
+- lyrics done: 5100
+- lyrics done: 5200
+- lyrics done: 5300
+- lyrics done: 5400
+- lyrics done: 5500
+- lyrics done: 5600
+- lyrics done: 5700
+- lyrics done: 5800
+- lyrics done: 5900
+- lyrics done: 6000
+- lyrics done: 6100
+- lyrics done: 6200
+- lyrics done: 6300
+- lyrics done: 6400
+- lyrics done: 6500
+- lyrics done: 6600
+- lyrics done: 6700
+- lyrics done: 6800
+- lyrics done: 6900
+- lyrics done: 7000
+- lyrics done: 7100
+- lyrics done: 7200
+- lyrics done: 7300
+- lyrics done: 7400
+- lyrics done: 7500
+- lyrics done: 7600
+- lyrics done: 7700
+- lyrics done: 7800
+- lyrics done: 7900
+- lyrics done: 8000
+- lyrics done: 8100
+- lyrics done: 8200
+- lyrics done: 8300
+- lyrics done: 8400
+- lyrics done: 8500
+- lyrics done: 8600
+- lyrics done: 8700
+- lyrics done: 8800
+- lyrics done: 8900
+- lyrics done: 9000
+- lyrics done: 9100
+- lyrics done: 9200
+- lyrics done: 9300
+- lyrics done: 9400
+- lyrics done: 9500
+- lyrics done: 9600
+- lyrics done: 9700
+done iteration 25 (stopwatch: 30846.304611)
+- lyrics done: 100
+- lyrics done: 200
+- lyrics done: 300
+- lyrics done: 400
+- lyrics done: 500
+- lyrics done: 600
+- lyrics done: 700
+- lyrics done: 800
+- lyrics done: 900
+- lyrics done: 1000
+- lyrics done: 1100
+- lyrics done: 1200
+- lyrics done: 1300
+- lyrics done: 1400
+- lyrics done: 1500
+- lyrics done: 1600
+- lyrics done: 1700
+- lyrics done: 1800
+- lyrics done: 1900
+- lyrics done: 2000
+- lyrics done: 2100
+- lyrics done: 2200
+- lyrics done: 2300
+- lyrics done: 2400
+- lyrics done: 2500
+- lyrics done: 2600
+- lyrics done: 2700
+- lyrics done: 2800
+- lyrics done: 2900
+- lyrics done: 3000
+- lyrics done: 3100
+- lyrics done: 3200
+- lyrics done: 3300
+- lyrics done: 3400
+- lyrics done: 3500
+- lyrics done: 3600
+- lyrics done: 3700
+- lyrics done: 3800
+- lyrics done: 3900
+- lyrics done: 4000
+- lyrics done: 4100
+- lyrics done: 4200
+- lyrics done: 4300
+- lyrics done: 4400
+- lyrics done: 4500
+- lyrics done: 4600
+- lyrics done: 4700
+- lyrics done: 4800
+- lyrics done: 4900
+- lyrics done: 5000
+- lyrics done: 5100
+- lyrics done: 5200
+- lyrics done: 5300
+- lyrics done: 5400
+- lyrics done: 5500
+- lyrics done: 5600
+- lyrics done: 5700
+- lyrics done: 5800
+- lyrics done: 5900
+- lyrics done: 6000
+- lyrics done: 6100
+- lyrics done: 6200
+- lyrics done: 6300
+- lyrics done: 6400
+- lyrics done: 6500
+- lyrics done: 6600
+- lyrics done: 6700
+- lyrics done: 6800
+- lyrics done: 6900
+- lyrics done: 7000
+- lyrics done: 7100
+- lyrics done: 7200
+- lyrics done: 7300
+- lyrics done: 7400
+- lyrics done: 7500
+- lyrics done: 7600
+- lyrics done: 7700
+- lyrics done: 7800
+- lyrics done: 7900
+- lyrics done: 8000
+- lyrics done: 8100
+- lyrics done: 8200
+- lyrics done: 8300
+- lyrics done: 8400
+- lyrics done: 8500
+- lyrics done: 8600
+- lyrics done: 8700
+- lyrics done: 8800
+- lyrics done: 8900
+- lyrics done: 9000
+- lyrics done: 9100
+- lyrics done: 9200
+- lyrics done: 9300
+- lyrics done: 9400
+- lyrics done: 9500
+- lyrics done: 9600
+- lyrics done: 9700
+done iteration 26 (stopwatch: 34454.125931)
+- lyrics done: 100
+- lyrics done: 200
+- lyrics done: 300
+- lyrics done: 400
+- lyrics done: 500
+- lyrics done: 600
+- lyrics done: 700
+- lyrics done: 800
+- lyrics done: 900
+- lyrics done: 1000
+- lyrics done: 1100
+- lyrics done: 1200
+- lyrics done: 1300
+- lyrics done: 1400
+- lyrics done: 1500
+- lyrics done: 1600
+- lyrics done: 1700
+- lyrics done: 1800
+- lyrics done: 1900
+- lyrics done: 2000
+- lyrics done: 2100
+- lyrics done: 2200
+- lyrics done: 2300
+- lyrics done: 2400
+- lyrics done: 2500
+- lyrics done: 2600
+- lyrics done: 2700
+- lyrics done: 2800
+- lyrics done: 2900
+- lyrics done: 3000
+- lyrics done: 3100
+- lyrics done: 3200
+- lyrics done: 3300
+- lyrics done: 3400
+- lyrics done: 3500
+- lyrics done: 3600
+- lyrics done: 3700
+- lyrics done: 3800
+- lyrics done: 3900
+- lyrics done: 4000
+- lyrics done: 4100
+- lyrics done: 4200
+- lyrics done: 4300
+- lyrics done: 4400
+- lyrics done: 4500
+- lyrics done: 4600
+- lyrics done: 4700
+- lyrics done: 4800
+- lyrics done: 4900
+- lyrics done: 5000
+- lyrics done: 5100
+- lyrics done: 5200
+- lyrics done: 5300
+- lyrics done: 5400
+- lyrics done: 5500
+- lyrics done: 5600
+- lyrics done: 5700
+- lyrics done: 5800
+- lyrics done: 5900
+- lyrics done: 6000
+- lyrics done: 6100
+- lyrics done: 6200
+- lyrics done: 6300
+- lyrics done: 6400
+- lyrics done: 6500
+- lyrics done: 6600
+- lyrics done: 6700
+- lyrics done: 6800
+- lyrics done: 6900
+- lyrics done: 7000
+- lyrics done: 7100
+- lyrics done: 7200
+- lyrics done: 7300
+- lyrics done: 7400
+- lyrics done: 7500
+- lyrics done: 7600
+- lyrics done: 7700
+- lyrics done: 7800
+- lyrics done: 7900
+- lyrics done: 8000
+- lyrics done: 8100
+- lyrics done: 8200
+- lyrics done: 8300
+- lyrics done: 8400
+- lyrics done: 8500
+- lyrics done: 8600
+- lyrics done: 8700
+- lyrics done: 8800
+- lyrics done: 8900
+- lyrics done: 9000
+- lyrics done: 9100
+- lyrics done: 9200
+- lyrics done: 9300
+- lyrics done: 9400
+- lyrics done: 9500
+- lyrics done: 9600
+- lyrics done: 9700
+done iteration 27 (stopwatch: 35202.3218639)
+- lyrics done: 100
+- lyrics done: 200
+- lyrics done: 300
+- lyrics done: 400
+- lyrics done: 500
+- lyrics done: 600
+- lyrics done: 700
+- lyrics done: 800
+- lyrics done: 900
+- lyrics done: 1000
+- lyrics done: 1100
+- lyrics done: 1200
+- lyrics done: 1300
+- lyrics done: 1400
+- lyrics done: 1500
+- lyrics done: 1600
+- lyrics done: 1700
+- lyrics done: 1800
+- lyrics done: 1900
+- lyrics done: 2000
+- lyrics done: 2100
+- lyrics done: 2200
+- lyrics done: 2300
+- lyrics done: 2400
+- lyrics done: 2500
+- lyrics done: 2600
+- lyrics done: 2700
+- lyrics done: 2800
+- lyrics done: 2900
+- lyrics done: 3000
+- lyrics done: 3100
+- lyrics done: 3200
+- lyrics done: 3300
+- lyrics done: 3400
+- lyrics done: 3500
+- lyrics done: 3600
+- lyrics done: 3700
+- lyrics done: 3800
+- lyrics done: 3900
+- lyrics done: 4000
+- lyrics done: 4100
+- lyrics done: 4200
+- lyrics done: 4300
+- lyrics done: 4400
+- lyrics done: 4500
+- lyrics done: 4600
+- lyrics done: 4700
+- lyrics done: 4800
+- lyrics done: 4900
+- lyrics done: 5000
+- lyrics done: 5100
+- lyrics done: 5200
+- lyrics done: 5300
+- lyrics done: 5400
+- lyrics done: 5500
+- lyrics done: 5600
+- lyrics done: 5700
+- lyrics done: 5800
+- lyrics done: 5900
+- lyrics done: 6000
+- lyrics done: 6100
+- lyrics done: 6200
+- lyrics done: 6300
+- lyrics done: 6400
+- lyrics done: 6500
+- lyrics done: 6600
+- lyrics done: 6700
+- lyrics done: 6800
+- lyrics done: 6900
+- lyrics done: 7000
+- lyrics done: 7100
+- lyrics done: 7200
+- lyrics done: 7300
+- lyrics done: 7400
+- lyrics done: 7500
+- lyrics done: 7600
+- lyrics done: 7700
+- lyrics done: 7800
+- lyrics done: 7900
+- lyrics done: 8000
+- lyrics done: 8100
+- lyrics done: 8200
+- lyrics done: 8300
+- lyrics done: 8400
+- lyrics done: 8500
+- lyrics done: 8600
+- lyrics done: 8700
+- lyrics done: 8800
+- lyrics done: 8900
+- lyrics done: 9000
+- lyrics done: 9100
+- lyrics done: 9200
+- lyrics done: 9300
+- lyrics done: 9400
+- lyrics done: 9500
+- lyrics done: 9600
+- lyrics done: 9700
+done iteration 28 (stopwatch: 35944.2384579)
+- lyrics done: 100
+- lyrics done: 200
+- lyrics done: 300
+- lyrics done: 400
+- lyrics done: 500
+- lyrics done: 600
+- lyrics done: 700
+- lyrics done: 800
+- lyrics done: 900
+- lyrics done: 1000
+- lyrics done: 1100
+- lyrics done: 1200
+- lyrics done: 1300
+- lyrics done: 1400
+- lyrics done: 1500
+- lyrics done: 1600
+- lyrics done: 1700
+- lyrics done: 1800
+- lyrics done: 1900
+- lyrics done: 2000
+- lyrics done: 2100
+- lyrics done: 2200
+- lyrics done: 2300
+- lyrics done: 2400
+- lyrics done: 2500
+- lyrics done: 2600
+- lyrics done: 2700
+- lyrics done: 2800
+- lyrics done: 2900
+- lyrics done: 3000
+- lyrics done: 3100
+- lyrics done: 3200
+- lyrics done: 3300
+- lyrics done: 3400
+- lyrics done: 3500
+- lyrics done: 3600
+- lyrics done: 3700
+- lyrics done: 3800
+- lyrics done: 3900
+- lyrics done: 4000
+- lyrics done: 4100
+- lyrics done: 4200
+- lyrics done: 4300
+- lyrics done: 4400
+- lyrics done: 4500
+- lyrics done: 4600
+- lyrics done: 4700
+- lyrics done: 4800
+- lyrics done: 4900
+- lyrics done: 5000
+- lyrics done: 5100
+- lyrics done: 5200
+- lyrics done: 5300
+- lyrics done: 5400
+- lyrics done: 5500
+- lyrics done: 5600
+- lyrics done: 5700
+- lyrics done: 5800
+- lyrics done: 5900
+- lyrics done: 6000
+- lyrics done: 6100
+- lyrics done: 6200
+- lyrics done: 6300
+- lyrics done: 6400
+- lyrics done: 6500
+- lyrics done: 6600
+- lyrics done: 6700
+- lyrics done: 6800
+- lyrics done: 6900
+- lyrics done: 7000
+- lyrics done: 7100
+- lyrics done: 7200
+- lyrics done: 7300
+- lyrics done: 7400
+- lyrics done: 7500
+- lyrics done: 7600
+- lyrics done: 7700
+- lyrics done: 7800
+- lyrics done: 7900
+- lyrics done: 8000
+- lyrics done: 8100
+- lyrics done: 8200
+- lyrics done: 8300
+- lyrics done: 8400
+- lyrics done: 8500
+- lyrics done: 8600
+- lyrics done: 8700
+- lyrics done: 8800
+- lyrics done: 8900
+- lyrics done: 9000
+- lyrics done: 9100
+- lyrics done: 9200
+- lyrics done: 9300
+- lyrics done: 9400
+- lyrics done: 9500
+- lyrics done: 9600
+- lyrics done: 9700
+done iteration 29 (stopwatch: 36670.9105809)
+########################
+topic:  0
+['lalu', 'plagiarism', 'wheelchairs', 'chippin', 'sketch', 'chirping', 'peojyeoganeun', 'floaming', '13th', 'contortion', 'twinkled', 'grotto', 'angel', 'surname', 'rooks', 'hairline', 'lunches', 'keolleonghae', 'decapitated', 'sublime', 'fruity', 'kizuato', 'oorai', 'fruits', 'dissed']
+topic:  1
+['gakkeumeun', 'arungoryo', 'thrash', 'entire', 'shepherd', 'ayayay', 'yowaki', 'goldblatz', 'ikikata', 'jaen', 'carefull', 'daydreamers', 'went', 'keredo', 'goseneun', 'pennys', 'wilds', 'orega', 'sykes', 'siganeun', 'unexamined', 'bakari', 'yamu', 'memory', 'ciy']
+topic:  2
+['promised', 'stash', 'mothaneun', 'floaming', '13th', 'contortion', 'twinkled', 'grotto', 'angel', 'surname', 'rooks', 'hairline', 'peojyeoganeun', 'keolleonghae', 'lunches', 'sublime', 'fruity', 'kizuato', 'oorai', 'fruits', 'dissed', 'yabure', 'tsunoru', 'optimism', 'usjai']
+topic:  3
+['canyon', 'rooks', 'venomz', 'anger', 'stash', 'decapitated', 'mothaneun', 'floaming', '13th', 'contortion', 'twinkled', 'grotto', 'angel', 'surname', 'maseul', 'breakfast', 'peojyeoganeun', 'keolleonghae', 'lunches', 'sublime', 'fruity', 'kizuato', 'oorai', 'fruits', 'dissed']
+topic:  4
+['wildest', 'dumpster', 'maseul', 'keolleonghae', 'floaming', '13th', 'contortion', 'twinkled', 'grotto', 'angel', 'surname', 'rooks', 'hairline', 'peojyeoganeun', 'lunches', 'rugged', 'sublime', 'fruity', 'kizuato', 'oorai', 'fruits', 'dissed', 'yabure', 'tsunoru', 'optimism']
+topic:  5
+['boom', 'drive', 'jai', 'red', 'porch', 'car', 'left', 'ol', 'middle', 'cowboy', 'somebody', 'walked', 'everybody', 'shinin', 'nowhere', 'babys', 'sue', 'known', 'worked', 'blown', 'barefoot', 'record', 'blue', 'bear', 'moonlight']
+topic:  6
+['que', 'sleep', 'bla', 'bad', 'tu', 'la', 'loco', 'de', 'cant', 'te', 'y', 'want', 'alegria', 'ah', 'jiyoon', 'alabao', 'got', 'un', 'por', 'attention', 'bongo', 'yo', 'king', 'macarena', 'carry']
+topic:  7
+['jjagirago', 'triangles', 'diving', 'gaultier', 'sublime', '13th', 'contortion', 'twinkled', 'grotto', 'angel', 'surname', 'rooks', 'hairline', 'peojyeoganeun', 'keolleonghae', 'lunches', 'maseul', 'mothaneun', 'fruity', 'kizuato', 'oorai', 'fruits', 'dissed', 'yabure', 'tsunoru']
+topic:  8
+['gabriella', 'troy', 'ryan', 'sharpay', 'rachel', 'chad', 'brody', 'fabulous', 'toni', 'batter', 'christine', 'horse', 'piolo', 'mary', 'tina', 'longer', 'everyday', 'miracles', 'bop', 'cannonball', 'bet', 'syne', 'evryday', 'fer', 'annie']
+topic:  9
+['maseul', 'anger', 'decapitated', 'mothaneun', 'floaming', '13th', 'contortion', 'twinkled', 'grotto', 'angel', 'surname', 'rooks', 'hairline', 'peojyeoganeun', 'keolleonghae', 'lunches', 'sublime', 'fruity', 'kizuato', 'oorai', 'fruits', 'dissed', 'yabure', 'tsunoru', 'optimism']
+topic:  10
+['accident', 'personality', 'ultimatum', 'mulgeopumi', 'palmer', 'mandatory', 'genesis', 'tahan', 'iriran', 'bakjaebeom', 'herds', 'cracked', 'geureol', 'rupaul', 'gypped', 'wrangler', 'barney', 'viper', 'swoopie', 'hindsights', 'wordplays', 'intrduced', 'louvre', 'frequently', 'blam']
+topic:  11
+['wiggle', 'woman', 'halo', 'lovin', 'wayooh', 'aint', 'blues', 'lord', 'row', 'man', 'old', 'sure', 'beer', 'instrumental', 'womans', 'sunshine', 'honey', 'friday', 'band', 'almost', 'eww', 'songs', 'caught', 'told', 'dollar']
+topic:  12
+['falling', 'baby', 'oh', 'want', 'never', 'alright', 'anymore', 'red', 'hold', 'everyone', 'nal', 'darling', 'black', 'someone', 'care', 'run', 'wanted', 'keep', 'change', 'sleep', 'fight', 'apart', 'dance', 'past', 'cant']
+topic:  13
+['ba', 'aha', 'neo', 'suck', 'yoy', 'screwed', 'soneul', 'battle', 'key', 'bodies', 'neoui', 'blitz', 'blame', 'ahh', 'drum', 'nobody', 'aniya', 'actually', 'lordy', 'consequence', 'guru', 'sarita', 'johanna', 'syne', 'ang']
+topic:  14
+['game', 'bh', 'tryin', 'gettin', 'house', 'everybody', 'hop', 'jump', 'rock', 'style', 'hood', 'sound', 'ball', 'talking', 'front', 'mind', 'ns', 'quick', 'motherfuckers', 'since', 'round', 'feeling', 'lookin', 'three', 'train']
+topic:  15
+['61', 'princes', 'layby', 'maseul', 'keolleonghae', 'mothaneun', 'floaming', '13th', 'contortion', 'twinkled', 'grotto', 'angel', 'surname', 'rooks', 'hairline', 'peojyeoganeun', 'sublime', 'lunches', 'stash', 'fruity', 'kizuato', 'oorai', 'fruits', 'dissed', 'yabure']
+topic:  16
+['oh', 'take', 'alone', 'inside', 'let', 'feel', 'left', 'life', 'ni', 'never', 'save', 'back', 'come', 'nothing', 'stop', 'running', 'waiting', 'die', 'everybody', 'know', 'dead', 'us', 'broken', 'hear', 'find']
+topic:  17
+['toilin', 'idiot', 'singing', 'maseul', 'peojyeoganeun', 'mothaneun', 'floaming', '13th', 'contortion', 'twinkled', 'grotto', 'angel', 'surname', 'rooks', 'hairline', 'lunches', 'keolleonghae', 'stash', 'sublime', 'fruity', 'kizuato', 'oorai', 'fruits', 'dissed', 'yabure']
+topic:  18
+['outrageous', 'peojyeoganeun', 'stash', 'decapitated', 'mothaneun', 'floaming', '13th', 'contortion', 'twinkled', 'grotto', 'angel', 'surname', 'rooks', 'hairline', 'maseul', 'ritious', 'keolleonghae', 'lunches', 'sublime', 'fruity', 'kizuato', 'oorai', 'fruits', 'dissed', 'yabure']
+topic:  19
+['baby', 'love', 'girl', 'aint', 'ooh', 'oh', 'make', 'nobody', 'wanna', 'yeah', 'thing', '4', 'shake', 'boy', 'let', 'body', 'real', 'tonight', 'whoa', 'feels', 'everything', 'oo', 'chain', 'nothing', 'christmas']
+topic:  20
+['jibunrashisa', 'maseul', 'keolleonghae', 'mothaneun', 'floaming', '13th', 'contortion', 'twinkled', 'grotto', 'angel', 'surname', 'rooks', 'hairline', 'peojyeoganeun', 'lunches', 'stash', 'sublime', 'fruity', 'kizuato', 'oorai', 'fruits', 'dissed', 'yabure', 'tsunoru', 'optimism']
+topic:  21
+['civil', 'cds', 'maseul', 'lunches', 'mothaneun', 'floaming', '13th', 'contortion', 'twinkled', 'grotto', 'angel', 'surname', 'rooks', 'hairline', 'peojyeoganeun', 'keolleonghae', 'sublime', 'stash', 'fruity', 'kizuato', 'oorai', 'fruits', 'dissed', 'yabure', 'tsunoru']
+topic:  22
+['maseul', 'anger', 'decapitated', 'mothaneun', 'floaming', '13th', 'contortion', 'twinkled', 'grotto', 'angel', 'surname', 'rooks', 'hairline', 'peojyeoganeun', 'keolleonghae', 'lunches', 'sublime', 'fruity', 'kizuato', 'oorai', 'fruits', 'dissed', 'yabure', 'tsunoru', 'optimism']
+topic:  23
+['dovey', 'yadoru', 'peojyeoganeun', 'decapitated', 'mothaneun', 'floaming', '13th', 'contortion', 'twinkled', 'grotto', 'angel', 'surname', 'rooks', 'hairline', 'keolleonghae', 'disses', 'lunches', 'sublime', 'fruity', 'kizuato', 'oorai', 'fruits', 'dissed', 'yabure', 'tsunoru']
+topic:  24
+['pablo', 'comprehension', 'bakka', 'passports', 'witchu', 'stagnant', 'destiny', 'kibeler', '13th', 'contortion', 'twinkled', 'peojyeoganeun', 'grotto', 'angel', 'surname', 'floaming', 'rooks', 'hairline', 'maseul', 'keolleonghae', 'decapitated', 'lunches', 'sublime', 'fruity', 'kizuato']
+topic:  25
+['maseul', 'anger', 'decapitated', 'mothaneun', 'floaming', '13th', 'contortion', 'twinkled', 'grotto', 'angel', 'surname', 'rooks', 'hairline', 'peojyeoganeun', 'keolleonghae', 'lunches', 'sublime', 'fruity', 'kizuato', 'oorai', 'fruits', 'dissed', 'yabure', 'tsunoru', 'optimism']
+topic:  26
+['washing', 'sesang', 'visa', 'softness', 'maseul', 'hairline', 'mothaneun', 'floaming', '13th', 'contortion', 'twinkled', 'grotto', 'angel', 'surname', 'rooks', 'peojyeoganeun', 'stash', 'keolleonghae', 'lunches', 'sublime', 'fruity', 'kizuato', 'oorai', 'fruits', 'dissed']
+topic:  27
+['rebel', 'gullible', 'malkum', 'fini', 'corpsecold', 'eosaekhan', 'chajeul', 'bich', 'bonnoneuro', 'grotto', 'twinkled', 'lunches', 'surname', 'contortion', 'rooks', '13th', 'hairline', 'peojyeoganeun', 'keolleonghae', 'angel', 'fruity', 'sublime', 'mothaneun', 'kizuato', 'oorai']
+topic:  28
+['hold', 'girl', 'old', 'cause', 'love', 'boy', 'know', 'one', 'close', 'till', 'care', 'like', 'getting', 'way', 'fun', 'baby', 'lonely', 'round', 'goes', 'make', 'miss', 'without', 'beautiful', 'really', 'alone']
+topic:  29
+['maseul', 'anger', 'decapitated', 'mothaneun', 'floaming', '13th', 'contortion', 'twinkled', 'grotto', 'angel', 'surname', 'rooks', 'hairline', 'peojyeoganeun', 'keolleonghae', 'lunches', 'sublime', 'fruity', 'kizuato', 'oorai', 'fruits', 'dissed', 'yabure', 'tsunoru', 'optimism']
+topic:  30
+['tal', 'handcuff', 'france', 'succeed', 'entwined', 'surname', 'keolleonghae', 'peojyeoganeun', 'hairline', 'rooks', 'maseul', 'lunches', 'grotto', 'twinkled', 'contortion', '13th', 'angel', 'sublime', 'mothaneun', 'fruity', 'kizuato', 'oorai', 'fruits', 'dissed', 'yabure']
+topic:  31
+['homesick', 'dustin', 'macaroni', 'geunyang', 'redeemer', 'coursing', 'raindrop', 'condemned', 'idiots', 'gomina', 'avenger', 'dakedo', 'computers', 'ec', 'jamggan', 'mmhm', 'empire', 'occurred', 'disgrace', 'legend', 'creepin', 'superhuman', 'uhohuhohoh', 'brewing', 'ohh']
+topic:  32
+['tupac', 'talo', 'sinaktan', 'meek', 'lear', 'mousou', 'tsunoru', 'yabure', 'contortion', 'twinkled', 'grotto', 'angel', 'surname', 'mabasa', 'brunks', 'usjai', 'rooks', 'hairline', 'peojyeoganeun', 'keolleonghae', 'lunches', 'floaming', 'sublime', 'fruity', 'kizuato']
+topic:  33
+['amen', 'fella', 'therell', 'avenue', 'bugle', 'marshmallow', 'elphaba', 'spring', 'maggies', 'sudden', 'papa', 'nightingale', 'knocking', 'inbetween', 'woogie', 'glinda', 'medicine', 'ragtime', 'alfie', 'naturally', 'blessin', 'evening', 'defying', 'bella', 'gm']
+topic:  34
+['ring', 'ch', 'cmon', 'dig', 'rock', 'determinate', 'rhythm', 'aglet', 'secret', 'nose', 'teeth', 'king', 'erika', 'hot', 'finger', 'carrying', 'banner', 'noise', 'medda', 'newsies', 'princess', 'beach', 'spongebob', 'ratcliffe', 'headline']
+topic:  35
+['love', 'come', 'oh', 'chorus', 'let', 'know', 'see', 'life', 'take', 'lord', 'like', 'heart', 'world', 'give', 'us', 'yes', 'one', 'never', 'need', 'every', 'cause', 'way', 'go', 'things', 'name']
+topic:  36
+['mi', 'police', 'jah', 'dem', 'fight', 'ah', 'whatcha', 'yuh', 'burnin', 'fi', 'arise', 'chuck', 'nuh', 'weh', 'boys', 'woman', 'children', 'different', 'africa', 'ten', 'train', 'respect', 'apartheid', 'di', 'gainst']
+topic:  37
+['sun', 'boom', 'around', 'sa', 'mr', 'gee', 'ah', 'tiffany', 'yyeah', 'ang', 'bimbo', 'mo', 'jessica', 'ko', 'king', 'taeyeon', 'christmas', 'rim', 'ka', 'ladies', 'halloween', 'da', 'consider', 'ga', 'passing']
+topic:  38
+['dagnabit', 'lean', 'perfect', 'adolescents', 'swathed', 'nobleness', 'blest', 'hallways', 'greatcoat', 'trained', 'crayons', 'possibities', 'unexplainable', 'breeding', 'taehyunuljimallago', 'mature', 'kakko', 'wallets', 'selagi', 'mas', 'perverted', 'remind', 'tankan', 'damadun', 'hens']
+topic:  39
+['kelam', 'impaled', 'mamore', 'git', 'weakens', 'dpg', 'lightening', 'soundgarden', 'segregation', 'ijust', 'fukanzen', 'euwe', 'jerusalem', 'stiffens', 'gushing', 'faggot', 'knowledge', 'neowa', 'craved', 'georeulttaen', 'midlands', 'taeyangcheoreom', 'tangang', 'inasam', 'yuki']
+topic:  40
+['lynwood', 'kami', 'eve', 'keolleonghae', 'mothaneun', 'floaming', '13th', 'contortion', 'twinkled', 'grotto', 'angel', 'surname', 'rooks', 'hairline', 'peojyeoganeun', 'lunches', 'stash', 'sublime', 'fruity', 'kizuato', 'oorai', 'fruits', 'dissed', 'yabure', 'tsunoru']
+topic:  41
+['like', 'get', 'know', 'got', 'back', 'aint', 'yeah', 'cause', 'make', 'na', 'wanna', 'baby', 'go', 'one', 'see', 'right', 'never', 'come', 'time', 'take', 'want', 'need', 'say', 'put', 'girl']
+topic:  42
+['relayed', 'grandpa', 'hashire', 'elizabeth', 'maseul', 'peojyeoganeun', 'floaming', '13th', 'contortion', 'twinkled', 'grotto', 'angel', 'surname', 'rooks', 'hairline', 'keolleonghae', 'disses', 'lunches', 'sublime', 'fruity', 'kizuato', 'oorai', 'fruits', 'dissed', 'yabure']
+topic:  43
+['sawagunda', 'haato', 'hanghaereul', 'riamh', 'angel', 'peojyeoganeun', 'hairline', 'rooks', 'surname', 'maseul', 'keolleonghae', 'twinkled', 'contortion', '13th', 'floaming', 'mothaneun', 'grotto', 'sublime', 'lunches', 'stash', 'fruity', 'kizuato', 'oorai', 'fruits', 'dissed']
+topic:  44
+['furu', 'aluminum', 'tsuitara', 'mezase', 'usjai', 'optimism', 'floaming', '13th', 'contortion', 'twinkled', 'grotto', 'angel', 'surname', 'rooks', 'mabasa', 'hairline', 'brunks', 'peojyeoganeun', 'keolleonghae', 'decapitated', 'lunches', 'sublime', 'fruity', 'kizuato', 'oorai']
+topic:  45
+['raitata', 'noel', 'amarantine', 'gloria', 'reindeer', 'fa', 'totari', 'ta', 'ridu', 'sajaja', 'radu', 'rex', 'rota', 'bramani', 'infinita', 'teeth', 'boumboumboum', 'et', 'est', 'jubilate', 'adoramus', 'rudolph', 'israel', 'ad', 'omina']
+topic:  46
+['nae', 'na', 'oh', 'body', 'ni', 'whoo', 'nan', 'baby', 'neo', 'hyorin', 'black', 'dey', 'ma', 'woo', 'hoo', 'rock', 'neol', 'ga', 'deo', 'never', 'nal', 'wa', 'dancing', 'la', 'niel']
+topic:  47
+['spectravision', 'tamer', 'maseul', 'lunches', 'floaming', '13th', 'contortion', 'twinkled', 'grotto', 'angel', 'surname', 'rooks', 'hairline', 'peojyeoganeun', 'keolleonghae', 'sublime', 'decapitated', 'fruity', 'kizuato', 'oorai', 'fruits', 'dissed', 'yabure', 'tsunoru', 'optimism']
+topic:  48
+['collarbone', 'basciot', 'maseul', 'keolleonghae', 'mothaneun', 'floaming', '13th', 'contortion', 'twinkled', 'grotto', 'angel', 'surname', 'rooks', 'hairline', 'peojyeoganeun', 'lunches', 'wacked', 'sublime', 'fruity', 'kizuato', 'oorai', 'fruits', 'dissed', 'yabure', 'tsunoru']
+topic:  49
+['vw', 'crimson', 'watched', 'gladsome', 'haato', 'lipsticktube', 'angel', 'grotto', 'twinkled', 'contortion', 'maseul', 'rooks', '13th', 'floaming', 'mothaneun', 'decapitated', 'stash', 'surname', 'lunches', 'hairline', 'peojyeoganeun', 'keolleonghae', 'sublime', 'fruity', 'kizuato']
+topic:  50
+['itong', 'ginaw', 'maseul', 'keolleonghae', 'floaming', '13th', 'contortion', 'twinkled', 'grotto', 'angel', 'surname', 'rooks', 'hairline', 'peojyeoganeun', 'lunches', 'decapitated', 'sublime', 'fruity', 'kizuato', 'oorai', 'fruits', 'dissed', 'yabure', 'tsunoru', 'optimism']
+topic:  51
+['stocks', 'maseul', 'lunches', 'mothaneun', 'floaming', '13th', 'contortion', 'twinkled', 'grotto', 'angel', 'surname', 'rooks', 'hairline', 'peojyeoganeun', 'keolleonghae', 'sublime', 'rugged', 'fruity', 'kizuato', 'oorai', 'fruits', 'dissed', 'yabure', 'tsunoru', 'optimism']
+topic:  52
+['doofy', 'maseul', 'peojyeoganeun', 'stash', 'decapitated', 'mothaneun', 'floaming', '13th', 'contortion', 'twinkled', 'grotto', 'angel', 'surname', 'rooks', 'hairline', 'keolleonghae', 'mabasa', 'lunches', 'sublime', 'fruity', 'kizuato', 'oorai', 'fruits', 'dissed', 'yabure']
+topic:  53
+['irritating', 'critics', 'compress', '1986', 'ganders', 'owners', 'maseul', 'grotto', 'rooks', 'surname', 'angel', 'contortion', 'twinkled', 'peojyeoganeun', '13th', 'floaming', 'hairline', 'lunches', 'keolleonghae', 'decapitated', 'sublime', 'fruity', 'kizuato', 'oorai', 'fruits']
+topic:  54
+['melochorus', 'selfish', 'ideobwa', 'meyakinkanmu', 'furthest', 'ignition', 'glooria', 'nabihag', 'ozamis', 'noblesse', 'mail', 'rooks', 'peojyeoganeun', 'hairline', 'surname', 'angel', 'grotto', 'keolleonghae', 'maseul', 'lunches', 'contortion', 'sublime', 'fruity', 'kizuato', 'oorai']
+topic:  55
+['alright', 'yall', 'bh', 'aim', 'motherfuckin', 'fast', 'couple', 'ngga', 'rhymes', 'kid', '24', 'fd', 'buck', 'dollars', 'gold', 'pass', 'gucci', 'truck', 'stage', 'whatever', 'playa', 'motherfucker', 'bars', '500', '5']
+topic:  56
+['eongdeongi', 'dumapa', 'maseul', 'hairline', 'decapitated', 'mothaneun', 'floaming', '13th', 'contortion', 'twinkled', 'grotto', 'angel', 'surname', 'rooks', 'peojyeoganeun', 'mabasa', 'keolleonghae', 'lunches', 'sublime', 'fruity', 'kizuato', 'oorai', 'fruits', 'dissed', 'yabure']
+topic:  57
+['hirogeyou', 'least', 'hare', 'maseul', 'peojyeoganeun', 'decapitated', 'mothaneun', 'floaming', '13th', 'contortion', 'twinkled', 'grotto', 'angel', 'surname', 'rooks', 'hairline', 'keolleonghae', 'anger', 'lunches', 'sublime', 'fruity', 'kizuato', 'oorai', 'fruits', 'dissed']
+topic:  58
+['maseul', 'anger', 'decapitated', 'mothaneun', 'floaming', '13th', 'contortion', 'twinkled', 'grotto', 'angel', 'surname', 'rooks', 'hairline', 'peojyeoganeun', 'keolleonghae', 'lunches', 'sublime', 'fruity', 'kizuato', 'oorai', 'fruits', 'dissed', 'yabure', 'tsunoru', 'optimism']
+topic:  59
+['maseul', 'anger', 'decapitated', 'mothaneun', 'floaming', '13th', 'contortion', 'twinkled', 'grotto', 'angel', 'surname', 'rooks', 'hairline', 'peojyeoganeun', 'keolleonghae', 'lunches', 'sublime', 'fruity', 'kizuato', 'oorai', 'fruits', 'dissed', 'yabure', 'tsunoru', 'optimism']
+topic:  60
+['maseul', 'anger', 'decapitated', 'mothaneun', 'floaming', '13th', 'contortion', 'twinkled', 'grotto', 'angel', 'surname', 'rooks', 'hairline', 'peojyeoganeun', 'keolleonghae', 'lunches', 'sublime', 'fruity', 'kizuato', 'oorai', 'fruits', 'dissed', 'yabure', 'tsunoru', 'optimism']
+topic:  61
+['ai', 'amandla', 'washed', 'josh', 'bernadine', 'para', 'siempre', 'amigos', 'sera', 'lancashire', 'square', 'muscle', 'c7', 'danke', 'berkley', 'negative', 'eight', 'brawn', 'auntie', 'sway', 'schoen', 'rio', 'sweetheart', 'biceps', 'foggy']
+topic:  62
+['tenggelam', 'intoxicated', 'nallawa', 'sik', 'maseul', 'keolleonghae', '13th', 'contortion', 'twinkled', 'grotto', 'angel', 'surname', 'rooks', 'hairline', 'peojyeoganeun', 'lunches', 'mothaneun', 'sublime', 'fruity', 'kizuato', 'oorai', 'fruits', 'dissed', 'yabure', 'tsunoru']
+topic:  63
+['love', 'know', 'time', 'oh', 'go', 'say', 'night', 'away', 'gonna', 'see', 'way', 'heart', 'baby', 'one', 'want', 'day', 'got', 'always', 'like', 'eyes', 'mind', 'good', 'home', 'tell', 'feel']
+topic:  64
+['piano', 'marry', 'guarantees', 'leftwhen', 'whips', 'banner', 'sublime', 'twinkled', 'grotto', 'angel', 'surname', 'rooks', 'hairline', 'peojyeoganeun', 'keolleonghae', 'lunches', 'fruity', 'rugged', 'kizuato', 'oorai', 'fruits', 'dissed', 'yabure', 'tsunoru', 'optimism']
+topic:  65
+['submit', 'stash', 'mothaneun', 'floaming', '13th', 'contortion', 'twinkled', 'grotto', 'angel', 'surname', 'rooks', 'hairline', 'peojyeoganeun', 'keolleonghae', 'lunches', 'sublime', 'fruity', 'kizuato', 'oorai', 'fruits', 'dissed', 'yabure', 'tsunoru', 'optimism', 'usjai']
+topic:  66
+['chilies', 'druggy', 'ppajyeobeoril', 'disses', 'decapitated', 'mothaneun', 'floaming', '13th', 'contortion', 'twinkled', 'grotto', 'angel', 'surname', 'rooks', 'hairline', 'peojyeoganeun', 'keolleonghae', 'lunches', 'sublime', 'fruity', 'kizuato', 'oorai', 'fruits', 'dissed', 'yabure']
+topic:  67
+['mam', 'ke', 'nopi', 'adams', 'obie', 'jalhaejulgeoya', 'dosi', 'nehe', 'dhoke', 'futari', 'kino', 'physically', 'unmyeongeul', 'maanu', 'huy', 'husna', 'meditate', 'billo', 'eobtni', 'dagal', 'angmongirado', 'denwa', 'tourists', 'deullil', 'disagrees']
+topic:  68
+['maseul', 'anger', 'decapitated', 'mothaneun', 'floaming', '13th', 'contortion', 'twinkled', 'grotto', 'angel', 'surname', 'rooks', 'hairline', 'peojyeoganeun', 'keolleonghae', 'lunches', 'sublime', 'fruity', 'kizuato', 'oorai', 'fruits', 'dissed', 'yabure', 'tsunoru', 'optimism']
+topic:  69
+['immediately', 'maseul', 'keolleonghae', 'decapitated', 'mothaneun', 'floaming', '13th', 'contortion', 'twinkled', 'grotto', 'angel', 'surname', 'rooks', 'hairline', 'peojyeoganeun', 'lunches', 'disses', 'sublime', 'fruity', 'kizuato', 'oorai', 'fruits', 'dissed', 'yabure', 'tsunoru']
+topic:  70
+['x4', 'maseul', 'peojyeoganeun', 'decapitated', 'mothaneun', 'floaming', '13th', 'contortion', 'twinkled', 'grotto', 'angel', 'surname', 'rooks', 'hairline', 'keolleonghae', 'anger', 'lunches', 'sublime', 'fruity', 'kizuato', 'oorai', 'fruits', 'dissed', 'yabure', 'tsunoru']
+topic:  71
+['shipji', 'yourepeat', 'chaka', 'connect', 'maseul', 'keolleonghae', '13th', 'contortion', 'twinkled', 'grotto', 'angel', 'surname', 'rooks', 'hairline', 'peojyeoganeun', 'lunches', 'mothaneun', 'sublime', 'fruity', 'kizuato', 'oorai', 'fruits', 'dissed', 'yabure', 'tsunoru']
+topic:  72
+['boom', 'albuquerque', 'bloat', 'happy', 'splitlevel', 'cheech', 'dave', 'chong', 'm', 'snort', 'spuds', 'ha', 'amy', 'albi', 'airline', 'paula', 'addicted', 'honkies', 'bowie', 'chuga', 'artist', 'lassie', 'booty', 'cocaine', 'king']
+topic:  73
+['membara', 'maseul', 'keolleonghae', 'mothaneun', 'floaming', '13th', 'contortion', 'twinkled', 'grotto', 'angel', 'surname', 'rooks', 'hairline', 'peojyeoganeun', 'lunches', 'stash', 'sublime', 'fruity', 'kizuato', 'oorai', 'fruits', 'dissed', 'yabure', 'tsunoru', 'optimism']
+topic:  74
+['imankeumdo', 'unbuckled', 'coached', 'hashtag', 'litigate', 'decapitated', 'mothaneun', 'floaming', '13th', 'contortion', 'twinkled', 'grotto', 'angel', 'surname', 'rooks', 'hairline', 'maseul', 'peojyeoganeun', 'anger', 'keolleonghae', 'lunches', 'sublime', 'fruity', 'kizuato', 'oorai']
+topic:  75
+['kinou', 'carolinas', 'iceman', 'yegameun', 'lovemade', 'ss', 'looses', 'erwacht', 'trusting', 'weighing', 'iniwan', 'helicopters', '10538', 'blured', 'robots', 'yaksokhaeyo', 'cicada', 'chingudeuri', 'cleanliness', 'drained', 'haejugo', 'remains', 'reckless', 'humming', 'fluorescent']
+topic:  76
+['higher', 'nan', 'bleeding', 'nareul', 'nae', 'ga', 'ri', 'neol', 'ohohoh', 'weight', 'sa', 'runaway', 'pop', 'eights', 'taught', 'modeun', 'nightmare', 'wa', 'blame', 'dahm', 'stripped', 'wont', 'tiffany', 'dragging', 'ia']
+topic:  77
+['officersnameandanyotherkindofthingyougottasay', 'towers', 'walks', 'maseul', 'keolleonghae', 'floaming', '13th', 'contortion', 'twinkled', 'grotto', 'angel', 'surname', 'rooks', 'hairline', 'peojyeoganeun', 'lunches', 'decapitated', 'sublime', 'fruity', 'kizuato', 'oorai', 'fruits', 'dissed', 'yabure', 'tsunoru']
+topic:  78
+['ang', 'sa', 'ko', 'ay', 'alam', 'ako', 'di', 'andrew', 'ng', 'weightless', 'lahat', 'calling', 'ireum', 'ba', 'thats', 'fk', 'bingo', 'akoy', 'fax', 'lang', 'grows', 'kung', 'bureunun', 'kailan', 'pa']
+topic:  79
+['clues', 'pilyo', 'maseul', 'peojyeoganeun', 'decapitated', 'mothaneun', 'floaming', '13th', 'contortion', 'twinkled', 'grotto', 'angel', 'surname', 'rooks', 'hairline', 'keolleonghae', 'anger', 'lunches', 'sublime', 'fruity', 'kizuato', 'oorai', 'fruits', 'dissed', 'yabure']
+topic:  80
+['hawakan', 'stash', 'mothaneun', 'floaming', '13th', 'contortion', 'twinkled', 'grotto', 'angel', 'surname', 'rooks', 'hairline', 'peojyeoganeun', 'keolleonghae', 'lunches', 'sublime', 'fruity', 'kizuato', 'oorai', 'fruits', 'dissed', 'yabure', 'tsunoru', 'optimism', 'usjai']
+topic:  81
+['bubonic', 'testicle', 'buzzin', 'maseul', 'decapitated', 'mothaneun', 'floaming', '13th', 'contortion', 'twinkled', 'grotto', 'angel', 'surname', 'rooks', 'hairline', 'peojyeoganeun', 'anger', 'keolleonghae', 'lunches', 'sublime', 'fruity', 'kizuato', 'oorai', 'fruits', 'dissed']
+topic:  82
+['gihwi', 'ya', 'ferries', 'akkawo', 'catcher', 'onurun', 'mothaneun', 'floaming', '13th', 'rooks', 'decapitated', 'contortion', 'twinkled', 'grotto', 'angel', 'surname', 'maseul', 'keolleonghae', 'hairline', 'peojyeoganeun', 'anger', 'lunches', 'sublime', 'fruity', 'kizuato']
+topic:  83
+['jarhaejunikka', 'lastin', 'geeulleodo', 'dolphin', 'chemically', 'youngsters', 'clubsocial', 'exchange', 'astral', 'discover', 'sseogeosseo', 'period', 'bulls', 'santos', 'band', '1951', 'tage', 'chastised', 'straighter', 'seolleme', 'ssah', 'shrines', 'modeun', 'indescribable', 'surname']
+topic:  84
+['god', 'lord', 'praise', 'jesus', 'holy', 'glory', 'worship', 'worthy', 'great', 'earth', 'hallelujah', 'grace', 'hands', 'live', 'king', 'reigns', 'presence', 'lead', 'awesome', 'everything', 'bridge', 'greater', 'alleluia', 'lamb', 'light']
+topic:  85
+['sir', 'maseul', 'keolleonghae', 'mothaneun', 'floaming', '13th', 'contortion', 'twinkled', 'grotto', 'angel', 'surname', 'rooks', 'hairline', 'peojyeoganeun', 'lunches', 'rugged', 'sublime', 'fruity', 'kizuato', 'oorai', 'fruits', 'dissed', 'yabure', 'tsunoru', 'optimism']
+topic:  86
+['maseul', 'anger', 'decapitated', 'mothaneun', 'floaming', '13th', 'contortion', 'twinkled', 'grotto', 'angel', 'surname', 'rooks', 'hairline', 'peojyeoganeun', 'keolleonghae', 'lunches', 'sublime', 'fruity', 'kizuato', 'oorai', 'fruits', 'dissed', 'yabure', 'tsunoru', 'optimism']
+topic:  87
+['ganjikhanche', 'inc', 'asians', 'harbor', 'berkekalan', 'cop', 'spair', 'flops', 'eva', 'artifact', 'dawson', 'saiyan', 'adequately', 'sya', 'uptown', 'wilding', 'ungh', 'medicated', '60', 'diffrent', 'letoya', 'inflimation', 'generator', 'packs', 'dlyfe']
+topic:  88
+['hypertension', 'peojyeoganeun', 'stash', 'decapitated', 'mothaneun', 'floaming', '13th', 'contortion', 'twinkled', 'grotto', 'angel', 'surname', 'rooks', 'hairline', 'keolleonghae', 'sijak', 'lunches', 'sublime', 'fruity', 'kizuato', 'oorai', 'fruits', 'dissed', 'yabure', 'tsunoru']
+topic:  89
+['kkumirago', 'maseul', 'keolleonghae', 'mothaneun', 'floaming', '13th', 'contortion', 'twinkled', 'grotto', 'angel', 'surname', 'rooks', 'hairline', 'peojyeoganeun', 'lunches', 'rugged', 'sublime', 'fruity', 'kizuato', 'oorai', 'fruits', 'dissed', 'yabure', 'tsunoru', 'optimism']
+topic:  90
+['1910', 'maseul', 'hairline', 'stash', 'decapitated', 'mothaneun', 'floaming', '13th', 'contortion', 'twinkled', 'grotto', 'angel', 'surname', 'rooks', 'peojyeoganeun', 'venomz', 'keolleonghae', 'lunches', 'sublime', 'fruity', 'kizuato', 'oorai', 'fruits', 'dissed', 'yabure']
+topic:  91
+['bummer', 'maseul', 'peojyeoganeun', 'decapitated', 'mothaneun', 'floaming', '13th', 'contortion', 'twinkled', 'grotto', 'angel', 'surname', 'rooks', 'hairline', 'keolleonghae', 'anger', 'lunches', 'sublime', 'fruity', 'kizuato', 'oorai', 'fruits', 'dissed', 'yabure', 'tsunoru']
+topic:  92
+['st', 'aint', 'like', 'verse', 'got', 'nigga', 'em', 'money', 'yo', 'ns', 'fk', 'big', 'boy', 'hook', 'still', 'na', 'black', 'shit', 'young', 'ya', 'wit', 'gon', 'dog', 'bs', 'imma']
+topic:  93
+['nomi', 'lawmakers', 'yeahuh', 'maseul', 'hairline', 'decapitated', 'mothaneun', 'floaming', '13th', 'contortion', 'twinkled', 'grotto', 'angel', 'surname', 'rooks', 'keolleonghae', 'peojyeoganeun', 'lunches', 'sublime', 'fruity', 'kizuato', 'oorai', 'fruits', 'dissed', 'yabure']
+topic:  94
+['diggin', 'slaves', 'tearstains', 'maseul', 'hairline', 'stash', 'decapitated', 'mothaneun', 'floaming', '13th', 'contortion', 'twinkled', 'grotto', 'angel', 'surname', 'rooks', 'keolleonghae', 'peojyeoganeun', 'venomz', 'lunches', 'sublime', 'fruity', 'kizuato', 'oorai', 'fruits']
+topic:  95
+['mimi', 'fat', 'roger', 'restaurant', 'th', 'manager', 'poo', 'bottle', 'law', 'alices', 'yardin', 'mark', 'booze', 'joe', 'buy', 'shark', 'abiyoyo', 'aginst', 'collins', 'mufferaw', 'twenty', 'father', 'billy', 'pushing', 'came']
+topic:  96
+['compured', 'maseul', 'peojyeoganeun', 'decapitated', 'mothaneun', 'floaming', '13th', 'contortion', 'twinkled', 'grotto', 'angel', 'surname', 'rooks', 'hairline', 'keolleonghae', 'sijak', 'lunches', 'sublime', 'fruity', 'kizuato', 'oorai', 'fruits', 'dissed', 'yabure', 'tsunoru']
+topic:  97
+['never', 'la', 'little', 'love', 'like', 'oh', 'every', 'dream', 'stay', 'one', 'got', 'nothing', 'us', 'ask', 'goodbye', 'christmas', 'wish', 'comes', 'everything', 'light', 'may', 'know', 'another', 'song', 'moment']
+topic:  98
+['award', 'maseul', 'keolleonghae', 'mothaneun', 'floaming', '13th', 'contortion', 'twinkled', 'grotto', 'angel', 'surname', 'rooks', 'hairline', 'peojyeoganeun', 'lunches', 'stash', 'sublime', 'fruity', 'kizuato', 'oorai', 'fruits', 'dissed', 'yabure', 'tsunoru', 'optimism']
+topic:  99
+['jia', 'stimpy', 'accustomed', 'ren', 'grown', 'ohh', 'nae', 'fei', 'min', 'nan', 'stand', 'nottaeme', 'jakkuman', 'ne', 'chove', 'mada', 'ttae', 'breathing', 'holiday', 'ge', 'modeun', 'gaseumi', 'dapdaphae', 'suzy', 'looks']
+########################
+Genre reggae
+Topic 36 for genre reggae (count: 3079)
+['mi', 'police', 'jah', 'dem', 'fight', 'ah', 'whatcha', 'yuh', 'burnin', 'fi', 'arise', 'chuck', 'nuh', 'weh', 'boys', 'woman', 'children', 'different', 'africa', 'ten', 'train', 'respect', 'apartheid', 'di', 'gainst']
+Topic 63 for genre reggae (count: 1886)
+['love', 'know', 'time', 'oh', 'go', 'say', 'night', 'away', 'gonna', 'see', 'way', 'heart', 'baby', 'one', 'want', 'day', 'got', 'always', 'like', 'eyes', 'mind', 'good', 'home', 'tell', 'feel']
+Topic 41 for genre reggae (count: 1839)
+['like', 'get', 'know', 'got', 'back', 'aint', 'yeah', 'cause', 'make', 'na', 'wanna', 'baby', 'go', 'one', 'see', 'right', 'never', 'come', 'time', 'take', 'want', 'need', 'say', 'put', 'girl']
+Topic 35 for genre reggae (count: 1073)
+['love', 'come', 'oh', 'chorus', 'let', 'know', 'see', 'life', 'take', 'lord', 'like', 'heart', 'world', 'give', 'us', 'yes', 'one', 'never', 'need', 'every', 'cause', 'way', 'go', 'things', 'name']
+Topic 97 for genre reggae (count: 562)
+['never', 'la', 'little', 'love', 'like', 'oh', 'every', 'dream', 'stay', 'one', 'got', 'nothing', 'us', 'ask', 'goodbye', 'christmas', 'wish', 'comes', 'everything', 'light', 'may', 'know', 'another', 'song', 'moment']
+Genre latin
+Topic 6 for genre latin (count: 3225)
+['que', 'sleep', 'bla', 'bad', 'tu', 'la', 'loco', 'de', 'cant', 'te', 'y', 'want', 'alegria', 'ah', 'jiyoon', 'alabao', 'got', 'un', 'por', 'attention', 'bongo', 'yo', 'king', 'macarena', 'carry']
+Topic 63 for genre latin (count: 1495)
+['love', 'know', 'time', 'oh', 'go', 'say', 'night', 'away', 'gonna', 'see', 'way', 'heart', 'baby', 'one', 'want', 'day', 'got', 'always', 'like', 'eyes', 'mind', 'good', 'home', 'tell', 'feel']
+Topic 41 for genre latin (count: 1212)
+['like', 'get', 'know', 'got', 'back', 'aint', 'yeah', 'cause', 'make', 'na', 'wanna', 'baby', 'go', 'one', 'see', 'right', 'never', 'come', 'time', 'take', 'want', 'need', 'say', 'put', 'girl']
+Topic 28 for genre latin (count: 696)
+['hold', 'girl', 'old', 'cause', 'love', 'boy', 'know', 'one', 'close', 'till', 'care', 'like', 'getting', 'way', 'fun', 'baby', 'lonely', 'round', 'goes', 'make', 'miss', 'without', 'beautiful', 'really', 'alone']
+Topic 97 for genre latin (count: 552)
+['never', 'la', 'little', 'love', 'like', 'oh', 'every', 'dream', 'stay', 'one', 'got', 'nothing', 'us', 'ask', 'goodbye', 'christmas', 'wish', 'comes', 'everything', 'light', 'may', 'know', 'another', 'song', 'moment']
+Genre holiday
+Topic 97 for genre holiday (count: 565)
+['never', 'la', 'little', 'love', 'like', 'oh', 'every', 'dream', 'stay', 'one', 'got', 'nothing', 'us', 'ask', 'goodbye', 'christmas', 'wish', 'comes', 'everything', 'light', 'may', 'know', 'another', 'song', 'moment']
+Topic 45 for genre holiday (count: 157)
+['raitata', 'noel', 'amarantine', 'gloria', 'reindeer', 'fa', 'totari', 'ta', 'ridu', 'sajaja', 'radu', 'rex', 'rota', 'bramani', 'infinita', 'teeth', 'boumboumboum', 'et', 'est', 'jubilate', 'adoramus', 'rudolph', 'israel', 'ad', 'omina']
+Topic 84 for genre holiday (count: 146)
+['god', 'lord', 'praise', 'jesus', 'holy', 'glory', 'worship', 'worthy', 'great', 'earth', 'hallelujah', 'grace', 'hands', 'live', 'king', 'reigns', 'presence', 'lead', 'awesome', 'everything', 'bridge', 'greater', 'alleluia', 'lamb', 'light']
+Topic 35 for genre holiday (count: 140)
+['love', 'come', 'oh', 'chorus', 'let', 'know', 'see', 'life', 'take', 'lord', 'like', 'heart', 'world', 'give', 'us', 'yes', 'one', 'never', 'need', 'every', 'cause', 'way', 'go', 'things', 'name']
+Topic 63 for genre holiday (count: 61)
+['love', 'know', 'time', 'oh', 'go', 'say', 'night', 'away', 'gonna', 'see', 'way', 'heart', 'baby', 'one', 'want', 'day', 'got', 'always', 'like', 'eyes', 'mind', 'good', 'home', 'tell', 'feel']
+Genre stage & screen
+Topic 63 for genre stage & screen (count: 3918)
+['love', 'know', 'time', 'oh', 'go', 'say', 'night', 'away', 'gonna', 'see', 'way', 'heart', 'baby', 'one', 'want', 'day', 'got', 'always', 'like', 'eyes', 'mind', 'good', 'home', 'tell', 'feel']
+Topic 41 for genre stage & screen (count: 2746)
+['like', 'get', 'know', 'got', 'back', 'aint', 'yeah', 'cause', 'make', 'na', 'wanna', 'baby', 'go', 'one', 'see', 'right', 'never', 'come', 'time', 'take', 'want', 'need', 'say', 'put', 'girl']
+Topic 8 for genre stage & screen (count: 2742)
+['gabriella', 'troy', 'ryan', 'sharpay', 'rachel', 'chad', 'brody', 'fabulous', 'toni', 'batter', 'christine', 'horse', 'piolo', 'mary', 'tina', 'longer', 'everyday', 'miracles', 'bop', 'cannonball', 'bet', 'syne', 'evryday', 'fer', 'annie']
+Topic 97 for genre stage & screen (count: 1493)
+['never', 'la', 'little', 'love', 'like', 'oh', 'every', 'dream', 'stay', 'one', 'got', 'nothing', 'us', 'ask', 'goodbye', 'christmas', 'wish', 'comes', 'everything', 'light', 'may', 'know', 'another', 'song', 'moment']
+Topic 28 for genre stage & screen (count: 1487)
+['hold', 'girl', 'old', 'cause', 'love', 'boy', 'know', 'one', 'close', 'till', 'care', 'like', 'getting', 'way', 'fun', 'baby', 'lonely', 'round', 'goes', 'make', 'miss', 'without', 'beautiful', 'really', 'alone']
+Genre electronic
+Topic 37 for genre electronic (count: 9514)
+['sun', 'boom', 'around', 'sa', 'mr', 'gee', 'ah', 'tiffany', 'yyeah', 'ang', 'bimbo', 'mo', 'jessica', 'ko', 'king', 'taeyeon', 'christmas', 'rim', 'ka', 'ladies', 'halloween', 'da', 'consider', 'ga', 'passing']
+Topic 41 for genre electronic (count: 9260)
+['like', 'get', 'know', 'got', 'back', 'aint', 'yeah', 'cause', 'make', 'na', 'wanna', 'baby', 'go', 'one', 'see', 'right', 'never', 'come', 'time', 'take', 'want', 'need', 'say', 'put', 'girl']
+Topic 63 for genre electronic (count: 8275)
+['love', 'know', 'time', 'oh', 'go', 'say', 'night', 'away', 'gonna', 'see', 'way', 'heart', 'baby', 'one', 'want', 'day', 'got', 'always', 'like', 'eyes', 'mind', 'good', 'home', 'tell', 'feel']
+Topic 35 for genre electronic (count: 4664)
+['love', 'come', 'oh', 'chorus', 'let', 'know', 'see', 'life', 'take', 'lord', 'like', 'heart', 'world', 'give', 'us', 'yes', 'one', 'never', 'need', 'every', 'cause', 'way', 'go', 'things', 'name']
+Topic 28 for genre electronic (count: 3799)
+['hold', 'girl', 'old', 'cause', 'love', 'boy', 'know', 'one', 'close', 'till', 'care', 'like', 'getting', 'way', 'fun', 'baby', 'lonely', 'round', 'goes', 'make', 'miss', 'without', 'beautiful', 'really', 'alone']
+Genre children's
+Topic 41 for genre children's (count: 2052)
+['like', 'get', 'know', 'got', 'back', 'aint', 'yeah', 'cause', 'make', 'na', 'wanna', 'baby', 'go', 'one', 'see', 'right', 'never', 'come', 'time', 'take', 'want', 'need', 'say', 'put', 'girl']
+Topic 34 for genre children's (count: 1558)
+['ring', 'ch', 'cmon', 'dig', 'rock', 'determinate', 'rhythm', 'aglet', 'secret', 'nose', 'teeth', 'king', 'erika', 'hot', 'finger', 'carrying', 'banner', 'noise', 'medda', 'newsies', 'princess', 'beach', 'spongebob', 'ratcliffe', 'headline']
+Topic 63 for genre children's (count: 1243)
+['love', 'know', 'time', 'oh', 'go', 'say', 'night', 'away', 'gonna', 'see', 'way', 'heart', 'baby', 'one', 'want', 'day', 'got', 'always', 'like', 'eyes', 'mind', 'good', 'home', 'tell', 'feel']
+Topic 97 for genre children's (count: 876)
+['never', 'la', 'little', 'love', 'like', 'oh', 'every', 'dream', 'stay', 'one', 'got', 'nothing', 'us', 'ask', 'goodbye', 'christmas', 'wish', 'comes', 'everything', 'light', 'may', 'know', 'another', 'song', 'moment']
+Topic 35 for genre children's (count: 756)
+['love', 'come', 'oh', 'chorus', 'let', 'know', 'see', 'life', 'take', 'lord', 'like', 'heart', 'world', 'give', 'us', 'yes', 'one', 'never', 'need', 'every', 'cause', 'way', 'go', 'things', 'name']
+Genre country
+Topic 63 for genre country (count: 22762)
+['love', 'know', 'time', 'oh', 'go', 'say', 'night', 'away', 'gonna', 'see', 'way', 'heart', 'baby', 'one', 'want', 'day', 'got', 'always', 'like', 'eyes', 'mind', 'good', 'home', 'tell', 'feel']
+Topic 41 for genre country (count: 13793)
+['like', 'get', 'know', 'got', 'back', 'aint', 'yeah', 'cause', 'make', 'na', 'wanna', 'baby', 'go', 'one', 'see', 'right', 'never', 'come', 'time', 'take', 'want', 'need', 'say', 'put', 'girl']
+Topic 97 for genre country (count: 10664)
+['never', 'la', 'little', 'love', 'like', 'oh', 'every', 'dream', 'stay', 'one', 'got', 'nothing', 'us', 'ask', 'goodbye', 'christmas', 'wish', 'comes', 'everything', 'light', 'may', 'know', 'another', 'song', 'moment']
+Topic 28 for genre country (count: 8940)
+['hold', 'girl', 'old', 'cause', 'love', 'boy', 'know', 'one', 'close', 'till', 'care', 'like', 'getting', 'way', 'fun', 'baby', 'lonely', 'round', 'goes', 'make', 'miss', 'without', 'beautiful', 'really', 'alone']
+Topic 35 for genre country (count: 6397)
+['love', 'come', 'oh', 'chorus', 'let', 'know', 'see', 'life', 'take', 'lord', 'like', 'heart', 'world', 'give', 'us', 'yes', 'one', 'never', 'need', 'every', 'cause', 'way', 'go', 'things', 'name']
+Genre jazz
+Topic 63 for genre jazz (count: 3980)
+['love', 'know', 'time', 'oh', 'go', 'say', 'night', 'away', 'gonna', 'see', 'way', 'heart', 'baby', 'one', 'want', 'day', 'got', 'always', 'like', 'eyes', 'mind', 'good', 'home', 'tell', 'feel']
+Topic 41 for genre jazz (count: 3640)
+['like', 'get', 'know', 'got', 'back', 'aint', 'yeah', 'cause', 'make', 'na', 'wanna', 'baby', 'go', 'one', 'see', 'right', 'never', 'come', 'time', 'take', 'want', 'need', 'say', 'put', 'girl']
+Topic 35 for genre jazz (count: 2022)
+['love', 'come', 'oh', 'chorus', 'let', 'know', 'see', 'life', 'take', 'lord', 'like', 'heart', 'world', 'give', 'us', 'yes', 'one', 'never', 'need', 'every', 'cause', 'way', 'go', 'things', 'name']
+Topic 78 for genre jazz (count: 1884)
+['ang', 'sa', 'ko', 'ay', 'alam', 'ako', 'di', 'andrew', 'ng', 'weightless', 'lahat', 'calling', 'ireum', 'ba', 'thats', 'fk', 'bingo', 'akoy', 'fax', 'lang', 'grows', 'kung', 'bureunun', 'kailan', 'pa']
+Topic 12 for genre jazz (count: 1223)
+['falling', 'baby', 'oh', 'want', 'never', 'alright', 'anymore', 'red', 'hold', 'everyone', 'nal', 'darling', 'black', 'someone', 'care', 'run', 'wanted', 'keep', 'change', 'sleep', 'fight', 'apart', 'dance', 'past', 'cant']
+Genre vocal
+Topic 63 for genre vocal (count: 6937)
+['love', 'know', 'time', 'oh', 'go', 'say', 'night', 'away', 'gonna', 'see', 'way', 'heart', 'baby', 'one', 'want', 'day', 'got', 'always', 'like', 'eyes', 'mind', 'good', 'home', 'tell', 'feel']
+Topic 97 for genre vocal (count: 4530)
+['never', 'la', 'little', 'love', 'like', 'oh', 'every', 'dream', 'stay', 'one', 'got', 'nothing', 'us', 'ask', 'goodbye', 'christmas', 'wish', 'comes', 'everything', 'light', 'may', 'know', 'another', 'song', 'moment']
+Topic 35 for genre vocal (count: 3657)
+['love', 'come', 'oh', 'chorus', 'let', 'know', 'see', 'life', 'take', 'lord', 'like', 'heart', 'world', 'give', 'us', 'yes', 'one', 'never', 'need', 'every', 'cause', 'way', 'go', 'things', 'name']
+Topic 28 for genre vocal (count: 2563)
+['hold', 'girl', 'old', 'cause', 'love', 'boy', 'know', 'one', 'close', 'till', 'care', 'like', 'getting', 'way', 'fun', 'baby', 'lonely', 'round', 'goes', 'make', 'miss', 'without', 'beautiful', 'really', 'alone']
+Topic 61 for genre vocal (count: 1697)
+['ai', 'amandla', 'washed', 'josh', 'bernadine', 'para', 'siempre', 'amigos', 'sera', 'lancashire', 'square', 'muscle', 'c7', 'danke', 'berkley', 'negative', 'eight', 'brawn', 'auntie', 'sway', 'schoen', 'rio', 'sweetheart', 'biceps', 'foggy']
+Genre easy listening
+Topic 63 for genre easy listening (count: 1071)
+['love', 'know', 'time', 'oh', 'go', 'say', 'night', 'away', 'gonna', 'see', 'way', 'heart', 'baby', 'one', 'want', 'day', 'got', 'always', 'like', 'eyes', 'mind', 'good', 'home', 'tell', 'feel']
+Topic 99 for genre easy listening (count: 1029)
+['jia', 'stimpy', 'accustomed', 'ren', 'grown', 'ohh', 'nae', 'fei', 'min', 'nan', 'stand', 'nottaeme', 'jakkuman', 'ne', 'chove', 'mada', 'ttae', 'breathing', 'holiday', 'ge', 'modeun', 'gaseumi', 'dapdaphae', 'suzy', 'looks']
+Topic 41 for genre easy listening (count: 350)
+['like', 'get', 'know', 'got', 'back', 'aint', 'yeah', 'cause', 'make', 'na', 'wanna', 'baby', 'go', 'one', 'see', 'right', 'never', 'come', 'time', 'take', 'want', 'need', 'say', 'put', 'girl']
+Topic 97 for genre easy listening (count: 318)
+['never', 'la', 'little', 'love', 'like', 'oh', 'every', 'dream', 'stay', 'one', 'got', 'nothing', 'us', 'ask', 'goodbye', 'christmas', 'wish', 'comes', 'everything', 'light', 'may', 'know', 'another', 'song', 'moment']
+Topic 35 for genre easy listening (count: 306)
+['love', 'come', 'oh', 'chorus', 'let', 'know', 'see', 'life', 'take', 'lord', 'like', 'heart', 'world', 'give', 'us', 'yes', 'one', 'never', 'need', 'every', 'cause', 'way', 'go', 'things', 'name']
+Genre new age
+Topic 45 for genre new age (count: 443)
+['raitata', 'noel', 'amarantine', 'gloria', 'reindeer', 'fa', 'totari', 'ta', 'ridu', 'sajaja', 'radu', 'rex', 'rota', 'bramani', 'infinita', 'teeth', 'boumboumboum', 'et', 'est', 'jubilate', 'adoramus', 'rudolph', 'israel', 'ad', 'omina']
+Topic 35 for genre new age (count: 434)
+['love', 'come', 'oh', 'chorus', 'let', 'know', 'see', 'life', 'take', 'lord', 'like', 'heart', 'world', 'give', 'us', 'yes', 'one', 'never', 'need', 'every', 'cause', 'way', 'go', 'things', 'name']
+Topic 63 for genre new age (count: 384)
+['love', 'know', 'time', 'oh', 'go', 'say', 'night', 'away', 'gonna', 'see', 'way', 'heart', 'baby', 'one', 'want', 'day', 'got', 'always', 'like', 'eyes', 'mind', 'good', 'home', 'tell', 'feel']
+Topic 97 for genre new age (count: 262)
+['never', 'la', 'little', 'love', 'like', 'oh', 'every', 'dream', 'stay', 'one', 'got', 'nothing', 'us', 'ask', 'goodbye', 'christmas', 'wish', 'comes', 'everything', 'light', 'may', 'know', 'another', 'song', 'moment']
+Topic 28 for genre new age (count: 89)
+['hold', 'girl', 'old', 'cause', 'love', 'boy', 'know', 'one', 'close', 'till', 'care', 'like', 'getting', 'way', 'fun', 'baby', 'lonely', 'round', 'goes', 'make', 'miss', 'without', 'beautiful', 'really', 'alone']
+Genre r&b
+Topic 41 for genre r&b (count: 29808)
+['like', 'get', 'know', 'got', 'back', 'aint', 'yeah', 'cause', 'make', 'na', 'wanna', 'baby', 'go', 'one', 'see', 'right', 'never', 'come', 'time', 'take', 'want', 'need', 'say', 'put', 'girl']
+Topic 63 for genre r&b (count: 24264)
+['love', 'know', 'time', 'oh', 'go', 'say', 'night', 'away', 'gonna', 'see', 'way', 'heart', 'baby', 'one', 'want', 'day', 'got', 'always', 'like', 'eyes', 'mind', 'good', 'home', 'tell', 'feel']
+Topic 19 for genre r&b (count: 21980)
+['baby', 'love', 'girl', 'aint', 'ooh', 'oh', 'make', 'nobody', 'wanna', 'yeah', 'thing', '4', 'shake', 'boy', 'let', 'body', 'real', 'tonight', 'whoa', 'feels', 'everything', 'oo', 'chain', 'nothing', 'christmas']
+Topic 35 for genre r&b (count: 15481)
+['love', 'come', 'oh', 'chorus', 'let', 'know', 'see', 'life', 'take', 'lord', 'like', 'heart', 'world', 'give', 'us', 'yes', 'one', 'never', 'need', 'every', 'cause', 'way', 'go', 'things', 'name']
+Topic 28 for genre r&b (count: 8360)
+['hold', 'girl', 'old', 'cause', 'love', 'boy', 'know', 'one', 'close', 'till', 'care', 'like', 'getting', 'way', 'fun', 'baby', 'lonely', 'round', 'goes', 'make', 'miss', 'without', 'beautiful', 'really', 'alone']
+Genre avant-garde
+Topic 16 for genre avant-garde (count: 181)
+['oh', 'take', 'alone', 'inside', 'let', 'feel', 'left', 'life', 'ni', 'never', 'save', 'back', 'come', 'nothing', 'stop', 'running', 'waiting', 'die', 'everybody', 'know', 'dead', 'us', 'broken', 'hear', 'find']
+Topic 63 for genre avant-garde (count: 127)
+['love', 'know', 'time', 'oh', 'go', 'say', 'night', 'away', 'gonna', 'see', 'way', 'heart', 'baby', 'one', 'want', 'day', 'got', 'always', 'like', 'eyes', 'mind', 'good', 'home', 'tell', 'feel']
+Topic 28 for genre avant-garde (count: 100)
+['hold', 'girl', 'old', 'cause', 'love', 'boy', 'know', 'one', 'close', 'till', 'care', 'like', 'getting', 'way', 'fun', 'baby', 'lonely', 'round', 'goes', 'make', 'miss', 'without', 'beautiful', 'really', 'alone']
+Topic 41 for genre avant-garde (count: 61)
+['like', 'get', 'know', 'got', 'back', 'aint', 'yeah', 'cause', 'make', 'na', 'wanna', 'baby', 'go', 'one', 'see', 'right', 'never', 'come', 'time', 'take', 'want', 'need', 'say', 'put', 'girl']
+Topic 1 for genre avant-garde (count: 12)
+['gakkeumeun', 'arungoryo', 'thrash', 'entire', 'shepherd', 'ayayay', 'yowaki', 'goldblatz', 'ikikata', 'jaen', 'carefull', 'daydreamers', 'went', 'keredo', 'goseneun', 'pennys', 'wilds', 'orega', 'sykes', 'siganeun', 'unexamined', 'bakari', 'yamu', 'memory', 'ciy']
+Genre pop/rock
+Topic 63 for genre pop/rock (count: 165679)
+['love', 'know', 'time', 'oh', 'go', 'say', 'night', 'away', 'gonna', 'see', 'way', 'heart', 'baby', 'one', 'want', 'day', 'got', 'always', 'like', 'eyes', 'mind', 'good', 'home', 'tell', 'feel']
+Topic 41 for genre pop/rock (count: 111426)
+['like', 'get', 'know', 'got', 'back', 'aint', 'yeah', 'cause', 'make', 'na', 'wanna', 'baby', 'go', 'one', 'see', 'right', 'never', 'come', 'time', 'take', 'want', 'need', 'say', 'put', 'girl']
+Topic 97 for genre pop/rock (count: 78058)
+['never', 'la', 'little', 'love', 'like', 'oh', 'every', 'dream', 'stay', 'one', 'got', 'nothing', 'us', 'ask', 'goodbye', 'christmas', 'wish', 'comes', 'everything', 'light', 'may', 'know', 'another', 'song', 'moment']
+Topic 16 for genre pop/rock (count: 73605)
+['oh', 'take', 'alone', 'inside', 'let', 'feel', 'left', 'life', 'ni', 'never', 'save', 'back', 'come', 'nothing', 'stop', 'running', 'waiting', 'die', 'everybody', 'know', 'dead', 'us', 'broken', 'hear', 'find']
+Topic 28 for genre pop/rock (count: 57965)
+['hold', 'girl', 'old', 'cause', 'love', 'boy', 'know', 'one', 'close', 'till', 'care', 'like', 'getting', 'way', 'fun', 'baby', 'lonely', 'round', 'goes', 'make', 'miss', 'without', 'beautiful', 'really', 'alone']
+Genre folk
+Topic 63 for genre folk (count: 4149)
+['love', 'know', 'time', 'oh', 'go', 'say', 'night', 'away', 'gonna', 'see', 'way', 'heart', 'baby', 'one', 'want', 'day', 'got', 'always', 'like', 'eyes', 'mind', 'good', 'home', 'tell', 'feel']
+Topic 95 for genre folk (count: 3430)
+['mimi', 'fat', 'roger', 'restaurant', 'th', 'manager', 'poo', 'bottle', 'law', 'alices', 'yardin', 'mark', 'booze', 'joe', 'buy', 'shark', 'abiyoyo', 'aginst', 'collins', 'mufferaw', 'twenty', 'father', 'billy', 'pushing', 'came']
+Topic 97 for genre folk (count: 2363)
+['never', 'la', 'little', 'love', 'like', 'oh', 'every', 'dream', 'stay', 'one', 'got', 'nothing', 'us', 'ask', 'goodbye', 'christmas', 'wish', 'comes', 'everything', 'light', 'may', 'know', 'another', 'song', 'moment']
+Topic 41 for genre folk (count: 1848)
+['like', 'get', 'know', 'got', 'back', 'aint', 'yeah', 'cause', 'make', 'na', 'wanna', 'baby', 'go', 'one', 'see', 'right', 'never', 'come', 'time', 'take', 'want', 'need', 'say', 'put', 'girl']
+Topic 35 for genre folk (count: 1403)
+['love', 'come', 'oh', 'chorus', 'let', 'know', 'see', 'life', 'take', 'lord', 'like', 'heart', 'world', 'give', 'us', 'yes', 'one', 'never', 'need', 'every', 'cause', 'way', 'go', 'things', 'name']
+Genre rap
+Topic 41 for genre rap (count: 69434)
+['like', 'get', 'know', 'got', 'back', 'aint', 'yeah', 'cause', 'make', 'na', 'wanna', 'baby', 'go', 'one', 'see', 'right', 'never', 'come', 'time', 'take', 'want', 'need', 'say', 'put', 'girl']
+Topic 92 for genre rap (count: 53894)
+['st', 'aint', 'like', 'verse', 'got', 'nigga', 'em', 'money', 'yo', 'ns', 'fk', 'big', 'boy', 'hook', 'still', 'na', 'black', 'shit', 'young', 'ya', 'wit', 'gon', 'dog', 'bs', 'imma']
+Topic 14 for genre rap (count: 14766)
+['game', 'bh', 'tryin', 'gettin', 'house', 'everybody', 'hop', 'jump', 'rock', 'style', 'hood', 'sound', 'ball', 'talking', 'front', 'mind', 'ns', 'quick', 'motherfuckers', 'since', 'round', 'feeling', 'lookin', 'three', 'train']
+Topic 63 for genre rap (count: 12565)
+['love', 'know', 'time', 'oh', 'go', 'say', 'night', 'away', 'gonna', 'see', 'way', 'heart', 'baby', 'one', 'want', 'day', 'got', 'always', 'like', 'eyes', 'mind', 'good', 'home', 'tell', 'feel']
+Topic 55 for genre rap (count: 11416)
+['alright', 'yall', 'bh', 'aim', 'motherfuckin', 'fast', 'couple', 'ngga', 'rhymes', 'kid', '24', 'fd', 'buck', 'dollars', 'gold', 'pass', 'gucci', 'truck', 'stage', 'whatever', 'playa', 'motherfucker', 'bars', '500', '5']
+Genre international
+Topic 46 for genre international (count: 12589)
+['nae', 'na', 'oh', 'body', 'ni', 'whoo', 'nan', 'baby', 'neo', 'hyorin', 'black', 'dey', 'ma', 'woo', 'hoo', 'rock', 'neol', 'ga', 'deo', 'never', 'nal', 'wa', 'dancing', 'la', 'niel']
+Topic 63 for genre international (count: 4437)
+['love', 'know', 'time', 'oh', 'go', 'say', 'night', 'away', 'gonna', 'see', 'way', 'heart', 'baby', 'one', 'want', 'day', 'got', 'always', 'like', 'eyes', 'mind', 'good', 'home', 'tell', 'feel']
+Topic 41 for genre international (count: 2905)
+['like', 'get', 'know', 'got', 'back', 'aint', 'yeah', 'cause', 'make', 'na', 'wanna', 'baby', 'go', 'one', 'see', 'right', 'never', 'come', 'time', 'take', 'want', 'need', 'say', 'put', 'girl']
+Topic 35 for genre international (count: 2002)
+['love', 'come', 'oh', 'chorus', 'let', 'know', 'see', 'life', 'take', 'lord', 'like', 'heart', 'world', 'give', 'us', 'yes', 'one', 'never', 'need', 'every', 'cause', 'way', 'go', 'things', 'name']
+Topic 28 for genre international (count: 1515)
+['hold', 'girl', 'old', 'cause', 'love', 'boy', 'know', 'one', 'close', 'till', 'care', 'like', 'getting', 'way', 'fun', 'baby', 'lonely', 'round', 'goes', 'make', 'miss', 'without', 'beautiful', 'really', 'alone']
+Genre blues
+Topic 63 for genre blues (count: 3066)
+['love', 'know', 'time', 'oh', 'go', 'say', 'night', 'away', 'gonna', 'see', 'way', 'heart', 'baby', 'one', 'want', 'day', 'got', 'always', 'like', 'eyes', 'mind', 'good', 'home', 'tell', 'feel']
+Topic 11 for genre blues (count: 2003)
+['wiggle', 'woman', 'halo', 'lovin', 'wayooh', 'aint', 'blues', 'lord', 'row', 'man', 'old', 'sure', 'beer', 'instrumental', 'womans', 'sunshine', 'honey', 'friday', 'band', 'almost', 'eww', 'songs', 'caught', 'told', 'dollar']
+Topic 41 for genre blues (count: 1355)
+['like', 'get', 'know', 'got', 'back', 'aint', 'yeah', 'cause', 'make', 'na', 'wanna', 'baby', 'go', 'one', 'see', 'right', 'never', 'come', 'time', 'take', 'want', 'need', 'say', 'put', 'girl']
+Topic 97 for genre blues (count: 880)
+['never', 'la', 'little', 'love', 'like', 'oh', 'every', 'dream', 'stay', 'one', 'got', 'nothing', 'us', 'ask', 'goodbye', 'christmas', 'wish', 'comes', 'everything', 'light', 'may', 'know', 'another', 'song', 'moment']
+Topic 28 for genre blues (count: 746)
+['hold', 'girl', 'old', 'cause', 'love', 'boy', 'know', 'one', 'close', 'till', 'care', 'like', 'getting', 'way', 'fun', 'baby', 'lonely', 'round', 'goes', 'make', 'miss', 'without', 'beautiful', 'really', 'alone']
+Genre comedy/spoken
+Topic 41 for genre comedy/spoken (count: 2074)
+['like', 'get', 'know', 'got', 'back', 'aint', 'yeah', 'cause', 'make', 'na', 'wanna', 'baby', 'go', 'one', 'see', 'right', 'never', 'come', 'time', 'take', 'want', 'need', 'say', 'put', 'girl']
+Topic 72 for genre comedy/spoken (count: 1753)
+['boom', 'albuquerque', 'bloat', 'happy', 'splitlevel', 'cheech', 'dave', 'chong', 'm', 'snort', 'spuds', 'ha', 'amy', 'albi', 'airline', 'paula', 'addicted', 'honkies', 'bowie', 'chuga', 'artist', 'lassie', 'booty', 'cocaine', 'king']
+Topic 63 for genre comedy/spoken (count: 844)
+['love', 'know', 'time', 'oh', 'go', 'say', 'night', 'away', 'gonna', 'see', 'way', 'heart', 'baby', 'one', 'want', 'day', 'got', 'always', 'like', 'eyes', 'mind', 'good', 'home', 'tell', 'feel']
+Topic 97 for genre comedy/spoken (count: 592)
+['never', 'la', 'little', 'love', 'like', 'oh', 'every', 'dream', 'stay', 'one', 'got', 'nothing', 'us', 'ask', 'goodbye', 'christmas', 'wish', 'comes', 'everything', 'light', 'may', 'know', 'another', 'song', 'moment']
+Topic 28 for genre comedy/spoken (count: 520)
+['hold', 'girl', 'old', 'cause', 'love', 'boy', 'know', 'one', 'close', 'till', 'care', 'like', 'getting', 'way', 'fun', 'baby', 'lonely', 'round', 'goes', 'make', 'miss', 'without', 'beautiful', 'really', 'alone']
+Genre religious
+Topic 35 for genre religious (count: 21138)
+['love', 'come', 'oh', 'chorus', 'let', 'know', 'see', 'life', 'take', 'lord', 'like', 'heart', 'world', 'give', 'us', 'yes', 'one', 'never', 'need', 'every', 'cause', 'way', 'go', 'things', 'name']
+Topic 84 for genre religious (count: 11262)
+['god', 'lord', 'praise', 'jesus', 'holy', 'glory', 'worship', 'worthy', 'great', 'earth', 'hallelujah', 'grace', 'hands', 'live', 'king', 'reigns', 'presence', 'lead', 'awesome', 'everything', 'bridge', 'greater', 'alleluia', 'lamb', 'light']
+Topic 63 for genre religious (count: 5762)
+['love', 'know', 'time', 'oh', 'go', 'say', 'night', 'away', 'gonna', 'see', 'way', 'heart', 'baby', 'one', 'want', 'day', 'got', 'always', 'like', 'eyes', 'mind', 'good', 'home', 'tell', 'feel']
+Topic 97 for genre religious (count: 3283)
+['never', 'la', 'little', 'love', 'like', 'oh', 'every', 'dream', 'stay', 'one', 'got', 'nothing', 'us', 'ask', 'goodbye', 'christmas', 'wish', 'comes', 'everything', 'light', 'may', 'know', 'another', 'song', 'moment']
+Topic 28 for genre religious (count: 1276)
+['hold', 'girl', 'old', 'cause', 'love', 'boy', 'know', 'one', 'close', 'till', 'care', 'like', 'getting', 'way', 'fun', 'baby', 'lonely', 'round', 'goes', 'make', 'miss', 'without', 'beautiful', 'really', 'alone']
+Genre classical
+Topic 78 for genre classical (count: 1549)
+['ang', 'sa', 'ko', 'ay', 'alam', 'ako', 'di', 'andrew', 'ng', 'weightless', 'lahat', 'calling', 'ireum', 'ba', 'thats', 'fk', 'bingo', 'akoy', 'fax', 'lang', 'grows', 'kung', 'bureunun', 'kailan', 'pa']
+Topic 41 for genre classical (count: 1050)
+['like', 'get', 'know', 'got', 'back', 'aint', 'yeah', 'cause', 'make', 'na', 'wanna', 'baby', 'go', 'one', 'see', 'right', 'never', 'come', 'time', 'take', 'want', 'need', 'say', 'put', 'girl']
+Topic 63 for genre classical (count: 1007)
+['love', 'know', 'time', 'oh', 'go', 'say', 'night', 'away', 'gonna', 'see', 'way', 'heart', 'baby', 'one', 'want', 'day', 'got', 'always', 'like', 'eyes', 'mind', 'good', 'home', 'tell', 'feel']
+Topic 35 for genre classical (count: 721)
+['love', 'come', 'oh', 'chorus', 'let', 'know', 'see', 'life', 'take', 'lord', 'like', 'heart', 'world', 'give', 'us', 'yes', 'one', 'never', 'need', 'every', 'cause', 'way', 'go', 'things', 'name']
+Topic 97 for genre classical (count: 497)
+['never', 'la', 'little', 'love', 'like', 'oh', 'every', 'dream', 'stay', 'one', 'got', 'nothing', 'us', 'ask', 'goodbye', 'christmas', 'wish', 'comes', 'everything', 'light', 'may', 'know', 'another', 'song', 'moment']
