@@ -93,8 +93,6 @@ class lda():
 		nr_lyrics = len(self.dataset)
 		nr_vocab = len(all_words)
 
-		print "woord nummer 123: %s" %(all_words[123])
-
 		# sys.exit()
 
 		# Initialize matrices
@@ -152,7 +150,7 @@ class lda():
 			self.dump_data('init_data')
 
 
-	def start_lda(self, N, topwords, toptopics,filename):
+	def start_lda(self, N, topwords, toptopics, filename):
 		""" """
 		# TODO: just put some functions here which are needed in lda
 		# Get topic mixture distribution
@@ -296,6 +294,18 @@ class lda():
 			print "File %s corrupted, not found or Memory Error." %(filename)
 			self._initialize_counts(False)
 			# sys.exit()
+
+
+	def document_topic_distribution(self):
+		nr_lyrics = len(self.dataset)
+		dt_dist = np.zeros((nr_lyrics, self.nr_topics))
+		for i in range(0, nr_lyrics):
+			for j in range(0, len(self.dataset[i]['cleaned_lyrics'])):
+				k = self.topics[(i, j)]
+				dt_dist[i][k] += 1
+			total = np.sum(dt_dist[i], axis=0)
+			dt_dist[i] = np.divide(dt_dist[i], total)
+		return dt_dist
 
 
 	def dirichlet(self, alpha):
