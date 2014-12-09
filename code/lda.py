@@ -5,7 +5,13 @@ import preprocessing
 import itertools
 import random
 import sklearn
+import ast
 import time
+
+# try:
+#     import cPickle as pickle
+# except:
+import pickle
 
 class lda():
 	"""
@@ -30,7 +36,7 @@ class lda():
 	"""
 	#TODO: preprocessing now only words with 1000 for testing purposes. It is so goddamn slow
 
-	def __init__(self, alpha, beta, nr_topics, load_init=False):
+	def __init__(self, alpha, beta, nr_topics, load_init=True):
 		""" Initialize
 		TODO: load_init is to be used for initialization from pickle load from file. NOT USED YET!
 		"""
@@ -87,6 +93,10 @@ class lda():
 		nr_lyrics = len(self.dataset)
 		nr_vocab = len(all_words)
 
+		print "woord nummer 123: %s" %(all_words[123])
+
+		# sys.exit()
+
 		# Initialize matrices
 		self.words_topics = np.zeros((nr_vocab, self.nr_topics),  dtype=int)
 		self.topics_genres = np.zeros((self.nr_topics, nr_genres),  dtype=int)
@@ -101,39 +111,45 @@ class lda():
 		Loop through all words in document. Then choose random topic to initialize values in matrices
 		"""
 
-		print "Initialize counts.."
-		# Get sizes
-		nr_lyrics = len(self.dataset)
-		nr_genres = len(self.all_genres)
+		if(load):
+			self.load_data('init_data')
+		else:
 
-		self.genre_count = np.zeros(nr_genres, dtype=int)
-		self.topic_count = np.zeros(self.nr_topics, dtype=int)
+			print "Initialize counts.."
+			# Get sizes
+			nr_lyrics = len(self.dataset)
+			nr_genres = len(self.all_genres)
 
-		# Initialize all counts
-		# Loop over documents:
-		for i in range(0, nr_lyrics):
-			# Get index of document and associated genre
-			genre_index = self.genre_list[self.dataset[i]['genre']]
-			self.genre_count[genre_index] += 1
-			# Get cleaned lyrics of item
-			cleaned_lyrics =  self.dataset[i]['cleaned_lyrics']
-			# Loop over words in doc:
-			for j in range(0, len(cleaned_lyrics)): 
-				word = cleaned_lyrics[j]
-				# Update word count in total vocabulary
-				wordindex = self.vocab[word]
-				self.doc_word[i][wordindex] += 1
+			self.genre_count = np.zeros(nr_genres, dtype=int)
+			self.topic_count = np.zeros(self.nr_topics, dtype=int)
 
-				# Choose random topic
-				k = random.randint(0,self.nr_topics-1)
-				self.topic_count[k] += 1
+			# Initialize all counts
+			# Loop over documents:
+			for i in range(0, nr_lyrics):
+				# Get index of document and associated genre
+				genre_index = self.genre_list[self.dataset[i]['genre']]
+				self.genre_count[genre_index] += 1
+				# Get cleaned lyrics of item
+				cleaned_lyrics =  self.dataset[i]['cleaned_lyrics']
+				# Loop over words in doc:
+				for j in range(0, len(cleaned_lyrics)): 
+					word = cleaned_lyrics[j]
+					# Update word count in total vocabulary
+					wordindex = self.vocab[word]
+					self.doc_word[i][wordindex] += 1
 
-				# Update matrices
-				self.words_topics[wordindex][k] +=1
-				self.topics_genres[k][genre_index] += 1
+					# Choose random topic
+					k = random.randint(0,self.nr_topics-1)
+					self.topic_count[k] += 1
 
-				# Set topic of ij to k
-				self.topics[(i,j)] = k
+					# Update matrices
+					self.words_topics[wordindex][k] +=1
+					self.topics_genres[k][genre_index] += 1
+
+					# Set topic of ij to k
+					self.topics[(i,j)] = k
+
+			self.dump_data('init_data')
 
 
 	def start_lda(self, N, topwords, toptopics,filename):
@@ -143,6 +159,7 @@ class lda():
 		#theta = self.dirichlet(self.alpha)
 		# Pick a topic
 		#topic = self.sample_multinomial(theta)
+
 		print "start LDA!"
 		start = time.time()
 
@@ -251,6 +268,34 @@ class lda():
 				# Set default list
 				newlist = [1/float(len(distribution))] * len(distribution)
 			return np.random.multinomial(1,newlist).argmax()
+
+
+	def dump_data(self, filename):
+		to_dump = {}
+		to_dump['topics'] = self.topics
+		to_dump['alpha'] = self.alpha
+		to_dump['beta'] = self.beta
+		to_dump['nr_topics'] = self.nr_topics
+		to_dump['words_topics'] = self.words_topics
+		to_dump['topics_genres'] = self.topics_genres
+		print "Dump information to dumpfile: ", filename
+		pickle.dump(to_dump, open(filename,"wb"))
+
+	def load_data(self, filename):
+		try:
+			print "Load data from file: ", (filename)
+			with open(filename,'r') as f:
+				dumped = pickle.load(f)
+				self.topics = dumped['topics']
+				self.alpha = dumped['alpha']
+				self.beta = dumped['beta']
+				self.nr_topics = dumped['nr_topics']
+				self.words_topics = dumped['words_topics']
+				self.topics_genres = dumped['topics_genres']
+		except:
+			print "File %s corrupted, not found or Memory Error." %(filename)
+			self._initialize_counts(False)
+			# sys.exit()
 
 
 	def dirichlet(self, alpha):
