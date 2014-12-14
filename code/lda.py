@@ -61,6 +61,9 @@ class lda():
 		all_genres = prep.get_information_dictionary('genre', 'title').keys()
 		self.all_genres =  all_genres
 
+		self.genre_count = np.zeros(len(all_genres), dtype=int)
+		self.topic_count = np.zeros(nr_topics, dtype=int)
+
 		# Initialization of matrices and dictionaries 
 		self._initialize_lists(load=load_init)
 		# Initialize counts for matrices
@@ -118,8 +121,7 @@ class lda():
 			nr_lyrics = len(self.dataset)
 			nr_genres = len(self.all_genres)
 
-			self.genre_count = np.zeros(nr_genres, dtype=int)
-			self.topic_count = np.zeros(self.nr_topics, dtype=int)
+			
 
 			# Initialize all counts
 			# Loop over documents:
@@ -320,9 +322,7 @@ class lda():
 		if current_topic == topic:
 			return self.words_topics[wordindex, topic] - 1
 		else:
-			return self.words_topics[wordindex, topic] 
-
-		
+			return self.words_topics[wordindex, topic] 	
 
 	def count_topic(self, current_topic, topic):
 		""" Count the total number of words associated with topic, excluding word at given position"""
@@ -440,11 +440,19 @@ class lda():
 			f.write('GENRE-TOPIC DISTRIBUTION at iteration %i/%i \n' %(iteration, runs))
 			# Print every genre
 			for i in range(0,len(genre_list_total)):
-        			f.write('\nGENRE %i \t (topics: %s)\n' %(i, str(indices_max_topics_total[i]) ) )
+        			f.write('\nGENRE %i (%s)\t (topics: %s)\n' %(i, self.all_genres[i], str(indices_max_topics_total[i]) ) )
 				# Print every topic
 				for j in range(0,len(genre_list)):
 					f.write('--> Topic %i\n' %(indices_max_topics_total[i][j]))
-					f.write('%s\n' %(str(genre_list[j])))
+					nr_words_topic = self.count_topic(0, indices_max_topics_total[i][j])
+					to_print = "\t"
+					for h in range(0, len(words_topic_total[indices_max_topics_total[i][j]])):
+						curword = words_topic_total[indices_max_topics_total[i][j]][h]
+						nr_word_in_topic = self.count_words_topic(0, self.vocab[curword], indices_max_topics_total[i][j])
+						prob = nr_word_in_topic/float(nr_words_topic)
+						to_print += "'%s' (probability: %0.5f), " %(curword, prob)
+
+					f.write('%s\n' %(to_print))
 
 
 		
