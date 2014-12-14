@@ -1,0 +1,255 @@
+Runs: 20, alpha: 0.10, beta: 0.10, nr topics: 100, nr genres: 21, iteration: 9, top_topics: 5, top_words: 25
+
+GENRE-TOPIC DISTRIBUTION at iteration 9/20 
+
+GENRE 0 (reggae)	 (topics: [12 48 99 51 45])
+--> Topic 12
+['love', 'gonna', 'say', 'mi', 'fight', 'ya', 'ah', 'one', 'come', 'know', 'police', 'chorus', 'cry', 'bad', 'cause', 'go', 'see', 'people', 'boys', 'dem', 'burnin', 'whatcha', 'get', 'jah', 'thing']
+--> Topic 48
+['love', 'baby', 'little', 'never', 'please', 'back', 'anytime', 'hey', 'hear', 'lord', 'sometimes', 'enough', 'oh', 'world', 'know', 'sure', 'happy', 'gave', 'let', 'heart', 'call', 'soon', 'yeah', 'said', 'see']
+--> Topic 99
+['better', 'say', 'oh', 'woman', 'time', 'know', 'way', 'life', 'see', 'like', 'heart', 'new', 'last', 'got', 'need', 'take', 'good', 'never', 'love', 'every', 'gonna', 'band', 'want', 'chance', 'lonely']
+--> Topic 51
+['na', 'fk', 'got', 'lookin', 'aint', 'even', 'rap', 'cause', 'money', 'hit', 'dem', 'yea', 'bh', 'god', 'yeah', 'put', 'watch', 'baby', 'girl', 'tha', 'chorus', 'comin', 'like', 'big', 'skeet']
+--> Topic 45
+['right', 'like', 'make', 'day', 'know', 'said', 'life', 'mine', 'say', 'got', 'yeah', 'wanted', 'goes', 'come', 'kiss', 'go', 'back', 'listen', 'keep', 'heart', 'walked', 'hold', 'told', 'cause', 'little']
+
+GENRE 1 (latin)	 (topics: [50 33 13 87 62])
+--> Topic 50
+['want', 'know', 'like', 'bad', 'love', 'sleep', 'get', 'come', 'que', 'baby', 'de', 'tu', 'say', 'wanna', 'cant', 'world', 'one', 'things', 'yeah', 'te', 'never', 'back', 'go', 'gotta', 'la']
+--> Topic 33
+['got', 'la', 'want', 'get', 'lets', 'feel', 'cmon', 'chorus', 'ah', 'say', 'yo', 'y', 'wish', 'stop', 'see', 'go', 'make', 'bad', 'black', 'hear', 'lose', 'tell', 'true', 'hot', 'little']
+--> Topic 13
+['go', 'away', 'around', 'saw', 'show', 'bad', 'somewhere', 'tell', 'love', 'every', 'wind', 'buy', 'face', 'back', 'run', 'cause', 'world', 'see', 'people', 'nothing', 'know', 'years', 'young', 'o', 'say']
+--> Topic 87
+['gone', 'never', 'blue', 'way', 'said', 'want', 'get', 'goes', 'go', 'love', 'oh', 'little', 'eyes', 'lost', 'hey', 'got', 'watch', 'boom', 'anyone', 'like', 'man', 'care', 'heart', 'ah', 'say']
+--> Topic 62
+['know', 'oh', 'say', 'love', 'like', 'world', 'try', 'away', 'things', 'king', 'take', 'come', 'cause', 'something', 'sa', 'stand', 'name', 'heart', 'believe', 'song', 'thought', 'going', 'ohh', 'yeah', 'grace']
+
+GENRE 2 (holiday)	 (topics: [84 57 19 36 85])
+--> Topic 84
+['la', 'get', 'like', 'oh', 'see', 'let', 'moving', 'love', 'yeah', 'hold', 'good', 'eyes', 'star', 'cause', 'words', 'way', 'take', 'life', 'keep', 'lost', 'never', 'every', 'come', 'make', 'know']
+--> Topic 57
+['love', 'la', 'let', 'king', 'away', 'god', 'go', 'place', 'die', 'heart', 'gonna', 'christmas', 'must', 'well', 'night', 'joy', 'lead', 'home', 'name', 'glory', 'higher', 'better', 'tonight', 'cause', 'see']
+--> Topic 19
+['come', 'love', 'see', 'name', 'song', 'like', 'life', 'us', 'know', 'go', 'beauty', 'say', 'took', 'one', 'need', 'since', 'gonna', 'god', 'grace', 'waking', 'chorus', 'arms', 'repeat', 'soul', 'open']
+--> Topic 36
+['let', 'oh', 'time', 'lord', 'cause', 'take', 'one', 'beautiful', 'life', 'see', 'walk', 'better', 'o', 'day', 'still', 'believe', 'light', 'times', 'say', 'teeth', 'miracle', 'long', 'worship', 'stand', 'free']
+--> Topic 85
+['another', 'like', 'cause', 'hard', 'time', 'know', 'see', 'road', 'oh', 'never', 'love', 'heart', 'say', 'one', 'everything', 'live', 'come', 'still', 'every', 'yeah', 'man', 'always', 'back', 'fit', 'smile']
+
+GENRE 3 (stage & screen)	 (topics: [ 7 15 50 46 81])
+--> Topic 7
+['love', 'come', 'know', 'one', 'gonna', 'got', 'get', 'like', 'night', 'hand', 'feel', 'world', 'want', 'make', 'million', 'us', 'time', 'day', 'way', 'away', 'gabriella', 'oh', 'never', 'best', 'better']
+--> Topic 15
+['heart', 'dance', 'like', 'say', 'night', 'mind', 'love', 'know', 'baby', 'back', 'someday', 'never', 'believe', 'together', 'look', 'get', 'want', 'head', 'feel', 'someone', 'aint', 'find', 'last', 'always', 'enough']
+--> Topic 50
+['want', 'know', 'like', 'bad', 'love', 'sleep', 'get', 'come', 'que', 'baby', 'de', 'tu', 'say', 'wanna', 'cant', 'world', 'one', 'things', 'yeah', 'te', 'never', 'back', 'go', 'gotta', 'la']
+--> Topic 46
+['another', 'oh', 'know', 'inside', 'got', 'go', 'days', 'tell', 'say', 'little', 'still', 'live', 'ride', 'like', 'made', 'back', 'keep', 'alone', 'life', 'town', 'smile', 'fire', 'call', 'along', 'today']
+--> Topic 81
+['like', 'go', 'let', 'see', 'back', 'face', 'light', 'know', 'heart', 'change', 'cause', 'right', 'work', 'give', 'says', 'gone', 'time', 'around', 'never', 'nothing', 'game', 'away', 'baby', 'gonna', 'friends']
+
+GENRE 4 (electronic)	 (topics: [76 74 66 67 17])
+--> Topic 76
+['look', 'like', 'day', 'go', 'much', 'beautiful', 'boom', 'got', 'life', 'real', 'know', 'back', 'yeah', 'tired', 'come', 'good', 'lights', 'girl', 'right', 'yyeah', 'stay', 'oh', '2', 'jessica', 'feel']
+--> Topic 74
+['get', 'da', 'bring', 'aint', 'like', 'see', 'know', '2', 'making', 'makin', 'wanna', 'try', 'friends', 'though', 'yeah', '1', 'big', 'feel', 'right', 'body', 'na', 'call', 'fk', 'ya', 'hard']
+--> Topic 66
+['know', 'man', 'put', 'give', 'go', 'show', 'live', 'keep', 'got', 'white', 'big', 'st', 'like', 'son', 'went', 'world', 'think', 'scared', 'see', 'oh', 'new', 'yo', 'hate', 'tell', 'side']
+--> Topic 67
+['oh', 'yeah', 'know', 'night', 'sunshine', 'got', 'love', 'lose', 'take', 'come', 'hear', 'verse', 'like', 'cause', 'gonna', 'get', 'boom', 'dream', 'stop', 'boys', 'time', 'past', 'somebody', 'worry', 'away']
+--> Topic 17
+['around', 'got', 'make', 'like', 'see', 'know', '2', 'day', 'baby', 'catch', 'try', 'oh', 'really', 'back', 'good', 'time', 'away', 'need', 'want', 'part', 'times', 'life', 'hard', 'never', 'let']
+
+GENRE 5 (children's)	 (topics: [33 24 36 77 30])
+--> Topic 33
+['got', 'la', 'want', 'get', 'lets', 'feel', 'cmon', 'chorus', 'ah', 'say', 'yo', 'y', 'wish', 'stop', 'see', 'go', 'make', 'bad', 'black', 'hear', 'lose', 'tell', 'true', 'hot', 'little']
+--> Topic 24
+['know', 'love', 'man', 'day', 'life', 'tell', 'time', 'world', 'breath', 'like', 'mine', 'make', 'keep', 'living', 'fly', 'show', 'yeah', 'place', 'shine', 'come', 'see', 'tonight', 'waiting', 'let', 'already']
+--> Topic 36
+['let', 'oh', 'time', 'lord', 'cause', 'take', 'one', 'beautiful', 'life', 'see', 'walk', 'better', 'o', 'day', 'still', 'believe', 'light', 'times', 'say', 'teeth', 'miracle', 'long', 'worship', 'stand', 'free']
+--> Topic 77
+['like', 'got', 'take', 'cause', 'boom', 'people', 'get', 'back', 'one', 'see', 'face', 'name', 'goin', 'make', 'living', 'guy', 'whole', 'm', 'hey', 'ya', 'right', 'dog', 'happy', 'come', 'mother']
+--> Topic 30
+['back', 'moon', 'go', 'need', 'know', 'way', 'got', 'everything', 'let', 'believe', 'time', 'la', 'remember', 'touch', 'little', 'yes', 'like', 'days', 'gonna', 'come', 'love', 'life', 'man', 'always', 'hear']
+
+GENRE 6 (country)	 (topics: [ 8 48 40  1 85])
+--> Topic 8
+['aint', 'got', 'get', 'baby', 'time', 'drive', 'know', 'good', 'old', 'yeah', 'blues', 'wanna', 'big', 'well', 'see', 'tell', 'said', 'love', 'country', 'turn', 'like', 'girl', 'wiggle', 'man', 'little']
+--> Topic 48
+['love', 'baby', 'little', 'never', 'please', 'back', 'anytime', 'hey', 'hear', 'lord', 'sometimes', 'enough', 'oh', 'world', 'know', 'sure', 'happy', 'gave', 'let', 'heart', 'call', 'soon', 'yeah', 'said', 'see']
+--> Topic 40
+['never', 'know', 'loves', 'much', 'like', 'see', 'one', 'dreams', 'hold', 'way', 'give', 'away', 'heart', 'left', 'rock', 'together', 'ground', 'broken', 'something', 'last', 'cause', 'better', 'love', 'christmas', 'want']
+--> Topic 1
+['like', 'oh', 'love', 'long', 'free', 'said', 'get', 'come', 'go', 'times', 'better', 'looking', 'way', 'never', 'still', 'god', 'one', 'feel', 'man', 'cause', 'time', 'fall', 'beneath', 'dance', 'started']
+--> Topic 85
+['another', 'like', 'cause', 'hard', 'time', 'know', 'see', 'road', 'oh', 'never', 'love', 'heart', 'say', 'one', 'everything', 'live', 'come', 'still', 'every', 'yeah', 'man', 'always', 'back', 'fit', 'smile']
+
+GENRE 7 (jazz)	 (topics: [62 28 47 87 34])
+--> Topic 62
+['know', 'oh', 'say', 'love', 'like', 'world', 'try', 'away', 'things', 'king', 'take', 'come', 'cause', 'something', 'sa', 'stand', 'name', 'heart', 'believe', 'song', 'thought', 'going', 'ohh', 'yeah', 'grace']
+--> Topic 28
+['back', 'ga', 'ni', 'like', 'feel', 'let', 'without', 'oh', 'way', 'find', 'time', 'gonna', 'make', 'smile', 'n', 'love', 'tell', 'end', 'give', 'know', 'get', 'another', 'wo', 'sun', 'burning']
+--> Topic 47
+['life', 'take', 'go', 'love', 'oh', 'cause', 'walk', 'heart', 'one', 'baby', 'found', 'see', 'us', 'best', 'never', 'away', 'night', 'everything', 'alone', 'dream', 'hear', 'use', 'little', 'song', 'saw']
+--> Topic 87
+['gone', 'never', 'blue', 'way', 'said', 'want', 'get', 'goes', 'go', 'love', 'oh', 'little', 'eyes', 'lost', 'hey', 'got', 'watch', 'boom', 'anyone', 'like', 'man', 'care', 'heart', 'ah', 'say']
+--> Topic 34
+['love', 'oh', 'gonna', 'give', 'come', 'hand', 'know', 'real', 'let', 'never', 'get', 'used', 'way', 'every', 'one', 'everything', 'yeah', 'day', 'go', 'believe', 'world', 'like', 'call', 'tight', 'say']
+
+GENRE 8 (vocal)	 (topics: [83 99  5 30 29])
+--> Topic 83
+['heaven', 'day', 'love', 'today', 'waiting', 'comes', 'new', 'heart', 'little', 'happy', 'cause', 'christmas', 'find', 'oh', 'fly', 'daddy', 'know', 'upon', 'way', 'like', 'washed', 'hope', 'word', 'one', 'stand']
+--> Topic 99
+['better', 'say', 'oh', 'woman', 'time', 'know', 'way', 'life', 'see', 'like', 'heart', 'new', 'last', 'got', 'need', 'take', 'good', 'never', 'love', 'every', 'gonna', 'band', 'want', 'chance', 'lonely']
+--> Topic 5
+['love', 'way', 'know', 'time', 'never', 'eyes', 'needs', 'heart', 'dance', 'every', 'like', 'oh', 'word', 'find', 'fight', 'home', 'amen', 'always', 'go', 'forever', 'dream', 'much', 'need', 'hear', 'look']
+--> Topic 30
+['back', 'moon', 'go', 'need', 'know', 'way', 'got', 'everything', 'let', 'believe', 'time', 'la', 'remember', 'touch', 'little', 'yes', 'like', 'days', 'gonna', 'come', 'love', 'life', 'man', 'always', 'hear']
+--> Topic 29
+['oh', 'let', 'know', 'come', 'give', 'beautiful', 'day', 'place', 'name', 'earth', 'worship', 'reason', 'still', 'one', 'never', 'love', 'arms', 'voice', 'see', 'hands', 'us', 'though', 'need', 'behind', 'home']
+
+GENRE 9 (easy listening)	 (topics: [68 92 49  6 16])
+--> Topic 68
+['love', 'ohh', 'time', 'stand', 'oh', 'go', 'feel', 'hey', 'see', 'way', 'never', 'ever', 'nae', 'make', 'break', 'sun', 'yeah', 'true', 'think', 'got', 'line', 'know', 'taste', 'nan', 'loving']
+--> Topic 92
+['world', 'never', 'oh', 'go', 'mind', 'see', 'love', 'baby', 'like', 'nal', 'neol', 'let', 'air', 'sorry', 'babe', 'life', 'time', 'us', 'gonna', 'yeah', 'name', 'say', 'know', 'head', 'take']
+--> Topic 49
+['oh', 'love', 'never', 'la', 'ma', 'one', 'body', 'nan', 'wa', 'woo', 'make', 'know', 'baby', 'girl', 'sky', 'take', 'need', 'de', 'falling', 'di', 'ni', 'hey', 'give', 'black', 'time']
+--> Topic 6
+['one', 'stay', 'gotta', 'still', 'back', 'never', 'oh', 'hey', 'day', 'line', 'gonna', 'mind', 'hear', 'remember', 'around', 'inside', 'go', 'heart', 'away', 'lie', 'dream', 'mother', 'minutes', 'fall', 'alone']
+--> Topic 16
+['like', 'wanna', 'girl', 'want', 'still', 'think', 'got', 'girls', 'thing', 'know', 'baby', 'break', 'time', 'never', 'come', 'see', 'back', 'born', 'way', 'let', 'black', 'aint', 'life', 'feel', 'love']
+
+GENRE 10 (new age)	 (topics: [89 81 71 73 20])
+--> Topic 89
+['love', 'know', 'day', 'want', 'need', 'see', 'like', 'heart', 'say', 'said', 'never', 'oh', 'give', 'hear', 'end', 'time', 'yes', 'feel', 'good', 'words', 'anything', 'got', 'takes', 'guess', 'world']
+--> Topic 81
+['like', 'go', 'let', 'see', 'back', 'face', 'light', 'know', 'heart', 'change', 'cause', 'right', 'work', 'give', 'says', 'gone', 'time', 'around', 'never', 'nothing', 'game', 'away', 'baby', 'gonna', 'friends']
+--> Topic 71
+['cause', 'love', 'nothing', 'make', 'give', 'oh', 'got', 'take', 'always', 'loving', 'chorus', 'like', 'away', 'nobody', 'girl', 'go', 'yeah', 'well', 'need', 'know', 'eyes', 'day', 'along', 'one', 'must']
+--> Topic 73
+['love', 'never', 'chorus', 'want', 'sing', 'us', 'world', 'know', 'give', 'like', 'come', 'broken', 'take', 'day', 'tell', 'baby', 'gave', 'snow', 'wanna', 'let', 'wonderful', 'way', 'get', 'going', 'mine']
+--> Topic 20
+['one', 'another', 'always', 'away', 'morning', 'know', 'felt', 'love', 'heart', 'time', 'never', 'rain', 'baby', 'ready', 'oh', 'made', 'things', 'say', 'land', 'war', 'chorus', 'words', 'cry', 'maybe', 'getting']
+
+GENRE 11 (r&b)	 (topics: [41 26 95 48 97])
+--> Topic 41
+['baby', 'love', 'make', 'time', 'real', 'cause', 'doo', 'oh', 'tonight', 'body', 'take', 'way', 'wanna', 'girl', 'tell', 'else', 'shake', 'someone', 'aint', 'verse', 'cry', 'right', 'need', 'want', 'touch']
+--> Topic 26
+['love', 'baby', 'ooh', 'feel', 'oh', 'girl', 'know', 'gone', 'come', 'time', 'go', 'see', 'say', 'let', 'heart', 'thing', 'take', 'never', 'wanna', 'dont', 'really', 'get', 'tonight', 'around', 'alone']
+--> Topic 95
+['love', 'night', 'know', 'oh', 'one', 'baby', 'cry', 'heart', 'hey', 'nothing', 'say', 'let', 'ooh', 'tears', 'want', 'break', 'make', 'yeah', 'mine', 'give', 'day', 'gonna', 'come', 'fast', 'alone']
+--> Topic 48
+['love', 'baby', 'little', 'never', 'please', 'back', 'anytime', 'hey', 'hear', 'lord', 'sometimes', 'enough', 'oh', 'world', 'know', 'sure', 'happy', 'gave', 'let', 'heart', 'call', 'soon', 'yeah', 'said', 'see']
+--> Topic 97
+['love', 'oh', 'baby', 'got', 'pride', 'fool', 'away', 'yeah', 'tonight', 'know', 'said', 'let', 'want', 'need', 'girl', '4', 'met', 'like', 'see', 'well', 'long', 'inside', 'wish', 'make', 'wanna']
+
+GENRE 12 (avant-garde)	 (topics: [28 58 81 78 45])
+--> Topic 28
+['back', 'ga', 'ni', 'like', 'feel', 'let', 'without', 'oh', 'way', 'find', 'time', 'gonna', 'make', 'smile', 'n', 'love', 'tell', 'end', 'give', 'know', 'get', 'another', 'wo', 'sun', 'burning']
+--> Topic 58
+['leave', 'way', 'time', 'love', 'alone', 'eyes', 'ever', 'got', 'day', 'left', 'keep', 'get', 'know', 'life', 'never', 'law', 'go', 'dark', 'come', 'good', 'wrong', 'away', 'home', 'take', 'say']
+--> Topic 81
+['like', 'go', 'let', 'see', 'back', 'face', 'light', 'know', 'heart', 'change', 'cause', 'right', 'work', 'give', 'says', 'gone', 'time', 'around', 'never', 'nothing', 'game', 'away', 'baby', 'gonna', 'friends']
+--> Topic 78
+['like', 'got', 'see', 'take', 'get', 'care', 'give', 'way', 'nae', 'gonna', 'cut', 'tried', 'let', 'time', 'want', 'turn', 'ne', 'away', 'going', 'man', 'yeah', 'think', 'sick', 'forever', 'ni']
+--> Topic 45
+['right', 'like', 'make', 'day', 'know', 'said', 'life', 'mine', 'say', 'got', 'yeah', 'wanted', 'goes', 'come', 'kiss', 'go', 'back', 'listen', 'keep', 'heart', 'walked', 'hold', 'told', 'cause', 'little']
+
+GENRE 13 (pop/rock)	 (topics: [64 31 11 23  3])
+--> Topic 64
+['way', 'know', 'got', 'step', 'love', 'oh', 'eyes', 'look', 'wanna', 'one', 'still', 'world', 'go', 'away', 'la', 'chance', 'left', 'hey', 'night', 'hell', 'room', 'rain', 'come', 'back', 'run']
+--> Topic 31
+['oh', 'love', 'night', 'baby', 'looking', 'hold', 'please', 'find', 'like', 'got', 'want', 'say', 'dream', 'pain', 'ways', 'see', 'running', 'get', 'going', 'something', 'need', 'way', 'know', 'day', 'knew']
+--> Topic 11
+['know', 'oh', 'like', 'wanna', 'need', 'nothing', 'go', 'light', 'say', 'life', 'alone', 'maybe', 'see', 'well', 'little', 'sleep', 'tell', 'gonna', 'heart', 'things', 'one', 'waiting', 'worth', 'head', 'away']
+--> Topic 23
+['love', 'gonna', 'one', 'always', 'away', 'feel', 'fight', 'yeah', 'way', 'us', 'oh', 'nothing', 'still', 'song', 'come', 'right', 'alone', 'go', 'chorus', 'never', 'please', 'give', 'said', 'feels', 'trust']
+--> Topic 3
+['know', 'love', 'behind', 'never', 'one', 'baby', 'oh', 'knows', 'go', 'alone', 'left', 'trying', 'think', 'want', 'inside', 'girl', 'honey', 'yeah', 'need', 'way', 'things', 'free', 'wonder', 'best', 'back']
+
+GENRE 14 (folk)	 (topics: [90 13 58 71 35])
+--> Topic 90
+['back', 'may', 'soon', 'away', 'beat', 'go', 'get', 'got', 'fat', 'always', 'big', 'long', 'chorus', 'three', 'town', 'want', 'great', 'mark', 'lost', 'queen', 'day', 'bottle', 'make', 'still', 'oh']
+--> Topic 13
+['go', 'away', 'around', 'saw', 'show', 'bad', 'somewhere', 'tell', 'love', 'every', 'wind', 'buy', 'face', 'back', 'run', 'cause', 'world', 'see', 'people', 'nothing', 'know', 'years', 'young', 'o', 'say']
+--> Topic 58
+['leave', 'way', 'time', 'love', 'alone', 'eyes', 'ever', 'got', 'day', 'left', 'keep', 'get', 'know', 'life', 'never', 'law', 'go', 'dark', 'come', 'good', 'wrong', 'away', 'home', 'take', 'say']
+--> Topic 71
+['cause', 'love', 'nothing', 'make', 'give', 'oh', 'got', 'take', 'always', 'loving', 'chorus', 'like', 'away', 'nobody', 'girl', 'go', 'yeah', 'well', 'need', 'know', 'eyes', 'day', 'along', 'one', 'must']
+--> Topic 35
+['yeah', 'know', 'light', 'like', 'chorus', 'na', 'believe', 'away', 'say', 'think', 'said', 'love', 'let', 'life', 'wish', 'end', 'back', 'across', 'something', 'alone', 'cause', 'tomorrow', 'die', 'right', 'stop']
+
+GENRE 15 (rap)	 (topics: [39 56 96  4 18])
+--> Topic 39
+['bh', 'yo', 'nigga', 'st', 'get', 'like', 'got', 'hoes', 'lil', 'niz', 'shit', 'game', 'fuck', 'fuckin', 'wanna', 'block', 'niggas', 'imma', 'say', 'py', 'beat', 'pimp', 'human', 'wit', 'somethin']
+--> Topic 56
+['ns', 'like', 'man', 'yall', 'em', 'know', 'na', 'verse', 'damn', 'back', 'got', 'niggaz', 'top', 'im', 'pull', 'go', 'run', 'st', 'gon', 'hook', 'smoke', 'bs', 'get', 'big', 'g']
+--> Topic 96
+['like', 'get', 'aint', 'ya', 'money', 'na', 'gon', 'bitch', 'hot', 'dog', 'trying', 'gotta', 'got', 'pop', 'thug', 'aim', 'em', 'name', 'come', 'goin', 'coast', 'watch', 'bust', 'act', 'baby']
+--> Topic 4
+['aint', 'like', 'yall', 'ya', 'na', 'money', 'verse', 'chorus', 'tryin', 'gettin', 'know', 'make', 'get', 'right', 'got', 'young', 'back', 'ride', 'front', 'us', 'new', 'shot', 'lot', 'take', 'play']
+--> Topic 18
+['verse', 'aint', 'got', 'em', 'yeah', 'bout', 'wit', 'fk', 'keep', 'hook', 'st', 'check', 'game', 'go', 'cause', 'tryin', 'know', 'gotta', 'see', 'get', 'one', 'ya', 'big', 'want', 'let']
+
+GENRE 16 (international)	 (topics: [10 49 28 92 80])
+--> Topic 10
+['na', 'nae', 'whoo', 'neo', 'baby', 'say', 'dey', 'deo', 'right', 'love', 'dancing', 'hoo', 'boy', 'body', 'hyorin', 'long', 'day', 'oh', 'geu', 'sea', 'rock', 'ho', 'e', 'ne', 'nega']
+--> Topic 49
+['oh', 'love', 'never', 'la', 'ma', 'one', 'body', 'nan', 'wa', 'woo', 'make', 'know', 'baby', 'girl', 'sky', 'take', 'need', 'de', 'falling', 'di', 'ni', 'hey', 'give', 'black', 'time']
+--> Topic 28
+['back', 'ga', 'ni', 'like', 'feel', 'let', 'without', 'oh', 'way', 'find', 'time', 'gonna', 'make', 'smile', 'n', 'love', 'tell', 'end', 'give', 'know', 'get', 'another', 'wo', 'sun', 'burning']
+--> Topic 92
+['world', 'never', 'oh', 'go', 'mind', 'see', 'love', 'baby', 'like', 'nal', 'neol', 'let', 'air', 'sorry', 'babe', 'life', 'time', 'us', 'gonna', 'yeah', 'name', 'say', 'know', 'head', 'take']
+--> Topic 80
+['oh', 'never', 'night', 'skin', 'hey', 'hands', 'running', 'love', 'time', 'light', 'easy', 'see', 'free', 'look', 'past', 'baby', 'face', 'sound', 'welcome', 'got', 'come', 'yeah', 'power', 'right', 'rise']
+
+GENRE 17 (blues)	 (topics: [ 8 89 46 48  7])
+--> Topic 8
+['aint', 'got', 'get', 'baby', 'time', 'drive', 'know', 'good', 'old', 'yeah', 'blues', 'wanna', 'big', 'well', 'see', 'tell', 'said', 'love', 'country', 'turn', 'like', 'girl', 'wiggle', 'man', 'little']
+--> Topic 89
+['love', 'know', 'day', 'want', 'need', 'see', 'like', 'heart', 'say', 'said', 'never', 'oh', 'give', 'hear', 'end', 'time', 'yes', 'feel', 'good', 'words', 'anything', 'got', 'takes', 'guess', 'world']
+--> Topic 46
+['another', 'oh', 'know', 'inside', 'got', 'go', 'days', 'tell', 'say', 'little', 'still', 'live', 'ride', 'like', 'made', 'back', 'keep', 'alone', 'life', 'town', 'smile', 'fire', 'call', 'along', 'today']
+--> Topic 48
+['love', 'baby', 'little', 'never', 'please', 'back', 'anytime', 'hey', 'hear', 'lord', 'sometimes', 'enough', 'oh', 'world', 'know', 'sure', 'happy', 'gave', 'let', 'heart', 'call', 'soon', 'yeah', 'said', 'see']
+--> Topic 7
+['love', 'come', 'know', 'one', 'gonna', 'got', 'get', 'like', 'night', 'hand', 'feel', 'world', 'want', 'make', 'million', 'us', 'time', 'day', 'way', 'away', 'gabriella', 'oh', 'never', 'best', 'better']
+
+GENRE 18 (comedy/spoken)	 (topics: [77 66 57  2  8])
+--> Topic 77
+['like', 'got', 'take', 'cause', 'boom', 'people', 'get', 'back', 'one', 'see', 'face', 'name', 'goin', 'make', 'living', 'guy', 'whole', 'm', 'hey', 'ya', 'right', 'dog', 'happy', 'come', 'mother']
+--> Topic 66
+['know', 'man', 'put', 'give', 'go', 'show', 'live', 'keep', 'got', 'white', 'big', 'st', 'like', 'son', 'went', 'world', 'think', 'scared', 'see', 'oh', 'new', 'yo', 'hate', 'tell', 'side']
+--> Topic 57
+['love', 'la', 'let', 'king', 'away', 'god', 'go', 'place', 'die', 'heart', 'gonna', 'christmas', 'must', 'well', 'night', 'joy', 'lead', 'home', 'name', 'glory', 'higher', 'better', 'tonight', 'cause', 'see']
+--> Topic 2
+['cause', 'get', 'like', 'aint', 'gotta', 'girl', 'real', 'ya', 'go', 'make', 'yeah', 'know', 'play', 'hit', 'ask', 'time', 'right', 'made', 'let', 'mean', 'need', 'one', 'back', 'move', 'everyday']
+--> Topic 8
+['aint', 'got', 'get', 'baby', 'time', 'drive', 'know', 'good', 'old', 'yeah', 'blues', 'wanna', 'big', 'well', 'see', 'tell', 'said', 'love', 'country', 'turn', 'like', 'girl', 'wiggle', 'man', 'little']
+
+GENRE 19 (religious)	 (topics: [14 29 83 19 73])
+--> Topic 14
+['god', 'lord', 'praise', 'jesus', 'chorus', 'holy', 'yes', 'sing', 'every', 'power', 'verse', 'glory', 'come', 'lift', 'us', 'heart', 'grace', 'worthy', 'let', 'great', 'spirit', 'life', 'hallelujah', 'world', 'presence']
+--> Topic 29
+['oh', 'let', 'know', 'come', 'give', 'beautiful', 'day', 'place', 'name', 'earth', 'worship', 'reason', 'still', 'one', 'never', 'love', 'arms', 'voice', 'see', 'hands', 'us', 'though', 'need', 'behind', 'home']
+--> Topic 83
+['heaven', 'day', 'love', 'today', 'waiting', 'comes', 'new', 'heart', 'little', 'happy', 'cause', 'christmas', 'find', 'oh', 'fly', 'daddy', 'know', 'upon', 'way', 'like', 'washed', 'hope', 'word', 'one', 'stand']
+--> Topic 19
+['come', 'love', 'see', 'name', 'song', 'like', 'life', 'us', 'know', 'go', 'beauty', 'say', 'took', 'one', 'need', 'since', 'gonna', 'god', 'grace', 'waking', 'chorus', 'arms', 'repeat', 'soul', 'open']
+--> Topic 73
+['love', 'never', 'chorus', 'want', 'sing', 'us', 'world', 'know', 'give', 'like', 'come', 'broken', 'take', 'day', 'tell', 'baby', 'gave', 'snow', 'wanna', 'let', 'wonderful', 'way', 'get', 'going', 'mine']
+
+GENRE 20 (classical)	 (topics: [43 62 34 90 23])
+--> Topic 43
+['girl', 'go', 'ang', 'come', 'wanna', 'love', 'aint', 'know', 'even', 'boy', 'ha', 'think', 'back', 'oh', 'need', 'let', 'crazy', 'ooh', 'want', 'tell', 'right', 'ay', 'chorus', 'sa', 'time']
+--> Topic 62
+['know', 'oh', 'say', 'love', 'like', 'world', 'try', 'away', 'things', 'king', 'take', 'come', 'cause', 'something', 'sa', 'stand', 'name', 'heart', 'believe', 'song', 'thought', 'going', 'ohh', 'yeah', 'grace']
+--> Topic 34
+['love', 'oh', 'gonna', 'give', 'come', 'hand', 'know', 'real', 'let', 'never', 'get', 'used', 'way', 'every', 'one', 'everything', 'yeah', 'day', 'go', 'believe', 'world', 'like', 'call', 'tight', 'say']
+--> Topic 90
+['back', 'may', 'soon', 'away', 'beat', 'go', 'get', 'got', 'fat', 'always', 'big', 'long', 'chorus', 'three', 'town', 'want', 'great', 'mark', 'lost', 'queen', 'day', 'bottle', 'make', 'still', 'oh']
+--> Topic 23
+['love', 'gonna', 'one', 'always', 'away', 'feel', 'fight', 'yeah', 'way', 'us', 'oh', 'nothing', 'still', 'song', 'come', 'right', 'alone', 'go', 'chorus', 'never', 'please', 'give', 'said', 'feels', 'trust']

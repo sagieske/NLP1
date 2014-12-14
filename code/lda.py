@@ -36,7 +36,7 @@ class lda():
 	"""
 	#TODO: preprocessing now only words with 1000 for testing purposes. It is so goddamn slow
 
-	def __init__(self, alpha, beta, nr_topics, load_init=True):
+	def __init__(self, alpha, beta, nr_topics, load_init=False):
 		""" Initialize
 		TODO: load_init is to be used for initialization from pickle load from file. NOT USED YET!
 		"""
@@ -67,7 +67,7 @@ class lda():
 		# Initialization of matrices and dictionaries 
 		self._initialize_lists(load=load_init)
 		# Initialize counts for matrices
-		self._initialize_counts(load=load_init)
+		self._initialize_counts(load=False)
 
 	def _initialize_lists(self, load=False):
 		"""	
@@ -149,7 +149,7 @@ class lda():
 					# Set topic of ij to k
 					self.topics[(i,j)] = k
 
-			self.dump_data('init_data')
+			# self.dump_data('init_data')
 
 
 	def start_lda(self, N, topwords, toptopics, filename):
@@ -444,15 +444,7 @@ class lda():
 				# Print every topic
 				for j in range(0,len(genre_list)):
 					f.write('--> Topic %i\n' %(indices_max_topics_total[i][j]))
-					nr_words_topic = self.count_topic(0, indices_max_topics_total[i][j])
-					to_print = "\t"
-					for h in range(0, len(words_topic_total[indices_max_topics_total[i][j]])):
-						curword = words_topic_total[indices_max_topics_total[i][j]][h]
-						nr_word_in_topic = self.count_words_topic(0, self.vocab[curword], indices_max_topics_total[i][j])
-						prob = nr_word_in_topic/float(nr_words_topic)
-						to_print += "'%s' (probability: %0.5f), " %(curword, prob)
-
-					f.write('%s\n' %(to_print))
+					f.write('%s\n' %(str(words_topic_total[indices_max_topics_total[i][j]])))
 
 
 		
