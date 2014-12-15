@@ -36,13 +36,16 @@ class lda():
 	Array
 	- genre_count		array of total count of assignments per genre
 	- topic_count 		array of total count of word assignments per topic
+	- doc_word_count	array of total count of words in document
 	Matrixes:
-	- doc_word:			count of times word occurs in document
+	- doc_word:		count of times word occurs in document
+	- doc_topic		count of times topic is assigned to word in a document
 	- words_topics:		count of times word belongs to a topic
 	- topics_genres:	count of times topic belongs to a genre (and indirectly the words)
 	Dictionary
-	- topics			dictionary with tuple (doc, wordposition), also (i,j), as key and value is topic that is assigned
-	- avocab 			dictionary with vocabulary words as keys and scalar as index used for the matrices
+	- topics		dictionary with tuple (doc, wordposition), also (i,j), as key and value is topic that is assigned
+	- topics_orig_lda	USE FOR ORIGINAL LDA: dictionary with tuple (doc, wordposition), also (i,j), as key and value is topic that is assigned
+	- vocab 		dictionary with vocabulary words as keys and scalar as index used for the matrices
 	- genre_list		dictionary with genres as keys and scalar as index used for the matrices
 	- index_to_vocab	dictionary which maps index to word (reverse of vocab dictionary)
 	- index_to_genre	dictionary which maps index to genre (reverse of genre_list dictionary)
@@ -98,6 +101,7 @@ class lda():
 
 		self.genre_count = np.zeros(len(all_genres), dtype=int)
 		self.topic_count = np.zeros(nr_topics, dtype=int)
+
 
 		# Initialization of matrices and dictionaries 
 		self._initialize_lists(load=load_init)
@@ -158,6 +162,12 @@ class lda():
 		# Initialize matrix for occurance words in documents [N x V]
 		self.doc_word = np.zeros((nr_lyrics,len(all_words)),  dtype=int)
 
+		# ORIGINAL LDA
+		# Initialize doc and topic occuranc
+		self.doc_topic = np.zeros((nr_lyrics, self.nr_topics),  dtype=int)
+		# Initalize count for words in document
+		self.doc_word_count = np.zeros(nr_lyrics, dtype=int)
+
 
 	def _initialize_counts(self, load=False):
 		"""
@@ -201,9 +211,13 @@ class lda():
 					# Update matrices
 					self.words_topics[wordindex][k] +=1
 					self.topics_genres[k][genre_index] += 1
+					self.doc_topic[i][k] += 1
 
 					# Set topic of ij to k
 					self.topics[(i,j)] = k
+					self.topics_orig_lda[(i,j)] = k
+				# Set nr of words for doc
+				self.doc_word_count[i] = len(cleaned_lyrics)
 
 			self.dump_data('init_data')
 
@@ -279,6 +293,27 @@ class lda():
 
 		# Update topic assignment
 		self.topics[position] = topic_index
+
+
+	def update_orig_lda(self, previous_topic_index, position, word_index, topic_index):
+		""" TODO
+		USED FOR ORIGINAL LDA
+		Update values in matrices using indices. 
+		Get previous topic that was assigned to word at that position.
+		Subtract 1 from matrices
+		"""
+		# Subtract in matrices the old topic index
+		self.words_topics[word_index][previous_topic_index] -= 1
+		self.topics_genres[previous_topic_index][genre_index] -= 1
+		self.topic_count[previous_topic_index] -= 1
+
+		# Add in matrices the new topic index
+		self.words_topics[word_index][topic_index] +=1
+		self.topics_genres[topic_index][genre_index] += 1
+		self.topic_count[topic_index] += 1
+
+		# Update topic assignment
+		self.topics[position] = topic_index
 		#print "Updated word %i from topic %i to topic %i" %(word_index, previous_topic_index, topic_index)
 
 
@@ -297,6 +332,34 @@ class lda():
 			b = len(self.vocab) * self.beta + self.count_topic(current_topic, i)
 			c = self.alpha + self.count_genre_topic(current_topic, genre_index, i)
 			d = self.nr_topics * self.alpha + self.count_genre(current_topic, genre_index)
+
+			result = (a/float(b)) * (c/float(d))
+
+			p_zij[i] = result
+
+		# Normalize array to sum up to 1
+		total = np.sum( p_zij,axis=0)
+		p_zij = np.divide(p_zij, total)
+
+		return p_zij
+
+
+
+	def probability_topic_original_lda(self, current_topic, word_index, genre_index):
+		"""
+		TODO
+		Calculate probabilities of topics for word_ij and return array (sums to 1)
+		"""
+		# For each topic k:
+			# ((beta + count_words_topic) / (aantal woorden * beta + topic count)) * ((alpha + count_genre_topic) / (aantal topics * alpha + count_genre))
+
+		p_zij = np.zeros(self.nr_topics)
+
+		for i in range(0, self.nr_topics):
+			a = self.beta + self.count_words_topic(current_topic, word_index, i)
+			b = len(self.vocab) * self.beta + self.count_topic(current_topic, i)
+			c = self.alpha + self.count_doc_topic(current_topic, doc_index, i)
+			d = self.nr_topics * self.alpha + self.count_doc(current_topic, doc_index)
 
 			result = (a/float(b)) * (c/float(d))
 
