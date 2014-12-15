@@ -61,33 +61,18 @@
 \end{itemize}
 \end{frame}
 
-\subsection{Research Question}
+\subsection{Project Focus}
 \begin{frame}
-\frametitle{Research Question}
+\frametitle{Project Focus}
 ~\\~\\
 \begin{center}
-\Large{Can LDA be used to provide meaningful information about the lyrical themes in different music genres?}
+\Large{Extension of LDA to genre modeling based on lyrical themes}
 \end{center}
 ~\\~\\
 \end{frame}
 
-
-\section[Approach]{Approach}
-\subsection{Methods}
-\frametitle{Methods}
 \begin{frame}
-~\\\textbf{Latent Dirichlet Allocation:} \\Topic model where each document has a distribution over topics, and each topic has a distribution over words
-\begin{center}
-\begin{figure}
-\includegraphics[scale=0.25]{plate}
-\caption{Plate diagram}
-\end{figure}
-\end{center}
-
-\end{frame}
-
-\begin{frame}
-\frametitle{Approach}~\\
+\frametitle{Framework}~\\
 \begin{enumerate}
 	\item Gather dataset using crawler
 	\item Preprocessing (removal of stop words etc)
@@ -98,6 +83,17 @@
 \end{enumerate}
 
 \end{frame}
+
+\section[Approach]{Approach}
+\subsection{Methods}
+\frametitle{Methods}
+\begin{frame}
+~\\\textbf{Latent Dirichlet Allocation:} \\Topic model where each document has a distribution over topics, and each topic has a distribution over words\\
+\includegraphics[scale=0.25]{original_lda}
+\includegraphics[scale=0.25]{plate2}
+\end{frame}
+
+
 
 
 
@@ -123,21 +119,7 @@ Top topic (defined by its top 20 words) for some genres (after 20 iterations):
 \textbf{Classification}
 \begin{itemize}
 	\item Baseline classifier: SVM trained on word counts $\sim 47 \%$ correctly classified.
-	\item \begin{tabular}{|c|c|}
-		\hline
-		Correctly classified &  3154\\
-		\hline
-		Incorrectly classified & 3574\\
-		\hline
-		\end{tabular}
-
-\end{itemize}
-
-~\\~\\
-\textbf{Plans for rest of project}
-\begin{itemize}
-	\item Test classification on topic distributions
-	\item Build generator
+	\item Extended LDA classifier: SVM trained on topic distributions (20 topics, 15 iterations, $\alpha=0.1$, $\beta=0.1$) $\sim 56 \%$ correctly classified
 \end{itemize}
 
 \end{frame}
@@ -146,7 +128,7 @@ Top topic (defined by its top 20 words) for some genres (after 20 iterations):
 \begin{frame}
 \frametitle{Challenges and lessons}~\\
 \begin{itemize}
-	\item Non-standard topic requires creating own crawler \& preprocessing
+%	\item Non-standard topic requires creating own crawler \& preprocessing
 	\item Due to many loops, inefficient programming will cost you
 	%If you re-compute all word counts every time you go over one word in one document, you're gonna have a (long) bad time. (one iteration of Gibbs sampling took more than 3 days..)
 	%\item Sometimes you think you've improved something, but in reality you just broke it (results went from sensible $\rightarrow$ meaningless, turns out we just printed the wrong things)
@@ -161,8 +143,8 @@ Top topic (defined by its top 20 words) for some genres (after 20 iterations):
 \frametitle{Conclusions}~\\~\\
 \begin{itemize}
 \setlength{\itemsep}{10pt}\setlength{\itemsep}{5pt}
-\item LDA with Gibbs sampling assigns sensical topics to documents
-\item Algorithms take quite some time
+\item Extended LDA with Gibbs sampling assigns sensical topics to documents
+\item Classification using this generative model is not much better, however; more extensive Gibbs sampling is required 
 
 \end{itemize}
 \end{frame}
