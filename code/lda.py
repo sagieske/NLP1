@@ -658,15 +658,12 @@ class lda():
 
 		print "Testing classifier..."
 		predicted_genres = classifier.predict_proba(distribution_test_matrix)
+		actual_predictions = classifier.predict(distribution_test_matrix)
 		print "Predicted genres: ", predicted_genres
 		right = 0
 		wrong = 0
 		for test_point in range(0, number_testing):
-			index_max = predicted_genres[test_point].argmax()
-			print "max: ", index_max
-			index_true = test_genre_list.index(test_genre_list[test_point])
-			print "true: ", index_true
-			if(index_max == index_true):
+			if(actual_predictions[test_point] == test_genre_list[test_point]):
 				right +=1 
 			else:
 				wrong +=1
