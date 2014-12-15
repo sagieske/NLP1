@@ -229,7 +229,7 @@ class lda():
 				for j in range(0, len(cleaned_lyrics)): 
 					# Get word (and corresponding index)
 					word = cleaned_lyrics[j]
-					word_index = self.vocab[word]lyri
+					word_index = self.vocab[word]
 					position = (i,j)
 
 					current_topic = self.topics[position]
@@ -245,7 +245,7 @@ class lda():
 					print "- lyrics done: %i" %(i)
 			print "done iteration %i (stopwatch: %s)" %(iteration, str(time.time()-start))
 			self.print_to_file(N, topwords, toptopics, filename, iteration)
-			if iteration % 5 == 0 && iteration > 5:
+			if iteration % 5 == 0 and iteration > 5:
 				self.dump_data("iter" + str(iteration) + "_a" + str(self.alpha) + "_b" + str(self.beta) + "_topics" + str(self.nr_topics))
 
 		
