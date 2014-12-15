@@ -204,12 +204,14 @@ class lda():
 			print "done iteration %i (stopwatch: %s)" %(iteration, str(time.time()-start))
 			self.print_to_file(N, topwords, toptopics, filename, iteration)
 
-		self.dump_data("iter" + str(N) + "_a" + str(self.alpha) + "_b" + str(self.beta) + "_topics" + str(self.nr_topics))
+		
 
 		# prints initialization
 		if N == 0:
 			iteration = N
 			#self.print_to_file(N, topwords, toptopics, filename, iteration)
+
+		self.dump_data("iter" + str(N) + "_a" + str(self.alpha) + "_b" + str(self.beta) + "_topics" + str(self.nr_topics))
 
 		#self.dump_data('done_data')		
 
@@ -598,7 +600,7 @@ if __name__ == "__main__":
 
 	lda = lda(alpha, beta, nr_topics, load_init=True, skip_lda=skiplda)
 
-	if not skip_lda:
+	if not skiplda:
 		lda.start_lda(nr_runs, top_words, top_topics, filename)
 
 	lda.genre_profiles()
