@@ -8,6 +8,7 @@ import random
 import sklearn
 import ast
 import time
+from sklearn.multiclass import OneVsRestClassifier
 
 import matplotlib
 matplotlib.use('Agg')
@@ -229,7 +230,7 @@ class lda():
 				for j in range(0, len(cleaned_lyrics)): 
 					# Get word (and corresponding index)
 					word = cleaned_lyrics[j]
-					word_index = self.vocab[word]lyri
+					word_index = self.vocab[word]
 					position = (i,j)
 
 					current_topic = self.topics[position]
@@ -610,6 +611,35 @@ class lda():
 		normalized_topic_distribution = normalize_array(document_topic_distribution)
 		return normalized_topic_distribution
 
+	def classify(self):
+		print np.shape(self.dataset)
+		print np.shape(self.testset)
+
+		print "Gathering training set information..."
+		train_genre_list = []
+		number_training = len(self.dataset)
+		for doc_index in range(0, number_training):
+			genre = self.dataset[doc_index]['genre']
+			train_genre_list.append(genre)
+
+		test_genre_list = []
+		number_testing = len(self.testset)
+		for doc_index in range(0, number_testing):
+			genre = self.testset[doc_index]['genre']
+			test_genre_list.append(genre)
+
+
+		print "Training classifier..."
+		classifier = svm.SVC(probability=True)
+		classifier.fit(self.dataset, train_genre_list)
+
+
+		print "Testing classifier..."
+		predicted_genres = classifier.predict_proba(test_set)
+		print "Predicted genres: ", predicted_genres
+
+
+
 def normalize_array(count_list):
 	''' Normalize an array of counts '''
 	#Get total sum
@@ -687,5 +717,7 @@ if __name__ == "__main__":
 	#lda.genre_profiles()
 
 	#Test load_new_document function with a new document (example call)
-	topic_distribution_krallice = lda.load_new_document('new_docs/krallica_litanyofregrets.txt')
+	#topic_distribution_krallice = lda.load_new_document('new_docs/krallica_litanyofregrets.txt')
+
+	lda.classify()
 

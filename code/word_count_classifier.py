@@ -39,12 +39,13 @@ test_genre = genre_list[6000:]
 print "Training classifier..."
 #classifier = svm.SVC()
 #classifier.fit(training_set, training_genre)
-classifier = OneVsRestClassifier(LinearSVC())
+classifier = svm.SVC(probability=True)
 classifier.fit(training_set, training_genre)
 
 
 print "Testing classifier..."
-predicted_genres = classifier.predict(test_set)
+predicted_genres = classifier.predict_proba(test_set)
+print predicted_genres
 
 test_number = len(test_genre)
 correct = 0
