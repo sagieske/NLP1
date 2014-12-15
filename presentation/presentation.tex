@@ -29,7 +29,7 @@
 \newcommand{\specialcell}[2][c]{%
   \begin{tabular}[#1]{@{}c@{}}#2\end{tabular}}
   
-\title{Lyrics-based Music Genre Analysis using LDA}
+\title{Lyrics-based Music Genre Analysis using Topic Modelling}
 \author{David van Erkelens, Elise Koster \& Sharon Gieske}
 \begin{document}
 \frame{
@@ -50,11 +50,11 @@
 	%\\$\rightarrow$ personalized suggestions based on genre, collective intelligence
 	\item Most music classification tasks based on audio signals 
 	%\\$\rightarrow$ more storage, more noise-sensitive
-	\item Earlier research did not use Topic Models for classification
+	\item Earlier research did not use topic models for genre classification
 \end{itemize}
 ~\\Applications:
 \begin{itemize}
-\item Automatic genre assignment
+\item \textbf{Automatic genre assignment}
 \item Finding songs with similar lyrical themes
 \item Generation of lyrics
 \item Modeling correlation between genres based on topic distributions
@@ -66,17 +66,22 @@
 \frametitle{Project Focus}
 ~\\~\\
 \begin{center}
-\Large{Extension of LDA to genre modeling based on lyrical themes}
+\Large{Can topic modelling be used for genre modeling based on lyrical themes by extending LDA?}
+%\Large{Extension of LDA to genre modeling based on lyrical themes}
 \end{center}
 ~\\~\\
 \end{frame}
+
+\section[Approach]{Approach}
+\subsection{Framework}
 
 \begin{frame}
 \frametitle{Framework}~\\
 \begin{enumerate}
 	\item Gather dataset using crawler
 	\item Preprocessing (removal of stop words etc)
-	\item Gibbs sampling: sample $(topic,word)$ given $p(topic|word)$ and $p(word|topic)$
+%	\item Gibbs sampling: sample $(topic,word)$ given $p(topic|word)$ and $p(word|topic)$
+	\item Model topics and extract topic distribution for documents
 %	\item Every genre now has a distribution over topics, and every topic has a distribution over words
 	\item Train SVM on array of topic-probabilities per document (and its genre)
 	\item Generate `song' of length $n$ for genre $g$: select topic $k \sim \theta_g$ then select word $w \sim \varphi_k$, repeat $n$ times
@@ -84,13 +89,30 @@
 
 \end{frame}
 
-\section[Approach]{Approach}
 \subsection{Methods}
-\frametitle{Methods}
 \begin{frame}
-~\\\textbf{Latent Dirichlet Allocation:} \\Topic model where each document has a distribution over topics, and each topic has a distribution over words\\
-\includegraphics[scale=0.25]{original_lda}
-\includegraphics[scale=0.25]{plate2}
+\frametitle{Methods}
+
+\textbf{Extension of LDA:}
+%\textbf{Latent Dirichlet Allocation:} \\Topic model where each document has a distribution over topics, and each topic has a distribution over words
+\begin{columns}
+\begin{column}{0.50\textwidth}
+	~\\
+	\begin{figure}
+		\includegraphics[scale=0.2]{original_lda}
+		\caption{Original LDA}
+	\end{figure}
+\end{column}
+\begin{column}{0.50\textwidth}
+	\begin{figure}
+		\includegraphics[scale=0.2]{plate2}
+		\caption{Extended LDA}
+	\end{figure}
+\end{column}
+\end{columns}
+~\\
+\textbf{Gibbs sampling:}\\
+$P(z_{i,j} = k | Z_{\neg w_{i,j}}, \alpha, \beta, W, Y) \propto \frac{\beta + \widetilde{C}(k, w_{i,j})}{V\beta + \widetilde{C}(k)} \times \frac{\alpha + \widetilde{C}(y_i, k)}{K\alpha + \widetilde{C}(y_i)}$
 \end{frame}
 
 
@@ -101,8 +123,8 @@
 \subsection{Preliminary Results}
 \begin{frame}~\\
 \textbf{Topic Modelling}\\
-Top topic (defined by its top 20 words) for some genres (after 20 iterations):
-
+Top topic (defined by its top 20 words) for some genres (after 20 iterations):\\
+\begin{table}
 \begin{tabular} {|c|l|}
 	\hline
 	Religious & \specialcell{'lord', 'god', 'praise', 'jesus', 'holy', 'every', 'verse', \\ 'chorus', 'yes', 'glory', 'grace', 'power', 'know', \\'worthy', 'great', 'worship', \\'hallelujah', 'let', 'things', 'spirit'}\\
@@ -112,6 +134,8 @@ Top topic (defined by its top 20 words) for some genres (after 20 iterations):
 	Rap & \specialcell{'nigga', 'bh', 'yo', 'got', 'st', 'niz', 'lil', 'get', 'fuck', \\'like', 'shit', 'fuckin', 'hoes', 'homie', 'niggas', \\ 'bang', 'ay', 'fresh', 'friends', 'first'}\\
 	\hline
 	\end{tabular}
+	\caption{Top topics for genres Religious, Holiday and Rap}
+	\end{table}
 \end{frame}
 
 
@@ -124,9 +148,9 @@ Top topic (defined by its top 20 words) for some genres (after 20 iterations):
 
 \end{frame}
 
-
-\begin{frame}
-\frametitle{Challenges and lessons}~\\
+\section{Discussion \& Conclusion}
+\begin{frame}~\\
+\textbf{Discussion}~\\
 \begin{itemize}
 %	\item Non-standard topic requires creating own crawler \& preprocessing
 	\item Due to many loops, inefficient programming will cost you
@@ -134,13 +158,8 @@ Top topic (defined by its top 20 words) for some genres (after 20 iterations):
 	%\item Sometimes you think you've improved something, but in reality you just broke it (results went from sensible $\rightarrow$ meaningless, turns out we just printed the wrong things)
 	%\item LDA is quite a cool algorithm, if you implement it correctly
 	\item `Love' is quite a common word in many music genres. So are the words `chorus', and `verse', but that may have to do with our data pre-processing.
-\end{itemize}
-\end{frame}
-
-\section{Conclusion}
-\subsection{Conclusion}
-\begin{frame}
-\frametitle{Conclusions}~\\~\\
+\end{itemize}~\\
+\textbf{Conclusions}~\\
 \begin{itemize}
 \setlength{\itemsep}{10pt}\setlength{\itemsep}{5pt}
 \item Extended LDA with Gibbs sampling assigns sensical topics to documents
