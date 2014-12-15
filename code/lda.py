@@ -161,7 +161,7 @@ class lda():
 					# Set topic of ij to k
 					self.topics[(i,j)] = k
 
-			# self.dump_data('init_data')
+			self.dump_data('init_data')
 
 
 	def start_lda(self, N, topwords, toptopics, filename):
@@ -539,9 +539,46 @@ class lda():
 		height = bars[ii]
 		plt.text(ind[ii], height-5, '%s'% (peakval[ii]), ha='center', va='bottom')
 
+	def load_new_document(self, document_string):
+		''' load new document and create its topic profile '''
+		f = open(document_string, 'r')
+		all_words = []
+		#Get all individual words without white space
+		for line in f:
+			all_words += line.strip('\n').split(' ')
+		#Initialize topic distribution for the document with 0 for every topic
+		document_topic_distribution = [0 for i in range(0, nr_topics)]
+		#For every word
+		for word in all_words:
+			try:
+				#Get the index of the word in the vocab matrix
+				word_index = self.vocab[word.lower()]
+				#Get the count distribution over topics for the word
+				word_probabilities = self.words_topics[word_index]
+				#Normalize the counts to get the probability distribution
+				norm_list = normalize_array(word_probabilities)
+				#Sample a topic from the probability distribution
+				sampled_topic = self.sample_multinomial(norm_list)
+				#Increase the count for this topic in the count array
+				document_topic_distribution[sampled_topic] += 1
+			#If the word isn't found, continue to next word
+			except KeyError:
+				continue
+		#Return normalized topic count array i.e. distribution over topics for this document
+		normalized_topic_distribution = normalize_array(document_topic_distribution)
+		return normalized_topic_distribution
 
+def normalize_array(count_list):
+	''' Normalize an array of counts '''
+	#Get total sum
+	total_sum = sum(count_list)
+	normalized_list = []
+	#Divide current count by total count and append probability to array
+	for count in count_list:
+		normalized_list.append(float(count)/total_sum)
+	#Return probability distribution
+	return normalized_list
 
-		
 
 
 
@@ -603,5 +640,10 @@ if __name__ == "__main__":
 	if not skiplda:
 		lda.start_lda(nr_runs, top_words, top_topics, filename)
 
-	lda.genre_profiles()
+	#lda.start_lda(nr_runs, top_words, top_topics, filename)
+	
+	#lda.genre_profiles()
+
+	#Test load_new_document function with a new document (example call)
+	topic_distribution_krallice = lda.load_new_document('new_docs/krallica_litanyofregrets.txt')
 
