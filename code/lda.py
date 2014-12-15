@@ -8,6 +8,15 @@ import sklearn
 import ast
 import time
 
+import matplotlib
+matplotlib.use('Agg')
+from matplotlib import pyplot as plt
+
+import re
+
+
+
+
 # try:
 #     import cPickle as pickle
 # except:
@@ -67,7 +76,7 @@ class lda():
 		# Initialization of matrices and dictionaries 
 		self._initialize_lists(load=load_init)
 		# Initialize counts for matrices
-		self._initialize_counts(load=False)
+		self._initialize_counts(load=True)
 
 	def _initialize_lists(self, load=False):
 		"""	
@@ -195,7 +204,9 @@ class lda():
 		# prints initialization
 		if N == 0:
 			iteration = N
-			self.print_to_file(N, topwords, toptopics, filename, iteration)
+			#self.print_to_file(N, topwords, toptopics, filename, iteration)
+
+		#self.dump_data('done_data')		
 
 	def update(self, previous_topic_index, position, word_index, genre_index, topic_index):
 		"""
@@ -295,19 +306,28 @@ class lda():
 		except:
 			print "File %s corrupted, not found or Memory Error." %(filename)
 			self._initialize_counts(False)
-			# sys.exit()
+
 
 
 	def document_topic_distribution(self):
+		""" Create array of topic distribution per document.
+		Returns matrix of topic distribution per document and array of the genre corresponding to each document
+		"""
 		nr_lyrics = len(self.dataset)
+		# Initialize matrix. Every lyric has array of len topics
 		dt_dist = np.zeros((nr_lyrics, self.nr_topics))
+		genres = []
 		for i in range(0, nr_lyrics):
+			# Get every topic assignment for every word, add to array of distributions
 			for j in range(0, len(self.dataset[i]['cleaned_lyrics'])):
 				k = self.topics[(i, j)]
 				dt_dist[i][k] += 1
+			# Normalize
 			total = np.sum(dt_dist[i], axis=0)
 			dt_dist[i] = np.divide(dt_dist[i], total)
-		return dt_dist
+			# Add current genre to list
+			genres.append(self.dataset[i]['genre'])
+		return genres, dt_dist
 
 
 	def dirichlet(self, alpha):
@@ -370,6 +390,7 @@ class lda():
 		"""
 		Return words corresponding to dictionary. Dict_type can be 'genre' or 'word' which correspond to global dictionary choice
 		"""
+		# Choose dictionary
 		if dict_type == 'genre':
 			chosen_dict = self.index_to_genre
 		elif dict_type == 'words':
@@ -377,6 +398,7 @@ class lda():
 		else:
 			print "wrong input dict. Now using dictionary for words"
 			chosen_dict = self.index_to_vocab
+		# Get all words corresponding to indices
 		string_list = []
 		for index in indices_array:
 			string_list.append(chosen_dict[index])
@@ -447,7 +469,56 @@ class lda():
 					f.write('%s\n' %(str(words_topic_total[indices_max_topics_total[i][j]])))
 
 
-		
+	def genre_profiles(self):
+		"""
+		Create profiles for genres by using the topic distributions found
+		"""
+
+		# Get the topic distribution for every document and the corresponding genre
+		genres, distr = lda.document_topic_distribution()
+		genre_indices = []
+		# Loop over all possible genres
+		for genre in self.all_genres:
+			print genre
+			# Get indices of documents that belong to this genre
+			indices = [i for i, x in enumerate(genres) if x == genre]
+			genre_indices.append(indices)
+			# Get topic distributions for all documents belonging to this genre
+			genre_matrix =  np.array([x for i, x in enumerate(distr) if i in indices])
+
+			# Get mean per topic
+			mean_genre =np.mean(genre_matrix, axis=0)*100
+			stdev_genre = np.std(genre_matrix, axis=0)*100
+
+			print mean_genre
+			print stdev_genre
+			print len(mean_genre)
+			print len(stdev_genre)
+
+
+			fig = plt.figure()
+			ax = fig.add_subplot(111)
+			ax.set_title('Genre: %s' %genre)
+			ind = np.arange(len( mean_genre))
+			width = 0.35
+			ax.bar(ind, mean_genre, width,  align='center', yerr=stdev_genre, ecolor='k')
+			ax.set_ylabel('Mean')
+			ax.set_xticks(ind)
+			#plt.xticks(ind,('Young Male','Young Female','Elderly Male','Elderly Female'))
+			#self.autolabel(mean_genre,peakval) 
+			genre = re.sub('/', '-', genre)
+			#if genre == 'pop/rock':
+			#	genre = 'pop-rock'
+			plt.savefig("%s.png" %genre)
+			plt.close('all')
+
+	def autolabel(self, bars,peakval):
+	    for ii,bar in enumerate(bars):
+		height = bars[ii]
+		plt.text(ind[ii], height-5, '%s'% (peakval[ii]), ha='center', va='bottom')
+
+
+
 		
 
 
@@ -503,14 +574,5 @@ if __name__ == "__main__":
 	lda = lda(alpha, beta, nr_topics, load_init=True)
 
 	lda.start_lda(nr_runs, top_words, top_topics, filename)
-	# Testing for print out topic words and genres
-	#print "########################"
-	#for i in range(0,nr_topics):
-	#	print "topic: ",i
-		#max_indices = lda.get_top_words_topic(i, top_words)
-	#	lda.get_from_indices(max_indices, 'words')
-	#print "########################"
-	#for i in range(0,len(lda.all_genres)):
-	#	lda.get_top_genre(i, top_topics, top_words)
+	lda.genre_profiles()
 
-	
