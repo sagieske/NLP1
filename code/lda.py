@@ -9,6 +9,7 @@ import sklearn
 import ast
 import time
 from sklearn.multiclass import OneVsRestClassifier
+from sklearn import svm
 
 import matplotlib
 matplotlib.use('Agg')
@@ -613,32 +614,67 @@ class lda():
 		normalized_topic_distribution = normalize_array(document_topic_distribution)
 		return normalized_topic_distribution
 
-	def classify(self):
-		print np.shape(self.dataset)
-		print np.shape(self.testset)
+	def get_new_document_dist(self, document):
+		''' load new document and create its topic profile '''
+		#Initialize topic distribution for the document with 0 for every topic
+		document_topic_distribution = [0 for i in range(0, nr_topics)]
+		#For every word
+		for word in document:
+			try:
+				#Get the index of the word in the vocab matrix
+				word_index = self.vocab[word.lower()]
+				#Get the count distribution over topics for the word
+				word_probabilities = self.words_topics[word_index]
+				#Normalize the counts to get the probability distribution
+				norm_list = normalize_array(word_probabilities)
+				#Sample a topic from the probability distribution
+				sampled_topic = self.sample_multinomial(norm_list)
+				#Increase the count for this topic in the count array
+				document_topic_distribution[sampled_topic] += 1
+			#If the word isn't found, continue to next word
+			except KeyError:
+				continue
+		#Return normalized topic count array i.e. distribution over topics for this document
+		normalized_topic_distribution = normalize_array(document_topic_distribution)
+		return normalized_topic_distribution
 
+	def classify(self):
 		print "Gathering training set information..."
-		train_genre_list = []
-		number_training = len(self.dataset)
-		for doc_index in range(0, number_training):
-			genre = self.dataset[doc_index]['genre']
-			train_genre_list.append(genre)
+		train_genre_list, distribution_train_matrix = self.document_topic_distribution()
 
 		test_genre_list = []
 		number_testing = len(self.testset)
+		distribution_test_matrix = np.zeros((number_testing, self.nr_topics))
+
 		for doc_index in range(0, number_testing):
 			genre = self.testset[doc_index]['genre']
 			test_genre_list.append(genre)
-
+			distribution_test_matrix[doc_index] = self.get_new_document_dist(self.testset[doc_index]['cleaned_lyrics'])
 
 		print "Training classifier..."
 		classifier = svm.SVC(probability=True)
-		classifier.fit(self.dataset, train_genre_list)
+		classifier.fit(distribution_train_matrix, train_genre_list)
 
 
 		print "Testing classifier..."
-		predicted_genres = classifier.predict_proba(test_set)
+		predicted_genres = classifier.predict_proba(distribution_test_matrix)
 		print "Predicted genres: ", predicted_genres
+		right = 0
+		wrong = 0
+		for test_point in range(0, number_testing):
+			index_max = predicted_genres[test_point].argmax()
+			print "max: ", index_max
+			index_true = test_genre_list.index(test_genre_list[test_point])
+			print "true: ", index_true
+			if(index_max == index_true):
+				right +=1 
+			else:
+				wrong +=1
+		print "Correct: ", right
+		print "Incorrect: ", wrong
+		score = classifier.score(distribution_test_matrix, test_genre_list)
+		print "Score: ", score
+
 
 
 
@@ -709,7 +745,7 @@ if __name__ == "__main__":
 
 	print "Info:\n- %i runs with: %i topics, alpha: %f, beta: %f\n- number of top words shown for a topic: %i\n- number of top topics shown for a genre: %i\n" %(nr_runs, nr_topics, alpha, beta, top_words, top_topics)
 
-	lda = lda(alpha, beta, nr_topics, load_init=True, skip_lda=skiplda)
+	lda = lda(alpha, beta, nr_topics, load_init=False, skip_lda=skiplda)
 
 	if not skiplda:
 		lda.start_lda(nr_runs, top_words, top_topics, filename)
