@@ -192,6 +192,8 @@ class lda():
 			print "done iteration %i (stopwatch: %s)" %(iteration, str(time.time()-start))
 			self.print_to_file(N, topwords, toptopics, filename, iteration)
 
+		self.dump_data("iter" + str(N) + "_a" + str(self.alpha) + "_b" + str(self.beta) + "_topics" + str(self.nr_topics))
+
 		# prints initialization
 		if N == 0:
 			iteration = N
@@ -295,7 +297,6 @@ class lda():
 		except:
 			print "File %s corrupted, not found or Memory Error." %(filename)
 			self._initialize_counts(False)
-			# sys.exit()
 
 
 	def document_topic_distribution(self):
@@ -444,6 +445,19 @@ class lda():
 				# Print every topic
 				for j in range(0,len(genre_list)):
 					f.write('--> Topic %i\n' %(indices_max_topics_total[i][j]))
+
+
+					nr_words_topic = self.count_topic(0, indices_max_topics_total[i][j])
+					to_print = "\t"
+					for h in range(0, len(words_topic_total[indices_max_topics_total[i][j]])):
+						curword = words_topic_total[indices_max_topics_total[i][j]][h]
+						nr_word_in_topic = self.count_words_topic(0, self.vocab[curword], indices_max_topics_total[i][j])
+						prob = nr_word_in_topic/float(nr_words_topic)
+						to_print += "'%s' (probability: %0.5f), " %(curword, prob)
+
+					f.write('%s\n' %(to_print))
+
+
 					f.write('%s\n' %(str(words_topic_total[indices_max_topics_total[i][j]])))
 
 
