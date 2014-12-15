@@ -1,3 +1,4 @@
+#!/usr/bin/env python -W ignore::DeprecationWarning
 import sys
 import argparse
 import numpy as np
@@ -13,6 +14,7 @@ matplotlib.use('Agg')
 from matplotlib import pyplot as plt
 
 import re
+import copy
 
 
 
@@ -38,7 +40,7 @@ class lda():
 	- topics_genres:	count of times topic belongs to a genre (and indirectly the words)
 	Dictionary
 	- topics			dictionary with tuple (doc, wordposition), also (i,j), as key and value is topic that is assigned
-	- vocab 			dictionary with vocabulary words as keys and scalar as index used for the matrices
+	- avocab 			dictionary with vocabulary words as keys and scalar as index used for the matrices
 	- genre_list		dictionary with genres as keys and scalar as index used for the matrices
 	- index_to_vocab	dictionary which maps index to word (reverse of vocab dictionary)
 	- index_to_genre	dictionary which maps index to genre (reverse of genre_list dictionary)
@@ -49,26 +51,47 @@ class lda():
 		""" Initialize
 		TODO: load_init is to be used for initialization from pickle load from file. NOT USED YET!
 		"""
+		
 		self.alpha = alpha
 		self.beta = beta
 		self.nr_topics = nr_topics
 		# Preprocess data
 		prep = preprocessing.preprocessing(dump_files=False, load_files=True, dump_clean=False, load_clean=True)
 		# Get lyrics
-		self.dataset = prep.get_dataset()
+		self.total_dataset = prep.get_dataset()
 		# Use smaller dataset add [:set]
-		print "total nr of lyrics:", len(self.dataset)
+		print "total nr of lyrics:", len(self.total_dataset)
 
 		# Count unknowns:
-		artists_unknown = [item['artist'] for item in self.dataset].count('unknown')
-		title_unknown = [item['title'] for item in self.dataset].count('unknown')
-		genre_unknown = [item['genre'] for item in self.dataset].count('unknown')
-		subgenre_unknown = [item['subgenres'] for item in self.dataset].count(['unknown'])
+		artists_unknown = [item['artist'] for item in self.total_dataset].count('unknown')
+		title_unknown = [item['title'] for item in self.total_dataset].count('unknown')
+		genre_unknown = [item['genre'] for item in self.total_dataset].count('unknown')
+		subgenre_unknown = [item['subgenres'] for item in self.total_dataset].count(['unknown'])
 		print "total unknown: artist: %i, title: %i, genre: %i, subgenre: %i" %(artists_unknown, title_unknown, genre_unknown, subgenre_unknown)
+
+		# Get kfold training and test indices (folds: 10 so that it uses 90% for training data)
+		# TODO: use stratified kfold cross validation in the future?
+		#train, test = self.kfold_indices(len(self.total_dataset),10)
+		#pickle.dump((train, test), open('train_test_indices',"wb"))
+		# OR LOAD FROM PICKLE FILE:
+		train, test = pickle.load(open('train_test_indices',"r"))
+
+
+
+		# Set dataset as training set (easier since this was used in the beginning for training already)
+		self.dataset = []
+		self.testset = []
+		training_indices = train[0]
+		for index in range(0,len(self.total_dataset)):
+			if index in training_indices:
+				self.dataset.append(self.total_dataset[index])
+			else:
+				self.testset.append(self.total_dataset[index])
 
 		# Get all genre and subgenres
 		all_genres = prep.get_information_dictionary('genre', 'title').keys()
 		self.all_genres =  all_genres
+
 
 		self.genre_count = np.zeros(len(all_genres), dtype=int)
 		self.topic_count = np.zeros(nr_topics, dtype=int)
@@ -77,6 +100,23 @@ class lda():
 		self._initialize_lists(load=load_init)
 		# Initialize counts for matrices
 		self._initialize_counts(load=True)
+
+	def kfold_indices(self, N, k):
+		"""
+		Get K folds of indices for splitting dataset in train and test data.
+		"""
+		all_indices = np.arange(N,dtype=int)
+		np.random.shuffle(all_indices)
+		idx = np.floor(np.linspace(0,N,k+1))
+
+		train_folds = []
+		valid_folds = []
+		for fold in range(k):
+			valid_indices = all_indices[idx[fold]:idx[fold+1]]
+			valid_folds.append(valid_indices)
+			train_folds.append(np.setdiff1d(all_indices, valid_indices))
+
+		return train_folds, valid_folds
 
 	def _initialize_lists(self, load=False):
 		"""	
@@ -184,7 +224,7 @@ class lda():
 				for j in range(0, len(cleaned_lyrics)): 
 					# Get word (and corresponding index)
 					word = cleaned_lyrics[j]
-					word_index = self.vocab[word]
+					word_index = self.vocab[word]lyri
 					position = (i,j)
 
 					current_topic = self.topics[position]
