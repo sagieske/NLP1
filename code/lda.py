@@ -45,13 +45,14 @@ class lda():
 	"""
 	#TODO: preprocessing now only words with 1000 for testing purposes. It is so goddamn slow
 
-	def __init__(self, alpha, beta, nr_topics, load_init=False):
+	def __init__(self, alpha, beta, nr_topics, load_init=False, skip_lda=False):
 		""" Initialize
 		TODO: load_init is to be used for initialization from pickle load from file. NOT USED YET!
 		"""
 		self.alpha = alpha
 		self.beta = beta
 		self.nr_topics = nr_topics
+		self.skiplda = skip_lda
 		# Preprocess data
 		prep = preprocessing.preprocessing(dump_files=False, load_files=True, dump_clean=False, load_clean=True)
 		# Get lyrics
@@ -121,7 +122,9 @@ class lda():
 		Loop through all words in document. Then choose random topic to initialize values in matrices
 		"""
 
-		if(load):
+		if self.skiplda:
+			self.load_data('inputlda')
+		elif load:
 			self.load_data('init_data')
 		else:
 
@@ -307,6 +310,8 @@ class lda():
 				self.topics_genres = dumped['topics_genres']
 		except:
 			print "File %s corrupted, not found or Memory Error." %(filename)
+			if self.skiplda:
+				sys.exit()
 			self._initialize_counts(False)
 
 
@@ -549,6 +554,8 @@ if __name__ == "__main__":
 	parser.add_argument('-toptopics', metavar='Specify number of top words shown for a topic.', type=int)
 	parser.add_argument('-topwords', metavar='Specify number of top topics shown for a genre.', type=int)
 	parser.add_argument('-f', metavar='Specify filename to write output to', type=str)
+	parser.add_argument('-skiplda', help='Provide to skip the LDA and use data from file "inputlda"', action="store_true")
+	#metavar='Provide to skip the LDA and use data from file "inputlda"', 
 	args = parser.parse_args()
 
 	# TODO: chosing alpha/beta: http://psiexp.ss.uci.edu/research/papers/sciencetopics.pdf
@@ -564,6 +571,7 @@ if __name__ == "__main__":
 	top_words = 50
 	top_topics = 5
 	filename = ''
+	skiplda = False
 
 	if(vars(args)['a'] is not None):
 		alpha = vars(args)['a']
@@ -579,6 +587,8 @@ if __name__ == "__main__":
 		top_words = vars(args)['topwords']
 	if(vars(args)['f'] is not None):
 		filename = vars(args)['f']
+	if(args.skiplda):
+		skiplda = vars(args)['skiplda']
 
 	# template for filename
 	if filename is '':
@@ -586,8 +596,10 @@ if __name__ == "__main__":
 
 	print "Info:\n- %i runs with: %i topics, alpha: %f, beta: %f\n- number of top words shown for a topic: %i\n- number of top topics shown for a genre: %i\n" %(nr_runs, nr_topics, alpha, beta, top_words, top_topics)
 
-	lda = lda(alpha, beta, nr_topics, load_init=True)
+	lda = lda(alpha, beta, nr_topics, load_init=True, skip_lda=skiplda)
 
-	lda.start_lda(nr_runs, top_words, top_topics, filename)
+	if not skip_lda:
+		lda.start_lda(nr_runs, top_words, top_topics, filename)
+
 	lda.genre_profiles()
 
