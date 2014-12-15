@@ -31,10 +31,10 @@ for doc_index in range(0, number_documents):
 	genre = dataset[doc_index]['genre']
 	genre_list.append(genre)
 
-training_set = word_counts[:3000]	
-test_set = word_counts[3000:]
-training_genre = genre_list[:3000]
-test_genre = genre_list[3000:]
+training_set = word_counts[:6000]	
+test_set = word_counts[6000:]
+training_genre = genre_list[:6000]
+test_genre = genre_list[6000:]
 
 print "Training classifier..."
 #classifier = svm.SVC()
