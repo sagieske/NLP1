@@ -672,6 +672,31 @@ class lda():
 		score = classifier.score(distribution_test_matrix, test_genre_list)
 		print "Score: ", score
 
+	def generate_song(self, length, genre):
+		genres, distr = lda.document_topic_distribution()
+		genre_indices = []
+		print distr
+		# Loop over all possible genres
+		print genre
+		# Get indices of documents that belong to this genre
+		for index in range(0,len(distr)):
+			print distr[index]
+			if genres[index] == genre:
+				print "YES"
+				genre_indices.append(index)
+		print genre_indices
+		# Get topic distributions for all documents belonging to this genre
+		genre_matrix =  np.array([x for i, x in enumerate(distr) if i in genre_indices])
+
+		print genre_matrix
+		for document in genre_matrix:
+			normalized = normalize_array(document)
+			sampled_topic = self.sample_multinomial(normalized)
+			word_list = words_topic[sampled_topic]
+			print "words: ", word_list
+
+
+
 
 
 
@@ -754,5 +779,6 @@ if __name__ == "__main__":
 	#Test load_new_document function with a new document (example call)
 	#topic_distribution_krallice = lda.load_new_document('new_docs/krallica_litanyofregrets.txt')
 
-	lda.classify()
+	#lda.classify()
+	#lda.generate_song('rap', 20)
 
