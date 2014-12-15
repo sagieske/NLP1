@@ -246,6 +246,8 @@ class lda():
 					print "- lyrics done: %i" %(i)
 			print "done iteration %i (stopwatch: %s)" %(iteration, str(time.time()-start))
 			self.print_to_file(N, topwords, toptopics, filename, iteration)
+			if iteration % 5 == 0 and iteration > 5:
+				self.dump_data("iter" + str(iteration) + "_a" + str(self.alpha) + "_b" + str(self.beta) + "_topics" + str(self.nr_topics))
 
 		
 
