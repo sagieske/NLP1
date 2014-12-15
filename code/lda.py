@@ -47,7 +47,7 @@ class lda():
 	"""
 	#TODO: preprocessing now only words with 1000 for testing purposes. It is so goddamn slow
 
-	def __init__(self, alpha, beta, nr_topics, load_init=False):
+	def __init__(self, alpha, beta, nr_topics, load_init=False, skip_lda=False):
 		""" Initialize
 		TODO: load_init is to be used for initialization from pickle load from file. NOT USED YET!
 		"""
@@ -55,6 +55,7 @@ class lda():
 		self.alpha = alpha
 		self.beta = beta
 		self.nr_topics = nr_topics
+		self.skiplda = skip_lda
 		# Preprocess data
 		prep = preprocessing.preprocessing(dump_files=False, load_files=True, dump_clean=False, load_clean=True)
 		# Get lyrics
@@ -161,7 +162,9 @@ class lda():
 		Loop through all words in document. Then choose random topic to initialize values in matrices
 		"""
 
-		if(load):
+		if self.skiplda:
+			self.load_data('inputlda')
+		elif load:
 			self.load_data('init_data')
 		else:
 
@@ -198,7 +201,7 @@ class lda():
 					# Set topic of ij to k
 					self.topics[(i,j)] = k
 
-			# self.dump_data('init_data')
+			self.dump_data('init_data')
 
 
 	def start_lda(self, N, topwords, toptopics, filename):
@@ -241,12 +244,14 @@ class lda():
 			print "done iteration %i (stopwatch: %s)" %(iteration, str(time.time()-start))
 			self.print_to_file(N, topwords, toptopics, filename, iteration)
 
-		self.dump_data("iter" + str(N) + "_a" + str(self.alpha) + "_b" + str(self.beta) + "_topics" + str(self.nr_topics))
+		
 
 		# prints initialization
 		if N == 0:
 			iteration = N
 			#self.print_to_file(N, topwords, toptopics, filename, iteration)
+
+		self.dump_data("iter" + str(N) + "_a" + str(self.alpha) + "_b" + str(self.beta) + "_topics" + str(self.nr_topics))
 
 		#self.dump_data('done_data')		
 
@@ -347,6 +352,8 @@ class lda():
 				self.topics_genres = dumped['topics_genres']
 		except:
 			print "File %s corrupted, not found or Memory Error." %(filename)
+			if self.skiplda:
+				sys.exit()
 			self._initialize_counts(False)
 
 
@@ -572,9 +579,46 @@ class lda():
 		height = bars[ii]
 		plt.text(ind[ii], height-5, '%s'% (peakval[ii]), ha='center', va='bottom')
 
+	def load_new_document(self, document_string):
+		''' load new document and create its topic profile '''
+		f = open(document_string, 'r')
+		all_words = []
+		#Get all individual words without white space
+		for line in f:
+			all_words += line.strip('\n').split(' ')
+		#Initialize topic distribution for the document with 0 for every topic
+		document_topic_distribution = [0 for i in range(0, nr_topics)]
+		#For every word
+		for word in all_words:
+			try:
+				#Get the index of the word in the vocab matrix
+				word_index = self.vocab[word.lower()]
+				#Get the count distribution over topics for the word
+				word_probabilities = self.words_topics[word_index]
+				#Normalize the counts to get the probability distribution
+				norm_list = normalize_array(word_probabilities)
+				#Sample a topic from the probability distribution
+				sampled_topic = self.sample_multinomial(norm_list)
+				#Increase the count for this topic in the count array
+				document_topic_distribution[sampled_topic] += 1
+			#If the word isn't found, continue to next word
+			except KeyError:
+				continue
+		#Return normalized topic count array i.e. distribution over topics for this document
+		normalized_topic_distribution = normalize_array(document_topic_distribution)
+		return normalized_topic_distribution
 
+def normalize_array(count_list):
+	''' Normalize an array of counts '''
+	#Get total sum
+	total_sum = sum(count_list)
+	normalized_list = []
+	#Divide current count by total count and append probability to array
+	for count in count_list:
+		normalized_list.append(float(count)/total_sum)
+	#Return probability distribution
+	return normalized_list
 
-		
 
 
 
@@ -589,6 +633,8 @@ if __name__ == "__main__":
 	parser.add_argument('-toptopics', metavar='Specify number of top words shown for a topic.', type=int)
 	parser.add_argument('-topwords', metavar='Specify number of top topics shown for a genre.', type=int)
 	parser.add_argument('-f', metavar='Specify filename to write output to', type=str)
+	parser.add_argument('-skiplda', help='Provide to skip the LDA and use data from file "inputlda"', action="store_true")
+	#metavar='Provide to skip the LDA and use data from file "inputlda"', 
 	args = parser.parse_args()
 
 	# TODO: chosing alpha/beta: http://psiexp.ss.uci.edu/research/papers/sciencetopics.pdf
@@ -604,6 +650,7 @@ if __name__ == "__main__":
 	top_words = 50
 	top_topics = 5
 	filename = ''
+	skiplda = False
 
 	if(vars(args)['a'] is not None):
 		alpha = vars(args)['a']
@@ -619,6 +666,8 @@ if __name__ == "__main__":
 		top_words = vars(args)['topwords']
 	if(vars(args)['f'] is not None):
 		filename = vars(args)['f']
+	if(args.skiplda):
+		skiplda = vars(args)['skiplda']
 
 	# template for filename
 	if filename is '':
@@ -626,8 +675,15 @@ if __name__ == "__main__":
 
 	print "Info:\n- %i runs with: %i topics, alpha: %f, beta: %f\n- number of top words shown for a topic: %i\n- number of top topics shown for a genre: %i\n" %(nr_runs, nr_topics, alpha, beta, top_words, top_topics)
 
-	lda = lda(alpha, beta, nr_topics, load_init=True)
+	lda = lda(alpha, beta, nr_topics, load_init=True, skip_lda=skiplda)
 
-	lda.start_lda(nr_runs, top_words, top_topics, filename)
-	lda.genre_profiles()
+	if not skiplda:
+		lda.start_lda(nr_runs, top_words, top_topics, filename)
+
+	#lda.start_lda(nr_runs, top_words, top_topics, filename)
+	
+	#lda.genre_profiles()
+
+	#Test load_new_document function with a new document (example call)
+	topic_distribution_krallice = lda.load_new_document('new_docs/krallica_litanyofregrets.txt')
 
