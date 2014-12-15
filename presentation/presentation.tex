@@ -14,6 +14,8 @@
 \usepackage{fancyvrb}
 \usepackage{graphicx}
 \usepackage{algorithmic}
+\usepackage{caption}
+\usepackage{subcaption}
 
 
 \newcommand\Red[1]{\textcolor{red}{#1}}
@@ -136,6 +138,34 @@ Top topic (defined by its top 20 words) for some genres (after 20 iterations):\\
 	\end{tabular}
 	\caption{Top topics for genres Religious, Holiday and Rap}
 	\end{table}
+\end{frame}
+
+\begin{frame}
+\begin{minipage}[b][.35\textheight][t]{.47\textwidth}
+\begin{figure}
+\includegraphics[scale=0.2]{bar_charts/religious}
+\caption{Religious}
+\end{figure}
+\end{minipage}\hfill%
+    \begin{minipage}[b][.35\textheight][t]{.47\textwidth}
+    \begin{figure}
+\includegraphics[scale=0.2]{bar_charts/holiday}
+\caption{Holiday}
+\end{figure}
+\end{minipage}\\[3em]
+
+   \begin{minipage}[b][.35\textheight][t]{.47\textwidth}
+    \begin{figure}
+\includegraphics[scale=0.2]{bar_charts/rap}
+\caption{Rap}
+\end{figure}
+\end{minipage}\hfill
+    \begin{minipage}[b][.35\textheight][t]{.47\textwidth}
+    \begin{figure}
+\includegraphics[scale=0.2]{bar_charts/pop-rock}
+\caption{Pop/Rock}
+\end{figure}
+\end{minipage}%
 \end{frame}
 
 
