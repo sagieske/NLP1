@@ -229,7 +229,7 @@ class lda():
 				for j in range(0, len(cleaned_lyrics)): 
 					# Get word (and corresponding index)
 					word = cleaned_lyrics[j]
-					word_index = self.vocab[word]lyri
+					word_index = self.vocab[word]
 					position = (i,j)
 
 					current_topic = self.topics[position]
@@ -559,7 +559,7 @@ class lda():
 			print len(mean_genre)
 			print len(stdev_genre)
 
-
+			# Plot bar chart? Not really nice
 			fig = plt.figure()
 			ax = fig.add_subplot(111)
 			ax.set_title('Genre: %s' %genre)
@@ -568,18 +568,10 @@ class lda():
 			ax.bar(ind, mean_genre, width,  align='center', yerr=stdev_genre, ecolor='k')
 			ax.set_ylabel('Mean')
 			ax.set_xticks(ind)
-			#plt.xticks(ind,('Young Male','Young Female','Elderly Male','Elderly Female'))
-			#self.autolabel(mean_genre,peakval) 
 			genre = re.sub('/', '-', genre)
-			#if genre == 'pop/rock':
-			#	genre = 'pop-rock'
 			plt.savefig("%s.png" %genre)
 			plt.close('all')
 
-	def autolabel(self, bars,peakval):
-	    for ii,bar in enumerate(bars):
-		height = bars[ii]
-		plt.text(ind[ii], height-5, '%s'% (peakval[ii]), ha='center', va='bottom')
 
 	def load_new_document(self, document_string):
 		''' load new document and create its topic profile '''
