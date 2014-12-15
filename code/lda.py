@@ -105,6 +105,7 @@ class lda():
 	def kfold_indices(self, N, k):
 		"""
 		Get K folds of indices for splitting dataset in train and test data.
+		Returns training and test array each of size k(every fold). Each element is an array of indices
 		"""
 		all_indices = np.arange(N,dtype=int)
 		np.random.shuffle(all_indices)
@@ -112,6 +113,7 @@ class lda():
 
 		train_folds = []
 		valid_folds = []
+		# Create training and test indices for each fold
 		for fold in range(k):
 			valid_indices = all_indices[idx[fold]:idx[fold+1]]
 			valid_folds.append(valid_indices)
@@ -239,7 +241,7 @@ class lda():
 
 					# update matrices
 					self.update(current_topic, position, word_index, genre_index, k)
-				if i % 100 == 0 and i != 0:
+				if i % 500 == 0 and i != 0:
 					print "- lyrics done: %i" %(i)
 			print "done iteration %i (stopwatch: %s)" %(iteration, str(time.time()-start))
 			self.print_to_file(N, topwords, toptopics, filename, iteration)
