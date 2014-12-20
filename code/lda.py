@@ -11,6 +11,8 @@ import time
 from sklearn.multiclass import OneVsRestClassifier
 from sklearn import svm
 from sklearn import cross_validation
+from sklearn.metrics import precision_recall_fscore_support
+import helpers
 import operator
 
 import matplotlib
@@ -59,7 +61,7 @@ class lda():
 	INIT_DATA = 'init_data'
 	#INIT_DATA_ORIG = 'init_data_orig'
 
-	def __init__(self, alpha, beta, nr_topics, skip_lda=False, orig_lda=False):
+	def __init__(self, alpha, beta, nr_topics, skip_lda=False, orig_lda=False, remove_poprock=False):
 		""" Initialize
 		TODO: load_init is to be used for initialization from pickle load from file. NOT USED YET!
 		"""
@@ -70,10 +72,25 @@ class lda():
 		self.skiplda = skip_lda
 		self.orig_lda = orig_lda
 		self.fold = 0
+		# Dict to save recall/precision/f1 scores for every fold
+		self.metric_folds = {}
+		self.metric_folds_orig_lda = {}
+
 		# Preprocess data
 		prep = preprocessing.preprocessing(dump_files=False, load_files=True, dump_clean=False, load_clean=True)
 		# Get lyrics
-		self.total_dataset = prep.get_dataset()[:500]
+		self.total_dataset = prep.get_dataset()
+
+		# Possibly remove pop/rock
+		if remove_poprock:
+			self.total_dataset_temp = []
+			for i in range(0, len(self.total_dataset)):
+				if self.total_dataset[i]['genre'] == 'pop/rock':
+					continue
+				else:
+					self.total_dataset_temp.append(self.total_dataset[i])
+			self.total_dataset = self.total_dataset_temp
+
 		# Use smaller dataset add [:set]
 		print "total nr of lyrics:", len(self.total_dataset)
 
@@ -99,20 +116,25 @@ class lda():
 		#subgenre_unknown = [item['subgenres'] for item in self.total_dataset].count(['unknown'])
 		#print "total unknown: artist: %i, title: %i, genre: %i, subgenre: %i" %(artists_unknown, title_unknown, genre_unknown, subgenre_unknown)
 
-		""" UNCOMMENT TO CREATE NEW FOLD INDICES
+		#""" UNCOMMENT TO CREATE NEW FOLD INDICES
 		# Get kfold training and test indices (folds: 10 so that it uses 90% for training data)
 		# Stratified 10-fold cross-validation
 		skf = cross_validation.StratifiedKFold(labels, n_folds=10)
-		train_indices_folds = []
-		test_indices_folds = []
+		self.train_indices_folds = []
+		self.test_indices_folds = []
 		for train_index, test_index in skf:
-			train_indices_folds.append(train_index)
-			test_indices_folds.append(test_index)
-		pickle.dump((train_indices_folds, test_indices_folds), open('train_test_indices_stratified',"wb"))
-		"""
+			self.train_indices_folds.append(train_index)
+			self.test_indices_folds.append(test_index)
+		file_indices = 'train_test_indices_stratified'
+		if remove_poprock:
+			file_indices += '_notpoprock'
+		pickle.dump((self.train_indices_folds, self.test_indices_folds), open('train_test_indices_stratified',"wb"))
+		
 
 		# OR LOAD FROM PICKLE FILE:
-		self.train_indices_folds, self.test_indices_folds = pickle.load(open('train_test_indices_stratified',"r"))
+		#if remove_poprock:
+		#	self.train_indices_folds, self.test_indices_folds = pickle.load(open('train_test_indices_stratified_notpoprock',"r"))
+		#self.train_indices_folds, self.test_indices_folds = pickle.load(open('train_test_indices_stratified',"r"))
 
 		# Create the training and test set. Both are set as instance variables
 		self.create_train_test_set(0)
@@ -130,7 +152,8 @@ class lda():
 		self._initialize_lists()
 		# Initialize counts for matrices
 		# LOAD COUNTS, set to true
-		self._initialize_counts(load=True)
+		# TODO
+		self._initialize_counts(load=False)
 
 
 	def reset_to_next_fold(self, fold):
@@ -500,7 +523,7 @@ class lda():
 		to_dump['nr_topics'] = self.nr_topics
 		to_dump['words_topics'] = self.words_topics
 		to_dump['topics_genres'] = self.topics_genres
-		print "Dump information to dumpfile: ", filename
+		print "[D] - Dump information to dumpfile: ", filename
 		pickle.dump(to_dump, open(filename,"wb"))
 
 		# Original LDA implemented, extra addition to dump
@@ -510,7 +533,7 @@ class lda():
 			to_dump_orig_lda['words_topics_orig_lda'] = self.words_topics_orig_lda
 			to_dump_orig_lda['topics_doc'] = self.topics_doc_orig_lda
 			orig_lda_filename = filename+"_orig"
-			print "Dump LDA original information to dumpfile: ", orig_lda_filename
+			print "[D] - Dump LDA original information to dumpfile: ", orig_lda_filename
 			pickle.dump(to_dump_orig_lda, open(orig_lda_filename ,"wb"))
 
 
@@ -521,7 +544,7 @@ class lda():
 		If except is caught, do initialize_counts again
 		"""
 		try:
-			print "Load data from file: ", (filename)
+			print "[L] - Load data from file: ", (filename)
 			with open(filename,'r') as f:
 				dumped = pickle.load(f)
 			self.topics = dumped['topics']
@@ -546,7 +569,7 @@ class lda():
 		if self.orig_lda:
 			try:
 				filename_orig_lda = filename+"_orig"
-				print "Load original LDA data from file: ", (filename_orig_lda)
+				print "[L] - Load original LDA data from file: ", (filename_orig_lda)
 				with open(filename_orig_lda,'r') as f:
 					dumped_orig_lda = pickle.load(f)
 				self.topics_orig_lda = dumped_orig_lda['topics_org_lda']
@@ -575,7 +598,7 @@ class lda():
 				dt_dist[i][k] += 1
 			# Normalize
 			total = np.sum(dt_dist[i], axis=0)
-			dt_dist[i] = np.divide(dt_dist[i], total)
+			dt_dist[i] = np.divide(dt_dist[i], float(total))
 			# Add current genre to list
 			genres.append(self.labels_dataset[i])
 		return genres, dt_dist
@@ -586,14 +609,14 @@ class lda():
 		"""
 		nr_lyrics = len(self.dataset)
 		# Initialize matrix. Every lyric has array of len topics
-		dt_dist = np.zeros((nr_lyrics, self.nr_topics))
+		dt_dist = np.zeros((nr_lyrics, self.nr_topics), dtype=float)
 		genres = []
 		for i in range(0, nr_lyrics):
 			# Get all topic assignments for this document
 			counts = self.topics_doc_orig_lda[:,i]
 			# Normalize
-			total = np.sum(dt_dist[i], axis=0)
-			dt_dist[i] = np.divide(dt_dist[i], total)
+			total = np.sum(counts, axis=0)
+			dt_dist[i] = np.divide(counts, float(total))
 			# Add current genre to list
 			genres.append(self.labels_dataset[i])
 		return genres, dt_dist
@@ -865,8 +888,6 @@ class lda():
 		genre_indices = []
 		# Loop over all possible genres
 		for genre in self.all_genres:
-
-			print genre
 			# Get indices of documents that belong to this genre
 			indices = [i for i, x in enumerate(genres) if x == genre]
 			# If no genres are found skip!
@@ -953,17 +974,21 @@ class lda():
 		normalized_topic_distribution = normalize_array(document_topic_distribution)
 		return normalized_topic_distribution
 
-	def classify(self):
-		print "Gathering training set information..."
-		train_genre_list, distribution_train_matrix = self.document_topic_distribution()
+	def classify(self,orig_lda=False):
+		"""
+		Classify test set using SVM classifier.
+		"""
+		print "Gathering training set information... (use orig_lda: %s)" %(orig_lda)
+		if orig_lda:
+			train_genre_list, distribution_train_matrix = self.document_topic_distribution_orig_lda()
+		else:
+			train_genre_list, distribution_train_matrix = self.document_topic_distribution()
 
-		test_genre_list = []
 		number_testing = len(self.testset)
 		distribution_test_matrix = np.zeros((number_testing, self.nr_topics))
 
+		# Create distributions of topics per document in the testset
 		for doc_index in range(0, number_testing):
-			genre = self.testset[doc_index]['genre']
-			test_genre_list.append(genre)
 			distribution_test_matrix[doc_index] = self.get_new_document_dist(self.testset[doc_index]['cleaned_lyrics'])
 
 		print "Training classifier..."
@@ -973,19 +998,29 @@ class lda():
 
 		print "Testing classifier..."
 		predicted_genres = classifier.predict(distribution_test_matrix)
-		actual_predictions = classifier.predict(distribution_test_matrix)
-		print "Predicted genres: ", predicted_genres
-		right = 0
-		wrong = 0
-		for test_point in range(0, number_testing):
-			if(actual_predictions[test_point] == test_genre_list[test_point]):
-				right +=1 
-			else:
-				wrong +=1
-		print "Correct: ", right
-		print "Incorrect: ", wrong
-		score = classifier.score(distribution_test_matrix, test_genre_list)
+
+
+		metrics = {}
+		# Calculate scores seperately for every genre
+		for label in self.all_genres:
+			recall, precision, f1 = helpers.calculate_metrics(self.labels_testset, predicted_genres, label)
+			metrics[label] = [recall, precision, f1]
+		# Calculate weighted total score for classifier
+		total_scores = precision_recall_fscore_support(self.labels_testset, predicted_genres, average='weighted')
+		metrics['total'] = [total_scores[0],total_scores[1],total_scores[2]]
+
+
+		# Save scores to instance variable dictionary using fold number
+		if orig_lda:
+			self.metric_folds_orig_lda[self.fold] = metrics
+		else:
+			self.metric_folds[self.fold] = metrics
+
+
+		score = classifier.score(distribution_test_matrix, predicted_genres)
 		print "Score: ", score
+
+
 
 	def generate_song(self, length, genre):
 		genres, distr = lda.document_topic_distribution()
@@ -1042,6 +1077,7 @@ if __name__ == "__main__":
 	parser.add_argument('-f', metavar='Specify filename to write output to', type=str)
 	parser.add_argument('-skiplda', help='Provide to skip the LDA and use data from file "inputlda"', action="store_true")
 	parser.add_argument('-origlda', help='Provide to also compute original the LDA', action="store_true")
+	parser.add_argument('-removepoprock', help='Provide to remove pop/rock from dataset', action="store_true")
 	#metavar='Provide to skip the LDA and use data from file "inputlda"', 
 	args = parser.parse_args()
 
@@ -1060,6 +1096,7 @@ if __name__ == "__main__":
 	filename = ''
 	skiplda = False
 	origlda = False
+	remove_poprock = False
 
 	if(vars(args)['a'] is not None):
 		alpha = vars(args)['a']
@@ -1079,6 +1116,8 @@ if __name__ == "__main__":
 		skiplda = vars(args)['skiplda']
 	if(args.origlda):
 		origlda = vars(args)['origlda']
+	if(args.removepoprock):
+		remove_poprock = vars(args)['removepoprock']
 
 	# template for filename
 	if filename is '':
@@ -1086,26 +1125,56 @@ if __name__ == "__main__":
 
 	print "Info:\n- %i runs with: %i topics, alpha: %f, beta: %f\n- number of top words shown for a topic: %i\n- number of top topics shown for a genre: %i\n" %(nr_runs, nr_topics, alpha, beta, top_words, top_topics)
 
-	lda = lda(alpha, beta, nr_topics, skip_lda=skiplda, orig_lda=origlda)
+	lda = lda(alpha, beta, nr_topics, skip_lda=skiplda, orig_lda=origlda, remove_poprock=remove_poprock)
 	kfold = False
 	folds = 10
 
+	# Do gibbs sampling
 	if not skiplda:
 		lda.start_gibbs(nr_runs, top_words, top_topics, filename)
+		# Use classification for extended LDA	
+		lda.classify()
+		# Use classification for normalized LDA
+		if origlda:
+			lda.classify(orig_lda=True)
+		# If use of folds, also do classification
 		if kfold:
 			for i in range(1,10):
-				print "fold %i" %(i)
+				print "FOLD %i" %(i)
 				lda.reset_to_next_fold(i)
 				lda.start_gibbs(nr_runs, top_words, top_topics, filename)
+				# Use classification for extended LDA
+				lda.classify()
+				# Use classification for normalized LDA
+				if origlda:
+					lda.classify(orig_lda=True)
+
+	# Print results on folds in text file!
+	with open("metrics", 'w+') as f:
+		for i in range(0,len(lda.metric_folds)):
+			f.write("FOLD %i\n" %i)
+			fold_values = lda.metric_folds[i]
+			for genre in sorted(fold_values):
+				f.write("%s: %s\n" %(genre, str(fold_values[genre])))
+
+		if origlda:
+			f.write("\nORIGINAL LDA:\n")
+			for i in range(0,len(lda.metric_folds_orig_lda)):
+				f.write("FOLD %i\n" %i)
+				fold_values = lda.metric_folds_orig_lda[i]
+				for genre in sorted(fold_values):
+					f.write("%s: %s\n" %(genre, str(fold_values[genre])))
+			f.write("\n\n")
+
 
 
 	##lda.start_gibbs(nr_runs, top_words, top_topics, filename)
-	lda.genre_profiles(orig_lda=False)
-	lda.genre_profiles(orig_lda=True)
+	#lda.genre_profiles(orig_lda=False)
+	#lda.genre_profiles(orig_lda=True)
 
 	#Test load_new_document function with a new document (example call)
 	#topic_distribution_krallice = lda.load_new_document('new_docs/krallica_litanyofregrets.txt')
 
-	lda.classify()
+	#lda.classify()
 	#lda.generate_song('rap', 20)
 
