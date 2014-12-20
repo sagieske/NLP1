@@ -107,7 +107,7 @@ class lda():
 				self.testset.append(self.total_dataset[index])
 
 		# Initialize counts
-		self.genre_count = np.zeros(len(all_genres), dtype=int)
+		self.genre_count = np.zeros(len(self.all_genres), dtype=int)
 		self.topic_count = np.zeros(nr_topics, dtype=int)
 
 
