@@ -19,10 +19,6 @@ from matplotlib import pyplot as plt
 import re
 import copy
 
-
-
-
-
 # try:
 #     import cPickle as pickle
 # except:
@@ -699,12 +695,12 @@ class lda():
 			distribution_test_matrix[doc_index] = self.get_new_document_dist(self.testset[doc_index]['cleaned_lyrics'])
 
 		print "Training classifier..."
-		classifier = svm.SVC(probability=True)
+		classifier = svm.SVC(probability=False, kernel='rbf', C=1.0, gamma=0.75)
 		classifier.fit(distribution_train_matrix, train_genre_list)
 
 
 		print "Testing classifier..."
-		predicted_genres = classifier.predict_proba(distribution_test_matrix)
+		predicted_genres = classifier.predict(distribution_test_matrix)
 		actual_predictions = classifier.predict(distribution_test_matrix)
 		print "Predicted genres: ", predicted_genres
 		right = 0
@@ -819,7 +815,7 @@ if __name__ == "__main__":
 	if not skiplda:
 		lda.start_lda(nr_runs, top_words, top_topics, filename)
 
-	#lda.start_lda(nr_runs, top_words, top_topics, filename)
+	##lda.start_lda(nr_runs, top_words, top_topics, filename)
 	
 	lda.genre_profiles()
 	"""
@@ -835,6 +831,6 @@ if __name__ == "__main__":
 	#Test load_new_document function with a new document (example call)
 	#topic_distribution_krallice = lda.load_new_document('new_docs/krallica_litanyofregrets.txt')
 
-	#lda.classify()
+	lda.classify()
 	#lda.generate_song('rap', 20)
 
