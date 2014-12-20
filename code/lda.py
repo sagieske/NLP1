@@ -10,6 +10,7 @@ import ast
 import time
 from sklearn.multiclass import OneVsRestClassifier
 from sklearn import svm
+from sklearn import cross_validation
 
 import matplotlib
 matplotlib.use('Agg')
@@ -17,6 +18,7 @@ from matplotlib import pyplot as plt
 
 import re
 import copy
+
 
 
 
@@ -68,37 +70,47 @@ class lda():
 		# Use smaller dataset add [:set]
 		print "total nr of lyrics:", len(self.total_dataset)
 
+		labels = []
+		# Get all labels of dataset
+		for item in self.total_dataset:
+			labels.append(item['genre'])
+		# Set instance variable to list of set of all labels
+		self.all_genres =  list(set(labels))
+			
+
 		# Count unknowns:
-		artists_unknown = [item['artist'] for item in self.total_dataset].count('unknown')
-		title_unknown = [item['title'] for item in self.total_dataset].count('unknown')
-		genre_unknown = [item['genre'] for item in self.total_dataset].count('unknown')
-		subgenre_unknown = [item['subgenres'] for item in self.total_dataset].count(['unknown'])
-		print "total unknown: artist: %i, title: %i, genre: %i, subgenre: %i" %(artists_unknown, title_unknown, genre_unknown, subgenre_unknown)
+		#artists_unknown = [item['artist'] for item in self.total_dataset].count('unknown')
+		#title_unknown = [item['title'] for item in self.total_dataset].count('unknown')
+		#genre_unknown = [item['genre'] for item in self.total_dataset].count('unknown')
+		#subgenre_unknown = [item['subgenres'] for item in self.total_dataset].count(['unknown'])
+		#print "total unknown: artist: %i, title: %i, genre: %i, subgenre: %i" %(artists_unknown, title_unknown, genre_unknown, subgenre_unknown)
 
 		# Get kfold training and test indices (folds: 10 so that it uses 90% for training data)
-		# TODO: use stratified kfold cross validation in the future?
-		#train, test = self.kfold_indices(len(self.total_dataset),10)
-		#pickle.dump((train, test), open('train_test_indices',"wb"))
-		# OR LOAD FROM PICKLE FILE:
-		train, test = pickle.load(open('train_test_indices',"r"))
+		# Stratified 10-fold cross-validation
+		#skf = cross_validation.StratifiedKFold(labels, n_folds=10)
+		#train_indices_folds = []
+		#test_indices_folds = []
+		#for train_index, test_index in skf:
+		#	train_indices_folds.append(train_index)
+		#	test_indices_folds.append(test_index)
+		#pickle.dump((train_indices_folds, test_indices_folds), open('train_test_indices_stratified',"wb"))
 
+
+		# OR LOAD FROM PICKLE FILE:
+		train_indices_folds, test_indices_folds = pickle.load(open('train_test_indices_stratified',"r"))
 
 
 		# Set dataset as training set (easier since this was used in the beginning for training already)
 		self.dataset = []
 		self.testset = []
-		training_indices = train[0]
+		training_indices = train_indices_folds[0]
 		for index in range(0,len(self.total_dataset)):
 			if index in training_indices:
 				self.dataset.append(self.total_dataset[index])
 			else:
 				self.testset.append(self.total_dataset[index])
 
-		# Get all genre and subgenres
-		all_genres = prep.get_information_dictionary('genre', 'title').keys()
-		self.all_genres =  all_genres
-
-
+		# Initialize counts
 		self.genre_count = np.zeros(len(all_genres), dtype=int)
 		self.topic_count = np.zeros(nr_topics, dtype=int)
 
@@ -107,25 +119,6 @@ class lda():
 		self._initialize_lists(load=load_init)
 		# Initialize counts for matrices
 		self._initialize_counts(load=True)
-
-	def kfold_indices(self, N, k):
-		"""
-		Get K folds of indices for splitting dataset in train and test data.
-		Returns training and test array each of size k(every fold). Each element is an array of indices
-		"""
-		all_indices = np.arange(N,dtype=int)
-		np.random.shuffle(all_indices)
-		idx = np.floor(np.linspace(0,N,k+1))
-
-		train_folds = []
-		valid_folds = []
-		# Create training and test indices for each fold
-		for fold in range(k):
-			valid_indices = all_indices[idx[fold]:idx[fold+1]]
-			valid_folds.append(valid_indices)
-			train_folds.append(np.setdiff1d(all_indices, valid_indices))
-
-		return train_folds, valid_folds
 
 	def _initialize_lists(self, load=False):
 		"""	
@@ -153,8 +146,6 @@ class lda():
 		nr_genres = len(self.all_genres)
 		nr_lyrics = len(self.dataset)
 		nr_vocab = len(all_words)
-
-		# sys.exit()
 
 		# Initialize matrices
 		self.words_topics = np.zeros((nr_vocab, self.nr_topics),  dtype=int)
@@ -215,7 +206,7 @@ class lda():
 
 					# Set topic of ij to k
 					self.topics[(i,j)] = k
-					self.topics_orig_lda[(i,j)] = k
+					#self.topics_orig_lda[(i,j)] = k
 				# Set nr of words for doc
 				self.doc_word_count[i] = len(cleaned_lyrics)
 
@@ -610,6 +601,7 @@ class lda():
 		genre_indices = []
 		# Loop over all possible genres
 		for genre in self.all_genres:
+
 			print genre
 			# Get indices of documents that belong to this genre
 			indices = [i for i, x in enumerate(genres) if x == genre]
@@ -617,25 +609,25 @@ class lda():
 			# Get topic distributions for all documents belonging to this genre
 			genre_matrix =  np.array([x for i, x in enumerate(distr) if i in indices])
 
-			# Get mean per topic
-			mean_genre =np.mean(genre_matrix, axis=0)*100
-			stdev_genre = np.std(genre_matrix, axis=0)*100
+			matplotlib.rcParams.update({'font.size': 6})
 
-			print mean_genre
+			# Get mean per topic
+			mean_genre =np.mean(genre_matrix*100, axis=0)
+			stdev_genre = np.std(genre_matrix*100, axis=0)
 			print stdev_genre
-			print len(mean_genre)
-			print len(stdev_genre)
 
 			# Plot bar chart? Not really nice
-			fig = plt.figure()
+			fig = plt.figure(figsize=(8, 6))
 			ax = fig.add_subplot(111)
 			ax.set_title('Genre: %s' %genre)
 			ind = np.arange(len( mean_genre))
 			width = 0.35
 			ax.bar(ind, mean_genre, width,  align='center', yerr=stdev_genre, ecolor='k')
-			ax.set_ylabel('Mean')
+			ax.set_ylabel('Mean in percentage')
 			ax.set_xticks(ind)
+			ax.set_xlabel('Topic number')
 			genre = re.sub('/', '-', genre)
+
 			plt.savefig("%s.png" %genre)
 			plt.close('all')
 
@@ -829,8 +821,17 @@ if __name__ == "__main__":
 
 	#lda.start_lda(nr_runs, top_words, top_topics, filename)
 	
-	#lda.genre_profiles()
+	lda.genre_profiles()
+	"""
+	indices_max = lda.get_top_words_topic(38,50)
+	print lda.get_from_indices(indices_max, 'words')
 
+	indices_max = lda.get_top_words_topic(2,50)
+	print lda.get_from_indices(indices_max, 'words')
+
+	indices_max = lda.get_top_words_topic(30,50)
+	print lda.get_from_indices(indices_max, 'words')
+	"""
 	#Test load_new_document function with a new document (example call)
 	#topic_distribution_krallice = lda.load_new_document('new_docs/krallica_litanyofregrets.txt')
 
