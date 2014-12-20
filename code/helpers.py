@@ -22,17 +22,17 @@ def calculate_metrics( correct, predictions, label):
 	retrieved = t_pos + f_pos
 	# Calculate recall
 	if relevant == 0:
-		recall = 0
+		recall = 0.0
 	else:
 		recall = t_pos /float(relevant)
 	# Calculate precision
 	if retrieved == 0:
-		precision = 0
+		precision = 0.0
 	else:
 		precision = t_pos /float(retrieved)
 	# Calculate f1
 	if precision+recall == 0:
-		f1 = 0
+		f1 = 0.0
 	else:
 		f1 = 2 * (precision * recall )/float(precision+recall)
 	return recall, precision, f1

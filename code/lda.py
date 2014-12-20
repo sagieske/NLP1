@@ -83,6 +83,7 @@ class lda():
 
 		# Possibly remove pop/rock
 		if remove_poprock:
+			print "Remove pop/rock: %s" %(str(remove_poprock))
 			self.total_dataset_temp = []
 			for i in range(0, len(self.total_dataset)):
 				if self.total_dataset[i]['genre'] == 'pop/rock':
@@ -119,7 +120,7 @@ class lda():
 		#""" UNCOMMENT TO CREATE NEW FOLD INDICES
 		# Get kfold training and test indices (folds: 10 so that it uses 90% for training data)
 		# Stratified 10-fold cross-validation
-		skf = cross_validation.StratifiedKFold(labels, n_folds=10)
+		skf = cross_validation.StratifiedKFold(labels, n_folds=5)
 		self.train_indices_folds = []
 		self.test_indices_folds = []
 		for train_index, test_index in skf:
@@ -128,7 +129,7 @@ class lda():
 		file_indices = 'train_test_indices_stratified'
 		if remove_poprock:
 			file_indices += '_notpoprock'
-		pickle.dump((self.train_indices_folds, self.test_indices_folds), open('train_test_indices_stratified',"wb"))
+		pickle.dump((self.train_indices_folds, self.test_indices_folds), open(file_indices,"wb"))
 		
 
 		# OR LOAD FROM PICKLE FILE:
@@ -193,9 +194,9 @@ class lda():
 		self.labels_testset = []
 		# Get indices for training data for this fold
 		training_indices = self.train_indices_folds[fold]
-		# TODO ONLY USES 500 for now
+
 		# create dataset and training set using indices
-		for index in range(0,len(self.total_dataset))[:500]:
+		for index in range(0,len(self.total_dataset)):
 			if index in training_indices:
 				self.dataset.append(self.total_dataset[index])
 				self.labels_dataset.append(self.total_dataset[index]['genre'])
@@ -373,6 +374,7 @@ class lda():
 				filename = "iter" + str(iteration) + "_a" + str(self.alpha) + "_b" + str(self.beta) + "_topics" \
 					+ str(self.nr_topics) + "_fold" + str(self.fold) 
 				self.dump_data(filename)
+				print "Print to file topics, genres etc"
 				self.print_to_file(N, topwords, toptopics, filename, iteration)
 				self.print_to_file_lda(N, topwords, toptopics, filename, iteration)
 		
@@ -382,8 +384,11 @@ class lda():
 			iteration = N
 			#self.print_to_file(N, topwords, toptopics, filename, iteration)
 
+		print "Print to file topics, genres etc"
 		filename = "iter" + str(iteration) + "_a" + str(self.alpha) + "_b" + str(self.beta) + "_topics" \
 				+ str(self.nr_topics) + "_fold" + str(self.fold) 
+		self.print_to_file(N, topwords, toptopics, filename, iteration)
+		self.print_to_file_lda(N, topwords, toptopics, filename, iteration)
 		self.dump_data(filename)
 
 		#self.dump_data('done_data')		
@@ -1087,11 +1092,11 @@ if __name__ == "__main__":
 	level of scientific disciplines, whereas smaller values of beta will
 	produce more topics that address specific areas of research.
 	"""
-	nr_topics = 100
+	nr_topics = 50
 	alpha = 0.1
 	beta = 0.1
 	nr_runs = 1
-	top_words = 50
+	top_words = 25
 	top_topics = 5
 	filename = ''
 	skiplda = False
@@ -1126,28 +1131,29 @@ if __name__ == "__main__":
 	print "Info:\n- %i runs with: %i topics, alpha: %f, beta: %f\n- number of top words shown for a topic: %i\n- number of top topics shown for a genre: %i\n" %(nr_runs, nr_topics, alpha, beta, top_words, top_topics)
 
 	lda = lda(alpha, beta, nr_topics, skip_lda=skiplda, orig_lda=origlda, remove_poprock=remove_poprock)
-	kfold = False
-	folds = 10
+	kfold = True
+	folds = 5
 
 	# Do gibbs sampling
 	if not skiplda:
 		lda.start_gibbs(nr_runs, top_words, top_topics, filename)
 		# Use classification for extended LDA	
-		lda.classify()
+		#lda.classify()
 		# Use classification for normalized LDA
-		if origlda:
-			lda.classify(orig_lda=True)
+		#if origlda:
+		#	lda.classify(orig_lda=True)
 		# If use of folds, also do classification
 		if kfold:
-			for i in range(1,10):
+			for i in range(1,5):
 				print "FOLD %i" %(i)
 				lda.reset_to_next_fold(i)
 				lda.start_gibbs(nr_runs, top_words, top_topics, filename)
-				# Use classification for extended LDA
-				lda.classify()
-				# Use classification for normalized LDA
-				if origlda:
-					lda.classify(orig_lda=True)
+	
+	# Use classification for extended LDA
+	lda.classify()
+	# Use classification for normalized LDA
+	if origlda:
+		lda.classify(orig_lda=True)
 
 	# Print results on folds in text file!
 	with open("metrics", 'w+') as f:
@@ -1169,8 +1175,8 @@ if __name__ == "__main__":
 
 
 	##lda.start_gibbs(nr_runs, top_words, top_topics, filename)
-	#lda.genre_profiles(orig_lda=False)
-	#lda.genre_profiles(orig_lda=True)
+	lda.genre_profiles(orig_lda=False)
+	lda.genre_profiles(orig_lda=True)
 
 	#Test load_new_document function with a new document (example call)
 	#topic_distribution_krallice = lda.load_new_document('new_docs/krallica_litanyofregrets.txt')
