@@ -120,22 +120,22 @@ class lda():
 		#""" UNCOMMENT TO CREATE NEW FOLD INDICES
 		# Get kfold training and test indices (folds: 10 so that it uses 90% for training data)
 		# Stratified 10-fold cross-validation
-		skf = cross_validation.StratifiedKFold(labels, n_folds=5)
-		self.train_indices_folds = []
-		self.test_indices_folds = []
-		for train_index, test_index in skf:
-			self.train_indices_folds.append(train_index)
-			self.test_indices_folds.append(test_index)
-		file_indices = 'train_test_indices_stratified'
-		if remove_poprock:
-			file_indices += '_notpoprock'
-		pickle.dump((self.train_indices_folds, self.test_indices_folds), open(file_indices,"wb"))
+		#skf = cross_validation.StratifiedKFold(labels, n_folds=5)
+		#self.train_indices_folds = []
+		#self.test_indices_folds = []
+		#for train_index, test_index in skf:
+		#	self.train_indices_folds.append(train_index)
+		#	self.test_indices_folds.append(test_index)
+		#file_indices = 'train_test_indices_stratified'
+		#if remove_poprock:
+		#	file_indices += '_notpoprock'
+		#pickle.dump((self.train_indices_folds, self.test_indices_folds), open(file_indices,"wb+"))
 		
 
 		# OR LOAD FROM PICKLE FILE:
-		#if remove_poprock:
-		#	self.train_indices_folds, self.test_indices_folds = pickle.load(open('train_test_indices_stratified_notpoprock',"r"))
-		#self.train_indices_folds, self.test_indices_folds = pickle.load(open('train_test_indices_stratified',"r"))
+		if remove_poprock:
+			self.train_indices_folds, self.test_indices_folds = pickle.load(open('train_test_indices_stratified_notpoprock',"r"))
+		self.train_indices_folds, self.test_indices_folds = pickle.load(open('train_test_indices_stratified',"r"))
 
 		# Create the training and test set. Both are set as instance variables
 		self.create_train_test_set(0)
@@ -383,10 +383,12 @@ class lda():
 			if iteration % 5 == 0 and iteration > 5:
 				filename = "iter" + str(iteration) + "_a" + str(self.alpha) + "_b" + str(self.beta) + "_topics" \
 					+ str(self.nr_topics) + "_fold" + str(self.fold) 
+				print filename
 				self.dump_data(filename)
 				print "Print to file topics, genres etc"
 				self.print_to_file(N, topwords, toptopics, filename, iteration)
-				self.print_to_file_lda(N, topwords, toptopics, filename, iteration)
+				if self.orig_lda:
+					self.print_to_file_lda(N, topwords, toptopics, filename, iteration)
 		
 
 		# prints initialization
@@ -399,10 +401,17 @@ class lda():
 			return
 		# Dump when done (in case last iteration !% 5 and not >5)
 		print "Print to file topics, genres etc"
-		filename = "iter" + str(iteration) + "_a" + str(self.alpha) + "_b" + str(self.beta) + "_topics" \
+		try:
+			filename = "iter" + str(iteration) + "_a" + str(self.alpha) + "_b" + str(self.beta) + "_topics" \
+				+ str(self.nr_topics) + "_fold" + str(self.fold) 
+
+		except:
+			iteration =start_iter
+			filename = "iter" + str(start_iter) + "_a" + str(self.alpha) + "_b" + str(self.beta) + "_topics" \
 				+ str(self.nr_topics) + "_fold" + str(self.fold) 
 		self.print_to_file(N, topwords, toptopics, filename, iteration)
-		self.print_to_file_lda(N, topwords, toptopics, filename, iteration)
+		if self.orig_lda:
+			self.print_to_file_lda(N, topwords, toptopics, filename, iteration)
 		self.dump_data(filename)
 
 		#self.dump_data('done_data')		
@@ -543,7 +552,7 @@ class lda():
 		to_dump['words_topics'] = self.words_topics
 		to_dump['topics_genres'] = self.topics_genres
 		print "[D] - Dump information to dumpfile: ", filename
-		pickle.dump(to_dump, open(filename,"wb"))
+		pickle.dump(to_dump, open(filename,"wb+"))
 
 		# Original LDA implemented, extra addition to dump
 		if self.orig_lda:
@@ -553,7 +562,7 @@ class lda():
 			to_dump_orig_lda['topics_doc'] = self.topics_doc_orig_lda
 			orig_lda_filename = filename+"_orig"
 			print "[D] - Dump LDA original information to dumpfile: ", orig_lda_filename
-			pickle.dump(to_dump_orig_lda, open(orig_lda_filename ,"wb"))
+			pickle.dump(to_dump_orig_lda, open(orig_lda_filename ,"wb+"))
 
 
 
@@ -1150,8 +1159,10 @@ if __name__ == "__main__":
 	lda = lda(alpha, beta, nr_topics, skip_lda=skiplda, orig_lda=origlda, remove_poprock=remove_poprock)
 	kfold = True
 	folds = 5
-	#start_iter = 0
-	start_iter = 9
+	start_iter = 0
+	load_iter = False
+	#start_iter = 9
+	#load_iter = True
 
 	# Otherwise error in loop.
 	if start_iter > nr_runs:
@@ -1162,42 +1173,60 @@ if __name__ == "__main__":
 	#TODO: load_iter is False if you don't want to load from specific point!!!! Start_iter then also needs to be 0
 	# Do gibbs sampling
 	if not skiplda:
-		lda.start_gibbs(nr_runs, top_words, top_topics, filename, load_iter=True, start_iter=start_iter)
+		lda.start_gibbs(nr_runs, top_words, top_topics, filename, load_iter=load_iter, start_iter=nr_runs)
 		# Use classification for extended LDA	
 		lda.classify()
 		# Use classification for normalized LDA
 		if origlda:
 			lda.classify(orig_lda=True)
 		# If use of folds, also do classification
+		# Print results on folds in text file!
+		filename = "metrics_%s_%s_0" %(str(nr_runs), str(nr_topics))
+		with open("metrics", 'w+') as f:
+			for i in lda.metric_folds.keys():
+				f.write("FOLD %i\n" %i)
+				fold_values = lda.metric_folds[i]
+				for genre in sorted(fold_values):
+					f.write("%s: %s\n" %(genre, str(fold_values[genre])))
+
+			if origlda:
+				f.write("\nORIGINAL LDA:\n")
+				for i in lda.metric_folds.keys():
+					f.write("FOLD %i\n" %i)
+					fold_values = lda.metric_folds_orig_lda[i]
+					for genre in sorted(fold_values):
+						f.write("%s: %s\n" %(genre, str(fold_values[genre])))
+				f.write("\n\n")
+
 		if kfold:
 			for i in range(1,5):
 				print "FOLD %i" %(i)
 				lda.reset_to_next_fold(i)
-				lda.start_gibbs(nr_runs, top_words, top_topics, filename, load_iter=True, start_iter=start_iter)
+				lda.start_gibbs(nr_runs, top_words, top_topics, filename, load_iter=load_iter, start_iter=start_iter)
 	
 				# Use classification for extended LDA
 				lda.classify()
 				# Use classification for normalized LDA
 				if origlda:
 					lda.classify(orig_lda=True)
+				# Print results on folds in text file!
+				filename = "metrics_%s_%s_%s" %(str(nr_runs), str(nr_topics), str(i))
+				with open("metrics", 'w+') as f:
+					for i in lda.metric_folds.keys():
+						f.write("FOLD %i\n" %i)
+						fold_values = lda.metric_folds[i]
+						for genre in sorted(fold_values):
+							f.write("%s: %s\n" %(genre, str(fold_values[genre])))
 
-	# Print results on folds in text file!
-	filename = "metrics_%s_%s" %(str(nr_runs), str(nr_topics))
-	with open("metrics", 'w+') as f:
-		for i in lda.metric_folds.keys():
-			f.write("FOLD %i\n" %i)
-			fold_values = lda.metric_folds[i]
-			for genre in sorted(fold_values):
-				f.write("%s: %s\n" %(genre, str(fold_values[genre])))
+					if origlda:
+						f.write("\nORIGINAL LDA:\n")
+						for i in lda.metric_folds.keys():
+							f.write("FOLD %i\n" %i)
+							fold_values = lda.metric_folds_orig_lda[i]
+							for genre in sorted(fold_values):
+								f.write("%s: %s\n" %(genre, str(fold_values[genre])))
+						f.write("\n\n")
 
-		if origlda:
-			f.write("\nORIGINAL LDA:\n")
-			for i in lda.metric_folds.keys():
-				f.write("FOLD %i\n" %i)
-				fold_values = lda.metric_folds_orig_lda[i]
-				for genre in sorted(fold_values):
-					f.write("%s: %s\n" %(genre, str(fold_values[genre])))
-			f.write("\n\n")
 
 
 
