@@ -1184,7 +1184,7 @@ if __name__ == "__main__":
 		# If use of folds, also do classification
 		# Print results on folds in text file!
 		filename = "metrics_%s_%s_a%s_b%s_0" %(str(nr_runs), str(nr_topics), alpha, beta)
-		with open("metrics", 'w+') as f:
+		with open(filename, 'w+') as f:
 			for i in lda.metric_folds.keys():
 				f.write("FOLD %i\n" %i)
 				fold_values = lda.metric_folds[i]
@@ -1213,7 +1213,7 @@ if __name__ == "__main__":
 					lda.classify(orig_lda=True)
 				# Print results on folds in text file!
 				filename = "metrics_%s_%s_a%s_b%s_%s" %(str(nr_runs), str(nr_topics), alpha, beta, str(i))
-				with open("metrics", 'w+') as f:
+				with open(filename, 'w+') as f:
 					for i in lda.metric_folds.keys():
 						f.write("FOLD %i\n" %i)
 						fold_values = lda.metric_folds[i]
