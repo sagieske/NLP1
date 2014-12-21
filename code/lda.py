@@ -178,7 +178,7 @@ class lda():
 		self._initialize_lists()
 		# Initialize counts for matrices
 		# LOAD COUNTS, set to true
-		self._initialize_counts(load=False)
+		self._initialize_counts(load=True)
 
 
 
@@ -320,7 +320,7 @@ class lda():
 
 
 
-	def start_gibbs(self, N, topwords, toptopics, filename):
+	def start_gibbs(self, N, topwords, toptopics, filename, load_iter=False, start_iter=0):
 		"""
 		Runs Gibbs sampling for LDA on N iterations. Topwords and toptopics are needed for number of words/topics needed
 		for representation of topic/genre. Filename is file to which output (representation) is printed
@@ -329,9 +329,19 @@ class lda():
 		print "start Gibbs sampling! Also compute original LDA:", self.orig_lda
 		start = time.time()
 
+		# Load data from specific iteration (start_iter)
+		if load_iter:
+			print "Start at iteration %i" %(start_iter)
+			filename = "iter" + str(start_iter) + "_a" + str(self.alpha) + "_b" + str(self.beta) + "_topics" \
+					+ str(self.nr_topics) + "_fold" + str(self.fold) 
+			print filename
+			self.load_data(filename)
+			# load from iter X which is already done, so you start with +1
+			start_iter +=1
+
 		nr_lyrics = len(self.dataset)
-		# Do gibbs sampling N times for all items
-		for iteration in range(0,N):
+		# Do gibbs sampling N times for all items (if load_iter is false, you start from 0, otherwise pick up where you left off at start_iter)
+		for iteration in range(start_iter,N):
 			# Loop through all documents
 			for i in range(0, nr_lyrics):
 				# get genre (and corresponding index)
@@ -368,8 +378,8 @@ class lda():
 					print "- lyrics done: %i" %(i)
 
 			print "done iteration %i (stopwatch: %s)" %(iteration, str(time.time()-start))
-			# TODO, LDA??
 
+			# Dump information to file and print topics to files
 			if iteration % 5 == 0 and iteration > 5:
 				filename = "iter" + str(iteration) + "_a" + str(self.alpha) + "_b" + str(self.beta) + "_topics" \
 					+ str(self.nr_topics) + "_fold" + str(self.fold) 
@@ -384,6 +394,10 @@ class lda():
 			iteration = N
 			#self.print_to_file(N, topwords, toptopics, filename, iteration)
 
+		# Do not write stuff to file if at start
+		if start_iter==N:
+			return
+		# Dump when done (in case last iteration !% 5 and not >5)
 		print "Print to file topics, genres etc"
 		filename = "iter" + str(iteration) + "_a" + str(self.alpha) + "_b" + str(self.beta) + "_topics" \
 				+ str(self.nr_topics) + "_fold" + str(self.fold) 
@@ -570,7 +584,7 @@ class lda():
 				sys.exit()
 			self._initialize_counts(False)
 
-		# Load data for original LDA 
+		# Original LDA implemented, extra addition to load
 		if self.orig_lda:
 			try:
 				filename_orig_lda = filename+"_orig"
@@ -609,7 +623,8 @@ class lda():
 		return genres, dt_dist
 
 	def document_topic_distribution_orig_lda(self):
-		""" Create array of topic distribution per document.
+		""" USED FOR ORIGINAL LDA
+		Create array of topic distribution per document.
 		Returns matrix of topic distribution per document and array of the genre corresponding to each document
 		"""
 		nr_lyrics = len(self.dataset)
@@ -985,8 +1000,10 @@ class lda():
 		"""
 		print "Gathering training set information... (use orig_lda: %s)" %(orig_lda)
 		if orig_lda:
+			print "original"
 			train_genre_list, distribution_train_matrix = self.document_topic_distribution_orig_lda()
 		else:
+			print "non-original"
 			train_genre_list, distribution_train_matrix = self.document_topic_distribution()
 
 		number_testing = len(self.testset)
@@ -1133,31 +1150,41 @@ if __name__ == "__main__":
 	lda = lda(alpha, beta, nr_topics, skip_lda=skiplda, orig_lda=origlda, remove_poprock=remove_poprock)
 	kfold = True
 	folds = 5
+	#start_iter = 0
+	start_iter = 9
 
+	# Otherwise error in loop.
+	if start_iter > nr_runs:
+		start_iter = nr_runs
+	
+
+	print "LDA orig", origlda
+	#TODO: load_iter is False if you don't want to load from specific point!!!! Start_iter then also needs to be 0
 	# Do gibbs sampling
 	if not skiplda:
-		lda.start_gibbs(nr_runs, top_words, top_topics, filename)
+		lda.start_gibbs(nr_runs, top_words, top_topics, filename, load_iter=True, start_iter=start_iter)
 		# Use classification for extended LDA	
-		#lda.classify()
+		lda.classify()
 		# Use classification for normalized LDA
-		#if origlda:
-		#	lda.classify(orig_lda=True)
+		if origlda:
+			lda.classify(orig_lda=True)
 		# If use of folds, also do classification
 		if kfold:
 			for i in range(1,5):
 				print "FOLD %i" %(i)
 				lda.reset_to_next_fold(i)
-				lda.start_gibbs(nr_runs, top_words, top_topics, filename)
+				lda.start_gibbs(nr_runs, top_words, top_topics, filename, load_iter=True, start_iter=start_iter)
 	
-	# Use classification for extended LDA
-	lda.classify()
-	# Use classification for normalized LDA
-	if origlda:
-		lda.classify(orig_lda=True)
+				# Use classification for extended LDA
+				lda.classify()
+				# Use classification for normalized LDA
+				if origlda:
+					lda.classify(orig_lda=True)
 
 	# Print results on folds in text file!
+	filename = "metrics_%s_%s" %(str(nr_runs), str(nr_topics))
 	with open("metrics", 'w+') as f:
-		for i in range(0,len(lda.metric_folds)):
+		for i in lda.metric_folds.keys():
 			f.write("FOLD %i\n" %i)
 			fold_values = lda.metric_folds[i]
 			for genre in sorted(fold_values):
@@ -1165,7 +1192,7 @@ if __name__ == "__main__":
 
 		if origlda:
 			f.write("\nORIGINAL LDA:\n")
-			for i in range(0,len(lda.metric_folds_orig_lda)):
+			for i in lda.metric_folds.keys():
 				f.write("FOLD %i\n" %i)
 				fold_values = lda.metric_folds_orig_lda[i]
 				for genre in sorted(fold_values):
