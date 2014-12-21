@@ -129,13 +129,15 @@ class lda():
 		#file_indices = 'train_test_indices_stratified'
 		#if remove_poprock:
 		#	file_indices += '_notpoprock'
+		#	print "not poprock"
 		#pickle.dump((self.train_indices_folds, self.test_indices_folds), open(file_indices,"wb+"))
-		
+		#sys.exit()
 
 		# OR LOAD FROM PICKLE FILE:
 		if remove_poprock:
 			self.train_indices_folds, self.test_indices_folds = pickle.load(open('train_test_indices_stratified_notpoprock',"r"))
-		self.train_indices_folds, self.test_indices_folds = pickle.load(open('train_test_indices_stratified',"r"))
+		else:
+			self.train_indices_folds, self.test_indices_folds = pickle.load(open('train_test_indices_stratified',"r"))
 
 		# Create the training and test set. Both are set as instance variables
 		self.create_train_test_set(0)
