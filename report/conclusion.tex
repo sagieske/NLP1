@@ -6,3 +6,13 @@
 \item Future work : you do not need to do this work really, but what would you change in the model/what experiments you would run/ etc, if you would have a chance to do this? What other people should look into?
 \item Any thoughts/observations/wider implications
 \end{itemize}
+
+\subsection{Challenges}
+One of the main challenges of the research was caused by the dataset: the dataset consists for a large part of \verb|pop/rock| songs, in which both easy-to-listen top 40 songs are included, but also death metal songs. The diversity of this genre makes it quite hard to classify, since such a broad genre contains a lot of different words and therefore a pretty even distribution over topics. \\
+Another challenge faced was the fact that some words, like \textit{love} occur in a lot of different genres. Words that occur in a lot of different genres make it harder to have a topic distribution with a high probabilty for only a couple of topics and should therefore be filtered from the dataset. 
+
+\subsection{Conclusion}
+
+\subsection{Future work}
+To continue reseach with the current dataset, the \verb|pop/rock| genre has to be split into more (sub)genres. This could be achieved by taking the topic distribution of subgenres, and merging subgenres containing similair topic distributions. This way, subgenres like black metal and death metal should be splitted from, for example, top 40 songs. \\
+Furthermore, words that occur a lot in different genres should be removed from the dataset. This can be done by keeping the count of occurences of a word in different genres, and if the word occurs in more than a certain percentage of the genres, remove it from the dataset.

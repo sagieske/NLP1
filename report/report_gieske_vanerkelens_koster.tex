@@ -2,13 +2,20 @@
 \usepackage{times}
 \usepackage{hyperref}
 \usepackage{url}
+\usepackage{graphicx}
+\usepackage{cite}
 \usepackage{times}
 \usepackage{tikz}
+\usepackage{tikzscale}
+\usepackage[]{algorithm2e}
 \usetikzlibrary{arrows,decorations.pathmorphing,fit,positioning}
 \usepackage{algorithmic}
 \usepackage{mdframed}
 \usepackage[margin=1in]{geometry}
 \usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{subcaption}
 %\documentstyle[nips14submit_09,times,art10]{article} % For LaTeX 2.09
 
 
@@ -17,8 +24,8 @@
 
 \author{
 Sharon Gieske \\
-\texttt{00000000}\\
-\texttt{email} \\
+\texttt{6167667}\\
+\texttt{sharongieske@gmail.com} \\
 \and
 David van Erkelens\\
 \texttt{10264019}\\
@@ -51,7 +58,7 @@ Elise Koster \\
 \begin{abstract}
 \input{abstract}
 \end{abstract}
-
+\clearpage
 \section{Introduction}
 \input{introduction}
 
@@ -69,5 +76,8 @@ Elise Koster \\
 
 \section{Team responsibilities}
 \input{team}
+
+\bibliography{../papers/bibliography.bib}
+\bibliographystyle{plain}
 
 \end{document}
