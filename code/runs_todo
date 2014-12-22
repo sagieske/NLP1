@@ -5,7 +5,7 @@ nohup python -u lda.py -removepoprock -runs 15 -topics 50 -a 0.5 -b 0.1 &> outpu
 nohup python -u lda.py -removepoprock -runs 15 -topics 50 -a 0.1 -b 0.5 &> output2.nohup &
 
 MORE TOPICS
-nohup python -u lda.py -origlda  -removepoprock -runs 15 -topics 100 -a 0.1 -b 0.1 &> output2.nohup &
+[E] nohup python -u lda.py -origlda  -removepoprock -runs 15 -topics 100 -a 0.1 -b 0.1 &> output2.nohup &
 
 LDA WITH POPROCK
 nohup python -u lda.py -origlda -runs 15 -topics 50 -a 0.1 -b 0.1 &> output2.nohup &    **
