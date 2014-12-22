@@ -1219,7 +1219,7 @@ if __name__ == "__main__":
 					lda.classify(orig_lda=True)
 					filename += '_orig'
 				# Print results on folds in text file!
-				print "write metrics to file for fold %i: %s" %(str(i), filename)
+				print "write metrics to file for fold %s: %s" %(str(i), filename)
 				with open(filename, 'w+') as f:
 					for i in lda.metric_folds.keys():
 						f.write("FOLD %i\n" %i)
