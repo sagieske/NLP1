@@ -1,0 +1,103 @@
+Runs: 20, alpha: 0.10, beta: 0.10, nr topics: 50, nr genres: 20, iteration: 19, top_topics: 5, top_words: 25
+
+TOPIC-WORD DISTRIBUTION at iteration 19/20 
+Topic 0
+['wish', 'wiggle', 'star', 'little', 'got', 'aint', 'kiss', 'la', 'air', 'lonely', 'drink', 'amen', 'love', 'beer', 'crazy', 'waiting', 'ai', 'like', 'row', 'blue', 'old', 'children', 'night', 'ask', 'bright']
+Topic 1
+['urge', 'eritha', 'blazers', 'yeongyeoldwae', 'comet', 'nagbibusiness', 'misspelled', 'liquored', 'comea', 'expands', 'behindbrought', 'gwa', 'hogging', 'yetda', 'jeoldae', 'article', 'spitfire', 'style', 'morinngs', 'eonje', 'yume', 'unaffectionate', 'moreover', 'pigtails', 'shio']
+Topic 2
+['rabbit', 'believein', 'michyosso', 'expands', 'comea', 'comet', 'nagbibusiness', 'misspelled', 'liquored', 'morinngs', 'yeongyeoldwae', 'eonje', 'gwa', 'hogging', 'yetda', 'jeoldae', 'behindbrought', 'unaffectionate', 'spitfire', 'porsche', 'exhaustion', 'nickle', 'dangers', 'punished', 'porscha']
+Topic 3
+['turnt', 'rambamalam', 'hogan', 'tanqueray', 'clean', 'marchin', 'dicks', 'toysrus', 'poro', 'mini', 'puppetry', 'blindfolded', 'zany', 'drunk', 'hire', 'halgeoya', 'buggati', 'whoopee', 'causes', 'lenny', 'rack', 'apeunde', 'raided', 'denims', 'stranglin']
+Topic 4
+['baby', 'love', 'aint', 'get', 'yeah', 'girl', 'wanna', 'know', 'back', 'let', 'gonna', 'make', 'give', 'cause', 'need', 'got', 'chorus', 'look', 'go', 'ooh', 'see', 'like', 'tell', 'take', 'come']
+Topic 5
+['hood', 'leavin', 'sound', 'pot', 'btch', 'breathe', 'heat', 'beat', 'whats', 'gat', 'dogs', 'wen', 'ge', 'sittin', 'ni', 'round', 'block', 'coke', 'dealin', 'ugh', 'break', 'dog', 'scratch', 'chevrolet', 'add']
+Topic 6
+['alice', 'bottle', 'ugly', 'kinds', 'hay', 'loathe', 'johnny', 'bonny', 'homeless', 'sew', 'claudy', 'pulled', 'lousy', 'salute', 'item', 'guitar', 'baldy', 'paddled', 'broad', 'slap', 'aquaboogie', 'grey', 'cage', 'farmers', 'ft']
+Topic 7
+['noel', 'reindeer', 'moving', 'teeth', 'rudolph', 'front', 'year', 'inch', 'israel', 'royal', 'proceeding', 'tidings', 'westward', 'nose', 'leading', 'rednosed', 'fairytale', 'ho', 'eve', 'myrrh', 'nigh', 'ye', 'santa', 'excelsis', 'joyful']
+Topic 8
+['beginnings', 'magpatali', 'mujoe', 'oechigo', 'renown', 'albums', 'crowds', 'figure', 'destroyed', 'youna', 'article', 'jeoldae', 'porscha', 'yetda', 'hogging', 'gwa', 'morinngs', 'yeongyeoldwae', 'comea', 'disciplecycles', 'liquored', 'porsche', 'mmph', 'punishes', 'misspelled']
+Topic 9
+['gently', 'expands', 'gwa', 'nagbibusiness', 'misspelled', 'liquored', 'comea', 'yeongyeoldwae', 'morinngs', 'hogging', 'yume', 'yetda', 'jeoldae', 'article', 'spitfire', 'style', 'comet', 'behindbrought', 'eonje', 'unaffectionate', 'moreover', 'pigtails', 'shio', 'peeji', 'siete']
+Topic 10
+['microphone', 'fantastic', 'dig', 'angle', 'events', 'escape', 'tto', 'abandoned', 'in2', 'plug', 'foever', 'handguns', 'v', 'nose', 'equal', 'unforgivable', 'excederin', 'judge', 'diggety', 'welfare', 'spelled', 'judeon', 'duck', 'delancey', 'nehnehnehnehnehnehnehnehnehneh']
+Topic 11
+['gaye', 'amongst', 'timberlake', 'moose', 'staircase', 'charts', 'nastiness', 'remindin', 'unconditional', 'heyhey', 'emotionally', 'burden', '1234', 'chanel', 'musical', 'homeys', 'floss', 'diminish', 'rhymesll', 'breathe', 'expectfully', 'bombastic', 'nizorth', 'sticthes', 'cypher']
+Topic 12
+['na', 'yall', 'black', 'bad', 'nigga', 'huh', 'peep', 'bout', 'two', 'aint', 'damn', 'like', 'got', 'tryin', 'crazy', 'real', 'die', 'city', 'streets', 'niggaz', 'stay', 'dem', 'hot', 'yeah', 'k']
+Topic 13
+['fighters', 'quarterbacking', 'jwo', 'freeway', 'lode', 'beeped', 'manchester', 'infatuated', 'colui', 'boring', 'gwa', 'comea', 'yeongyeoldwae', 'morinngs', 'yetda', 'hogging', 'misspelled', 'jeoldae', 'article', 'spitfire', 'style', 'liquored', 'comet', 'nagbibusiness', 'yume']
+Topic 14
+['ch', 'cmon', 'walk', 'rhythm', 'determinate', 'rock', 'aglet', 'erika', 'banner', 'carrying', 'finger', 'newsies', 'secret', 'spongebob', 'princess', 'medda', 'ah', 'ratcliffe', 'headline', 'riverbend', 'allah', 'la', 'noise', 'wire', 'anneliese']
+Topic 15
+['new', 'bring', 'check', 'west', 'haters', 'intro', 'school', 'ns', 'face', 'broke', 'ha', '20', 'punk', 'f', 'nine', 'straight', 'smokin', 'talkin', 'thank', 'yeah', 'bad', 'help', 'breathe', 'runnin', 'rappers']
+Topic 16
+['road', 'big', 'home', 'fat', 'mark', 'buy', 'law', 'runnin', 'back', 'mimi', 'twenty', 'dad', 'daddy', 'used', 'dollar', 'came', 'restaurant', 'booze', 'manager', 'mile', 'poo', 'wanted', 'get', 'alices', 'father']
+Topic 17
+['gabriella', 'troy', 'ryan', 'sharpay', 'rachel', 'face', 'chad', 'brody', 'everyday', 'raitata', 'together', 'fabulous', 'bet', 'toni', 'horse', 'says', 'batter', 'change', 'follow', 'piolo', 'mary', 'everyone', 'tina', 'miracles', 'longer']
+Topic 18
+['love', 'come', 'heart', 'never', 'world', 'know', 'go', 'every', 'get', 'see', 'life', 'gonna', 'take', 'way', 'away', 'cause', 'eyes', 'us', 'good', 'day', 'new', 'say', 'one', 'ever', 'back']
+Topic 19
+['expands', 'yeongyeoldwae', 'behindbrought', 'comet', 'nagbibusiness', 'misspelled', 'liquored', 'comea', 'morinngs', 'hald', 'gwa', 'hogging', 'yetda', 'jeoldae', 'article', 'spitfire', 'eonje', 'unaffectionate', 'moreover', 'pigtails', 'shio', 'peeji', 'siete', 'punishes', 'mmph']
+Topic 20
+['oh', 'love', 'want', 'like', 'night', 'time', 'one', 'know', 'never', 'say', 'hey', 'always', 'way', 'let', 'gone', 'baby', 'see', 'home', 'better', 'day', 'come', 'heart', 'think', 'still', 'break']
+Topic 21
+['man', 'well', 'said', 'like', 'people', 'mind', 'little', 'two', 'door', 'love', 'woman', 'know', 'got', 'everybody', 'black', 'young', 'crazy', 'make', 'crying', 'back', 'alright', 'tears', 'right', 'song', 'land']
+Topic 22
+['crops', 'primitive', 'waszych', 'splitting', 'straps', 'bawwawwaw', 'mixed', 'patrone', 'napkins', 'scrotum', 'fellings', 'backyard', 'equally', 'chulo', 'dade', 'swordfish', 'alizay', 'shoving', 'complicated', 'battering', 'racks', 'kim', 'doorway', 'sitch', 'kn']
+Topic 23
+['death', 'magic', 'porch', 'mary', 'south', 'stranger', 'naturally', 'ehoh', 'wildcats', 'row', 'sigh', 'nanana', 'ship', 'whip', 'naege', 'medicine', 'roy', 'difference', 'wanted', 'atlantic', 'tea', 'e7', 'alien', 'record', 'motor']
+Topic 24
+['song', 'verse', 'upon', 'yes', 'friend', 'sea', 'end', 'give', 'believe', 'love', 'follow', 'day', 'earth', 'amazing', 'waiting', 'makes', 'say', 'land', 'heaven', 'mercy', 'morning', 'bright', 'going', 'thee', 'people']
+Topic 25
+['ni', 'radio', 'wo', 'alam', 'lahat', 'ohh', 'ireum', 'thats', 'bureunun', 'bingo', 'mo', 'kailan', 'plain', 'ga', 'banana', 'ice', 'york', 'turning', 'garden', 'autumn', 'babylon', 'wit', 'saddest', 'hole', 'hikkyburr']
+Topic 26
+['ang', 'ah', 'sa', 'boom', 'mr', 'boy', 'ko', 'na', 'stop', 'st', 'mo', 'sun', 'bring', 'ng', 'da', 'tiffany', 'catch', 'ba', 'yo', 'yyeah', 'di', 'take', 'king', 'ay', 'boys']
+Topic 27
+['east', 'money', 'hundred', 'charge', 'roll', 'every', 'beat', 'whip', 'told', 'kim', 'stupid', 'eat', 'son', 'straight', 'dollars', 'bullet', 'rollin', 'pistol', 'boy', 'goin', 'deal', 'givin', 'sick', 'fame', 'body']
+Topic 28
+['god', 'lord', 'jesus', 'praise', 'let', 'chorus', 'oh', 'holy', 'sing', 'us', 'come', 'glory', 'power', 'worship', 'grace', 'king', 'lift', 'give', 'name', 'thank', 'soul', 'spirit', 'hallelujah', 'worthy', 'still']
+Topic 29
+['expands', 'yeongyeoldwae', 'behindbrought', 'comet', 'nagbibusiness', 'misspelled', 'liquored', 'comea', 'morinngs', 'hald', 'gwa', 'hogging', 'yetda', 'jeoldae', 'article', 'spitfire', 'eonje', 'unaffectionate', 'moreover', 'pigtails', 'shio', 'peeji', 'siete', 'punishes', 'mmph']
+Topic 30
+['ns', 'money', 'fuckin', 'niz', 'block', 'na', 'gun', 'keep', 'boy', 'poppin', 'ima', 'jam', 'yall', 'cash', 'look', 'bang', '100', 'stop', 'snoop', 'n', 'homies', 'paper', 'die', 'every', 'chick']
+Topic 31
+['blacked', 'neighbor', 'pulgo', 'thirtythousand', 'hmm', 'geotman', 'nevermind', 'makaalpas', 'forfeiting', 'jd', 'brush', 'gumyeongbasjuleun', 'shoot', 'commandments', 'vehicle', 'saddar', 'rarest', 'multiplatinum', 'foo', 'whoever', 'masaya', 'chemistry', 'somebodys', 'atm', 'compartment']
+Topic 32
+['boom', 'jia', 'albuquerque', 'stimpy', 'ren', 'bloat', 'yeah', 'cheech', 'chong', 'nae', 'face', 'fei', 'dave', 'min', 'spuds', 'amy', 'nan', 'paula', 'jakkuman', 'airline', 'bowie', 'nottaeme', 'chuga', 'booty', 'albi']
+Topic 33
+['like', 'get', 'got', 'aint', 'back', 'st', 'na', 'bh', 'fk', 'em', 'yo', 'cause', 'big', 'man', 'verse', 'never', 'hit', 'put', 'say', 'gotta', 'ya', 'young', 'hook', 'go', 'wanna']
+Topic 34
+['whitey', 'sucheon', 'petal', 'totally', 'bounblockquoteess', 'tsukaretandane', 'hachanheun', 'changed', 'swiftly', 'whats', 'prehook', 'sails', 'nagbibusiness', 'misspelled', 'comet', 'liquored', 'comea', 'behindbrought', 'yeongyeoldwae', 'morinngs', 'expands', 'unaffectionate', 'eonje', 'rebuild', 'nickle']
+Topic 35
+['maturing', 'hostile', 'tagai', 'expands', 'morinngs', 'comet', 'nagbibusiness', 'misspelled', 'liquored', 'comea', 'yeongyeoldwae', 'gwa', 'eonje', 'hogging', 'yetda', 'jeoldae', 'article', 'spitfire', 'behindbrought', 'unaffectionate', 'yumm', 'moreover', 'pigtails', 'shio', 'peeji']
+Topic 36
+['blues', 'woman', 'anhaesseo', 'haesseo', 'zico', 'given', 'kyung', 'dues', 'short', 'understandin', 'bichi', 'doeeojwo', 'coochie', 'taeil', 'hoochie', 'dog', 'evrybody', 'awhile', 'outdoors', 'mallago', 'biglegged', 'rise', 'oww', 'chow', 'papa']
+Topic 37
+['calling', 'na', 'la', 'girl', 'weightless', 'ay', 'know', 'right', 'ako', 'sabi', 'andrew', 'acting', 'akoy', 'fax', 'starry', 'nya', 'niya', 'shall', 'finally', 'brought', 'abide', 'hassles', 'binibi', 'kami', 'rocha']
+Topic 38
+['jessica', 'rim', 'consider', 'calling', 'ha', 'bwa', 'xlr8', 'elphaba', 'ke', 'seohyun', 'pip', 'mega', 'lager', 'glinda', 'makin', 'revoir', 'hate', 'ji', 'real', 'court', 'boq', 'bleeding', 'uh', 'foreva', 'breakaway']
+Topic 39
+['instincts', 'dinadalangin', 'visa', 'makilala', 'makapiling', 'restrain', 'prisons', 'article', 'jeoldae', 'yetda', 'hogging', 'comet', 'gwa', 'morinngs', 'spitfire', 'yeongyeoldwae', 'comea', 'liquored', 'misspelled', 'nagbibusiness', 'expands', 'yumm', 'punishes', 'punished', 'porscha']
+Topic 40
+['mi', 'ah', 'fight', 'dem', 'gonna', 'jah', 'yuh', 'whatcha', 'bad', 'burnin', 'ya', 'boys', 'fi', 'chuck', 'na', 'woman', 'cry', 'nuh', 'weh', 'children', 'yeah', 'different', 'ten', 'africa', 'train']
+Topic 41
+['know', 'like', 'make', 'got', 'go', 'need', 'see', 'feel', 'chorus', 'one', 'life', 'ya', 'time', 'keep', 'wanna', 'tell', 'around', 'way', 'really', 'cause', 'come', '2', 'aint', 'hear', 'get']
+Topic 42
+['que', 'sleep', 'bad', 'bla', 'ah', 'cant', 'loco', 'de', 'la', 'y', 'tu', 'te', 'attention', 'yo', 'jiyoon', 'alabao', 'carry', 'bongo', 'watch', 'un', 'lets', 'alegria', 'por', 'together', 'king']
+Topic 43
+['taeyeon', 'ga', 'anies', 'faces', 'sunny', 'baekho', 'passing', 'neo', 'ni', 'bbring', 'gosport', 'noses', 'computerized', 'oogie', 'kimi', 'yuri', 'savior', 'yeoboseyo', 'toorali', 'veins', 'nahmen', 'cheerio', 'ai', 'le', 'yyeah']
+Topic 44
+['na', 'whoo', 'body', 'hyorin', 'hoo', 'never', 'neol', 'la', 'right', 'black', 'deo', 'ma', 'nega', 'wa', 'motherfucker', 'sandeul', 'niga', 'wae', 'neo', 'o', 'cnu', 'neoman', 'sangele', 'ala', 'neoneun']
+Topic 45
+['th', 'mufferaw', 'fa', 'vendor', 'hi', 'obie', 'ottawa', 'nado', 'roger', 'soal', 'annachie', 'second', 'boy', 'ho', 'buppanase', 'wall', 'rock', 'ma', 'drinking', 'cherry', 'sea', 'lilies', 'ancient', 'ade', 'bluetail']
+Topic 46
+['nae', 'ni', 'nan', 'dey', 'ga', 'rock', 'neo', 'e', 'neon', 'oyi', 'neoreul', 'niel', 'n', 'neowa', 'baro', 'nappeo', 'naega', 'soyou', 'geu', 'soge', 'ken', 'han', 'beautiful', 'ricky', 'mo']
+Topic 47
+['braveheart', 'timerepeated', 'gunnin', 'tooley', 'chantin', 'locals', 'ideas', 'znale', 'malhae', 'ygs', 'gut', 'dudes', 'barae', 'panties', 'kyla', 'meanin', 'sungani', 'sesange', 'boomer', 'beurgoneungeun', 'served', 'bangas', 'logical', 'balkeun', 'melayu']
+Topic 48
+['oh', 'love', 'bad', 'nobody', 'body', 'na', 'ah', 'babe', 'girl', 'party', 'touch', 'falling', 'tonight', 'ohh', 'got', 'alright', 'floor', 'together', 'o', 'one', 'fg', 'funky', 'mind', 'go', 'nothing']
+Topic 49
+['wham', 'jazze', 'dugo', 'corporate', 'conk', 'chamjyo', 'scorch', 'neukil', 'chocked', 'jons', 'bibles', 'gust', 'appachi', 'cellmates', 'setbacks', 'ricci', 'minasweta', 'scholars', 'gettup', 'mechanicsville', 'ssimon', 'julio', 'attract', 'raped', 'renew']

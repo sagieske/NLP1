@@ -1,0 +1,103 @@
+Runs: 20, alpha: 0.10, beta: 0.10, nr topics: 50, nr genres: 20, iteration: 19, top_topics: 5, top_words: 25
+
+TOPIC-WORD DISTRIBUTION at iteration 19/20 
+Topic 0
+['aint', 'get', 'dog', 'money', 'cause', 'jump', 'nobody', 'know', 'got', 'give', 'hard', 'hate', 'work', 'never', 'time', 'stop', 'mean', 'leave', 'right', 'new', 'wanna', 'gonna', 'promise', 'im', 'like']
+Topic 1
+['christmas', 'know', 'time', 'still', 'like', 'much', 'look', 'one', 'back', 'spend', 'got', 'many', 'come', 'get', 'never', 'need', 'love', 'even', 'long', 'want', 'think', 'snow', 'year', 'honey', 'old']
+Topic 2
+['man', 'wanna', 'got', 'cause', 'know', 'like', 'ever', 'change', 'beat', 'let', 'thank', 'best', 'girl', 'never', 'might', 'right', 'want', 'ohh', 'say', 'show', 'ready', 'think', 'get', 'strong', 'oh']
+Topic 3
+['come', 'take', 'hear', 'time', 'like', 'go', 'got', 'sleep', 'lookin', 'cause', 'heard', 'gonna', 'band', 'play', 'let', 'oh', 'know', 'lead', 'get', 'together', 'tell', 'road', 'man', 'fat', 'matter']
+Topic 4
+['bring', 'everything', 'first', 'home', 'see', 'need', 'one', 'thing', 'right', 'grace', 'yes', 'yeah', 'sweet', 'dont', 'us', 'love', 'long', 'found', 'youre', 'bounce', 'breathe', 'coast', 'near', 'top', 'heart']
+Topic 5
+['good', 'oh', 'human', 'yeah', 'man', 'music', 'know', 'song', 'dance', 'go', 'carry', 'half', 'kelly', 'crazy', 'show', 'change', 'sing', 'feel', 'price', 'beat', 'black', 'think', 'get', 'inhale', 'little']
+Topic 6
+['like', 'night', 'heart', 'gone', 'see', 'day', 'feel', 'blue', 'come', 'please', 'eyes', 'long', 'time', 'lonely', 'good', 'need', 'chorus', 'keep', 'world', 'know', 'cause', 'always', 'must', 'left', 'skin']
+Topic 7
+['go', 'wanna', 'let', 'see', 'hurt', 'put', 'better', 'dont', 'cause', 'home', 'miss', 'times', 'like', 'cry', 'miles', 'never', 'hard', 'sad', 'night', 'gone', 'nothing', 'away', 'drink', 'hundred', 'american']
+Topic 8
+['god', 'lord', 'ever', 'first', 'great', 'well', 'wanted', 'one', 'river', 'die', 'land', 'hear', 'burning', 'heaven', 'songs', 'amy', 'reigns', 'grade', 'power', 'awesome', 'see', 'sing', 'look', 'free', 'ch']
+Topic 9
+['back', 'like', 'got', 'imma', 'man', 'never', 'make', 'yo', 'big', 'charge', 'seen', 'go', 'bring', 'boy', 'beef', 'get', 'front', 'see', 'town', 'say', 'know', 'call', 'sittin', 'try', 'club']
+Topic 10
+['always', 'life', 'every', 'way', 'time', 'sky', 'fly', 'alive', 'give', 'forever', 'dream', 'believe', 'see', 'day', 'world', 'loving', 'cause', 'away', 'chorus', 'live', 'know', 'even', 'fall', 'yeah', 'got']
+Topic 11
+['friend', 'call', 'mine', 'may', 'make', 'old', 'new', 'ring', 'man', 'police', 'heart', 'dey', 'try', 'best', 'say', 'got', 'mary', 'things', 'whole', 'mother', 'still', 'oh', 'see', 'e', 'tell']
+Topic 12
+['ya', 'right', 'hey', 'get', 'give', 'chain', 'make', 'got', 'chorus', 'put', 'man', 'lovin', 'yeah', 'aint', 'need', 'wait', 'take', 'arise', 'stop', 'gotta', 'uh', 'turn', 'burnin', 'party', 'like']
+Topic 13
+['aint', 'think', 'hear', 'right', 'chorus', 'heaven', 'free', 'way', 'feeling', 'nothing', 'need', 'like', 'see', 'verse', 'back', 'world', 'say', 'know', '2', 'standing', 'troy', 'new', 'found', 'heart', 'every']
+Topic 14
+['lord', 'god', 'jesus', 'praise', 'name', 'oh', 'day', 'sing', 'holy', 'glory', 'chorus', 'earth', 'soul', 'o', 'king', 'heart', 'every', 'worship', 'give', 'lift', 'grace', 'let', 'hallelujah', 'great', 'repeat']
+Topic 15
+['like', 'aint', 'got', 'get', 'cause', 'verse', 'sayin', 'tell', 'nothin', 'ask', 'young', 'one', 'look', 'said', 'name', 'fire', 'angel', 'call', 'come', 'gon', 'door', 'little', 'die', 'people', 'fck']
+Topic 16
+['baby', 'love', 'wanna', 'shake', 'make', 'know', 'want', 'see', 'let', 'go', 'back', 'break', 'body', 'yeah', 'girl', 'keep', 'get', 'oh', 'touch', 'way', 'feel', 'dance', 'right', 'floor', 'need']
+Topic 17
+['mi', 'im', 'ah', 'dem', 'daddy', 'man', 'come', 'know', 'like', 'baby', 'get', 'good', 'one', 'go', 'chorus', 'run', 'tell', 'aint', 'side', 'see', 'girl', 'say', 'gonna', 'thats', 'fi']
+Topic 18
+['nae', 'oh', 'baby', 'nan', 'neo', 'ah', 'nal', 'boy', 'deo', 'neon', 'na', 'girl', 'neol', 'body', 'geu', 'woo', 'naega', 'hoo', 'ma', 'please', 'mal', 'million', 'wae', 'bwa', 'ways']
+Topic 19
+['need', 'know', 'time', 'someone', 'love', 'really', 'never', 'somebody', 'want', 'say', 'ever', 'everything', 'long', 'one', 'always', 'heart', 'gonna', 'like', 'life', 'forget', 'else', 'hope', 'happy', 'closer', 'go']
+Topic 20
+['like', 'way', 'girl', 'let', 'get', 'ooh', 'think', 'go', 'chorus', 'done', 'make', 'day', 'uh', 'baby', 'tell', 'cause', 'feel', 'every', 'things', 'better', 'said', 'time', 'give', 'verse', 'maybe']
+Topic 21
+['got', 'good', 'times', 'time', 'things', 'like', 'take', 'mind', 'doo', 'make', 'trying', 'people', 'see', 'life', 'keep', 'right', 'go', 'let', 'say', 'come', 'blood', 'coming', 'think', 'little', 'back']
+Topic 22
+['la', 'love', 'know', 'one', 'take', 'say', 'give', 'much', 'time', 'true', 'name', 'girl', 'make', 'want', 'always', 'tell', 'chorus', 'things', 'us', 'else', 'song', 'wrong', 'aim', 'ever', 'feel']
+Topic 23
+['love', 'know', 'us', 'without', 'day', 'way', 'fool', 'yeah', 'long', 'care', 'never', 'say', 'loved', 'cry', 'ever', 'remember', 'sun', 'find', 'lost', 'heart', 'oh', 'like', 'ooh', 'turning', 'mr']
+Topic 24
+['away', 'let', 'eyes', 'love', 'go', 'way', 'take', 'know', 'house', 'still', 'close', 'heart', 'free', 'home', 'every', 'keep', 'tears', 'alone', 'light', 'life', 'see', 'crying', 'like', 'face', 'nothing']
+Topic 25
+['big', 'boy', 'little', 'hey', 'get', 'yeah', 'star', 'let', 'got', 'gonna', 'like', 'make', 'right', 'mind', 'time', 'bit', 'hold', 'keep', 'gotta', 'shine', 'see', 'night', 'high', 'well', 'cause']
+Topic 26
+['dream', 'never', 'heart', 'time', 'away', 'dreams', 'hand', 'life', 'amen', 'hold', 'day', 'eyes', 'know', 'always', 'everything', 'true', 'last', 'gone', 'loving', 'still', 'want', 'love', 'night', 'forever', 'look']
+Topic 27
+['love', 'one', 'always', 'blue', 'life', 'never', 'may', 'long', 'heart', 'night', 'stars', 'rain', 'broken', 'moon', 'arms', 'thank', 'find', 'go', 'wait', 'let', 'world', 'true', 'dreams', 'sea', 'eyes']
+Topic 28
+['oh', 'ni', 'nan', 'bo', 'peep', 'na', 'nae', 'wo', 'wa', 'ga', 'que', 'nal', 'whoo', 'te', 'yo', 'de', 'tu', 'naega', 'love', 'nega', 'neomu', 'naege', 'nobody', 'neon', 'tto']
+Topic 29
+['world', 'around', 'night', 'gonna', 'take', 'one', 'together', 'dance', 'two', 'come', 'back', 'long', 'last', 'yeah', 'better', 'fine', 'singing', 'every', 'turn', 'like', 'million', 'eyes', 'without', 'keep', 'open']
+Topic 30
+['got', 'get', 'like', 'st', 'us', 'money', 'fight', 'bh', 'keep', 'fk', 'hook', 'yeah', 'stop', 'watch', 'go', 'put', 'man', 'top', 'feel', 'home', 'want', 'fg', 'stay', 'ho', 'around']
+Topic 31
+['want', 'love', 'beautiful', 'yeah', 'baby', 'oh', 'one', 'need', 'girl', 'help', 'loves', 'hold', 'feel', 'make', 'us', 'kind', 'nothing', 'give', 'day', 'every', 'time', 'true', 'really', 'woman', 'chains']
+Topic 32
+['na', 'da', 'like', 'huh', 'st', 'go', 'fk', 'ns', 'know', 'way', 'talk', 'bs', 'freedom', 'take', 'grateful', 'come', 'man', 'face', 'look', 'b', 'yeah', 'bh', 'show', 'tell', 'tryna']
+Topic 33
+['ya', 'yo', 'see', 'wit', 'halo', 'chorus', 'get', 'one', 'like', 'yall', 'break', 'em', 'wanna', 'uh', 'money', 'hoes', 'clap', 'aint', 'young', 'niggaz', 'thug', 'back', 'verse', 'real', '5']
+Topic 34
+['see', 'like', 'falling', 'time', 'go', 'got', 'cause', 'yeah', 'blind', 'black', 'gotta', 'something', 'catch', 'feel', 'white', 'cry', 'girls', 'gonna', 'rock', 'nobody', 'cut', 'day', 'might', 'right', 'look']
+Topic 35
+['boom', 'nigga', 'say', 'fuck', 'shit', 'niggas', 'em', 'bye', 'bitch', 'get', 'fuckin', 'like', 'stop', 'let', 'back', 'two', 'put', 'aint', 'take', 'ya', 'skeet', 'motherfucker', 'ass', 'wayooh', 'motherfuckin']
+Topic 36
+['get', 'like', 'aint', 'got', 'say', '2', 'verse', 'back', 'yea', 'gotta', 'still', 'ns', 'yo', 'c', 'block', 'us', 'n', 'b', 'hook', 'g', 'wit', 'd', 'hustle', 'call', 'goin']
+Topic 37
+['alright', 'another', 'get', 'ride', 'gonna', 'make', 'yeah', 'new', 'got', 'train', 'chorus', 'one', 'wanna', 'day', 'hey', 'go', 'come', 'rock', 'people', 'woowoo', 'give', 'want', 'time', 'bet', 'night']
+Topic 38
+['aint', 'em', 'put', 'like', 'black', 'man', 'got', 'nigga', 'game', 'keep', 'rap', 'life', 'ya', 'tryin', 'shit', 'real', 'east', 'im', 'niz', 'mad', 'bad', 'die', 'whole', 'gun', 'bigger']
+Topic 39
+['little', 'like', 'make', 'today', 'live', 'sun', 'take', 'cause', 'head', 'wanna', 'day', 'know', 'goes', 'go', 'run', 'life', 'place', 'knows', 'back', 'lot', 'said', 'people', 'world', 'days', 'well']
+Topic 40
+['life', 'ha', 'know', 'give', 'one', 'already', 'wanna', 'come', 'go', 'boys', 'say', 'see', 'take', 'man', 'make', 'yeah', 'row', 'gave', 'made', 'yyeah', 'tiffany', 'cuz', 'gimme', 'way', 'girls']
+Topic 41
+['oh', 'tonight', 'gonna', 'love', 'girl', 'little', 'make', 'wanna', 'baby', 'got', 'said', 'well', 'face', 'better', 'yeah', 'addicted', 'know', 'need', 'never', 'night', 'help', 'tell', 'get', 'im', 'stay']
+Topic 42
+['na', 'ang', 'sa', 'ko', 'ay', 'di', 'ka', 'fun', 'wiggle', 'burn', 'oh', 'mo', 'hey', 'ng', 'o', 'pa', 'lang', 'ako', 'party', 'kung', 'warning', 'hot', 'ba', 'hindi', 'eh']
+Topic 43
+['real', 'know', 'ya', 'way', 'aint', 'almost', '4', 'like', 'time', 'say', 'girl', 'love', 'oh', 'give', 'first', 'man', 'go', 'going', 'baby', 'never', 'see', 'one', 'life', 'song', 'feel']
+Topic 44
+['yes', 'oh', 'say', 'well', 'bang', 'gee', 'funky', 'shot', 'wild', 'cake', 'everybody', 'secret', 'yang', 'boy', 'come', 'ku', 'goes', 'enough', 'call', 'win', 'soul', 'roger', 'ah', 'fire', 'dan']
+Topic 45
+['back', 'bad', 'get', 'wish', 'girl', 'one', 'black', 'see', 'mama', 'lights', 'home', 'well', 'soon', 'old', 'little', 'used', 'mind', 'time', 'oh', 'smile', 'really', 'want', 'said', 'know', 'heart']
+Topic 46
+['come', 'god', 'back', 'chorus', 'way', 'king', 'walk', 'go', 'let', 'verse', 'life', 'lord', 'light', 'never', 'us', 'take', 'move', 'changed', 'faith', 'world', 'repeat', 'new', 'keep', 'shall', 'behind']
+Topic 47
+['na', 'aint', 'bh', 'st', 'got', 'like', 'ns', 'bout', 'hook', 'act', 'fk', 'bs', '2', 'gon', 'yall', 'hoes', 'hundred', 'nothin', 'call', 'em', 'ball', 'verse', 'damn', 'dope', 'smoke']
+Topic 48
+['like', 'said', 'never', 'knew', 'chorus', 'aint', 'things', 'fire', 'really', 'got', 'cause', 'thought', 'new', 'another', 'came', 'little', 'go', 'know', 'need', 'word', 'ai', 'told', 'somethin', 'verse', 'hit']
+Topic 49
+['love', 'know', 'never', 'away', 'tell', 'feel', 'alone', 'gone', 'believe', 'see', 'heart', 'angel', 'cause', 'feeling', 'ever', 'much', 'go', 'leave', 'way', 'time', 'everywhere', 'wanna', 'need', 'find', 'strong']

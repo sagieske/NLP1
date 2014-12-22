@@ -1,0 +1,103 @@
+Runs: 20, alpha: 0.10, beta: 0.10, nr topics: 50, nr genres: 20, iteration: 19, top_topics: 5, top_words: 25
+
+TOPIC-WORD DISTRIBUTION at iteration 19/20 
+Topic 0
+['love', 'know', 'world', 'come', 'like', 'us', 'give', 'life', 'day', 'let', 'oh', 'heart', 'need', 'keep', 'want', 'one', 'man', 'cause', 'verse', 'say', 'way', 'live', 'gonna', 'eyes', 'soul']
+Topic 1
+['taeyeon', 'elphaba', 'revoir', 'sunshine', 'signs', 'pagibig', 'kantuten', 'teojyeo', 'tinda', 'fiyero', 'witches', 'jr', 'showtime', 'oechyeo', 'harlot', 'niyo', 'meron', 'consideration', 'tapdahdedoe', '5', 'homeyz', 'sseogigo', 'runaway', 'araw', 'four']
+Topic 2
+['jia', 'break', 'accustomed', 'nae', 'grown', 'fei', 'stand', 'min', 'jakkuman', 'nottaeme', 'give', 'ge', 'chove', 'ttae', 'mada', 'gaseumi', 'looks', 'holiday', 'ne', 'voice', 'neol', 'dapdaphae', 'minutes', 'modeun', 'dwaesseo']
+Topic 3
+['like', 'get', 'got', 'aint', 'na', 'back', 'see', 'cause', 'know', 'em', 'yo', 'make', 'st', 'go', 'bh', 'ya', 'money', 'yeah', 'verse', 'wanna', 'man', 'time', 'yall', 'big', 'nigga']
+Topic 4
+['ai', 'comes', 'heaven', 'drink', 'amandla', 'washed', 'amen', 'kiss', 'shining', 'moment', 'romance', 'knock', 'evening', 'merry', 'knocking', 'bernadine', 'fly', 'therell', 'lovers', 'someday', 'spring', 'rainbow', 'square', 'mister', 'sudden']
+Topic 5
+['recapture', 'kemuritai', 'bosuns', 'footloose', 'wakasugitadake', 'gilgo', 'berretta', 'exhaustion', 'nickle', 'dangers', 'punished', 'motani', 'porscha', 'sufistic', 'porsche', 'rebuild', 'mmph', 'punishes', 'jiff', 'wounds', 'peeji', 'amany', 'betcha', 'countless', 'developing']
+Topic 6
+['fk', 'ns', 'game', 'damn', 'gon', 'wit', 'new', 'still', 'bo', 'check', 'bang', 'jump', 'block', 'people', 'die', 'lookin', 'pop', 'niggas', 'work', 'thug', 'streets', 'bye', 'pull', 'tryin', 'mad']
+Topic 7
+['phonics', 'benefits', 'happily', 'moreuneunde', 'referee', 'nabigla', 'kushin', 'vials', 'sumeul', 'mindin', 'skool', 'chekk', 'spineless', 'plains', 'eightfiveeight', 'noo', 'bureugo', 'dishpan', 'gangs', 'scopin', 'yellow', 'nickle', 'mmph', 'dangers', 'porscha']
+Topic 8
+['ang', 'fk', 'bust', 'na', 'ako', 'ay', 'kick', 'type', 'akoy', 'uh', 'ten', 'brothers', 'kung', 'andrew', 'follow', 'ba', 'st', 'place', 'spot', 'state', 'records', 'crazy', 'pa', 'none', 'problems']
+Topic 9
+['dc', 'tilang', 'emoney', 'herds', 'sentiasa', 'beoreo', 'enemys', 'passengers', 'widow', 'memekakkan', 'joint', 'm', 'lake', 'menghilangkan', 'dboyz', 'papunta', 'dues', 'strife', 'sunburn', 'queens', 'bublin', 'crappin', 'creed', 'exotic', 'frames']
+Topic 10
+['world', 'take', 'around', 'ah', 'want', 'sun', 'boom', 'mr', 'beautiful', 'st', 'away', 'na', 'dance', 'bimbo', 'better', 'new', 'rim', 'happy', 'boys', 'wish', 'go', 'blind', 'start', 'show', 'o']
+Topic 11
+['ng', 'yaself', 'stix', 'isseul', 'neverending', 'teuren', 'diggs', 'ulit', 'appearing', 'irrelevance', 'hennesy', 'cuancho', 'join', 'toraetai', 'crispy', 'ledge', 'comprehend', 'vecliz', 'cigs', 'method', 'plicked', 'handlin', 'looney', 'omelette', 'exorcism']
+Topic 12
+['gator', 'embers', 'polished', 'awards', 'kemal', 'searchin', 'gatgesseo', 'gentry', 'glories', 'rubbing', 'clotheslines', 'wren', 'continaul', 'haven', 'bottled', 'als', 'diced', 'fuss', 'forbid', 'zero', 'sufistic', 'mends', 'error', 'dwell', 'ptolemy']
+Topic 13
+['critics', 'hangal', 'rail', 'neoran', 'temperpidic', 'imaa', 'uncles', 'gagawin', 'blue', 'ping', 'breaking', 'despair', 'shife', 'punished', 'porscha', 'gilgo', 'sufistic', 'porsche', 'wakasugitadake', 'dangers', 'nickle', 'exhaustion', 'berretta', 'rebuild', 'footloose']
+Topic 14
+['satans', 'footloose', 'motani', 'gilgo', 'berretta', 'exhaustion', 'nickle', 'dangers', 'wakasugitadake', 'punished', 'porscha', 'sufistic', 'porsche', 'rebuild', 'mmph', 'punishes', 'siete', 'jiff', 'wounds', 'shio', 'amany', 'betcha', 'countless', 'developing', 'bumpable']
+Topic 15
+['wilson', 'disturb', 'hydro', 'hooray', 'fk', 'sung', 'chinese', 'combine', 'dying', 'tae', '112', 'authentic', 'tylenol', 'designer', 'soo', 'couches', 'shijak', 'tua', 'pawn', 'voodoo', 'gimme', 'ogs', 'stayin', 'steels', 'divas']
+Topic 16
+['faculty', 'words', 'mongo', 'difficult', 'boost', 'hottokanai', 'seashore', 'pall', 'fbombs', 'center', 'prowess', 'shocking', 'buenos', 'cracking', 'scurry', 'dozens', 'stitch', 'pasti', 'jogeumman', 'cradle', 'anyhow', 'ringo', 'overtakes', 'kamakamakama', 'wihout']
+Topic 17
+['gonna', 'got', 'right', 'wanna', 'done', 'run', 'woman', 'hold', 'love', 'na', 'like', 'fool', 'get', 'need', 'kiss', 'sky', 'somebody', 'new', 'bad', 'one', 'dont', 'think', 'call', 'oh', 'better']
+Topic 18
+['want', 'bad', 'que', 'got', 'sleep', 'bla', 'la', 'ah', 'cant', 'te', 'de', 'alegria', 'attention', 'carry', 'alabao', 'y', 'tu', 'un', 'por', 'watch', 'macarena', 'lets', 'nah', 'yo', 'together']
+Topic 19
+['browns', 'folk', 'howard', 'fabrique', 'pisau', 'baad', 'butyeojullae', 'york', 'graduation', 'spendin', 'sowhats', 'porscha', 'exhaustion', 'nickle', 'dangers', 'wakasugitadake', 'punished', 'cigs', 'henn', 'sufistic', 'porsche', 'rebuild', 'mmph', 'punishes', 'berretta']
+Topic 20
+['light', 'ni', 'ga', 'radio', 'di', 'mo', 'ba', 'beat', 'girls', 'around', 'hole', 'dream', 'sa', 'sun', 'mr', 'making', 'gee', 'hardly', 'dreaming', 'split', 'alam', 'may', 'ko', 'try', 'lahat']
+Topic 21
+['la', 'na', 'whoo', 'oh', 'rock', 'nan', 'hoo', 'o', 'ga', 'deo', 'black', 'neol', 'girl', 'baby', 'ho', 'ne', 'hain', 'white', 'bananas', 'christmas', 'naega', 'light', 'fa', 'chunji', 'yeh']
+Topic 22
+['doggy', 'aids', 'defy', 'students', 'parts', 'camera', 'eww', 'broccoli', 'studying', 'fkn', 'prakazrel', 'performin', 'sniff', 'catany', 'private', 'jeezy', 'gatteon', 'medication', 'rapping', 'suteki', 'unemployed', 'brittannia', 'casket', 'luv', 'dove']
+Topic 23
+['albuquerque', 'bloat', 'splitlevel', 'happy', 'ha', 'm', 'spuds', 'snort', 'albi', 'face', 'paula', 'fk', 'honkies', 'booty', 'bowie', 'lassie', 'east', 'addicted', 'space', 've', 'jack', 'bret', 'carl', 'aw', 'donuts']
+Topic 24
+['oh', 'never', 'love', 'time', 'yeah', 'like', 'chorus', 'stay', 'see', 'life', 'show', 'body', 'feel', 'go', 'know', 'feeling', 'ohh', 'need', 'high', 'true', 'night', 'without', 'come', 'take', 'every']
+Topic 25
+['mass', 'wen', 'jiff', 'berretta', 'exhaustion', 'nickle', 'dangers', 'wakasugitadake', 'punished', 'footloose', 'porscha', 'sufistic', 'porsche', 'rebuild', 'mmph', 'punishes', 'siete', 'gilgo', 'motani', 'shio', 'wounds', 'amany', 'betcha', 'countless', 'developing']
+Topic 26
+['like', 'well', 'one', 'hey', 'always', 'away', 'never', 'beat', 'want', 'another', 'eyes', 'night', 'left', 'gonna', 'town', 'got', 'little', 'take', 'long', 'man', 'true', 'day', 'lonely', 'good', 'believe']
+Topic 27
+['eyebrows', 'dragons', 'meluah', 'onon', 'nooses', 'neefy', 'musician', 'ding', 'geuneul', 'southside', 'caso', 'jeongmal', 'boleh', 'jeulgineun', 'escapism', 'carl', 'itoshikute', 'ferocious', 'opposites', 'shogun', 'plucked', 'hago', 'skateland', 'dispatch', 'renowned']
+Topic 28
+['rocha', 'ng', 'biglang', 'finally', 'sumagot', 'ilaw', 'missouri', 'syay', 'pinag', 'staten', 'vucchella', 'james', 'mayron', 'pajero', 'moaned', 'reunites', 'banyo', 'oohhmm', 'fireplaces', 'malate', 'saith', 'messy', 'poco', 'creator', 'nasa']
+Topic 29
+['hook', 'woowoo', 'gettin', '50', 'new', 'hundred', 'comin', 'poppin', 'throw', 'spit', 'still', 'cut', '24', 'ridin', 'beat', 'started', 'punk', 'lay', 'straight', 'dogg', 'red', 'chorus', 'n', 'chevy', 'came']
+Topic 30
+['locate', 'footloose', 'punished', 'berretta', 'exhaustion', 'nickle', 'dangers', 'wakasugitadake', 'porscha', 'jiff', 'sufistic', 'porsche', 'rebuild', 'mmph', 'punishes', 'siete', 'gilgo', 'motani', 'teunda', 'jojeori', 'wouldn', 'cigs', 'henn', 'actualism', 'rarara']
+Topic 31
+['lord', 'god', 'chorus', 'jesus', 'every', 'praise', 'see', 'take', 'holy', 'glory', 'never', 'grace', 'way', 'king', 'great', 'come', 'sing', 'heaven', 'believe', 'oh', 'light', 'hear', 'hallelujah', 'broken', 'still']
+Topic 32
+['nobody', 'want', 'love', 'someone', 'aint', 'million', 'thing', 'happy', 'like', 'never', 'well', 'touch', 'mine', 'go', 'baby', 'late', 'standing', 'oh', 'matter', 'movin', 'tell', 'dreams', 'right', 'goes', 'warm']
+Topic 33
+['nami', 'neighbourhood', 'keller', 'karachi', 'azalea', 'federalies', 'yeahheh', 'shrinks', 'eleventh', 'momi', 'eodiinji', 'duchesses', 'kweli', 'choeakyi', 'british', 'covenant', 'iwanan', 'shio', 'peeji', 'sufistic', 'siete', 'punishes', 'mmph', 'rebuild', 'porsche']
+Topic 34
+['voice', 'alleluia', 'deliverer', 'kingdom', 'christ', 'alone', 'many', 'bless', 'loves', 'background', 'wisdom', 'savior', 'faith', 'majesty', 'kings', 'hosanna', 'crown', 'arise', 'casting', 'forgiveness', 'ye', 'reign', 'whoa', 'yonder', 'awesome']
+Topic 35
+['gabriella', 'troy', 'ryan', 'sharpay', 'rachel', 'chad', 'brody', 'raitata', 'fabulous', 'bet', 'toni', 'face', 'christine', 'piolo', 'batter', 'follow', 'tina', 'everyday', 'longer', 'horse', 'mary', 'school', 'evryday', 'annie', 'fer']
+Topic 36
+['nae', 'ni', 'na', 'hyorin', 'wa', 'woo', 'neo', 'dancing', 'n', 'allah', 'baby', 'nal', 'banana', 'wooo', 'ma', 'wo', 'niel', 'honja', 'sangele', 'nappeo', 'give', 'ye', 'soge', 'mo', 'neon']
+Topic 37
+['baby', 'love', 'want', 'take', 'know', 'one', 'way', 'aint', 'get', 'got', 'cause', 'go', 'mind', 'said', 'like', 'ooh', 'time', 'come', 'yeah', 'see', 'oh', 'away', 'give', 'never', 'right']
+Topic 38
+['woman', 'anhaesseo', 'shes', 'drop', 'understandin', 'actress', 'zico', 'mam', 'evrybody', 'biglegged', 'hoochie', 'mallago', 'ragtime', 'kung', 'chow', 'foolin', 'jebal', 'instrumental', 'sesange', 'marhaejwo', 'kitchen', 'deonjyeojwo', 'malseokkji', 'papa', 'stone']
+Topic 39
+['hot', 'walk', 'ring', 'na', 'ch', 'phone', 'got', 'times', 'finger', 'fine', 'l', 'x', 'nose', 'ladies', 'teeth', 'boys', 'm', 'sometimes', 'mine', 'high', 'beach', 'heat', 'gotta', 'help', 'rhythm']
+Topic 40
+['coffins', 'mcs', 'cowards', 'crystal', 'hustle', 'gat', 'pistols', 'zion', 'sac', 'classic', 'ni', 'gin', 'felon', 'killin', 'tek', 'paenimyeon', 'incredible', 'dammit', '4x', 'courtroom', 'cuzz', 'lawyer', 'lol', 'wild', 'strive']
+Topic 41
+['mi', 'police', 'say', 'jah', 'dem', 'ah', 'whatcha', 'arise', 'cry', 'nuh', 'fi', 'boys', 'different', 'weh', 'enough', 'giving', 'children', 'ten', 'africa', 'di', 'year', 'chuck', 'one', 'lifetime', 'man']
+Topic 42
+['sa', 'ko', 'ang', 'calling', 'gee', 'tiffany', 'ka', 'mo', 'jessica', 'xlr8', 'ay', 'darkness', 'canvas', 'write', 'pa', 'ba', 'niya', 'siya', 'vain', 'ikaw', 'nang', 'kami', 'ladies', 'caratacus', 'akin']
+Topic 43
+['mimi', 'fat', 'roger', 'road', 'th', 'manager', 'big', 'bottle', 'mark', 'booze', 'yardin', 'shark', 'law', 'joe', 'buy', 'abiyoyo', 'restaurant', 'angel', 'collins', 'aginst', 'came', 'mufferaw', 'billy', 'twenty', 'soon']
+Topic 44
+['macks', 'chaltay', 'hugh', 'magan', 'yards', 'boast', 'casted', 'accomplishments', 'youknowimean', 'whispa', 'tick', 'eoneoran', 'locs', 'appachi', 'gentlemen', 'cracked', 'irche', 'eodil', 'save', 'plats', '313', 'talong', 'seolleme', 'repin', 'es']
+Topic 45
+['love', 'know', 'make', 'wanna', 'girl', 'back', 'let', 'get', 'say', 'baby', 'tell', 'go', 'see', 'yeah', 'hear', 'always', 'chorus', 'much', 'feel', 'long', 'dance', 'real', 'really', 'stop', 'please']
+Topic 46
+['tanong', 'aboard', 'flop', 'millenium', 'jukgi', 'career', 'bihaenggineun', 'residence', 'adaptability', 'baewo', 'tried', 'candy', 'controls', 'meanin', 'nanimo', 'exciter', 'convo', 'landmark', 'normally', 'icey', 'wanbyeok', 'dasuboda', 'innayo', 'radioooooh', 'squeak']
+Topic 47
+['man', 'well', 'made', 'goin', 'dog', 'caught', 'came', 'buy', 'around', 'eat', 'still', 'hear', 'living', 'breathe', 'lot', 'road', 'heard', 'dollar', 'anybody', 'talk', 'know', 'speak', 'sick', 'like', 'ready']
+Topic 48
+['love', 'little', 'time', 'like', 'every', 'got', 'heart', 'old', 'dream', 'way', 'back', 'say', 'night', 'aint', 'know', 'oh', 'never', 'said', 'still', 'home', 'find', 'blue', 'gone', 'goes', 'go']
+Topic 49
+['carol', 'isso', 'fro', 'yang', 'footloose', 'porscha', 'exhaustion', 'nickle', 'dangers', 'wakasugitadake', 'punished', 'porsche', 'sufistic', 'gilgo', 'rebuild', 'mmph', 'punishes', 'siete', 'berretta', 'motani', 'jiff', 'shio', 'wounds', 'amany', 'betcha']
