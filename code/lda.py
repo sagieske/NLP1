@@ -80,9 +80,11 @@ class lda():
 		prep = preprocessing.preprocessing(dump_files=False, load_files=True, dump_clean=False, load_clean=True)
 		# Get lyrics
 		self.total_dataset = prep.get_dataset()
+		self.remove_poprock = remove_poprock
 
 		# Possibly remove pop/rock
-		if remove_poprock:
+		if self.remove_poprock:
+			
 			print "Remove pop/rock: %s" %(str(remove_poprock))
 			self.total_dataset_temp = []
 			for i in range(0, len(self.total_dataset)):
@@ -134,7 +136,7 @@ class lda():
 		#sys.exit()
 
 		# OR LOAD FROM PICKLE FILE:
-		if remove_poprock:
+		if self.remove_poprock:
 			self.train_indices_folds, self.test_indices_folds = pickle.load(open('train_test_indices_stratified_notpoprock',"r"))
 		else:
 			self.train_indices_folds, self.test_indices_folds = pickle.load(open('train_test_indices_stratified',"r"))
@@ -336,6 +338,9 @@ class lda():
 			print "Start at iteration %i" %(start_iter)
 			filename = "iter" + str(start_iter) + "_a" + str(self.alpha) + "_b" + str(self.beta) + "_topics" \
 					+ str(self.nr_topics) + "_fold" + str(self.fold) 
+			# Add to filename if you do all of dataset
+			if not self.remove_poprock:
+				filename += "all"
 			print filename
 			self.load_data(filename)
 			# load from iter X which is already done, so you start with +1
@@ -385,6 +390,8 @@ class lda():
 			if iteration % 5 == 0 and iteration > 5:
 				filename = "iter" + str(iteration) + "_a" + str(self.alpha) + "_b" + str(self.beta) + "_topics" \
 					+ str(self.nr_topics) + "_fold" + str(self.fold) 
+				if not self.remove_poprock:
+					filename += "_all"
 				print filename
 				self.dump_data(filename)
 				print "Print to file topics, genres etc"
@@ -406,11 +413,15 @@ class lda():
 		try:
 			filename = "iter" + str(iteration) + "_a" + str(self.alpha) + "_b" + str(self.beta) + "_topics" \
 				+ str(self.nr_topics) + "_fold" + str(self.fold) 
+			if not self.remove_poprock:
+				filename += "_all"
 
 		except:
 			iteration =start_iter
 			filename = "iter" + str(start_iter) + "_a" + str(self.alpha) + "_b" + str(self.beta) + "_topics" \
 				+ str(self.nr_topics) + "_fold" + str(self.fold) 
+			if not self.remove_poprock:
+				filename += "_all"
 		self.print_to_file(N, topwords, toptopics, filename, iteration)
 		if self.orig_lda:
 			self.print_to_file_lda(N, topwords, toptopics, filename, iteration)
@@ -1175,6 +1186,7 @@ if __name__ == "__main__":
 	# Do gibbs sampling
 	if not skiplda:
 		# do fold 0
+
 		lda.start_gibbs(nr_runs, top_words, top_topics, filename, load_iter=load_iter, start_iter=nr_runs)
 		# Use classification for extended LDA	
 		lda.classify()
