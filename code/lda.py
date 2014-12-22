@@ -346,13 +346,15 @@ class lda():
 			# load from iter X which is already done, so you start with +1
 			start_iter +=1
 
-		print "hello", load_iter
+		print "hello", start_iter
 
 		nr_lyrics = len(self.dataset)
 		# Do gibbs sampling N times for all items (if load_iter is false, you start from 0, otherwise pick up where you left off at start_iter)
 		for iteration in range(start_iter,N):
+			print "hello1"
 			# Loop through all documents
 			for i in range(0, nr_lyrics):
+				print "hello2"
 				# get genre (and corresponding index)
 				genre_index = self.genre_list[self.labels_dataset[i]]
 				cleaned_lyrics = self.dataset[i]['cleaned_lyrics']
@@ -1189,7 +1191,7 @@ if __name__ == "__main__":
 	if not skiplda:
 		# do fold 0
 
-		lda.start_gibbs(nr_runs, top_words, top_topics, filename, load_iter=load_iter, start_iter=nr_runs)
+		lda.start_gibbs(nr_runs, top_words, top_topics, filename, load_iter=load_iter, start_iter=start_iter)
 		# Use classification for extended LDA	
 		lda.classify()
 		filename = "metrics_%s_%s_a%s_b%s_0" %(str(nr_runs), str(nr_topics), alpha, beta)
