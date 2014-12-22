@@ -1163,6 +1163,7 @@ if __name__ == "__main__":
 	folds = 5
 	start_iter = 0
 	load_iter = False
+	#TODO: load_iter is False if you don't want to load from specific point!!!! Start_iter then also needs to be 0
 	#start_iter = 9
 	#load_iter = True
 
@@ -1171,19 +1172,22 @@ if __name__ == "__main__":
 		start_iter = nr_runs
 	
 
-	print "LDA orig", origlda
-	#TODO: load_iter is False if you don't want to load from specific point!!!! Start_iter then also needs to be 0
 	# Do gibbs sampling
 	if not skiplda:
+		# do fold 0
 		lda.start_gibbs(nr_runs, top_words, top_topics, filename, load_iter=load_iter, start_iter=nr_runs)
 		# Use classification for extended LDA	
 		lda.classify()
+		filename = "metrics_%s_%s_a%s_b%s_0" %(str(nr_runs), str(nr_topics), alpha, beta)
 		# Use classification for normalized LDA
 		if origlda:
 			lda.classify(orig_lda=True)
-		# If use of folds, also do classification
-		# Print results on folds in text file!
-		filename = "metrics_%s_%s_a%s_b%s_0" %(str(nr_runs), str(nr_topics), alpha, beta)
+			# adjust filename to write to:
+			filename += '_orig'
+
+
+		# Print results in text file!
+		print "write metrics to file for fold %i: %s" %(0, filename)
 		with open(filename, 'w+') as f:
 			for i in lda.metric_folds.keys():
 				f.write("FOLD %i\n" %i)
@@ -1200,6 +1204,7 @@ if __name__ == "__main__":
 						f.write("%s: %s\n" %(genre, str(fold_values[genre])))
 				f.write("\n\n")
 
+		# If do multiple folds:
 		if kfold:
 			for i in range(1,5):
 				print "FOLD %i" %(i)
@@ -1208,11 +1213,13 @@ if __name__ == "__main__":
 	
 				# Use classification for extended LDA
 				lda.classify()
+				filename = "metrics_%s_%s_a%s_b%s_%s" %(str(nr_runs), str(nr_topics), alpha, beta, str(i))
 				# Use classification for normalized LDA
 				if origlda:
 					lda.classify(orig_lda=True)
+					filename += '_orig'
 				# Print results on folds in text file!
-				filename = "metrics_%s_%s_a%s_b%s_%s" %(str(nr_runs), str(nr_topics), alpha, beta, str(i))
+				print "write metrics to file for fold %i: %s" %(str(i), filename)
 				with open(filename, 'w+') as f:
 					for i in lda.metric_folds.keys():
 						f.write("FOLD %i\n" %i)
@@ -1233,7 +1240,9 @@ if __name__ == "__main__":
 
 
 	##lda.start_gibbs(nr_runs, top_words, top_topics, filename)
+	# barchars using extended LDA
 	lda.genre_profiles(orig_lda=False)
+	# barchars using original LDA
 	lda.genre_profiles(orig_lda=True)
 
 	#Test load_new_document function with a new document (example call)
