@@ -182,7 +182,7 @@ class lda():
 		self._initialize_lists()
 		# Initialize counts for matrices
 		# LOAD COUNTS, set to true
-		self._initialize_counts(load=True)
+		self._initialize_counts(load=False)
 
 
 
