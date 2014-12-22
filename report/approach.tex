@@ -65,107 +65,16 @@ P(z_{i,j} = k | Z_{\neg w_{i,j}}, \alpha, \beta, W, Y) &\propto \frac{\beta + \w
 
 
 \begin{figure}[htp]
-  \centering
-  \begin{tikzpicture}
-    [
-      observed/.style={minimum size=15pt,circle,draw=gray!80,fill=gray!20},
-      unobserved/.style={minimum size=15pt,circle,draw},
-      hyper/.style={minimum size=1pt,circle,fill=black},
-      post/.style={->,>=stealth',semithick},
-    ]
-
-    \node (w-j) [observed] at (0,0) {$w_{m,n}$};
-    
-    \node (z-j) [unobserved] at (0,2) {$z_{m,n}$};
-
-    \node (y) [unobserved] at (0,4) {$\theta$};
-    
-    \node (w-prior) [unobserved] at (-4,0) {$\varphi_k$};
-    
-    \node (z-hyper) [label=below:$\alpha$] at (4,4) {};
-    
-    \filldraw [black] (4,4) circle (3pt);
-    
-    \node (w-hyper) [label=above:$\beta$] at (-4,3) {};
-    
-    \filldraw [black] (-4,3) circle (3pt);
-    
-    \path
-    (z-j) edge [post] (w-j)
-    
-    (z-hyper) edge [post] (y)
-    (y) edge [post] (z-j)
-
-
-    (w-hyper) edge [post] (w-prior)
-    
-    (w-prior) edge [post] (w-j)
-    ;
-
-    \node [draw,fit=(w-j) (y), inner sep=30pt] (plate-context) {};
-    \node [above left] at (plate-context.south east) {$N$};
-    \node [draw, fit=(w-prior), inner sep=20pt] (plate-prior) {};
-    \node [above left] at (plate-prior.south east) {$K$};
-    \node [draw,fit=(w-j) (z-j), inner sep=15pt] (plate-token) {};
-    \node [above left] at (plate-token.south east) {$M$};
-
-  \end{tikzpicture}
-  \caption{Graphical model for original LDA}
-  \label{fig:graphical-model}
-\end{figure}
-
-\begin{figure}[htp]
-  \centering
-  \begin{tikzpicture}
-    [
-      observed/.style={minimum size=15pt,circle,draw=gray!80,fill=gray!20},
-      unobserved/.style={minimum size=15pt,circle,draw},
-      hyper/.style={minimum size=1pt,circle,fill=black},
-      post/.style={->,>=stealth',semithick},
-    ]
-
-    \node (w-j) [observed] at (0,0) {$w_{m,n}$};
-    
-    \node (z-j) [unobserved] at (0,2) {$z_{m,n}$};
-
-    \node (y) [observed] at (0,4) {$y_n$};
-    
-    \node (z-prior) [unobserved] at (4,2) {$\theta_g$};
-    
-    \node (w-prior) [unobserved] at (-4,0) {$\varphi_k$};
-    
-    \node (z-hyper) [label=below:$\alpha$] at (4,0) {};
-    
-    \filldraw [black] (4,0) circle (3pt);
-    
-    \node (w-hyper) [label=above:$\beta$] at (-4,3) {};
-    
-    \filldraw [black] (-4,3) circle (3pt);
-    
-    \path
-    (z-j) edge [post] (w-j)
-    
-    (z-hyper) edge [post] (z-prior)
-    (z-prior) edge [post] (z-j)
-    (y) edge [post] (z-j)
-
-
-    (w-hyper) edge [post] (w-prior)
-    
-    (w-prior) edge [post] (w-j)
-    ;
-
-    \node [draw,fit=(w-j) (y), inner sep=30pt] (plate-context) {};
-    \node [above left] at (plate-context.south east) {$N$};
-    \node [draw, fit=(w-prior), inner sep=20pt] (plate-prior) {};
-    \node [above left] at (plate-prior.south east) {$K$};
-    \node [draw,fit=(w-j) (z-j), inner sep=15pt] (plate-token) {};
-    \node [above left] at (plate-token.south east) {$M$};
-    \node [draw, fit=(z-prior), inner sep=20pt] (plate-z-prior) {};
-    \node [above left] at (plate-z-prior.south east) {$G$};
-
-  \end{tikzpicture}
-  \caption{Graphical model for extended LDA}
-  \label{fig:graphical-model_extended}
+	\centering
+	\begin{subfigure}[b]{0.5\textwidth}
+		\includegraphics[width=\textwidth]{regular_lda_img}
+		\caption{Graphical model for regular LDA}
+		\label{fig:graphical-model}
+	\end{subfigure}%
+        \begin{subfigure}[b]{0.5\textwidth}
+		\includegraphics[width=\textwidth]{extended_lda_img}
+		\caption{Graphical model for extended LDA}
+		\label{fig:graphical-model_extended}
+	\end{subfigure}
 \end{figure}
 
