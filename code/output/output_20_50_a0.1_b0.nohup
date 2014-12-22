@@ -1,0 +1,768 @@
+nohup: ignoring input
+Info:
+- 20 runs with: 50 topics, alpha: 0.100000, beta: 0.100000
+- number of top words shown for a topic: 25
+- number of top topics shown for a genre: 5
+
+Load information from dumpfile:  file_dump2
+Load clean lyrics from file:  lyrics_clean2
+Remove pop/rock: True
+total nr of lyrics: 4258
+Initialize counts..
+[D] - Dump information to dumpfile:  init_data0
+[D] - Dump LDA original information to dumpfile:  init_data0_orig
+LDA orig True
+start Gibbs sampling! Also compute original LDA: True
+Gathering training set information... (use orig_lda: False)
+non-original
+Training classifier...
+Testing classifier...
+lda.py:1042: UserWarning: The sum of true positives and false positives are equal to zero for some labels. Precision is ill defined for those labels ['avant-garde' 'blues' "children's" 'classical' 'comedy/spoken' 'country'
+ 'easy listening' 'electronic' 'folk' 'holiday' 'international' 'jazz'
+ 'latin' 'new age' 'rap' 'reggae' 'religious' 'stage & screen' 'vocal']. The precision and recall are equal to zero for some labels. fbeta_score is ill defined for those labels ['avant-garde' 'blues' "children's" 'classical' 'comedy/spoken' 'country'
+ 'easy listening' 'electronic' 'folk' 'holiday' 'international' 'jazz'
+ 'latin' 'new age' 'rap' 'reggae' 'religious' 'stage & screen' 'vocal']. 
+  total_scores = precision_recall_fscore_support(self.labels_testset, predicted_genres, average='weighted')
+Score:  1.0
+Gathering training set information... (use orig_lda: True)
+original
+Training classifier...
+Testing classifier...
+Score:  1.0
+FOLD 1
+[L] - Load data from file:  init_data1
+[L] - Load original LDA data from file:  init_data1_orig
+start Gibbs sampling! Also compute original LDA: True
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 0 (stopwatch: 318.390869141)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 1 (stopwatch: 742.161293983)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 2 (stopwatch: 1161.77778506)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 3 (stopwatch: 1584.2418921)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 4 (stopwatch: 2010.15230608)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 5 (stopwatch: 2431.94811893)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 6 (stopwatch: 2847.63270402)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 7 (stopwatch: 3262.02937412)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 8 (stopwatch: 3677.10960102)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 9 (stopwatch: 4089.69445705)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 10 (stopwatch: 4504.52601004)
+iter10_a0.1_b0.1_topics50_fold1
+[D] - Dump information to dumpfile:  iter10_a0.1_b0.1_topics50_fold1
+[D] - Dump LDA original information to dumpfile:  iter10_a0.1_b0.1_topics50_fold1_orig
+Print to file topics, genres etc
+write to file: iter10_a0.1_b0.1_topics50_fold1
+write to file: iter10_a0.1_b0.1_topics50_fold1
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 11 (stopwatch: 4969.87956595)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 12 (stopwatch: 5387.62782192)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 13 (stopwatch: 5802.59265113)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 14 (stopwatch: 6218.10019398)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 15 (stopwatch: 6634.05561709)
+iter15_a0.1_b0.1_topics50_fold1
+[D] - Dump information to dumpfile:  iter15_a0.1_b0.1_topics50_fold1
+[D] - Dump LDA original information to dumpfile:  iter15_a0.1_b0.1_topics50_fold1_orig
+Print to file topics, genres etc
+write to file: iter15_a0.1_b0.1_topics50_fold1
+write to file: iter15_a0.1_b0.1_topics50_fold1
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 16 (stopwatch: 7103.04837012)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 17 (stopwatch: 7519.36194897)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 18 (stopwatch: 7937.39056802)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 19 (stopwatch: 8355.25164795)
+Print to file topics, genres etc
+write to file: iter19_a0.1_b0.1_topics50_fold1
+write to file: iter19_a0.1_b0.1_topics50_fold1
+[D] - Dump information to dumpfile:  iter19_a0.1_b0.1_topics50_fold1
+[D] - Dump LDA original information to dumpfile:  iter19_a0.1_b0.1_topics50_fold1_orig
+Gathering training set information... (use orig_lda: False)
+non-original
+Training classifier...
+Testing classifier...
+lda.py:1042: UserWarning: The sum of true positives and false positives are equal to zero for some labels. Precision is ill defined for those labels ['avant-garde' 'blues' "children's" 'classical' 'comedy/spoken'
+ 'easy listening' 'folk' 'holiday' 'latin' 'new age' 'reggae']. The precision and recall are equal to zero for some labels. fbeta_score is ill defined for those labels ['avant-garde' 'blues' "children's" 'classical' 'comedy/spoken'
+ 'easy listening' 'folk' 'holiday' 'jazz' 'latin' 'new age' 'reggae'
+ 'stage & screen' 'vocal']. 
+  total_scores = precision_recall_fscore_support(self.labels_testset, predicted_genres, average='weighted')
+Score:  1.0
+Gathering training set information... (use orig_lda: True)
+original
+Training classifier...
+Testing classifier...
+lda.py:1042: UserWarning: The sum of true positives and false positives are equal to zero for some labels. Precision is ill defined for those labels ['avant-garde' 'blues' "children's" 'classical' 'comedy/spoken'
+ 'easy listening' 'electronic' 'folk' 'holiday' 'international' 'jazz'
+ 'latin' 'new age' 'reggae' 'stage & screen' 'vocal']. The precision and recall are equal to zero for some labels. fbeta_score is ill defined for those labels ['avant-garde' 'blues' "children's" 'classical' 'comedy/spoken'
+ 'easy listening' 'electronic' 'folk' 'holiday' 'international' 'jazz'
+ 'latin' 'new age' 'reggae' 'religious' 'stage & screen' 'vocal']. 
+  total_scores = precision_recall_fscore_support(self.labels_testset, predicted_genres, average='weighted')
+Score:  1.0
+FOLD 2
+[L] - Load data from file:  init_data2
+Error: [Errno 2] No such file or directory: 'init_data2' for file init_data2.
+Initialize counts..
+[D] - Dump information to dumpfile:  init_data2
+[D] - Dump LDA original information to dumpfile:  init_data2_orig
+[L] - Load original LDA data from file:  init_data2_orig
+start Gibbs sampling! Also compute original LDA: True
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 0 (stopwatch: 312.72273612)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 1 (stopwatch: 733.230539083)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 2 (stopwatch: 1149.67821598)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 3 (stopwatch: 1567.31334209)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 4 (stopwatch: 1982.83181906)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 5 (stopwatch: 2399.13051605)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 6 (stopwatch: 2813.858814)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 7 (stopwatch: 3231.48396111)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 8 (stopwatch: 3648.92538404)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 9 (stopwatch: 4068.08654404)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 10 (stopwatch: 4485.39620399)
+iter10_a0.1_b0.1_topics50_fold2
+[D] - Dump information to dumpfile:  iter10_a0.1_b0.1_topics50_fold2
+[D] - Dump LDA original information to dumpfile:  iter10_a0.1_b0.1_topics50_fold2_orig
+Print to file topics, genres etc
+write to file: iter10_a0.1_b0.1_topics50_fold2
+write to file: iter10_a0.1_b0.1_topics50_fold2
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 11 (stopwatch: 4956.03677011)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 12 (stopwatch: 5374.22005606)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 13 (stopwatch: 5791.16630101)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 14 (stopwatch: 6210.94637203)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 15 (stopwatch: 6629.7485311)
+iter15_a0.1_b0.1_topics50_fold2
+[D] - Dump information to dumpfile:  iter15_a0.1_b0.1_topics50_fold2
+[D] - Dump LDA original information to dumpfile:  iter15_a0.1_b0.1_topics50_fold2_orig
+Print to file topics, genres etc
+write to file: iter15_a0.1_b0.1_topics50_fold2
+write to file: iter15_a0.1_b0.1_topics50_fold2
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 16 (stopwatch: 7097.54935002)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 17 (stopwatch: 7513.93088698)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 18 (stopwatch: 7932.7556231)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 19 (stopwatch: 8348.46518207)
+Print to file topics, genres etc
+write to file: iter19_a0.1_b0.1_topics50_fold2
+write to file: iter19_a0.1_b0.1_topics50_fold2
+[D] - Dump information to dumpfile:  iter19_a0.1_b0.1_topics50_fold2
+[D] - Dump LDA original information to dumpfile:  iter19_a0.1_b0.1_topics50_fold2_orig
+Gathering training set information... (use orig_lda: False)
+non-original
+Training classifier...
+Testing classifier...
+lda.py:1042: UserWarning: The sum of true positives and false positives are equal to zero for some labels. Precision is ill defined for those labels ['avant-garde' 'easy listening' 'holiday' 'new age' 'stage & screen']. The precision and recall are equal to zero for some labels. fbeta_score is ill defined for those labels ['avant-garde' 'easy listening' 'holiday' 'new age' 'stage & screen']. 
+  total_scores = precision_recall_fscore_support(self.labels_testset, predicted_genres, average='weighted')
+Score:  1.0
+Gathering training set information... (use orig_lda: True)
+original
+Training classifier...
+Testing classifier...
+lda.py:1042: UserWarning: The sum of true positives and false positives are equal to zero for some labels. Precision is ill defined for those labels ['avant-garde' 'blues' "children's" 'classical' 'comedy/spoken'
+ 'easy listening' 'electronic' 'folk' 'holiday' 'international' 'jazz'
+ 'latin' 'new age' 'reggae' 'religious' 'stage & screen' 'vocal']. The precision and recall are equal to zero for some labels. fbeta_score is ill defined for those labels ['avant-garde' 'blues' "children's" 'classical' 'comedy/spoken'
+ 'easy listening' 'electronic' 'folk' 'holiday' 'international' 'jazz'
+ 'latin' 'new age' 'rap' 'reggae' 'religious' 'stage & screen' 'vocal']. 
+  total_scores = precision_recall_fscore_support(self.labels_testset, predicted_genres, average='weighted')
+Score:  1.0
+FOLD 3
+[L] - Load data from file:  init_data3
+Error: [Errno 2] No such file or directory: 'init_data3' for file init_data3.
+Initialize counts..
+[D] - Dump information to dumpfile:  init_data3
+[D] - Dump LDA original information to dumpfile:  init_data3_orig
+[L] - Load original LDA data from file:  init_data3_orig
+start Gibbs sampling! Also compute original LDA: True
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 0 (stopwatch: 309.780524015)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 1 (stopwatch: 726.259247065)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 2 (stopwatch: 1144.91585708)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 3 (stopwatch: 1561.03063607)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 4 (stopwatch: 1978.58559513)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 5 (stopwatch: 2396.83945107)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 6 (stopwatch: 2815.19706917)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 7 (stopwatch: 3231.47970819)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 8 (stopwatch: 3648.61814523)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 9 (stopwatch: 4066.5621891)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 10 (stopwatch: 4482.44483018)
+iter10_a0.1_b0.1_topics50_fold3
+[D] - Dump information to dumpfile:  iter10_a0.1_b0.1_topics50_fold3
+[D] - Dump LDA original information to dumpfile:  iter10_a0.1_b0.1_topics50_fold3_orig
+Print to file topics, genres etc
+write to file: iter10_a0.1_b0.1_topics50_fold3
+write to file: iter10_a0.1_b0.1_topics50_fold3
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 11 (stopwatch: 4953.63956809)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 12 (stopwatch: 5372.51946807)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 13 (stopwatch: 5791.54236412)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 14 (stopwatch: 6207.48611522)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 15 (stopwatch: 6625.24248719)
+iter15_a0.1_b0.1_topics50_fold3
+[D] - Dump information to dumpfile:  iter15_a0.1_b0.1_topics50_fold3
+[D] - Dump LDA original information to dumpfile:  iter15_a0.1_b0.1_topics50_fold3_orig
+Print to file topics, genres etc
+write to file: iter15_a0.1_b0.1_topics50_fold3
+write to file: iter15_a0.1_b0.1_topics50_fold3
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 16 (stopwatch: 7092.17813706)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 17 (stopwatch: 7508.23694921)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 18 (stopwatch: 7923.13331318)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 19 (stopwatch: 8339.15334415)
+Print to file topics, genres etc
+write to file: iter19_a0.1_b0.1_topics50_fold3
+write to file: iter19_a0.1_b0.1_topics50_fold3
+lda.py:899: RuntimeWarning: divide by zero encountered in divide
+  prob = nr_word_in_topic/float(nr_words_topic)
+[D] - Dump information to dumpfile:  iter19_a0.1_b0.1_topics50_fold3
+[D] - Dump LDA original information to dumpfile:  iter19_a0.1_b0.1_topics50_fold3_orig
+Gathering training set information... (use orig_lda: False)
+non-original
+Training classifier...
+Testing classifier...
+lda.py:1042: UserWarning: The sum of true positives and false positives are equal to zero for some labels. Precision is ill defined for those labels ['avant-garde' "children's" 'classical' 'comedy/spoken' 'easy listening'
+ 'folk' 'holiday' 'jazz' 'new age' 'reggae']. The precision and recall are equal to zero for some labels. fbeta_score is ill defined for those labels ['avant-garde' 'blues' "children's" 'classical' 'comedy/spoken'
+ 'easy listening' 'folk' 'holiday' 'jazz' 'new age' 'reggae']. 
+  total_scores = precision_recall_fscore_support(self.labels_testset, predicted_genres, average='weighted')
+Score:  1.0
+Gathering training set information... (use orig_lda: True)
+original
+Training classifier...
+Testing classifier...
+lda.py:1042: UserWarning: The sum of true positives and false positives are equal to zero for some labels. Precision is ill defined for those labels ['avant-garde' 'blues' "children's" 'classical' 'comedy/spoken'
+ 'easy listening' 'folk' 'holiday' 'international' 'jazz' 'latin' 'new age'
+ 'reggae' 'stage & screen' 'vocal']. The precision and recall are equal to zero for some labels. fbeta_score is ill defined for those labels ['avant-garde' 'blues' "children's" 'classical' 'comedy/spoken'
+ 'easy listening' 'folk' 'holiday' 'international' 'jazz' 'latin' 'new age'
+ 'rap' 'reggae' 'religious' 'stage & screen' 'vocal']. 
+  total_scores = precision_recall_fscore_support(self.labels_testset, predicted_genres, average='weighted')
+Score:  1.0
+FOLD 4
+[L] - Load data from file:  init_data4
+Error: [Errno 2] No such file or directory: 'init_data4' for file init_data4.
+Initialize counts..
+[D] - Dump information to dumpfile:  init_data4
+[D] - Dump LDA original information to dumpfile:  init_data4_orig
+[L] - Load original LDA data from file:  init_data4_orig
+start Gibbs sampling! Also compute original LDA: True
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 0 (stopwatch: 308.258721113)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 1 (stopwatch: 726.376893044)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 2 (stopwatch: 1144.37447309)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 3 (stopwatch: 1561.67444801)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 4 (stopwatch: 1978.38276196)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 5 (stopwatch: 2394.89509201)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 6 (stopwatch: 2812.80159116)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 7 (stopwatch: 3229.70551395)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 8 (stopwatch: 3648.35193801)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 9 (stopwatch: 4064.52931213)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 10 (stopwatch: 4482.44005108)
+iter10_a0.1_b0.1_topics50_fold4
+[D] - Dump information to dumpfile:  iter10_a0.1_b0.1_topics50_fold4
+[D] - Dump LDA original information to dumpfile:  iter10_a0.1_b0.1_topics50_fold4_orig
+Print to file topics, genres etc
+write to file: iter10_a0.1_b0.1_topics50_fold4
+write to file: iter10_a0.1_b0.1_topics50_fold4
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 11 (stopwatch: 4950.28275108)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 12 (stopwatch: 5366.92059803)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 13 (stopwatch: 5782.34057903)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 14 (stopwatch: 6199.34596705)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 15 (stopwatch: 6615.28088617)
+iter15_a0.1_b0.1_topics50_fold4
+[D] - Dump information to dumpfile:  iter15_a0.1_b0.1_topics50_fold4
+[D] - Dump LDA original information to dumpfile:  iter15_a0.1_b0.1_topics50_fold4_orig
+Print to file topics, genres etc
+write to file: iter15_a0.1_b0.1_topics50_fold4
+write to file: iter15_a0.1_b0.1_topics50_fold4
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 16 (stopwatch: 7083.77122712)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 17 (stopwatch: 7499.35526609)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 18 (stopwatch: 7916.44515705)
+- lyrics done: 500
+- lyrics done: 1000
+- lyrics done: 1500
+- lyrics done: 2000
+- lyrics done: 2500
+- lyrics done: 3000
+done iteration 19 (stopwatch: 8332.09834909)
+Print to file topics, genres etc
+write to file: iter19_a0.1_b0.1_topics50_fold4
+write to file: iter19_a0.1_b0.1_topics50_fold4
+[D] - Dump information to dumpfile:  iter19_a0.1_b0.1_topics50_fold4
+[D] - Dump LDA original information to dumpfile:  iter19_a0.1_b0.1_topics50_fold4_orig
+Gathering training set information... (use orig_lda: False)
+non-original
+Training classifier...
+Testing classifier...
+lda.py:1042: UserWarning: The sum of true positives and false positives are equal to zero for some labels. Precision is ill defined for those labels ['avant-garde' 'blues' "children's" 'classical' 'comedy/spoken'
+ 'easy listening' 'holiday' 'latin' 'reggae']. The precision and recall are equal to zero for some labels. fbeta_score is ill defined for those labels ['avant-garde' 'blues' "children's" 'classical' 'comedy/spoken'
+ 'easy listening' 'holiday' 'latin' 'reggae']. 
+  total_scores = precision_recall_fscore_support(self.labels_testset, predicted_genres, average='weighted')
+Score:  1.0
+Gathering training set information... (use orig_lda: True)
+original
+Training classifier...
+Testing classifier...
+lda.py:1042: UserWarning: The sum of true positives and false positives are equal to zero for some labels. Precision is ill defined for those labels ['avant-garde' 'blues' "children's" 'classical' 'comedy/spoken'
+ 'easy listening' 'electronic' 'folk' 'holiday' 'international' 'jazz'
+ 'latin' 'new age' 'reggae' 'stage & screen' 'vocal']. The precision and recall are equal to zero for some labels. fbeta_score is ill defined for those labels ['avant-garde' 'blues' "children's" 'classical' 'comedy/spoken'
+ 'easy listening' 'electronic' 'folk' 'holiday' 'international' 'jazz'
+ 'latin' 'new age' 'rap' 'reggae' 'religious' 'stage & screen' 'vocal']. 
+  total_scores = precision_recall_fscore_support(self.labels_testset, predicted_genres, average='weighted')
+Score:  1.0
