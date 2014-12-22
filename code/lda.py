@@ -346,6 +346,8 @@ class lda():
 			# load from iter X which is already done, so you start with +1
 			start_iter +=1
 
+		print "hello", load_iter
+
 		nr_lyrics = len(self.dataset)
 		# Do gibbs sampling N times for all items (if load_iter is false, you start from 0, otherwise pick up where you left off at start_iter)
 		for iteration in range(start_iter,N):
@@ -1196,7 +1198,7 @@ if __name__ == "__main__":
 			lda.classify(orig_lda=True)
 			# adjust filename to write to:
 			filename += '_orig'
-		if not removepoprock:
+		if not remove_poprock:
 			filename += '_all'
 
 
@@ -1232,7 +1234,7 @@ if __name__ == "__main__":
 				if origlda:
 					lda.classify(orig_lda=True)
 					filename += '_orig'
-				if not removepoprock:
+				if not remove_sepoprock:
 					filename += '_all'
 				# Print results on folds in text file!
 				print "write metrics to file for fold %s: %s" %(str(i), filename)
