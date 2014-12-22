@@ -12,7 +12,7 @@
 %\documentstyle[nips14submit_09,times,art10]{article} % For LaTeX 2.09
 
 
-\title{Topic extraction for musical genre using lyrical content}
+\title{Topic extraction for music genre using lyrical content}
 
 
 \author{
@@ -56,6 +56,8 @@ Genre classification for music is increasingly important with many online music 
 
 	\subsection{Background}
 Music genre classification has been researched mostly using audio signals. While this approach uses the \textit{defining} characteristic of music, namely, its musical structure, an other interesting approach is to use word-based analysis.
+
+\section{Problem}
 
 \section{Approach}
 An extension of LDA is used, which extracts topics over genres instead of documents. A graphical model is supplied in figure \ref{fig:graphical-model}. Derivations can be found in section \ref{ref:derivation}.
@@ -165,4 +167,8 @@ P(z_{i,j} = k | Z_{\neg w_{i,j}}, \alpha, \beta, W, Y) &\propto \frac{\beta + \w
   \label{fig:graphical-model}
 \end{figure}
 
+\section{Experiments/Empirical Evaluation}
+\section{Discussion and Conclusions}
+
+\section{Team responsibilities}
 \end{document}
