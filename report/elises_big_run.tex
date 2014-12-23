@@ -1,12 +1,16 @@
-\begin{table}[h]
+\begin{table}[htp!]
+\begin{center}
 \begin{tabular}{|l|r|r|r|}
 
 \hline
 \textbf{Type of LDA} &  \textbf{Average Precision} & \textbf{Average Recall} & \textbf{Average F1} \\
 \hline
-Extended &0.50310266811037774 & 0.59352517985611508 & 0.48576895832520584 \\
-Original & 0.31608099763575387 & 0.56166495375128467 & 0.40451708979848938 \\
+Extended (50 topics) &0.48137806154784157& 0.57399794450154162& 0.46618418532122646\\
+Extended (100 topics) &0.50310266811037774 & 0.59352517985611508 & 0.48576895832520584 \\
+Original (100 topics) & 0.31608099763575387 & 0.56166495375128467 & 0.40451708979848938 \\
 \hline
 \end{tabular}
-\caption{Classification including pop/rock genre, Topics = 100, alpha=0.1, beta=0.1}
+\caption{Classification including pop/rock genre, Topics = 50 or 100, alpha=0.1, beta=0.1}
+\label{tab:poprock100}
+\end{center}
 \end{table}
