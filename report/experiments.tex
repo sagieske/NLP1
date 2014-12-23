@@ -33,7 +33,7 @@ Genre & R\&B & Avant-Garde & Pop/Rock & Folk & Rap & International & Blues & Com
 Cross-validation is a validation technique to asses how the results of the models will generalize. In this research a stratified 5-fold cross-validation is implemented. In 5-fold cross-validation, the dataset is split into 5 equal size subsets and the algorithm is performed 5 times (or folds) in which one of the 5 subsets is used as validation data. Each experiment is thus run 5 times where the training set entails 80\% of the total data set and the validation set entails 20\% of the total dataset. Due to the variation in population for each genre in the dataset, a stratified sampling of training and validation set for the subsets is used. This sampling technique preserves the percentage of samples for each class in all subsets.
 
 
-\begin{figure}[H!]
+\begin{figure}[htp!]
 \begin{mdframed}
         \centering
         \begin{subfigure}[b]{0.3\textwidth}
@@ -82,6 +82,8 @@ Cross-validation is a validation technique to asses how the results of the model
 
 \subsection{Results}
 Figure \ref{fig:topicdist} presents genre profiles for different genres. Each profile is created by summing topic counts for every document in the genre, and averaging these. These profiles are strongly dominated by one or two topics for certain genres, like \textit{Holiday}, \textit{Religious} and \textit{Reggae}, but more evenly distributed for others, like \textit{Electronic} or \textit{Pop/Rock}. This is not surprising, as \textit{Holiday} and \textit{Religious} are genres named after the themes of their songs, and not their musical structure. Moreover, \textit{Pop/Rock} contains music styles ranging from pop music to brutal death metal, resulting in a genre profile that covers a wide range of topics. Results of the classification using the extended LDA and original LDA model can be found in table \ref{tab:poprock100}. The classifiers have scores of around 50\%. However, at close inspection of the classifications, it showed that the classifiers almost always predicted the genre Pop/Rock. Since more than half of the dataset consists of data labeled with \textit{Pop/Rock}, it is unsurprising that the classifier didn't work too well. 
+\input{elises_big_run}
+
 
 Consequently, the same experiment was re-run, leaving out the data labeled \textit{Pop/Rock}. As a result, the dataset consisted of $4.258$ documents. The results of running extended and original LDA without \textit{Pop/Rock} documents can be found in table \ref{tab:difflda}. These results show that extended LDA outperforms original LDA. Moreover, the most distinctive topics were \textit{R\&B} and \textit{Rap}. Higher results were expected for \textit{Holiday} and \textit{Religious} and \textit{Reggae}, due to their distinctive genre profiles. However, the size of \textit{Holiday} and \textit{Reggae} was relatively small (11 and 65 documents). However, \textit{Religious} is a rather large part of the dataset. Further analysis showed that most documents belonging to the genre \textit{Religious} were predicted to be \textit{Country}, which is a larger subset of the dataset. Since \textit{Country} is a genre associated with the conservative American South, it might share a lot of themes with \textit{Religious} (allusions to God and Heaven, for example). 
 
@@ -89,7 +91,6 @@ The results of different parameter settings for $\alpha$ and $\beta$ can be foun
 \input{results_nonpoprock_50topics_a0.1_b0.1}
 \input{onetable}\label{tab:onetable}
 \input{table_origlda_50topics_a0.1_b_0.1_nonpoprock_prf}
-\input{elises_big_run}
 \input{elises_small_run}
 
 It can be seen that the extension of LDA puts out more sensible topics than regular LDA: for example, after 20 iterations, the top words of the top topic of the reggae genre are \verb|yeah|, \verb|get|, \verb|got|, \verb|right|, \verb|man|, \verb|like|, \verb|little|, \verb|time|, \verb|say| and \verb|hey| using regular LDA, and \verb|mi|, \verb|fight|, \verb|police|, \verb|gonna|, \verb|say|, \verb|jah|, \verb|whatcha|, \verb|dem|, \verb|ya|, \verb|yuh|, \verb|burnin| and \verb|ah| using the extension of LDA. This results in a more effective classifier, the differences between the F1 scores of regular LDA and extended LDA can be seen in table \ref{tab:extvsoriglda} \\
