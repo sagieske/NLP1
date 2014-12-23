@@ -35,10 +35,10 @@ To infer the different distributions, collapsed Gibbs sampling is used (where th
 
 
 \subsubsection{Gibbs sampling}
-The calculation of the total probability of the model is computationally difficult because it marginalizes by integrating over a joint distribution. Therefore, the collapsed Gibbs sampling algorithm is applied for the (extended) LDA model. This algorithm samples from a conditional distribution which asymptotically approaches the correct distributions and is computationally simple compared to the marginalization of the total probability. The formula for the conditional probability used in Gibbs sampling algorithm for the extended LDA model can be found in section \ref{ref:derivation}. As can be seen in this formula, the conditional probability is also dependent on the counts of topics that occur in documents with the same genre instead of only the document in question.
+The calculation of the total probability of the model is computationally difficult because it marginalizes by integrating over a joint distribution. Therefore, the collapsed Gibbs sampling algorithm is applied for the (extended) LDA model. This algorithm samples from a conditional distribution which asymptotically approaches the correct distributions and is computationally simple compared to the marginalization of the total probability. The formula for the conditional probability used in Gibbs sampling algorithm for the extended LDA model can be found in section \ref{ref:derivation}. As can be seen in this formula, the conditional probability in the extended LDA model is also dependent on the counts of topics that occur in documents with the same genre instead of only the document in question as in the original LDA model. The algorithm for the collapsed Gibbs sampling for the extended LDA model is described below.
 
 \begin{mdframed}
-\begin{algorithm}[H]\label{alg:create-song}
+\begin{algorithm}[H]\label{alg:ext-lda}
  \KwData{Topic Model inferred by extended DA, genre $G$, number of documents $N$, words in document i $M_i$}
  \KwResult{word-topic and topic-genre distribution}
 \textbf{Initialize:} randomly assign words to topics \\
