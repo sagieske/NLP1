@@ -1,24 +1,26 @@
-\section{Appendix A. Gibbs sampling for extended LDA}\label{ref:derivation}
+\subsection{Appendix A. Gibbs sampling for extended LDA}\label{ref:derivation}
+Total probability of the extended LDA model:
 \begin{align}
 P(w, z, \varphi, \theta | \alpha, \beta, y) &= P(\varphi | \beta)P(\theta | \alpha)P(z | \theta, y)P(w | \varphi, z)\\
 \end{align}
-Separate probabilities:
+The formulas for the separate probabilities are given here:
 \begin{align}
 P(\varphi | \beta) &= \prod\limits_{k=1}^K P(\varphi_k|\beta)\\
 P(\theta | \alpha) &= \prod\limits_{g=1}^G P(\theta_g|\alpha)\\
 P(z | \theta, y) &= \prod\limits_{i=1}^N \prod\limits_{j=1}^{M_i} P(z_{i,j}|\theta_{y_i})\\
 P(w | \varphi, z) &= \prod\limits_{i=1}^N \prod\limits_{j=1}^{M_i} P(w_{i,j}|\varphi_{z_{i,j}})\\
 \end{align}
-Joined together:
+Fill the separate probabilities into the model formula:
 \begin{align}
 P(w, z, \varphi, \theta | \alpha, \beta, y) &= \prod\limits_{k=1}^K P(\varphi_k|\beta) \prod\limits_{g=1}^G P(\theta_g|\alpha) \prod^N_{i=1}\prod^{M_i}_{j=1} P(z_{i,j}|\theta_{y_i}) P(w_{i,j}|\varphi_{z_{i,j}})
 \end{align}
-Integrate $\varphi$ and $\theta$ out of joint:
+Integrate $\varphi$ and $\theta$ out of the total probability:
 \begin{align}
 \int \int P(w, z, \varphi, \theta | \alpha, \beta, y) d\varphi d\theta &= \int \prod\limits_{k=1}^K P(\varphi_k|\beta) \prod^N_{i=1}\prod^{M_i}_{j=1} P(w_{i,j}|\varphi_{z_{i,j}}) d\varphi\\
 &\times \int \prod\limits_{g=1}^G P(\theta_g|\alpha) \prod^N_{i=1}\prod^{M_i}_{j=1} P(z_{i,j}|\theta_{y_i}) d\theta
 \end{align}
-Derivation of $\int \prod\limits_{k=1}^K P(\varphi_k|\beta) \prod^N_{i=1}\prod^{M_i}_{j=1} P(w_{i,j}|\varphi_{z_{i,j}}) d\varphi$
+Since all $\theta$'s and $\varphi$'s are independent to each other, we can derive these integrals separately.\\~\\
+\textbf{1) Derivation of $\int \prod\limits_{k=1}^K P(\varphi_k|\beta) \prod^N_{i=1}\prod^{M_i}_{j=1} P(w_{i,j}|\varphi_{z_{i,j}}) d\varphi$}
 ~\\Use $C(k,w)$ as the number of times word $w$ is assigned to topic $k$ in any document.
 \begin{align}
 \prod\limits_{k=1}^K P(\varphi_k|\beta) \prod^N_{i=1}\prod^{M_i}_{j=1} P(w_{i,j}|\varphi_{z_{i,j}}) d\varphi
@@ -31,7 +33,7 @@ Derivation of $\int \prod\limits_{k=1}^K P(\varphi_k|\beta) \prod^N_{i=1}\prod^{
 &=  \prod\limits_{k=1}^K \frac{\Gamma (V \beta)}{(\Gamma(\beta))^V}  \frac{\prod\limits_{w=1}^V \Gamma(C(k,w)-1)}{\Gamma(\sum\limits_{w=1}^V C(k,w)-1))}\\
 &\propto \prod\limits_{k=1}^K \frac{\prod\limits_{w=1}^V \Gamma(C(k,w)-1)}{\Gamma(\sum\limits_{w=1}^V C(k,w)-1))}
 \end{align}
-Derivation of $\prod\limits_{g=1}^G P(\theta_g|\alpha) \prod^N_{i=1}\prod^{M_i}_{j=1} P(z_{i,j}|\theta_{y_i}) d\theta$
+\textbf{2) Derivation of $\prod\limits_{g=1}^G P(\theta_g|\alpha) \prod^N_{i=1}\prod^{M_i}_{j=1} P(z_{i,j}|\theta_{y_i}) d\theta$}
 ~\\Use $C(g,k)$ as the number of times topic $k$ is assigned to genre $g$ in any document.
 \begin{align}
 \prod\limits_{g=1}^G P(\theta_g|\alpha) \prod^N_{i=1}\prod^{M_i}_{j=1} P(z_{i,j}|\theta_{y_i}) d\theta
@@ -44,6 +46,9 @@ Derivation of $\prod\limits_{g=1}^G P(\theta_g|\alpha) \prod^N_{i=1}\prod^{M_i}_
 &=  \prod\limits_{g=1}^G  \frac{\Gamma (K \alpha)}{(\Gamma(\alpha))^K}  \frac{\prod\limits_{k=1}^K \Gamma(C(g,k)-1)}{\Gamma(\sum\limits_{k=1}^K C(g,k)-1))} \\
 &\propto  \prod\limits_{g=1}^G   \frac{\prod\limits_{k=1}^K \Gamma(C(g,k)-1)}{\Gamma(\sum\limits_{k=1}^K C(g,k)-1))} 
 \end{align}
+\\
+\textbf{Calculate the collapsed Gibbs sampling}\\
+For the collapsed Gibbs sampling the conditional probability $P(z_{i,j} = k | Z_{\neg w_{i,j}}, \alpha, \beta, W, Y)$ is used.
 ~\\ Use $\neg w_{i,j}$ as collection that does not include the $j$th word in document $i$. Use $\widetilde{C}$ as a count that does not include the $j$th word in document $i$.
 \begin{align}
 P(z_{i,j} = k | Z_{\neg w_{i,j}}, \alpha, \beta, W, Y) &\propto \frac{\beta + \widetilde{C}(k, w_{i,j})}{V\beta + \widetilde{C}(k)} \times \frac{\alpha + \widetilde{C}(y_i, k)}{K\alpha + \widetilde{C}(y_i)}
