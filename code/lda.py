@@ -22,9 +22,6 @@ from matplotlib import pyplot as plt
 import re
 import copy
 
-# try:
-#     import cPickle as pickle
-# except:
 import pickle
 
 class lda():
@@ -55,15 +52,12 @@ class lda():
 	- index_to_vocab	dictionary which maps index to word (reverse of vocab dictionary)
 	- index_to_genre	dictionary which maps index to genre (reverse of genre_list dictionary)
 	"""
-
+	# File names to load intialization of counts from
 	INPUTLDA = 'inputlda'
-	#INPUTLDA_ORIG = 'inputlda_orig'
 	INIT_DATA = 'init_data'
-	#INIT_DATA_ORIG = 'init_data_orig'
 
 	def __init__(self, alpha, beta, nr_topics, skip_lda=False, orig_lda=False, remove_poprock=False):
 		""" Initialize
-		TODO: load_init is to be used for initialization from pickle load from file. NOT USED YET!
 		"""
 		
 		self.alpha = alpha
@@ -94,7 +88,7 @@ class lda():
 					self.total_dataset_temp.append(self.total_dataset[i])
 			self.total_dataset = self.total_dataset_temp
 
-		# Use smaller dataset add [:set]
+		# Note: to use smaller dataset add [:set]
 		print "total nr of lyrics:", len(self.total_dataset)
 
 		labels = []
@@ -104,20 +98,10 @@ class lda():
 		for item in self.total_dataset:
 			labels.append(item['genre'])
 			label_count[item['genre']] = label_count.get(item['genre'], 0) +1
-			#subgenres = item['subgenres']
-			#labels_subgenre.append([i for i in subgenres if i is not 'unknown'])
-
 		
+
 		# Set instance variable to list of set of all labels
 		self.all_genres =  list(set(labels))
-			
-
-		# Count unknowns:
-		#artists_unknown = [item['artist'] for item in self.total_dataset].count('unknown')
-		#title_unknown = [item['title'] for item in self.total_dataset].count('unknown')
-		#genre_unknown = [item['genre'] for item in self.total_dataset].count('unknown')
-		#subgenre_unknown = [item['subgenres'] for item in self.total_dataset].count(['unknown'])
-		#print "total unknown: artist: %i, title: %i, genre: %i, subgenre: %i" %(artists_unknown, title_unknown, genre_unknown, subgenre_unknown)
 
 		#""" UNCOMMENT TO CREATE NEW FOLD INDICES
 		# Get kfold training and test indices (folds: 10 so that it uses 90% for training data)
@@ -156,8 +140,6 @@ class lda():
 		# Initialization of matrices and dictionaries 
 		self._initialize_lists()
 		# Initialize counts for matrices
-		# LOAD COUNTS, set to true
-		# TODO
 		self._initialize_counts(load=False)
 
 
@@ -181,7 +163,6 @@ class lda():
 		# Initialization of matrices and dictionaries 
 		self._initialize_lists()
 		# Initialize counts for matrices
-		# LOAD COUNTS, set to true
 		self._initialize_counts(load=False)
 
 
@@ -320,6 +301,7 @@ class lda():
 				if self.orig_lda:
 					self.doc_word_count_orig_lda[i] = len(cleaned_lyrics)
 
+			# Dump initialization data to file
 			self.dump_data(self.INIT_DATA+str(self.fold))
 
 
@@ -342,7 +324,6 @@ class lda():
 			# Add to filename if you do all of dataset
 			if not self.remove_poprock:
 				filename += "_all"
-			print filename
 			self.load_data(filename)
 			# load from iter X which is already done, so you start with +1
 			start_iter +=1
@@ -394,8 +375,9 @@ class lda():
 					+ str(self.nr_topics) + "_fold" + str(self.fold) 
 				if not self.remove_poprock:
 					filename += "_all"
-				print filename
+				# Dump python data to file to possibly resume from this point later
 				self.dump_data(filename)
+				# Print word-topic and topic-genre distributions to text file for analysis
 				print "Print to file topics, genres etc"
 				self.print_to_file(N, topwords, toptopics, filename, iteration)
 				if self.orig_lda:
@@ -405,7 +387,6 @@ class lda():
 		# prints initialization
 		if N == 0:
 			iteration = N
-			#self.print_to_file(N, topwords, toptopics, filename, iteration)
 
 		# Do not write stuff to file if at start
 		if start_iter==N:
@@ -424,12 +405,13 @@ class lda():
 				+ str(self.nr_topics) + "_fold" + str(self.fold) 
 			if not self.remove_poprock:
 				filename += "_all"
+		# Print word-topic and topic-genre distributions to text file for analysis
 		self.print_to_file(N, topwords, toptopics, filename, iteration)
 		if self.orig_lda:
 			self.print_to_file_lda(N, topwords, toptopics, filename, iteration)
+		# Dump python data to file to possibly resume from this point later
 		self.dump_data(filename)
 
-		#self.dump_data('done_data')		
 
 	def update(self, previous_topic_index, position, word_index, genre_index, topic_index):
 		"""
@@ -547,11 +529,9 @@ class lda():
 				extra = 1.0000000000000000000000001 - sum(distribution[:-1])
 				for index in range(0,len(distribution)):
 					newlist.append(distribution[index] - extra/float(len(distribution)))
-				print "TEST"
 			else:
 				newlist = distribution
 			if sum(newlist[:-1]) > 1.0:
-				print "STILLLL"
 				# Set default list
 				newlist = [1/float(len(distribution))] * len(distribution)
 			return np.random.multinomial(1,newlist).argmax()
@@ -919,7 +899,8 @@ class lda():
 
 	def genre_profiles(self, orig_lda=False):
 		"""
-		Create profiles for genres by using the topic distributions found
+		Create profiles for genres by using the topic distributions found.
+		Creates a bar char for every genre with their average topic distributions
 		"""
 
 		# Get the topic distribution for every document and the corresponding genre
@@ -946,10 +927,10 @@ class lda():
 
 			# Get mean per topic
 			mean_genre =np.mean(genre_matrix*100, axis=0)
+			# Get standard deviation per topic
 			stdev_genre = np.std(genre_matrix*100, axis=0)
-			#print stdev_genre
 
-			# Plot bar chart? Not really nice
+			# Plot bar chart
 			fig = plt.figure(figsize=(8, 6))
 			ax = fig.add_subplot(111)
 			ax.set_title('Genre: %s' %genre)
@@ -1022,6 +1003,7 @@ class lda():
 		"""
 		Classify test set using SVM classifier.
 		"""
+		# Get topic distributions of every document
 		print "Gathering training set information... (use orig_lda: %s)" %(orig_lda)
 		if orig_lda:
 			print "original"
@@ -1036,12 +1018,13 @@ class lda():
 		# Create distributions of topics per document in the testset
 		for doc_index in range(0, number_testing):
 			distribution_test_matrix[doc_index] = self.get_new_document_dist(self.testset[doc_index]['cleaned_lyrics'])
-
+	
+		# Train classifier using training set and labels
 		print "Training classifier..."
 		classifier = svm.SVC(probability=False, kernel='rbf', C=1.0, gamma=0.75)
 		classifier.fit(distribution_train_matrix, train_genre_list)
 
-
+		# Predict labels of test set
 		print "Testing classifier..."
 		predicted_genres = classifier.predict(distribution_test_matrix)
 
@@ -1069,22 +1052,22 @@ class lda():
 
 
 	def generate_song(self, length, genre):
+		"""
+		Generates a song for a specific genre of specified lenght with the use of topic distribution
+		"""
+		# Retrieve topic distributions for every document
 		genres, distr = lda.document_topic_distribution()
 		genre_indices = []
-		print distr
+
 		# Loop over all possible genres
-		print genre
 		# Get indices of documents that belong to this genre
 		for index in range(0,len(distr)):
-			print distr[index]
 			if genres[index] == genre:
-				print "YES"
 				genre_indices.append(index)
-		print genre_indices
 		# Get topic distributions for all documents belonging to this genre
 		genre_matrix =  np.array([x for i, x in enumerate(distr) if i in genre_indices])
 
-		print genre_matrix
+		# Retrieve words with the use of sampled topic
 		for document in genre_matrix:
 			normalized = normalize_array(document)
 			sampled_topic = self.sample_multinomial(normalized)
@@ -1123,16 +1106,10 @@ if __name__ == "__main__":
 	parser.add_argument('-f', metavar='Specify filename to write output to', type=str)
 	parser.add_argument('-skiplda', help='Provide to skip the LDA and use data from file "inputlda"', action="store_true")
 	parser.add_argument('-origlda', help='Provide to also compute original the LDA', action="store_true")
-	parser.add_argument('-removepoprock', help='Provide to remove pop/rock from dataset', action="store_true")
-	#metavar='Provide to skip the LDA and use data from file "inputlda"', 
+	parser.add_argument('-removepoprock', help='Provide to remove pop/rock from dataset', action="store_true")\
 	args = parser.parse_args()
 
-	# TODO: chosing alpha/beta: http://psiexp.ss.uci.edu/research/papers/sciencetopics.pdf
-	"""With scientific documents, a large value of beta would lead the
-	model to find a relatively small number of topics, perhaps at the
-	level of scientific disciplines, whereas smaller values of beta will
-	produce more topics that address specific areas of research.
-	"""
+
 	nr_topics = 50
 	alpha = 0.1
 	beta = 0.1
@@ -1174,11 +1151,11 @@ if __name__ == "__main__":
 	lda = lda(alpha, beta, nr_topics, skip_lda=skiplda, orig_lda=origlda, remove_poprock=remove_poprock)
 	kfold = True
 	folds = 5
+	#load_iter is False if you don't want to load from specific point! Start_iter then also needs to be 0
 	start_iter = 0
 	load_iter = False
-	#TODO: load_iter is False if you don't want to load from specific point!!!! Start_iter then also needs to be 0
-	#start_iter = 9
-	#load_iter = True
+
+
 
 	# Otherwise error in loop.
 	if start_iter > nr_runs:
@@ -1187,24 +1164,21 @@ if __name__ == "__main__":
 
 	# Do gibbs sampling
 	if not skiplda:
-		# do fold 0
-		#start_iter = 14
-		#load_iter = True
-		#print "load: ", load_iter, "start: ", start_iter
 		lda.start_gibbs(nr_runs, top_words, top_topics, filename, load_iter=load_iter, start_iter=start_iter)
 		# Use classification for extended LDA	
 		lda.classify()
 		filename = "metrics_%s_%s_a%s_b%s_0" %(str(nr_runs), str(nr_topics), alpha, beta)
-		# Use classification for normalized LDA
+		# Use classification for original LDA
 		if origlda:
 			lda.classify(orig_lda=True)
 			# adjust filename to write to:
 			filename += '_orig'
+		# adjust filename to write to if whole dataset is used:
 		if not remove_poprock:
 			filename += '_all'
 
 
-		# Print results in text file!
+		# write evaluation metrics of classification to text file
 		print "write metrics to file for fold %i: %s" %(0, filename)
 		with open(filename, 'w+') as f:
 			for i in lda.metric_folds.keys():
@@ -1212,7 +1186,7 @@ if __name__ == "__main__":
 				fold_values = lda.metric_folds[i]
 				for genre in sorted(fold_values):
 					f.write("%s: %s\n" %(genre, str(fold_values[genre])))
-
+			# write evaluation metrics of classification of original LDA to file
 			if origlda:
 				f.write("\nORIGINAL LDA:\n")
 				for i in lda.metric_folds.keys():
@@ -1221,13 +1195,10 @@ if __name__ == "__main__":
 					for genre in sorted(fold_values):
 						f.write("%s: %s\n" %(genre, str(fold_values[genre])))
 				f.write("\n\n")
-		kfold=False
-		print "only do fold 0"
+		kfold=True
 		# If do multiple folds:
 		if kfold:
-			start_iter = 0
-			load_iter = False
-			print "load: ", load_iter, "start: ", start_iter
+			# Do 5 folds for cross-validation
 			for i in range(1,5):
 				print "FOLD %i" %(i)
 				lda.reset_to_next_fold(i)
@@ -1236,13 +1207,13 @@ if __name__ == "__main__":
 				# Use classification for extended LDA
 				lda.classify()
 				filename = "metrics_%s_%s_a%s_b%s_%s" %(str(nr_runs), str(nr_topics), alpha, beta, str(i))
-				# Use classification for normalized LDA
+				# Use classification for original LDA
 				if origlda:
 					lda.classify(orig_lda=True)
 					filename += '_orig'
 				if not remove_poprock:
 					filename += '_all'
-				# Print results on folds in text file!
+				# write evaluation metrics of classification to text file
 				print "write metrics to file for fold %s: %s" %(str(i), filename)
 				with open(filename, 'w+') as f:
 					for i in lda.metric_folds.keys():
@@ -1250,7 +1221,7 @@ if __name__ == "__main__":
 						fold_values = lda.metric_folds[i]
 						for genre in sorted(fold_values):
 							f.write("%s: %s\n" %(genre, str(fold_values[genre])))
-
+					# write evaluation metrics of classification of original LDA to file
 					if origlda:
 						f.write("\nORIGINAL LDA:\n")
 						for i in lda.metric_folds.keys():
@@ -1263,16 +1234,16 @@ if __name__ == "__main__":
 
 
 
-	##lda.start_gibbs(nr_runs, top_words, top_topics, filename)
-	# barchars using extended LDA
-	#lda.genre_profiles(orig_lda=False)
+
+	# Creates bar charts of genre profiles for extended LDA model
+	lda.genre_profiles(orig_lda=False)
 	# barchars using original LDA
-	#if origlda:
-	#	lda.genre_profiles(orig_lda=True)
+	if origlda:
+		lda.genre_profiles(orig_lda=True)
 
 	#Test load_new_document function with a new document (example call)
 	#topic_distribution_krallice = lda.load_new_document('new_docs/krallica_litanyofregrets.txt')
 
-	#lda.classify()
+	# Example to generate song from genre-topic distribution
 	#lda.generate_song('rap', 20)
 
