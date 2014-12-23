@@ -23,11 +23,34 @@ To infer the different distributions, collapsed Gibbs sampling is used (where th
 	\end{subfigure}
 \end{figure}
 
+\subsubsection{Gibbs sampling}
+The calculation of the total probability of the model is computationally difficult because it marginalizes by integrating over a joint distribution. Therefore, the collapsed Gibbs sampling algorithm is applied for the (extended) LDA model. This algorithm samples from a conditional distribution which asymptotically approaches the correct distributions and is computationally simple compared to the marginalization of the total probability. The formula for the conditional probability used in Gibbs sampling algorithm for the extended LDA model can be found in section \ref{ref:derivation}. As can be seen in this formula, the conditional probability is also dependent on the counts of topics that occur in documents with the same genre instead of only the document in question.
+
+\begin{mdframed}
+\begin{algorithm}[H]\label{alg:create-song}
+ \KwData{Topic Model inferred by extended DA, genre $G$, number of documents $N$, words in document i $M_i$}
+ \KwResult{word-topic and topic-genre distribution}
+\textbf{Initialize:} randomly assign words to topics \\
+ assign topics to genre given genre of doc in which word is found\\
+ \For{ Document $i$ where $i\in 1\dots N$ }{
+ 	\For{word $j$ where $j\in 1\dots M_i$}{
+  calculate conditional probability distribution for $z_{i,j}$\\
+  sample topic from distribution $k$\\
+  update word-topic distrubtion given $z_{ij} = k$\\
+  update topic-genre distrubtion given $G$\\
+	}
+ }
+ return word-topic distribution, topic-genre distribution
+ \caption{Gibbs sampling for extended LDA}
+\end{algorithm}
+\end{mdframed}
+ 
+
 \subsubsection{Generative model}
 Since LDA is a generative model, it can also be used to create new lyrics. To create a `song' of length $n$ for a genre $G$, for each word position from $0$ to $n$, a topic $k$ is sampled from $G$'s topic distribution. Then, a word is sampled from $k$'s word distribution (see also algorithm \ref{alg:create-song}). \\
 \begin{mdframed}
 \begin{algorithm}[H]\label{alg:create-song}
- \KwData{Topic Model inferred by extended DA, genre $G$, length $n$}
+ \KwData{Topic Model inferred by extended LDA, genre $G$, length $n$}
  \KwResult{Song for genre $G$ of length $n$}
  initialize: song = `' \\
  \While{counter $< n$ }{
