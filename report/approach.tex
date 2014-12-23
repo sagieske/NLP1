@@ -14,7 +14,7 @@ For this research the following framework is used:
 	\item Generate `song' of length $n$ for genre $g$: select topic $k \sim \theta_g$ then select word $w \sim \varphi_k$, repeat $n$ times
 \end{enumerate}
 
-In the following subsections the dataset is described in section \ref{sub:prep} and the extended LDA model is explained in section\ref{ sub:ext-lda}. The classification and evaluation methods are described in section\ref{sub:classification} and the method to generate a song is displayed in section \ref{sub:song}
+In the following subsections the dataset is described in section \ref{sub:prep} and the extended LDA model is explained in section \ref{sub:ext-lda}. The classification and evaluation methods are described in section\ref{sub:classification} and the method to generate a song is displayed in section \ref{sub:song}
 
 \subsection{Data acquisition}\label{sub:prep}
 Before any model could be tested, data had to be collected and processed. To do this, a crawler was built that collects song lyrics from \textit{Lyricsmode}\footnote{\texttt{http://www.lyricsmode.com}} by going through the alphabet (with one `letter' for numbers $0-9$), finding the top 100 artists starting with that letter and collecting the first five songs (alphabetically) by that artist. After collecting these lyrics, genre-information was retrieved from \textit{Allmusic}\footnote{\texttt{http://www.allmusic.com}}. The choice of these websites are primarily based on earlier research \cite{felllyrics} that used these websites because of their consistency. \\
