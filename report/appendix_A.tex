@@ -53,3 +53,26 @@ For the collapsed Gibbs sampling the conditional probability $P(z_{i,j} = k | Z_
 \begin{align}
 P(z_{i,j} = k | Z_{\neg w_{i,j}}, \alpha, \beta, W, Y) &\propto \frac{\beta + \widetilde{C}(k, w_{i,j})}{V\beta + \widetilde{C}(k)} \times \frac{\alpha + \widetilde{C}(y_i, k)}{K\alpha + \widetilde{C}(y_i)}
 \end{align}
+
+\subsubsection{Symbol description}\label{sub:symbols}
+
+\begin{center}
+\begin{table}[h]
+\begin{tabular}{l l}
+\tiny\textsc{SYMBOL} & \tiny\textsc{DESCRIPTION}\\
+\hline
+$K$ & \# of topics\\
+$G$ & \# of genres\\
+$N$ & \# of documents\\
+$M_i$ & \# of words in document i\\
+$y_i$ & genre of document i\\
+$w_{i,j}$ & word in document i at position j\\
+$z_{i,j}$ & topic assignment for word $w_{i,j}$\\
+$\theta_g$ & probabilities of topics given genre g\\
+$\varphi_k $ & probability of words given topic k\\
+$\alpha$ & Dirichlet prior for genre distribution\\
+$\beta$ & Dirichlet prior for topic distribution
+\end{tabular}
+\end{table}
+
+\end{center}
