@@ -12,6 +12,8 @@ One of the main challenges of the research was caused by the dataset: the datase
 Another challenge faced was the fact that some words, like \textit{love} occur in a lot of different genres. Words that occur in a lot of different genres make it harder to have a topic distribution with a high probabilty for only a couple of topics and should therefore be filtered from the dataset. 
 
 \subsection{Conclusion}
+It can be concluded that the extended version of LDA forms sensible topics for different genres, especially the genres named after their content. However, due to the very uneven distribution of lyrics over genres, it became hard to classify the test set and reach a high F1 score. The extended version of LDA did perform better than regular LDA, which is a sign that extended LDA with Gibbs sampling is a sensible choice to form topics based upon genres. \\
+Using a SVM with the topic distributions over genres, an average correct prediction was given in about 57\% of the lyrics in the test set. Using a better distributed data set with more distinct genres, this number should increase. Still, the performance of the algorithm was way better than the performance of a baseline classifier, which predicted no more than 42\% correct lyric genres.
 
 \subsection{Future work}
 To continue reseach with the current dataset, the \verb|pop/rock| genre has to be split into more (sub)genres. This could be achieved by taking the topic distribution of subgenres, and merging subgenres containing similair topic distributions. This way, subgenres like black metal and death metal should be splitted from, for example, top 40 songs. \\
