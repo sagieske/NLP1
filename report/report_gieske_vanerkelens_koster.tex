@@ -48,7 +48,8 @@ Elise Koster \\
 \newcommand{\new}{\marginpar{NEW}}
 
 %\nipsfinalcopy % Uncomment for camera-ready version
-
+\newcommand{\specialcell}[2][c]{%
+  \begin{tabular}[#1]{@{}c@{}}#2\end{tabular}}
 \begin{document}
 
 
@@ -61,19 +62,19 @@ Elise Koster \\
 \section{Introduction}
 \input{introduction}
 
-\section{Problem}
+\section{Problem}\label{sec:problem}
 \input{problem}
 
-\section{Approach}
+\section{Approach}\label{sec:approach}
 \input{approach}
 
-\section{Experiments/Empirical Evaluation}
+\section{Experiments/Empirical Evaluation}\label{sec:experiment}
 \input{experiments}
 
-\section{Discussion and Conclusions}
+\section{Discussion and Conclusions}\label{sec:discussion}
 \input{conclusion}
 
-\section{Team responsibilities}
+\section{Team responsibilities}\label{sec:team}
 \input{team}
 
 \bibliography{../papers/bibliography.bib}
