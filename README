@@ -13,3 +13,23 @@ Lyric databases:
 - http://lyrics.wikia.com/
 
 
+==========GENRE CLASSIFICATION USING EXTENDED LDA AND GIBBS SAMPLING==========
+To run the algorithm, you may call the file "lda.py" and set it with a number of different parameters.
+==========SETTING PARAMETERS==========
+The different parameters may be set as follows:
+Flag               |     Default value     | Function
+-----------------------------------------------
+-runs              | 1               					       | The amount of gibbs sampling iterations
+-a                 | 0.1              					       | alpha used in the extended lda
+-b     			   | 0.1                   					   | beta used in the extended lda
+-topics            | 50                 					   | the amount of topics
+-toptopics         | 5     					                   | the amount of best topics to print after an iteration
+-topwords          | 25                                        | the amount of best words in a topic to print after an iteration
+-f                 | 'output/topics%i_a%.2f_b%.2f_runs%i'      | the filename to safe data to after an iteration
+-skiplda           | -                                         | when provided, lda is skipped and a file named 'inputlda' is loaded 
+-origlda           | -                                         | when provided, original lda is performed next to extended lda
+-removepoprock     | -                                         | when provided, all pop/rock songs are skipped
+=========DEMO RUN==========
+To run a demo with with 100 topics, alpha 0.5, beta 0.1 and 50 runs, the following command can be entered:
+
+python lda.py -runs 50 -topics 100 -a 0.5 -b 0.1
