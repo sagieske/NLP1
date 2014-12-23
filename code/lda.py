@@ -340,7 +340,7 @@ class lda():
 					+ str(self.nr_topics) + "_fold" + str(self.fold) 
 			# Add to filename if you do all of dataset
 			if not self.remove_poprock:
-				filename += "all"
+				filename += "_all"
 			print filename
 			self.load_data(filename)
 			# load from iter X which is already done, so you start with +1
@@ -1187,7 +1187,9 @@ if __name__ == "__main__":
 	# Do gibbs sampling
 	if not skiplda:
 		# do fold 0
-
+		#start_iter = 14
+		#load_iter = True
+		#print "load: ", load_iter, "start: ", start_iter
 		lda.start_gibbs(nr_runs, top_words, top_topics, filename, load_iter=load_iter, start_iter=start_iter)
 		# Use classification for extended LDA	
 		lda.classify()
@@ -1218,9 +1220,13 @@ if __name__ == "__main__":
 					for genre in sorted(fold_values):
 						f.write("%s: %s\n" %(genre, str(fold_values[genre])))
 				f.write("\n\n")
-
+		kfold=False
+		print "only do fold 0"
 		# If do multiple folds:
 		if kfold:
+			start_iter = 0
+			load_iter = False
+			print "load: ", load_iter, "start: ", start_iter
 			for i in range(1,5):
 				print "FOLD %i" %(i)
 				lda.reset_to_next_fold(i)
@@ -1233,7 +1239,7 @@ if __name__ == "__main__":
 				if origlda:
 					lda.classify(orig_lda=True)
 					filename += '_orig'
-				if not remove_sepoprock:
+				if not remove_poprock:
 					filename += '_all'
 				# Print results on folds in text file!
 				print "write metrics to file for fold %s: %s" %(str(i), filename)
@@ -1258,9 +1264,10 @@ if __name__ == "__main__":
 
 	##lda.start_gibbs(nr_runs, top_words, top_topics, filename)
 	# barchars using extended LDA
-	lda.genre_profiles(orig_lda=False)
+	#lda.genre_profiles(orig_lda=False)
 	# barchars using original LDA
-	lda.genre_profiles(orig_lda=True)
+	#if origlda:
+	#	lda.genre_profiles(orig_lda=True)
 
 	#Test load_new_document function with a new document (example call)
 	#topic_distribution_krallice = lda.load_new_document('new_docs/krallica_litanyofregrets.txt')
