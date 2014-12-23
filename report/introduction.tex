@@ -1,19 +1,12 @@
-max 2 pages:
-\begin{itemize}
-\item Description of problem area and problem itself
-\item What is the research question/goal?
-\item Why is this is an important/meaningful/interesting problem to consider?
-\item the very basic idea of the approach and why is this a reasonable approach for this problem?
-\end{itemize}
+%max 2 pages:
+%\begin{itemize}
+%\item Description of problem area and problem itself
+%\item What is the research question/goal?
+%\item Why is this is an important/meaningful/interesting problem to consider?
+%\item the very basic idea of the approach and why is this a reasonable approach for this problem?
+%\end{itemize}
 
-\subsection{Description of problem area}
-Music genre classification has been researched mostly using audio signals\cite{audio_classification}. While this approach uses the \textit{defining} characteristic of music, namely, its musical structure, an other interesting approach is to use word-based analysis. Some earlier research has been done in the field of classifying songs using their lyrics, but many of these researches include other features of the lyrics like the amount of words per minute, the average word lenght\cite{mayeraudiolyrics}, recognition of structures in the lyrics\cite{maxwellgenome} or a combination of audio signals and lyrics\cite{mayeraudiolyrics}. Other research has been done in the field of using LDA to classify music by artists instead of genres\cite{liartists}. Little research has been done on classifying song using only the words of the lyrics\cite{stateoftheart}, with topic models using Gibbs sampling. However, various music genres contain very different word, and therefore an extension of LDA could be effective in classifying songs using the words of the lyrics.
-
-\subsection{Research question}
-Can an extension of LDA over music genres instead of documents be used to classify genres?
-
-\subsection{Relevance of the research}
-Online music services consists of large databases of meta-data for songs and artists. However, most of the information on such websites is crowd sourced and thus error-prone, but needed to suggest artists to users based on their earlier interests. Since obscure artists and releases are often unlabeled, and the problem with manual labeling is that it is time and cost expensive, automated classification of music genre would provide music services with a cost efficient way of labeling.
-
-\subsection{Approach}
-In order to classify data using an extension of LDA and Gibbs sampling, a dataset has to be retrieved. To achieve this, a crawler has to be written. Next, the crawled dataset is cleaned and split into a training set and a test set of lyrics. Then the topics are randomly initialized and a fixed amount of iterations using Gibbs sampling is run. After this, the topic distribution for each lyric from the test set will be calculated, and using this distribution and a SVM the most probable genre of the lyric can be determined.
+Online music services consist of large databases of meta-data for songs and artists, which is used to suggest artists to users based on their earlier listening habits. However, most of the information on such websites is crowd sourced and thus error-prone. Moreover, obscure artists and releases are often unlabeled. The main problem with manual labeling is that the process costs both time and money.  Consequently, automated classification of music genres would provide music services with a cost efficient way of labeling.\\
+Music genre classification has been researched mostly using audio signals\cite{audio_classification}. While this approach uses the \textit{defining} characteristic of most music genres, namely, its musical structure, an other approach is to use word-based analysis. Some earlier research has been done in the field of classifying songs using their lyrics, but often different lyric-features like syntactic structure\cite{felllyrics}, the amount of words per minute, the average word length\cite{mayeraudiolyrics}, recognition of structures in the lyrics\cite{maxwellgenome} or a combination of audio signals and lyrics\cite{mayeraudiolyrics}. Other research has used LDA for artist assignment instead of genre classification\cite{liartists}. Little research has been done on classifying song using only the words of the lyrics\cite{stateoftheart}, with topic models using Gibbs sampling. However, since different music genres tend to deal with different themes and thus lyrics, can an extension of LDA over music genres instead of documents be used to classify music genres?
+In order to classify data using an extension of LDA and Gibbs sampling, a dataset was built, since there are no such datasets readily available. To achieve this, a crawler has been written. After building the dataset, it has been cleaned and split into a training set and a test set (using 5-fold cross-validation). When running the algorithm, the topics were randomly initialized and Gibbs sampling was run for a set number of iterations. After this, the topic distribution for each genre from the test set was calculated to build a genre profile, and these profiles were used to train an SVM to predict the most probable genre of a new document.\\
+The complete outline of the problem can be found in section \ref{sec:problem}, a detailed description of the approach used can be found in section \ref{sec:approach} and the results of this approach can be found in section \ref{sec:experiment}. The conclusions and discussion can be found in section \ref{sec:discussion} and the team responsibilities in section \ref{sec:team}.
