@@ -1,4 +1,5 @@
-\begin{table}[h]\label{tab:difflda}
+\begin{table}[h!]
+\centering
 \begin{subtable}[b]{0.8\textwidth}
 \begin{tabular}{| r | r | r | r | r | r | r |}
 \hline
@@ -29,8 +30,9 @@ vocal & 0 & 0 & 0.0140 & 0.0023 & 0.0094 & 0.0051\\
 \hline
 \end{tabular}
 \caption{Extended LDA - F1-score for 20 runs, 50 topics, alpha \& beta = 0.1, no poprock}
+\label{tab:difflda}
 \end{subtable}
-\begin{subtable}[b]{0.8\textwidth}
+\begin{subtable}[h!]{0.8\textwidth}
 \begin{tabular}{| r | r | r | r | r | r | r |}
 \hline
 \textbf{Folds} &  \textbf{1} & \textbf{2} & \textbf{3} & \textbf{4} & \textbf{5} & \textbf{Average}\\
@@ -62,4 +64,5 @@ vocal 			& 0 	& 0 	& 0 	& 0 	& 0 	& 0\\
 \caption{Original LDA - F1-score for 20 runs, 50 topics, alpha \& beta = 0.1, no poprock}
 \end{subtable}
 \caption{Extended versus original LDA}
+\label{tab:extvsoriglda}
 \end{table}
