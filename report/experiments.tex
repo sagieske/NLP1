@@ -5,17 +5,11 @@ roughly 2-3 pages
 \item analysis (discussion of results/visualizations/findings/etc)
 \end{itemize}
 
-\subsection{Parameters}
-For the experiments, the following parameters can be set:
-\begin{itemize}
-\item The $\alpha$ used for the extended LDA, which can be set from the command line using \verb|-a|. When not set, the default value of $0.1$ is used.
-\item The $\beta$ used for the extended LDA, which can be set from the command line using \verb|-b|. When not set, the default value of $0.1$ is used.
-\item The number of topics to be used, which can be set from the command line using \verb|-topics|. When not set, the default value of $50$ is used.
-\item The number of iterations for Gibbs sampling, which can be set from the command line using \verb|-runs|. When not set, the default value of $1$ is used.
-\end{itemize}
+The experiments have been run on a dataset consisting of $9.728$ labeled documents. Different parameters may influence the accuracy of the classifier.These are $\alpha$, the Dirichlet parameter for $\theta$, $\beta$, the Dirichlet parameter for $\varphi$, the number of topics to be extracted from the dataset and the number of iterations for Gibbs sampling. 
+For validation, k-fold cross-validation has been used with $k=4$, to ensure an unbiased test.
 
-Each experiment has been run on the complete dataset of 9728 lyrics. A k-fold validation has been implemented to test the algorithm, which results in a non-biased test. 
-
+\subsection{Results}
+Figure \ref{fig:topicdist} presents genre profiles for different genres. Each profile is created by summing topic counts for every document in the genre, and averaging these. These profiles are strongly dominated by one or two topics for certain genres, like \textit{Holiday}, \textit{Religious} and \textit{Reggae}, but more evenly distributed for others, like \textit{Electronic} or \textit{Pop/Rock}. This is not surprising, as \textit{Holiday} and \textit{Religious} are genres named after the themes of their songs, and not their musical structure. Moreover, \textit{Pop/Rock} contains music styles ranging from pop music to brutal death metal, resulting in a genre profile that covers a wide range of topics.
 
 It can be seen that the extension of LDA puts out more sensible topics than regular LDA: for example, after 20 iterations, the top words of the top topic of the reggae genre are \verb|yeah|, \verb|get|, \verb|got|, \verb|right|, \verb|man|, \verb|like|, \verb|little|, \verb|time|, \verb|say| and \verb|hey| using regular LDA, and \verb|mi|, \verb|fight|, \verb|police|, \verb|gonna|, \verb|say|, \verb|jah|, \verb|whatcha|, \verb|dem|, \verb|ya|, \verb|yuh|, \verb|burnin| and \verb|ah| using the extension of LDA. \textbf{VERMOEDEN, KAN PAS NA TESTS ECHT GEZEGD WORDEN} This results in a more effective classifier: \textbf{INSERT RESULTS.}
 
@@ -30,14 +24,14 @@ It can be seen that the extension of LDA puts out more sensible topics than regu
           %(or a blank line to force the subfigure onto a new line)
         \begin{subfigure}[b]{0.3\textwidth}
                 \includegraphics[width=\textwidth]{bar_charts/religious.png}
-                \caption{Genre religious}
+                \caption{Genre Religious}
                 \label{fig:topicdist_religious}
         \end{subfigure}
         ~ %add desired spacing between images, e. g. ~, \quad, \qquad, \hfill etc.
           %(or a blank line to force the subfigure onto a new line)
         \begin{subfigure}[b]{0.3\textwidth}
                 \includegraphics[width=\textwidth]{bar_charts/pop-rock.png}
-                \caption{Genre pop/rock}
+                \caption{Genre Pop/Rock}
                 \label{fig:topicdist_poprock}
         \end{subfigure}
         \begin{subfigure}[b]{0.3\textwidth}
