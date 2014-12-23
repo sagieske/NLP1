@@ -100,7 +100,8 @@ However, not every topic is representable for its genre, the following topic was
 
 
 It can be seen that the extension of LDA puts out more sensible topics than regular LDA: for example, after 20 iterations, the top words of the top topic of the reggae genre are \verb|yeah|, \verb|get|, \verb|got|, \verb|right|, \verb|man|, \verb|like|, \verb|little|, \verb|time|, \verb|say| and \verb|hey| using regular LDA, and \verb|mi|, \verb|fight|, \verb|police|, \verb|gonna|, \verb|say|, \verb|jah|, \verb|whatcha|, \verb|dem|, \verb|ya|, \verb|yuh|, \verb|burnin| and \verb|ah| using the extension of LDA. This results in a more effective classifier, the differences between the F1 scores of regular LDA and extended LDA can be seen in table \ref{tab:extvsoriglda} \\
-Furthermore, the results show that genres containing a lot of lyrics, like holiday, rap and religious tend to have a higher F1 score than genres containing not that many lyrics, like classical and electronic. The cause of this lies in two reasons: not only do these genres have more lyrics, but their lyrics are also more distinct for the genre. 
+Furthermore, the results show that genres containing a lot of lyrics, like holiday, rap and religious tend to have a higher F1 score than genres containing not that many lyrics, like classical and electronic. The cause of this lies in two reasons: not only do these genres have more lyrics, but their lyrics are also more distinct for the genre. \\ 
+As a demonstration of the generative capabilities of the extended LDA model, algorithm 1 has been used in order to generate a rap song. The result of this generation is shown in figure \ref{text:rap_song}.
 
 
 \begin{figure}
@@ -112,6 +113,7 @@ rule best clean legit line curtains way heroin \\
 proven nothin yo find 1 aint oh \\
 ride every rising gambino
 \caption{Song generated in genre \textit{rap} with $\alpha=\beta=0.7$, 20 topics and 30 iterations}
- \end{mdframed}
 \label{text:rap_song}
+ \end{mdframed}
+
 \end{figure}
