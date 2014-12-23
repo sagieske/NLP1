@@ -171,7 +171,7 @@ class lda():
 		self.create_train_test_set(fold)
 		# Initialize counts
 		self.genre_count = np.zeros(len(self.all_genres), dtype=int)
-		self.topic_count = np.zeros(nr_topics, dtype=int)
+		self.topic_count = np.zeros(self.nr_topics, dtype=int)
 
 		# Counts for original LDA
 		if self.orig_lda:
@@ -237,6 +237,7 @@ class lda():
 		nr_genres = len(self.all_genres)
 		nr_lyrics = len(self.dataset)
 		nr_vocab = len(all_words)
+		self.nr_vocab = len(all_words)
 
 		# Initialize matrices
 		self.words_topics = np.zeros((nr_vocab, self.nr_topics),  dtype=int)
