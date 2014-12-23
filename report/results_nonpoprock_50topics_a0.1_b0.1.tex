@@ -1,5 +1,5 @@
 \begin{table}[h]\label{table:extended_nopoprock}
-\begin{center}
+\begin{subtable}[b]{0.8\textwidth}
 \begin{tabular}{| r | r | r | r | r | r | r |}
 \hline
 \textbf{Folds} &  \textbf{1} & \textbf{2} & \textbf{3} & \textbf{4} & \textbf{5} & \textbf{Average}\\
@@ -28,12 +28,9 @@ vocal & 0 & 0 & 0.0140 & 0.0023 & 0.0094 & 0.0051\\
 \textbf{weighted total} &  0.0573 & 0.2669 & 0.3153 & 0.2936 & 0.2879 & 0.2442\\
 \hline
 \end{tabular}
-\end{center}
 \caption{Extended LDA - F1-score for 20 runs, 50 topics, alpha \& beta = 0.1, no poprock}
-\end{table}
-
-\begin{table}[h]\label{table:original_nopoprock}
-\begin{center}
+\end{subtable}
+\begin{subtable}[b]{0.8\textwidth}
 \begin{tabular}{| r | r | r | r | r | r | r |}
 \hline
 \textbf{Folds} &  \textbf{1} & \textbf{2} & \textbf{3} & \textbf{4} & \textbf{5} & \textbf{Average}\\
@@ -62,6 +59,6 @@ vocal 			& 0 	& 0 	& 0 	& 0 	& 0 	& 0\\
 \textbf{weighted total} &  0.1023 & 0.2669 & 0.0887 & 0.0487 & 0.0800 & 0.1173\\
 \hline
 \end{tabular}
-\end{center}
 \caption{Original LDA - F1-score for 20 runs, 50 topics, alpha \& beta = 0.1, no poprock}
+\end{subtable}
 \end{table}
